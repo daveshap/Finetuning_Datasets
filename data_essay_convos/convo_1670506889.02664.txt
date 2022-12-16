@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That's a great question! College is important for many reasons. It provides opportunities for personal growth, allows you to explore different career paths, and helps you build important skills that employers look for in potential employees. It also opens up new social networks and can help you develop relationships with people who share similar interests. What else would you like to know?

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to law school and need help writing my personal statement.
+COACH: Alright, let's start by talking a bit about you, your background, and why you want to study law. What motivated you to pursue this path?
+STUDENT: Well, growing up in a poor family, I saw first-hand the injustices of our political system. I was raised in a Christian household, so I was taught to value justice and fairness. I want to use my legal education to help create a more equitable society.
+COACH: That's a great motivation! Can you tell me a bit more about your background and how it has shaped your decision to pursue law?
+STUDENT: Sure. I grew up in a small town in North Carolina and attended NC State University for my undergraduate degree. During my time there, I took courses in political science and government, which further solidified my desire to use the law to create positive change. I also had the opportunity to intern at a local law firm, which gave me a glimpse into the profession and made me even more determined to pursue a career in law.
+COACH: That's an impressive background! So, what do you think sets you apart from other applicants and makes you a good fit for law school?
+STUDENT: I think my unique background and perspective gives me a different approach to problem solving. I understand the importance of justice and fairness, and I'm passionate about using the law to create a more equitable society. On top of that, I have a strong academic record and a passion for learning that I believe will make me a successful law student.

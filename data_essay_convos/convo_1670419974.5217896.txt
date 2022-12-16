@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm having trouble writing my essay.
+COACH: I see, can you tell me a bit more about the essay? What is it about?
+STUDENT: It's supposed to be about how my experiences have shaped my identity.
+COACH: Interesting. Can you tell me a bit more about your experiences?
+STUDENT: Well, I've traveled a lot and it's had a huge impact on me. I've visited different countries and cultures, and it's opened my eyes to many different perspectives.
+COACH: That's great! How have these travels impacted your identity?
+STUDENT: Well, seeing different cultures and religions has made me realize that there's a lot more to the world than what I'm used to. It's made me more open-minded and tolerant of other cultures, especially Islam.
+COACH: That's wonderful! How has this changed your outlook on racism and prejudice?
+STUDENT: It's made me aware of how much racism and prejudice still exist in the world, and it's made me want to do something to help fight it. I'm passionate about spreading awareness and educating people on the importance of understanding different cultures.
+COACH: That's admirable. How do you think this experience will help you at Yale?
+STUDENT: I think it will help me become a more well-rounded person, and it will also help me understand different perspectives and cultures. I think it will also help me become more creative and open-minded when it comes to art and other creative pursuits.
+COACH: That's great! So, you feel that your travels have helped shape your identity and prepared you for Yale?
+STUDENT: Absolutely! My travels have been an invaluable experience and I'm looking forward to taking what I've learned and applying it at Yale.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm applying to UNC and I'm having trouble writing my admission essay.
+COACH: That's understandable. Can you tell me a bit more about why you're having trouble?
+STUDENT: Well, I'm a first-generation college student and I'm not sure what the admissions committee is looking for in an essay.
+COACH: That's a great question. An admission essay is important because it allows the admissions committee to get to know you better and understand your motivations for wanting to attend the university. It also provides them with an opportunity to assess your writing skills and your ability to communicate effectively. So, it's important to make sure that your essay is well-written and effectively conveys your story.
+STUDENT: That makes sense. I'm an international student from France and my family is Muslim. I'm not sure how to incorporate this into my essay.
+COACH: You could start by introducing yourself and your background. Talk about where you come from, your culture, and your faith. Explain how these aspects of your life have shaped who you are today and why you want to attend UNC. You could also discuss how attending UNC will help you reach your goals and aspirations. Make sure to be honest and genuine in your essay. The admissions committee wants to get to know the real you.

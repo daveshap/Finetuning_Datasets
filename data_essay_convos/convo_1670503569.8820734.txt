@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay. What are your strengths? What do you think makes you stand out amongst other applicants? 
+STUDENT: Well, I'm a hard worker and I'm very passionate about the law.
+COACH: Great! That's a great place to start. What about your experiences have shaped your passion for the law? 
+STUDENT: Well, I've been volunteering at a legal aid clinic since high school and it has really opened my eyes to the injustices in our society. It has motivated me to pursue law so that I can make a difference.
+COACH: That's wonderful. What have you learned from your volunteer experience? How has it impacted your view of the law?
+STUDENT: Through my volunteer experience, I've learned a lot about the importance of access to justice. I've seen firsthand how the law can be used to fight inequality and protect those who are vulnerable. It has made me realize that the law can be a powerful tool for social change and that I want to use it to help people.

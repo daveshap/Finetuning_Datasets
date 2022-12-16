@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing an admissions essay for a college in Germany and I want to write about my experience as a refugee from France.
+COACH: That's a great topic! Can you tell me more about your experience? What was it like being a refugee in Germany?
+STUDENT: It was really difficult. I had to adjust to a new culture and language, and I didn't know anyone there. I had to start from scratch and figure out how to make a life for myself.
+COACH: That sounds like a challenging experience. What kind of challenges did you face?
+STUDENT: Well, one of the biggest challenges was navigating the political landscape. I had to learn about the different parties and their positions on various issues. I also had to figure out how to access resources like healthcare and housing, which was not always easy.
+COACH: That sounds like a lot to take on. What did you do to learn about the political landscape?
+STUDENT: I read a lot of news articles and talked to people who were more familiar with the politics of the country. I also attended some protests and rallies to get a better understanding of the issues.
+COACH: That's great that you took the initiative to learn more about the political landscape. How did this knowledge help you in your experience as a refugee?
+STUDENT: It helped me understand the process of applying for refugee status and what rights and resources I was entitled to. It also gave me a better understanding of the issues facing refugees in Germany and how I could get involved in advocating for their rights.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: Well, it depends on what kind of essay you are writing. What type of essay are you working on?
+STUDENT: I'm writing a thesis.
+COACH: Okay, great! A thesis is a very specific type of essay, and it requires a lot of structure and organization. To make your essay shorter, you need to focus on the main points that you want to make. Try to break down your argument into the most important points and then decide which ones can be cut. You can also look for any unnecessary words or phrases that can be removed. Finally, make sure that each sentence serves a purpose and is not just extra filler.

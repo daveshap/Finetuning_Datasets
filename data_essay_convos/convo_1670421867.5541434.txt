@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my college admissions essay and I'm not sure what to write about.
+COACH: That's a great question! What kind of topics are you interested in exploring?
+STUDENT: I'm interested in writing about my volunteer work.
+COACH: That's an excellent topic! Can you tell me more about the volunteer work you've done?
+STUDENT: Sure, I've been volunteering at a local animal shelter for the past few months. I help out with feeding the animals, cleaning their cages, and providing them with socialization and exercise.
+COACH: That sounds like a really meaningful experience! What have you learned from volunteering at the shelter?
+STUDENT: I've learned a lot about the importance of compassion and empathy. Working with the animals has taught me to be patient and understanding, even when things don't go as planned.
+COACH: Those are great lessons to highlight in your essay. How do you think your volunteer experience has impacted your life and prepared you for college?
+STUDENT: Well, I think it's made me more aware of the needs of others and how I can make a difference. It's also helped me develop better problem-solving skills, since I often have to come up with creative solutions to difficult situations.
+COACH: Those are all wonderful points to include in your essay. What else do you think would be important to include in your admissions essay?
+STUDENT: I think it's important to emphasize why I'm passionate about the topic and why I'm interested in pursuing it further in college.
+COACH: Absolutely! Your enthusiasm and passion will be a great addition to your essay. Is there anything else you'd like to include?
+STUDENT: Yes, I'd also like to talk about how I plan to use my knowledge and experience to make a positive impact on the world.
+COACH: That's an excellent idea! Showing your commitment to making a difference is a great way to stand out in your essay. Anything else?
+STUDENT: No, I think that's it.
+COACH: Great! Those are all great points to include in your essay. Do you have any questions about the college application process?

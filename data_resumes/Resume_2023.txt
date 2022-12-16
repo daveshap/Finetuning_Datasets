@@ -1,0 +1,50 @@
+Remston Dsa Email : rd2995@nyu.edu
+Linkedin: www.linkedin.com/in/remston-dsa/ Github: github.com/remston-dsa
+Education
+•New York University New York, USA
+M.S in Computer Science; CGPA 3.8/4 Sep. 2021 - May 2023
+•University of Mumbai Mumbai, India
+B.E in Computer Science; CGPA 4/4 Aug. 2017 - Jul. 2021
+Experience
+•Graduate Adjunct. Faculty at NYU Courant New York, USA
+Courant Institute of Mathematical Sciences Jan. 2022 - Present
+◦Lab Sessions on Intro. to Fluid Dynamics : Conducted lab sessions on Numerical computations and analysis
+using pandas, NumPy, and matplotlib on Laminar and Turbulent Flows in Fluids for a class of 13 students.
+◦Workshops on Blockchain : Worked with NYU CUSP students on building Bitcoin with Python, created
+ERC-721, ERC-1155, and ERC-20 tokens on Ethereum testnets, and taught classes on Solidity Attacks and Web3.
+◦Automation in Tagging using OCR : Pytesseract OCR was used on scanned documents to automate the
+digitization and tagging of invoices and accounts payables and receivables, saving two months in delivery time.
+•Software Developer Internship Mumbai, India
+MavenAI Technologies Pvt. Ltd. Jun 2021 - Sep 2021
+◦ERC standards : Created Fungible and Non-Fungible crypto tokens using the ERC-20 and ERC-721 standards
+respectively, and deployed them on Ethereum’s Rinkeby testnet, Polygon’s Mumbai testnet, Binance’s BSC testnet
+◦Dapp : Built a web-app for P2P payment and decentralized file-storage using Reactjs, Pinata-IPFS, web3js,
+Hardhat, onion protocol, Dai smart-contract and sqlite3(to save 256 bit hash value).
+◦New Features : Added features on ERC token standards like Flash Minting, Snapshots, Pausable, Burnable,
+Mintable, and Votes.
+•Python Developer Internship Mumbai, India
+Thatascience Pvt. Ltd. Jun 2021 - Sep 2021
+◦Webscraping : Built a Topic Explorer web app using streamlit for Frontend, BeautifulSoup for web-scraping,
+Sqlite3 for database management, google-SEO for the SEO Research team, and AWS-EC2 for hosting on Cloud.
+◦ML model : Implemented Facebook’s Prophet model in the CRAN package to predict stock prices using Yahoo
+Finance API’s historical dataset and optimize the prediction using the cross-validation function.
+◦Computer Vision : Implemented Object Detection and Recognition using Yolov3 and Yolov4 algorithms with
+Yolov4 having an improvement in the mean average precision(mAP) by as much as 10% and the number of frames
+per second by 12% compared to Yolov3.
+PROJECTS
+•SOKOBAN Game with AI implementation :
+◦Sokoban Framework : Built a Sokoban game where the player has to solve each level by pushing the crates to
+their respective goals bypassing all the obstacles.
+◦AI Algorithms : The path is identified using AI search algorithms with an accuracy of 90% for BFS, 67% for DFS,
+99% for A*, 71% for Hill Climber, 88% for Genetic, and 67% for MCTS.
+◦Tools and Technologies : HTML, CSS, JavaScript, Bootstrap, Python, NumPy, AI Search algorithms.
+•House Price Prediction with Supervised Learning :
+◦Data Wrangling : Performed Data Cleaning, Exploratory Data Analysis, Correlation, and Feature Engineering on
+the Kaggle dataset for homes in Ames, Iowa.
+◦Supervised Learning : Decision tree, Random Forest, and Gradient Boosting(Best fit model) has respective
+NRMSE score of -0.205, -0.144, and -0.126 with corresponding training time of 2s, 75s, and 196s.
+◦Tools and Technologies : Python, Pandas, NumPy, Scikit Learn, Seaborn, Google colab.
+Programming Skills
+•Skills : MS. Suite, Notion, Google SEO, Python, NumPy, Pandas, Matplotlib, Flask, Postgresql, Django,
+AWS, Heroku, AI, ML, NLP, Keras, Pytorch, Tensorflow, HTML, CSS, Javascript, Reactjs, Expressjs,
+Blockchain, Solidity, cryptocurrency, web3, Hardhat, Truffle, C++, Java, Docker, Kubernetes, MongoDB

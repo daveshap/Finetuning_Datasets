@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my background and how it has shaped me.
+COACH: Great! Can you tell me more about your background?
+STUDENT: Sure! I'm a first-generation college student from a single parent home in the Philippines. Growing up, I faced a lot of racism and poverty.
+COACH: Wow, that sounds really difficult. How did you manage to overcome these challenges and get to where you are today?
+STUDENT: Well, I started volunteering at a local community center when I was in high school. I got involved with a lot of different projects and initiatives, and I think that helped me develop my problem-solving skills and learn to work with people from different backgrounds. That experience also showed me that I could make a difference in my community, and that gave me the motivation to keep pushing forward.

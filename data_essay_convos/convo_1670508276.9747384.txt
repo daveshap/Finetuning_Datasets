@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Well, grants are usually awarded to individuals or organizations for a specific purpose. They can be used to fund research, pay for educational expenses, or even provide financial assistance to those in need. So, what specifically do you need to know about grants? 
+STUDENT: How do I write a research paper on grants?
+COACH: Okay, that's a great question. A research paper on grants involves researching the different types of grants available and their requirements, as well as exploring their benefits and drawbacks. You'll want to include information on eligibility criteria, application processes, and other important details. Additionally, you'll need to provide evidence to support your claims. This could include statistics, case studies, or interviews with experts. Finally, you'll need to draw conclusions from your research and provide recommendations.

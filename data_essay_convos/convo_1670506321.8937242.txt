@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question! Before we dive into the essay itself, can you tell me a bit more about what you want to communicate with this essay? What are your goals for the essay?
+STUDENT: I want to demonstrate my knowledge in the field and show that I am the right candidate for the college.
+COACH: Okay, great! So, it sounds like you want to write a thesis-style essay. A thesis essay is an essay that makes an argument or takes a position on a particular topic. It should have a clear and focused argument that is supported by evidence. To start, you'll need to pick a topic that is relevant to the college you're applying to, and then make an argument or take a position on it. Do you have any ideas for what topic you'd like to focus on?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That’s a great question. Let’s start by talking about what you’re writing. What kind of essay is it?
+STUDENT: It's a scholarship application essay.
+COACH: Okay, great. What kind of topic are you writing about?
+STUDENT: I'm writing about my experiences growing up in a low-income neighborhood and how they have shaped me into the person I am today.
+COACH: That's a great topic. Now, when you think your essay is finished, there are a few things you should check to make sure it's ready. First, make sure you have a clear thesis statement that states your main point. Second, make sure all of your evidence supports your thesis. Third, make sure you've written in a clear and organized manner, and that your essay flows logically from one point to the next. Finally, make sure you've proofread your essay for any errors. If you can check off all of these points, then your essay is likely finished.

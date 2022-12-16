@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question! When writing your college admissions essay, it's important to focus on topics that are meaningful to you. Think about experiences or moments in your life that have shaped who you are and how you think. These can be stories of overcoming adversity, moments of personal growth, or even just experiences that have taught you valuable lessons. 
+STUDENT: What should I avoid when writing my college admissions essay?
+COACH: It's important to avoid cliches and generalizations in your essay. Your essay should be unique and reflective of your own experiences. Additionally, avoid using overly flowery language or trying to be too creative. Focus on telling your story in an honest and straightforward way. 
+STUDENT: How should I structure my college admissions essay?
+COACH: A good structure for your essay is to start with an introduction that grabs the reader's attention. Then, provide some context for your story and explain why you are writing about this topic. After that, dive into the main body of your essay and discuss the events, experiences, or lessons you want to highlight. Lastly, end your essay with a conclusion that ties everything together and leaves the reader with something to think about.

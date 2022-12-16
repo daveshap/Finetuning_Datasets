@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for med school admission and I'm feeling a bit overwhelmed.
+COACH: That's understandable! It can be a daunting task. Before we dive into the essay itself, can you tell me a bit more about yourself? What kind of person are you?
+STUDENT: Well, I'm a pretty boring person. I don't have any particularly interesting hobbies or anything like that.
+COACH: That's ok! Not everyone has to be a thrill-seeker. What kind of topics do you find yourself drawn to or passionate about?
+STUDENT: Hmm, I guess I'm really passionate about social justice issues like sexism and refugee rights.
+COACH: That's great! Those are important topics and ones that admissions officers often look for. Do you have any personal experience or stories related to those topics that you could include in your essay?
+STUDENT: Yes, I've volunteered with a refugee organization and I've seen firsthand the struggles they face.
+COACH: Fantastic! That could be a great way to tie those topics into your essay. It's always beneficial to have personal experiences with the topics you write about, as it makes your essay much more compelling.

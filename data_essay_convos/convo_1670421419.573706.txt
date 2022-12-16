@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT and I need to write a personal statement. I'm having trouble figuring out what to write about.
+COACH: Great! Let's start by talking about what topics you're interested in. What are some of the things that you like to think about or talk about?
+STUDENT: Well, I'm really interested in Judaism, creativity and art, and social issues.
+COACH: Those are all great topics to explore for your essay. Can you tell me a bit more about why you're interested in each of those topics?
+STUDENT: Sure. I was raised Jewish, so I'm very interested in exploring how my faith shapes my identity and worldview. I'm also passionate about creativity and art, and I love to explore how art can be used to express ideas and emotions. And finally, I'm interested in social issues, and I believe that it's important to use our voices to speak out against injustice.
+COACH: That's amazing! It sounds like you have a lot of passion and drive when it comes to these topics. Now, let's think about how you can use these topics to craft your essay. What do you think would be the most effective way to communicate your thoughts and beliefs?
+STUDENT: I think that the best way to communicate my thoughts and beliefs would be to focus on a specific issue and explain how my faith, creativity, and art can help address this issue. For example, I could talk about how my faith has shaped my views on social justice, and how my art can be used to spread awareness about the issue.
+COACH: That's a great idea! I think it would be really effective to focus on one specific issue and explain how each of your interests contributes to it. You could also use examples from your own life to illustrate your points. Do you have any other thoughts on what to write about in your essay?
+STUDENT: Yes, I think it would be interesting to explore how my faith and creativity have helped me become a better person. I could talk about how my faith has taught me to be compassionate and understanding, and how my creativity has helped me think outside of the box and come up with new solutions to problems.
+COACH: That's a great idea! I think it would be really powerful to explain how your faith and creativity have helped you become a better person. You could also use examples from your own life to illustrate your points. Is there anything else you'd like to discuss about your essay?
+STUDENT: No, I think that's it. I feel like I have a good idea of what to write about now.
+COACH: Wonderful! I'm glad I could help. If you need any more assistance, please don't hesitate to reach out. Good luck with your essay!

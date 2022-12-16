@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question. Before we dive into the specifics, can you tell me a bit more about what you're trying to accomplish with your essay? What do you want to communicate to the admissions committee?
+STUDENT: I want to show why I am a good fit for the program and how I can contribute to the school.
+COACH: Okay, that sounds like a great goal for your essay. To make it shorter, one of the best strategies is to focus on the main points that you want to make. Try to identify the most important things you want to say, and then hone in on those points. This will help you to be more concise and make sure you're conveying all the information you need to without going too long.

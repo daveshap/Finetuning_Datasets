@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and UNC and I want to write an essay about my experience with Islam.
+COACH: That's a great topic! Can you tell me a bit more about your experience with Islam?
+STUDENT: Well, I was born in China and my family is Muslim. I've been practicing since I was a kid and it's been a big part of my life.
+COACH: That's really interesting. What have been some of the most meaningful experiences you've had with Islam?
+STUDENT: Well, I've had the opportunity to travel to different parts of the world and experience different cultures. I've also been able to attend religious ceremonies and learn about the history of Islam. It's been really eye-opening and humbling.
+COACH: That sounds like a really enriching experience. How has it shaped your view of the world?
+STUDENT: Well, it's made me realize how interconnected we all are, no matter where we come from. It's also made me appreciate the importance of respecting other cultures and beliefs.
+COACH: That's great! What would you like to focus on in your essay?
+STUDENT: I think I'd like to focus on how my experience with Islam has shaped my worldview and how it has impacted my life. I'd also like to talk about the importance of religious tolerance and understanding.
+COACH: That sounds like a really interesting essay topic! What else would you like to include in your essay?
+STUDENT: I think I'd like to talk about how my experience with Islam has given me a greater appreciation for diversity and how it has helped me become more open-minded. I'd also like to talk about how it has helped me become a better person.
+COACH: That sounds like a great essay! Do you have any questions about the writing process?

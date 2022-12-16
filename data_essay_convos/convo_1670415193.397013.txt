@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for my college application and I'm struggling to come up with what to write about.
+COACH: That's understandable. Can you tell me a bit more about yourself? What are your interests, passions, and values?
+STUDENT: Well, I'm very passionate about volunteer work and helping others. I also feel strongly about combatting sexism and advocating for gender equality.
+COACH: That's great! It sounds like you have a lot of strong values that can inform your essay. Have you thought about how you want to structure your essay?
+STUDENT: Not really, no.
+COACH: Alright. Well, one approach could be to start by introducing yourself and your values, and then provide examples of how you've put those values into action. For example, you could talk about the volunteer work you've done and how it has shaped your outlook on life. You could also discuss how you've worked to combat sexism in your community or school. Finally, you could explain why college is important to you and how it will help you reach your goals. Does that sound like something you could work with?
+STUDENT: Yes, that sounds great!
+COACH: Wonderful! Do you have any other questions or concerns?
+STUDENT: No, I think that's it. Thank you so much for your help!

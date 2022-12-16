@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm writing an essay about Buddhism.
+COACH: That sounds like a great topic! Can you tell me a bit more about it? What specifically are you focusing on in your essay?
+STUDENT: Well, I'm looking at how Buddhism has been adopted and adapted in different countries, specifically Germany and France.
+COACH: Interesting. What kind of research have you done so far?
+STUDENT: I've read some books and articles about the history of Buddhism in those countries. I've also looked at some primary sources from religious institutions in both countries.
+COACH: That's great! Have you also looked at any other sources that could provide some additional context or perspective?
+STUDENT: Yes, I've looked at some scholarly journal articles, as well as some interviews with Buddhist practitioners in both countries.
+COACH: Excellent! It sounds like you've done a lot of research. Now, what is your overall argument or thesis for the essay?
+STUDENT: My argument is that Buddhism has been adopted and adapted differently in these two countries, and that the differences can be explained by looking at the cultural, political, and economic contexts in which Buddhism was introduced and practiced.
+COACH: That's a great argument! Now, what kind of evidence are you using to back up your claims?
+STUDENT: I'm using the sources I've mentioned before, as well as some statistics and data to show how Buddhism has been adopted in each country.
+COACH: That sounds like a comprehensive approach. Do you have any other ideas for how you could strengthen your essay?
+STUDENT: I'm thinking of adding some personal anecdotes from people I've spoken to who practice Buddhism in either Germany or France.
+COACH: That's a great idea! It will help to give your essay a personal touch and make it more engaging for the reader. Anything else?
+STUDENT: I'm also considering adding some information about how Buddhism has influenced engineering in both countries.
+COACH: That's a great idea! It will help to give your essay a more comprehensive view of how Buddhism has shaped the culture in both countries. Anything else?
+STUDENT: I think that's all I have for now.
+COACH: Great! It sounds like you have a very comprehensive approach to your essay. Is there anything else I can help you with?

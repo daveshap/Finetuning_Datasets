@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, that's a great topic for an argumentative essay. You can focus on the challenges and opportunities of being a first-generation college student. What kind of argument do you want to make?
+STUDENT: I want to make the argument that being a first-generation college student is a unique experience that has both its challenges and its rewards.
+COACH: That's a great argument! To make it a strong argument, you'll need to provide evidence to support it. What kind of evidence could you use?
+STUDENT: I could use personal experiences, stories from other first-generation college students, and research on the effects of being a first-generation college student.
+COACH: Excellent! Personal experiences are a great way to make your argument more powerful and compelling. You can also look for research studies that support your argument. Be sure to cite any sources you use. Any other questions?

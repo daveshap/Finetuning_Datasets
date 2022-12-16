@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: What kind of grants are you asking about? Are you looking for information on a specific grant or just general information about grants in general?
+STUDENT: General information about grants.
+COACH: Okay, great. Grants are typically awarded by government or private organizations to fund projects or programs that are beneficial to the public. The criteria for receiving grants can vary depending on the organization, but generally speaking, they look for projects that have a clear purpose and plan for success. In some cases, organizations may require an application process to ensure that the grant money is being used in the most effective way possible.

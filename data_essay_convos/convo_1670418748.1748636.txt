@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I have no idea what to write about.
+COACH: That's completely normal! It can be difficult to figure out what topics to write about when you're applying to college. Do you have any specific interests or passions that you'd like to focus on? 
+STUDENT: Well, I'm really interested in politics and LGBT rights.
+COACH: That's great! There are so many different directions you could take with those topics. For example, you could write about the challenges facing LGBT people in politics today, or the history of LGBT rights in your local area. Or you could take a more personal approach and write about how your own identity has shaped your understanding of politics. 
+STUDENT: That's really helpful, thank you. I'm still not sure how to make the essay engaging though.
+COACH: When it comes to making an essay engaging, the most important thing is to focus on telling a story. Instead of just listing facts and figures, try to find a way to make the essay personal by relating it to your own experiences. You could also use vivid descriptions and imagery to bring the topic to life. Finally, make sure to keep your audience in mind. Think about what they might want to know, and what might be interesting or inspiring for them to read.

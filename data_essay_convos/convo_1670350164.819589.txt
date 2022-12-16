@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about how Christianity has shaped my life and I'm not sure where to start.
+COACH: That's a great topic! What kind of structure do you envision for the essay? Do you want to focus on one specific example or a few different ones?
+STUDENT: I think I'd like to focus on a few different examples.
+COACH: Okay, great. Let's start by brainstorming some ideas for the different parts of the essay. What could you use as a hook to draw the reader in?
+STUDENT: I was thinking of talking about the first time I went to church with my family and how that experience affected me.
+COACH: That sounds like a great hook! What about the middle of the essay?
+STUDENT: I was thinking of comparing my experiences in churches in China versus the United States and how they've both shaped my understanding of Christianity.
+COACH: Interesting! That could be a great way to provide a contrast and demonstrate how your faith has evolved over time. What about the conclusion?
+STUDENT: I was thinking of tying it all together by talking about how Christianity has given me a sense of purpose and direction in my life.
+COACH: Perfect! That could be a powerful way to wrap up the essay. Is there anything else I can help you with?
+STUDENT: Actually, I'm also curious about how college admissions work.
+COACH: Sure, I can help with that. College admissions can be a complicated process, so let's break it down into its main components. Generally speaking, the admissions process includes submitting an application, writing an essay, submitting transcripts and test scores, and having letters of recommendation. Each school has its own requirements, so be sure to check those before you apply.

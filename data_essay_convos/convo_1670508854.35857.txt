@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Rejection is always a possibility, but it doesn’t have to be the end of the story. Let’s focus on making sure you put your best foot forward and make a strong case for why you should receive the grant. What kind of information do you think would be important to include in your application?
+STUDENT: I'm not sure what I should include.
+COACH: A good place to start is by understanding the criteria for the grant. What does the organization look for in applicants? Knowing this can help you focus on what you need to include in your essay. Also, think about your unique strengths and how they could benefit the organization. What makes you stand out from other applicants?

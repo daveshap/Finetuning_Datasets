@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm trying to figure out what I should include in my essay.
+COACH: Alright, let's start with the basics. What kind of school are you applying to? Are you looking to attend a university in Vietnam or Germany?
+STUDENT: I'm applying to universities in the US.
+COACH: Got it. Are you applying to undergraduate or graduate programs?
+STUDENT: Undergraduate.
+COACH: Great. Now, what kind of information do you think admissions officers are looking for in your essay?
+STUDENT: I'm not sure.
+COACH: Generally speaking, admissions officers want to get a sense of who you are as a person and what makes you unique. They'll be looking for details about your academic achievements, extracurricular activities, and any volunteer or charity work you've done. They'll also be looking for evidence that you can think critically, express yourself clearly, and have good writing skills. Do those sound like things you could talk about in your essay?
+STUDENT: Yes, I think so.
+COACH: Perfect! In addition to those topics, you might also want to think about how you can portray yourself as an individual who is passionate, driven, and motivated. That will really help make your essay stand out. Any other questions I can answer for you?

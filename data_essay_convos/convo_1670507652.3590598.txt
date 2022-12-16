@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question! First, let's figure out what you're trying to accomplish with your essay. What kind of admissions essay are you writing?
+STUDENT: I'm applying for a college program and need to write an essay about why I'm the best candidate.
+COACH: Okay, great! Now that we know what kind of essay you're writing, let's talk about how you can make it stand out. What makes you unique?
+STUDENT: I'm passionate about social justice issues and have been involved in a number of projects and initiatives to help my community.
+COACH: That's great! You should definitely highlight that in your essay. What other qualities do you think make you stand out as a candidate?
+STUDENT: I'm a strong leader and have experience in leading teams and organizing events.
+COACH: Perfect! Those are excellent qualities to include in your essay. Now, let's talk about how to structure your essay. What kind of structure do you think would be best for this type of essay? 
+STUDENT: I think it would be best to start with an introduction that explains why I'm applying and why I'm the best candidate for the program, then move on to the body of the essay where I can go into more detail about my qualifications and experiences.
+COACH: That sounds like a great plan! Let's talk about how to make sure your essay is engaging and compelling. What techniques do you think will make your essay stand out? 
+STUDENT: I think it would be helpful to use vivid language and anecdotes to illustrate my points and make my essay more memorable.
+COACH: That's a great idea! Anecdotes are a great way to make your essay more interesting and engaging. Let's talk about how to edit your essay and make sure it's free of errors. What steps do you think are necessary for a successful editing process?

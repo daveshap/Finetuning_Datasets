@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I need help writing my personal statement.
+COACH: Alright, let's start by talking about why college matters to you. What do you think are the most important reasons for attending college?
+STUDENT: Well, I think that a college education is key to unlocking a world of opportunities. It opens up career options, provides access to new ideas, and helps to develop critical thinking skills.
+COACH: That's great! Can you tell me more about what you're hoping to gain from a college education?
+STUDENT: Sure. I'm really interested in exploring my creativity and art. I'm also passionate about charity work and making a difference in the world. I want to be able to use my education to make a positive impact.
+COACH: Sounds like you have a lot of ambition and drive. What do you think makes you a good candidate for Princeton?
+STUDENT: I'm a hard worker and I'm always looking for ways to challenge myself. I'm also passionate about learning and I'm eager to explore new ideas. I'm confident that I can make a valuable contribution to the Princeton community.

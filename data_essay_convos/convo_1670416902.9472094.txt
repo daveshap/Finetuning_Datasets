@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about why college matters to me.
+COACH: That's a great topic. Can you tell me a bit more about why college is important to you?
+STUDENT: Well, my family is from Thailand and we're not very well off. I want to go to college so that I can have a better life than what my parents had.
+COACH: That's a really admirable goal. What kind of school do you want to attend?
+STUDENT: I'm hoping to get into Duke University.
+COACH: Wow, that's very ambitious. What makes Duke the right choice for you?
+STUDENT: I've heard that Duke has a great international program and I want to take advantage of that. I want to study in Europe and learn more about different cultures.
+COACH: That sounds like a great plan. What makes you think that Duke would be the best fit for you?
+STUDENT: I've read a lot of positive reviews about Duke and I think it would give me the best chance of achieving my goals. Plus, I know that Duke has a great reputation and I want to be part of that.
+COACH: That's a great way to think about college. What are some of the other reasons why college matters to you?
+STUDENT: I want to be able to provide a better future for my family. Going to college will give me the skills and knowledge I need to be successful in life. Plus, I want to be able to give back to my community and make a difference.

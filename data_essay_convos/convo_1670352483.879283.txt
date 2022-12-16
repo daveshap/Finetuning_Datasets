@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I'm writing an essay about my religious beliefs.
+COACH: Wonderful, can you tell me a bit more about your religious background? Do you practice any particular religion?
+STUDENT: Yes, I practice Buddhism, but I've also been exposed to Judaism and Christianity.
+COACH: That's great! How has this combination of religions impacted your worldview?
+STUDENT: It's made me more open-minded and tolerant of different beliefs. I'm more accepting of other people's perspectives, which helps me understand them better.
+COACH: That's a great quality to have. What do you think the admissions committee at Princeton would be most interested in knowing about your religious beliefs?
+STUDENT: I think they would want to know how my beliefs have shaped who I am and how I view the world. They would also want to know how my beliefs influence my decisions and actions.
+COACH: That makes sense. Can you tell me more about how your beliefs have shaped who you are?
+STUDENT: Well, my beliefs have taught me to be compassionate and understanding towards others. They have also taught me to think critically and to be open to new ideas and perspectives.
+COACH: That's great. How do you think your religious beliefs will help you at Princeton?
+STUDENT: I think it will help me to be more respectful of other people's beliefs and to be open to learning from different cultures and backgrounds. It will also help me to be more aware of my own biases and to challenge my own thinking.
+COACH: Those are wonderful qualities to have. Is there anything else you'd like to add about your religious beliefs that might be important for the admissions committee to know?
+STUDENT: Yes, I think it's important for them to know that my beliefs have helped me to become a more open-minded and tolerant person. I also think it's important for them to know that my beliefs have given me a strong sense of morality and ethical framework that I use to make decisions.

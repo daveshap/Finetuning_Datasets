@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question. Before we dive into that, can you tell me a bit more about your essay? What type of essay is it?
+STUDENT: It's a thesis essay.
+COACH: Okay, great. So, when it comes to assessing the quality of a thesis essay, there are a few key criteria to consider. Firstly, does your essay have a strong and clear thesis statement? This is important because it serves as the main point of your essay and should be easy to identify. Secondly, does your essay have evidence to back up your thesis? You want to make sure your argument is supported by facts or research. Finally, does your essay flow logically from one point to the next? You want to make sure your essay is organized in a way that makes sense and is easy to follow.

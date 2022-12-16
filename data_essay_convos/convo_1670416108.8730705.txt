@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about social issues and how they affect my life.
+COACH: That's a great topic! Can you tell me more about what kind of social issues you are interested in?
+STUDENT: Well, I'm interested in how college financing works in Germany and how it compares to the financing system in the US.
+COACH: Interesting! Have you done any research on this topic already?
+STUDENT: Yes, I've done some research on the differences between the two systems.
+COACH: Great! What have you found out so far?
+STUDENT: I've found out that the college financing system in Germany is much more generous than the one in the US. In Germany, students can get grants and loans to cover the cost of tuition, whereas in the US, students have to rely mostly on scholarships and loans.
+COACH: That's really interesting. Do you have any other questions about college financing?
+STUDENT: Yes, I was wondering if there are any other ways to finance college, such as volunteer work or part-time jobs?
+COACH: Absolutely! Many colleges offer scholarships and grants for students who are involved in volunteer work or part-time jobs. Additionally, some employers offer tuition reimbursement programs which can help with college expenses.
+STUDENT: That's really helpful. I was also wondering how to apply to college?
+COACH: Applying to college is a multi-step process. First, you will need to research different colleges and decide which ones you want to apply to. Then, you will need to fill out applications, write essays, submit transcripts and test scores, and complete financial aid forms. Finally, you will need to send in your applications and wait for a response from the college.

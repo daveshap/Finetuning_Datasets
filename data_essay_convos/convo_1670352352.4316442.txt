@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm hoping to get into MIT for med school and I need help writing my essay.
+COACH: That's a great goal! Can you tell me a bit more about what you want to focus on in your essay?
+STUDENT: Well, I'm a refugee from Thailand and I want to write about how my experiences have shaped my passion for medicine.
+COACH: That sounds like a great essay topic. Can you tell me more about your experience as a refugee?
+STUDENT: Sure. I was born in Thailand and lived there until I was six years old, when my family had to flee because of political unrest. We ended up in the US and I've been here ever since. It was a difficult transition, but it taught me a lot about resilience and determination.
+COACH: That sounds like a very powerful story. Have you thought about how you want to structure your essay?
+STUDENT: Not really. I was thinking about starting with my experience as a refugee and then talking about how that experience has shaped my passion for medicine.
+COACH: That sounds like a great approach. What kind of details can you include to illustrate your experience?
+STUDENT: I can talk about the specific challenges we faced when we first arrived in the US, like language barriers and cultural differences. I can also talk about how my family worked together to overcome these difficulties and how that experience has given me the strength and determination to pursue my dreams.

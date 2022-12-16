@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admission essay for a college I'm applying to and I'm not sure where to start.
+COACH: That's understandable. Can you tell me a bit more about your background and what you're hoping to get out of college?
+STUDENT: Well, I'm from a diverse background. I'm a member of the LGBT community, I identify as neurodiverse, and my religious background is Islam. I want to go to college to learn and grow as a person, and to explore my interests and passions.
+COACH: That sounds great! It sounds like you have a lot of unique experiences and perspectives that you could bring to your essay. Why do you think the admission essay matters in the college application process?
+STUDENT: I think the admission essay is important because it gives admissions officers a better understanding of who I am as a person and what I can bring to the college. It's also a way for me to showcase my writing skills and demonstrate why I would be a good fit for the school.
+COACH: That makes sense. What kind of topics do you think would be best for your essay?
+STUDENT: I'm thinking about writing about how my diverse background has shaped my worldview and how it has made me a better person. I also want to talk about how I plan to use the education and resources I receive in college to make a positive impact on the world.
+COACH: Those are both great topics! Once you have your essay written, what do you think is the best way to go about submitting it to the college?
+STUDENT: I think the best way is to submit it online through the college's website or via email. I also want to make sure I follow all the guidelines for formatting and submitting the essay correctly.

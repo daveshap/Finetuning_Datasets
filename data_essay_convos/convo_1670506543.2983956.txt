@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers are looking for students who demonstrate strong academic skills, community involvement, leadership, and a commitment to their future goals. They want to see evidence that you will be successful in college and beyond. 
+STUDENT: I'm having trouble figuring out what to write about.
+COACH: That's okay! Let's start by talking about your academic background. What classes have you taken that have been particularly challenging or rewarding?
+STUDENT: I took an advanced calculus class and found it really rewarding.
+COACH: That's great! Can you tell me more about the class and why it was rewarding for you?
+STUDENT: It was really challenging but I was able to push myself and learn a lot of new concepts. I also enjoyed the problem-solving aspect of the class.
+COACH: That sounds like a great experience! How did this help you grow as a student and person? 
+STUDENT: Taking this class helped me develop my critical thinking and problem solving skills. It also taught me how to stay organized and manage my time better.
+COACH: Those are all great skills to have! How can you use these skills to set yourself apart from other applicants?

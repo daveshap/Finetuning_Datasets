@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help getting started with my college essay.
+COACH: Absolutely! What kind of help do you need? Are you looking for advice on topics, structure, or anything else? 
+STUDENT: I'm looking for advice on topics. I'm not sure what to write about since I don't feel like I'm very interesting as a person. 
+COACH: Well, there are many ways to approach this. First, let's start by talking about your background and experiences. Where are you from? What have been some of the most important moments in your life? 
+STUDENT: I'm from the Philippines and I've had some incredible experiences living there. I've also had some unique opportunities to travel and explore different cultures. 
+COACH: That's great! It sounds like you have a lot of interesting stories to tell. Have you ever written about any of them before? 
+STUDENT: Not really. I've written some essays in school but I've never really explored any of my experiences in depth. 
+COACH: That's understandable. It can be difficult to know where to start when writing about yourself. One way to approach it is to think about what makes you unique. What are some of the things that make you stand out from other people? 
+STUDENT: Hmm, I'm not sure. I guess I'm passionate about learning new things and I'm always looking for ways to grow and develop. 
+COACH: That's a great place to start! You could focus on how your curiosity has shaped your life and led you to pursue certain interests. You could also talk about how you plan to use your skills and knowledge to make a difference in the world. 
+STUDENT: That sounds like a good idea. I'm also thinking of applying to UCLA, so I was wondering if I should mention that in my essay? 
+COACH: Yes, absolutely! You can talk about why you want to attend UCLA specifically and how you plan to take advantage of the unique opportunities that the university offers. You can also discuss how you plan to contribute to the university's academic and social environment. 
+Finally, you should also mention how you plan to finance your college education. Do you have any ideas on how you'll be able to pay for college? 
+STUDENT: Not yet. I'm still researching different options. 
+COACH: That's a great start! There are a few different ways you can finance your college education, such as scholarships, grants, loans, and work-study programs. It's important to do your research and understand all the different options available to you. Good luck!

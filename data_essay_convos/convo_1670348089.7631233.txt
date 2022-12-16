@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm having trouble writing my admissions essay.
+COACH: Alright, what kind of essay are you writing?
+STUDENT: It's about politics and how it has shaped my life and my understanding of the world.
+COACH: Interesting! What specific aspects of politics have had the most impact on you?
+STUDENT: Well, I've been interested in international relations since I was a child. Growing up, I was always fascinated by Germany and its history. I even took a gap year there to learn more about the culture and politics.
+COACH: That sounds like a great experience! How did that influence your understanding of politics?
+STUDENT: It really opened my eyes to how different countries interact with each other. Studying the history of Germany and its relationship with other nations gave me a deeper understanding of global politics.
+COACH: That's fantastic! What else are you looking for help with?
+STUDENT: Well, I'm also trying to figure out how to get scholarships and grants for college.
+COACH: That's a great question! There are many resources available to help students find and apply for scholarships and grants. I would recommend doing research on the websites of the schools you're applying to, as well as doing a general search online. You should also look into any local organizations or businesses that might offer scholarships or grants.

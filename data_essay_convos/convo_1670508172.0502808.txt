@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: That's a great question. Let me ask you a few questions to get a better understanding of what you need help with. What type of essay are you working on? 
+STUDENT: It's a monograph. 
+COACH: Alright, so for a monograph, it's important to make sure your argument is clear and concise. First, identify the main point of your essay and make sure it's stated in the introduction. Then, make sure each paragraph supports that main point. Finally, make sure your conclusion summarizes the main point and leaves a lasting impression. 
+To make your essay more engaging, you can add stories or anecdotes to illustrate your points. You can also use vivid language to paint a picture for your readers. Additionally, using a variety of sentence structures, such as short sentences and long sentences, can help keep your readers engaged. Finally, make sure to include interesting facts or statistics that are relevant to your topic. 
+I hope this helps! If you have any other questions, please let me know.

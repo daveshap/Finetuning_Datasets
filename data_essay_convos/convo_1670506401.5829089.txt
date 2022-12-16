@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: What kind of essay are you writing? 
+STUDENT: An admissions essay.
+COACH: Great. What's the prompt for the admissions essay?
+STUDENT: The prompt is to describe a personal experience that has shaped who I am today.
+COACH: Okay, that's a great prompt. Let's start by talking about what kind of experience you want to write about. What's something that has had a big impact on your life and shaped who you are today?

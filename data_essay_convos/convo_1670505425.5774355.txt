@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are financial awards given to students based on their academic performance, financial need, or other criteria. Generally, students must meet certain requirements in order to be eligible for a scholarship. For example, some scholarships may require that students have a certain GPA or demonstrate financial need. Other scholarships may be based on specific interests or talents, such as sports or music.

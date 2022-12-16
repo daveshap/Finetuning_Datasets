@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there. I'm applying to Yale Law School, and I'm having trouble coming up with an interesting topic for my essay.
+COACH: That's understandable! It can be difficult to come up with an engaging topic that will stand out in the admissions process. What kind of background do you have that could be interesting to potential law schools? 
+STUDENT: Well, I grew up in Thailand and I studied engineering in college.
+COACH: Ah, that's very interesting! How has your experience in Thailand influenced your view of the world and your career goals? 
+STUDENT: Well, growing up in Thailand gave me a unique perspective on the world. I was exposed to different cultures, customs, and values, which shaped my outlook on life. As an engineer, I'm also very interested in finding solutions to global problems.
+COACH: That's great! You have a lot of potential to write a compelling essay about how your experiences in Thailand have shaped your view of the world and your career goals. Have you thought of any specific ideas or topics to explore? 
+STUDENT: Not really. I feel like I'm a pretty boring person, so I'm not sure what I could write about that would be interesting.
+COACH: Don't worry, everyone feels like they're boring sometimes! But I'm sure you have some unique experiences and perspectives that can make your essay stand out. Can you think of any specific moments or experiences that have been particularly meaningful to you? 
+STUDENT: Well, when I was growing up, my family used to take trips to the nearby villages, and I remember seeing how people lived and interacted with each other. That made me realize how privileged I am and how much I have to be thankful for. 
+COACH: That's a great idea! You could write about how those experiences have shaped your understanding of the world and how it has motivated you to use your engineering skills to help others. You could also talk about how your experiences in Thailand have helped you develop a sense of empathy and compassion for others.

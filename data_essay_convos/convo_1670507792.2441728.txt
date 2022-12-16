@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question! It really depends on what kind of essay you're writing and who your audience is. Is this an admissions essay?
+STUDENT: Yes, it is. 
+COACH: Okay, great. For an admissions essay, the best way to know when it's finished is to make sure it's clear, concise, and contains the information the admissions committee needs to evaluate your application. Have you thought about what that information should be?
+STUDENT: Yes, I think I have a good idea of what I want to include. 
+COACH: That's great! Now, let's talk about structure. How do you plan to organize your essay? 
+STUDENT: I was thinking of starting with an introduction, then going into my background, followed by my academic achievements, and then ending with my future goals. 
+COACH: That's a great start! Now, let's talk about the content of each section. In your introduction, you'll want to introduce yourself and provide context for the rest of the essay. Make sure to keep it brief but engaging. In the body of the essay, you'll want to focus on your achievements, experiences, and qualifications that make you a strong candidate for the program. Lastly, in the conclusion, you'll want to reiterate your main points and explain how the program will help you reach your goals. 
+Once you've got that structure down, you'll want to go through and make sure your essay is free of any errors. Read through it several times, and if possible, have someone else read it as well. That way, you can make sure it's as polished and professional as possible. 
+When you feel like you've done all you can to make your essay the best it can be, you can consider it finished. Good luck!

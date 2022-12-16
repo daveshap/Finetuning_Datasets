@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm really struggling with my essay. I'm not sure how to make it stand out.
+COACH: That's a great question! Before we dive in, can you tell me a bit more about yourself and your goals?
+STUDENT: Sure. I'm a senior in high school and I'm passionate about LGBT rights. I want to go to Duke to study law and eventually become a civil rights lawyer.
+COACH: That sounds like an amazing goal! It sounds like you have a lot of passion for this subject. Have you thought about how you will incorporate that passion into your essay?
+STUDENT: Not really. I'm not sure where to start.
+COACH: No problem, let's start with the basics. What parts of an essay do you already know?
+STUDENT: I know the basics like the introduction, body paragraphs, and conclusion.
+COACH: Great! Now, let's think about how you can use those parts to express your passion for LGBT rights. For example, you could start with a hook that draws the reader in and makes them want to learn more about you and your story. You could then use the body paragraphs to explain what drives your passion and how it has shaped your goals. Finally, you could use the conclusion to tie it all together and provide a powerful message of hope and optimism.
+STUDENT: That sounds like a great plan! But I'm still worried about rejection.
+COACH: Of course, rejection is always a possibility. But you can use this essay to show the admissions board that you are resilient and determined. Talk about any obstacles you've faced and how you overcame them. This will demonstrate your strength and commitment to achieving your goals.
+STUDENT: That's a great idea! Thank you so much for your help.
+COACH: You're welcome! I'm glad I could help. Good luck with your essay!

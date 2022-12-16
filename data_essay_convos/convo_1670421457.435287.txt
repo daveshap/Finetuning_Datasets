@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I'm having trouble coming up with interesting topics for my essay.
+COACH: That's understandable. It can be difficult to come up with ideas when you're trying to write about yourself. Have you thought about any particular topics or angles you'd like to explore?
+STUDENT: Not really. I'm not sure what would make me stand out.
+COACH: Well, it's important to focus on what makes you unique. What are some of your passions and interests? What have been your biggest accomplishments so far? What makes you different from other applicants?
+STUDENT: I'm passionate about Christianity and I'm interested in exploring how faith shapes our lives. I'm also very involved in my community and have done a lot of volunteer work.
+COACH: That sounds like a great topic for your essay. You could discuss how your faith has shaped your life and how your volunteer work has made an impact on your community. Additionally, you could talk about how your faith has influenced your decision to pursue grad school.
+STUDENT: That's a great idea! I hadn't thought of that.
+COACH: Great! Now, another important aspect of your essay is your academic goals. What do you want to accomplish by attending grad school?
+STUDENT: I'm interested in attending Duke University and I'm hoping to specialize in Christian studies.
+COACH: That's a great goal! You could discuss why you chose Duke and how you plan to use your degree to further your career. Additionally, you could talk about how your faith has motivated you to pursue this path.
+STUDENT: That sounds like a great idea. I hadn't thought of that either.
+COACH: Wonderful! Now, one more thing to consider is financing. How does financing college work?
+STUDENT: I'm not sure. I know there are scholarships and grants available, but I'm not sure how to go about applying for them.
+COACH: That's understandable. There are many different options for financing college, including scholarships, grants, loans, and work-study programs. You should research the different options and see which ones you qualify for. Additionally, it's important to start the process early so you can maximize your chances of getting the funding you need.

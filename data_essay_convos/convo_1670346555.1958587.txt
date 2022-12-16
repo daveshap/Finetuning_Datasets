@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to medical school and I'm having trouble writing my admission essay.
+COACH: Great, what kind of essay are you writing?
+STUDENT: It's an essay about my experience as a refugee and how it has shaped my views on racism and social issues.
+COACH: That's an important and powerful topic. What has been the most difficult part of writing this essay?
+STUDENT: Trying to put my experiences into words and make it sound meaningful.
+COACH: That can be a challenge. Can you tell me more about your experiences as a refugee?
+STUDENT: Sure. I was born in a refugee camp in Africa and my family moved to the United States when I was young. We faced a lot of discrimination and racism, which has had a lasting impact on my views on social issues.
+COACH: I understand. How have these experiences impacted your views on racism and social issues?
+STUDENT: Growing up in a refugee camp, I saw firsthand how racism and prejudice can lead to terrible consequences. This has made me passionate about fighting for social justice and standing up for those who are marginalized.
+COACH: That's wonderful. How do you think these experiences can help you in medical school?
+STUDENT: I think it will give me a unique perspective on healthcare and the way it is delivered. I want to be able to use my experiences to help others who are facing similar challenges.
+COACH: That's a great way to approach your essay. Why do you think the admission essay is important?
+STUDENT: I think the admission essay is important because it gives the admissions committee a chance to get to know who I am and what I bring to the table. It also allows them to see how my experiences have shaped my views and opinions, and how I can use those experiences to make a difference in the world.

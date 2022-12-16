@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. It's important to think of an issue that you are passionate about and have a strong opinion on. What interests you?
+STUDENT: I'm really interested in the education system.
+COACH: That's a great topic. What specifically do you want to focus on in regards to the education system?
+STUDENT: I want to focus on how the current education system is failing students.
+COACH: Okay, that's a great start. Now let's talk about how to create an argumentative essay. An argumentative essay should have three main components: a thesis statement, evidence to support your argument, and a conclusion. Let's start with the thesis statement. A thesis statement should be a clear and concise statement of your opinion on the topic. What do you think is the main problem with the current education system? 
+STUDENT: I think the main problem is that the current education system does not provide enough resources for students to succeed.
+COACH: That's a great statement to work from. Now we need to find evidence to back up your argument. Do you have any sources you can use to support your opinion? 
+STUDENT: Yes, I have some research from a few studies on the topic.
+COACH: Perfect. Make sure you use reliable sources and cite them properly. Once you have gathered your evidence, you can start writing your essay. Your essay should include an introduction, body paragraphs, and a conclusion. The introduction should explain the topic and state your thesis. The body paragraphs should provide evidence to support your argument. The conclusion should summarize your argument and provide a call to action.

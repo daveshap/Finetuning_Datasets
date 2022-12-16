@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started with my essay.
+COACH: I understand. What kind of essay are you writing?
+STUDENT: It's an essay about why I want to visit Thailand.
+COACH: That sounds like an interesting topic! Can you tell me a bit more about it?
+STUDENT: Sure, I'm currently studying at North Carolina State University and I've always been fascinated by the culture of Thailand. I want to learn more about it and experience it first-hand.
+COACH: That's great! What do you think makes Thailand so special?
+STUDENT: Well, I've heard that the food is amazing, the people are friendly, and the culture is unique. I also want to explore the different parts of the country and see some of the historical sites.
+COACH: That's a great idea! So, what kind of essay are you writing?
+STUDENT: It's an argumentative essay.
+COACH: Okay, so what kind of argument are you making?
+STUDENT: I'm arguing that visiting Thailand is an important part of learning about the culture and gaining a better understanding of the country.
+COACH: That's a great argument! Do you know what parts of an essay you need to include in order to make your argument?
+STUDENT: Yes, I need to have a hook, an introduction, a body, and a conclusion.
+COACH: That's right. Can you tell me a bit more about your hook?
+STUDENT: Sure, I was thinking of opening with a comparison between Thailand and Germany, where I'm from originally. I want to show how the two countries are different but also how they share certain similarities.
+COACH: That's a great idea. Do you have any other ideas for your hook?
+STUDENT: Not really, no.
+COACH: Alright, let's brainstorm some ideas together. What do you think would be a good way to start your essay?

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Well, that depends on the type of paper you're writing. Is it a term paper?
+STUDENT: Yes, it is.
+COACH: Okay, great. For a term paper, you're going to want to focus on an issue or topic that you have researched thoroughly and can write about in depth. What is the topic of your paper?
+STUDENT: I'm writing about the impact of technology on the modern economy.
+COACH: That's an interesting topic. What kind of research have you done so far? Have you collected any data or conducted interviews?
+STUDENT: I've done some online research and I've looked into some statistics.
+COACH: Great! Now, what kind of argument are you trying to make with your paper? What do you want your readers to take away from your essay?
+STUDENT: I want to show how technology has both positive and negative impacts on the economy.
+COACH: Alright, that's a great point to focus on. Now, what evidence can you use to back up your argument? What sources can you use to support your claims?

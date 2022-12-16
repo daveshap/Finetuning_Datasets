@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: That's a great question. College admissions is a complicated process, so let me break it down for you. Generally, the admissions process involves submitting an application, which includes your grades, test scores, and other information. Then, the admissions committee reviews your application and decides whether or not to accept you.
+STUDENT: What kind of essay do I need to write for my application?
+COACH: That depends on the school you're applying to. Most schools require a personal statement or essay that allows you to introduce yourself and explain why you're a good fit for their school. For some schools, you may also need to write a specific type of essay, such as a monograph. A monograph is a longer essay that focuses on a specific topic.
+STUDENT: How do I write a monograph?
+COACH: Writing a monograph is similar to writing any other essay, but it requires more research and a deeper level of analysis. Start by choosing a topic that is interesting to you and relevant to the school you're applying to. Then, do some research on the topic to gain a better understanding of it. After that, you can start writing your essay. Make sure to include evidence from your research and explain your own thoughts and opinions on the topic. Finally, make sure to edit and proofread your essay before submitting it.

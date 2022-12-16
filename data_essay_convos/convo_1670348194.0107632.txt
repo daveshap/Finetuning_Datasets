@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having a hard time deciding what to write my essay about.
+COACH: That's understandable. What topics are you interested in? 
+STUDENT: I'm really passionate about politics and gender equality, especially in Germany.
+COACH: That's great! What specifically interests you about the politics and gender inequality in Germany?
+STUDENT: Well, I'm interested in how sexism is still prevalent in German society, even though Germany is considered to be one of the most progressive countries in Europe.
+COACH: That's an interesting topic. Have you done any research into the issue?
+STUDENT: Yes, I've read some articles and watched some documentaries about the situation.
+COACH: Great! What have you found in your research?
+STUDENT: I've found that there are still many areas where sexism is still a problem, such as in the workplace and in politics. Women are still underrepresented in positions of power and there is still a wage gap between men and women.
+COACH: That's troubling. Do you have any thoughts on how to address this issue?
+STUDENT: I think education is key. We need to educate people on the importance of gender equality and the consequences of sexism. We also need to create more opportunities for women to pursue leadership roles in politics and the workplace.
+COACH: That's great! It sounds like you have a lot of ideas and passion for this topic. Have you thought about how to make this into an essay for your college application?
+STUDENT: Yes, I was thinking about writing about my personal experience with sexism and how I hope to use my education to help create a more equal society. I want to apply to MIT, so I think it would be a good fit for their mission.

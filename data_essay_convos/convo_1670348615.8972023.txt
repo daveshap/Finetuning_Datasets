@@ -1,0 +1,20 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to come up with an idea for my essay.
+COACH: Alright, let's start by discussing what kind of essay you're writing. Are you writing a personal essay or a research paper?
+STUDENT: It's a personal essay.
+COACH: Okay, so let's talk about what kind of essay you want to write. Do you have any particular topics that interest you or themes you'd like to explore?
+STUDENT: Well, I've been thinking about writing about the refugee experience.
+COACH: That's a great topic! Can you tell me a bit more about why you're interested in that topic?
+STUDENT: I think it's important to understand the plight of refugees and the challenges they face. Plus, I have some personal experience with the refugee experience, so I think it would be a meaningful topic to explore.
+COACH: That sounds like a very worthwhile topic. What kind of personal experience do you have with the refugee experience?
+STUDENT: My family moved to the United States when I was a child. We were refugees from a war-torn country.
+COACH: Wow, that must have been a difficult experience. Can you tell me more about how that experience shaped your life?
+STUDENT: It definitely changed my perspective on life. Growing up as a refugee made me realize how important it is to appreciate the opportunities we have and to never take them for granted. It also made me passionate about helping others who are facing similar struggles.
+COACH: That's a really powerful message. So, what kind of essay structure do you think would best convey this message?
+STUDENT: I'm not sure. I have no idea what to write about.
+COACH: That's okay. Let's start by talking about some potential topics that could be explored in the essay. Have you ever traveled or had any experiences related to Christianity or faith?
+STUDENT: Yes, I've been on a few mission trips to different countries.
+COACH: That's great! What did you learn from those experiences?
+STUDENT: I learned a lot about different cultures and how faith can bring people together despite their differences. I also experienced first-hand how faith can help people cope with difficult situations.
+COACH: That's a great topic to explore in your essay. You could focus on how faith has helped you to understand the refugee experience and how it has shaped your perspective on life.
+STUDENT: That sounds like a good idea. Thanks for the help!

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening for your essay should be interesting and engaging. It should also provide a glimpse of what the essay will be about. You could start with an anecdote, a quote, or a thought-provoking question. Think about what you want to say in your essay and use that to create an opening that will draw your reader in.
+STUDENT: what should I focus on when writing my essay?
+COACH: When writing your essay, focus on why you are the best candidate for the scholarship. What makes you unique? What experiences have shaped you and made you the person you are today? How have those experiences prepared you for success? Make sure to include any awards, accomplishments, or other experiences that make you stand out from other applicants.

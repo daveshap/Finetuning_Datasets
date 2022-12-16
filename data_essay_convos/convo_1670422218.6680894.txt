@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm interested in applying to college and I'm not sure how the process works. Can you help me understand what I need to do?
+COACH: Absolutely! The first thing you'll want to do is research the colleges you're interested in. Make sure to look into their admissions criteria, such as GPA, test scores, and extracurriculars. After that, you'll want to start writing your essay.
+STUDENT: Okay, that sounds helpful. I'm particularly interested in German universities and I'm also a practicing Buddhist. How can I make sure those aspects of my identity come through in my essay?
+COACH: Great question! You can definitely showcase both of those aspects in your essay. For example, you could talk about how your Buddhist beliefs have shaped your outlook on life, or how studying in Germany would help you further explore your faith. You could also talk about how your experience with Buddhism has influenced your academic pursuits, or how studying in Germany would help you gain a deeper understanding of the culture.

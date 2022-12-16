@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: Well, there are a few different ways to go about it. First, you'll need to research what types of scholarships are available to you. You can do this by searching online, talking to your school's guidance counselor, or even asking around in your community. Once you have an idea of what's out there, you'll need to make sure you meet the eligibility requirements for each scholarship. After that, you'll need to fill out the application and submit any required documents.
+STUDENT: Okay, so I know how to apply for scholarships. But how do I write a research paper?
+COACH: Writing a research paper is a multi-step process. First, you'll need to decide on a topic and narrow it down to a specific question or problem. Then, you'll need to do some background research to get familiar with the topic and understand the existing literature. After that, you'll need to formulate a thesis statement and develop an outline for your paper. Finally, you'll need to write the paper itself and make sure to cite your sources properly.

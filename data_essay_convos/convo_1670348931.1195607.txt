@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA for medical school and I need help with my essay.
+COACH: Great! Let's start by talking about the topic of your essay. What kind of topics do you want to explore?
+STUDENT: I wanted to write about how my experiences as a refugee has shaped my perspective on politics and how creativity and art can be used to make a positive impact in the world.
+COACH: That sounds like an interesting topic. What specifically have your experiences as a refugee taught you about politics?
+STUDENT: Well, it's made me realize that politics can have a huge impact on people's lives, especially those who are most vulnerable. As a refugee, I've experienced firsthand the effects of political decisions, both good and bad. It's also shown me the importance of having a voice in the political process and how we can use our creativity and art to make a difference.
+COACH: That's a great point. How do you think creativity and art can be used to make a positive impact in the world?
+STUDENT: I think creativity and art can be powerful tools for social change. Art can be used to raise awareness about important issues and inspire people to take action. It can also be used to express ideas and emotions that may not be easily expressed in words. Through art, we can create a more inclusive and tolerant society.

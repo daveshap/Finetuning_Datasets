@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my college essay.
+COACH: Great! What kind of essay are you working on?
+STUDENT: It's an admissions essay for Harvard.
+COACH: Okay, what kind of undergraduate program are you applying for?
+STUDENT: I'm applying to their law school.
+COACH: Got it. What kind of topic have you chosen for your essay?
+STUDENT: Well, I was thinking about writing about the similarities and differences between Buddhism and Islam.
+COACH: Interesting! That's a great topic. Can you tell me a bit more about why you chose this topic?
+STUDENT: Well, I've always been fascinated by Eastern religions and I wanted to explore how they relate to each other.
+COACH: That sounds like an intriguing essay topic. What kind of research have you done so far?
+STUDENT: I've done some reading on both Buddhism and Islam and I've also spoken to a few people who practice either religion.
+COACH: Great! That's a great start. What kind of structure do you plan to use for your essay?
+STUDENT: I was thinking of using a comparative approach, looking at the similarities and differences between the two religions.
+COACH: That sounds like a great idea. Are there any particular aspects of each religion that you want to focus on?
+STUDENT: Yes, I want to focus on their core beliefs, practices, and history.
+COACH: Perfect! That should give you plenty of material to work with. Do you have any questions for me about your essay?

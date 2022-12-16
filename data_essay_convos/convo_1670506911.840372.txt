@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That's a great question! Let's start by talking about why college matters. What do you think are some of the benefits of attending college? 
+STUDENT: Well, I know that it can help you get a better job and make more money.
+COACH: That's true, but there are also other benefits to attending college. College can help you develop skills and knowledge that will help you in your career, as well as in life. It can also help you make connections with peers and mentors that can help you reach your goals. It can also provide valuable experiences, such as internships and research opportunities, that can help you learn more about a field or explore potential career paths. 
+So, what would you like to focus on when writing your term paper?

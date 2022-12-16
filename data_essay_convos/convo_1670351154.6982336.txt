@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for college admissions and I'm having trouble coming up with ideas.
+VOLUNTEER WORK: What kind of activities have you been involved in? Have you done any volunteer work?
+STUDENT: Yes, I've done some volunteer work in my community. I've been helping out at a local food pantry, tutoring kids after school, and working with a non-profit organization that focuses on social issues like racism.
+COACH: That's great! It sounds like you have a lot of experience doing meaningful work in your community. What have you learned from your volunteer work?
+STUDENT: Well, I've definitely gained a better understanding of the issues facing our society today, like racism and poverty. I've also learned how to be more patient and understanding when it comes to working with people from different backgrounds.
+COACH: That's wonderful. It's clear that you have a lot of experience and knowledge about social issues. How can you use this to your advantage when writing your essay?
+STUDENT: I think I can use my experience to highlight my commitment to making a difference in the world. I want to show the admissions committee that I'm not just an average student, but someone who is passionate about making a positive impact in my community.
+COACH: Absolutely! That's a great way to demonstrate your commitment and passion. What else do you think makes you stand out as a person?
+STUDENT: I'm not sure. I feel like I'm not very interesting as a person.
+COACH: Everyone has something that makes them unique and special. Think about what you're passionate about and what makes you different from other people. It could be anything from your hobbies to your values and beliefs. Focus on those things and use them to make your essay unique.
+STUDENT: Okay, I think I understand. Thank you for the advice!
+COACH: You're welcome! Is there anything else I can help you with?
+STUDENT: Actually, I was wondering if you could explain how college admissions works.
+COACH: Sure! College admissions are a highly competitive process. Most colleges and universities look at a variety of factors, including grades, test scores, extracurricular activities, and essays. They also consider personal qualities like leadership, creativity, and motivation. The admissions committee wants to find students who will contribute to their campus community and make a positive impact.

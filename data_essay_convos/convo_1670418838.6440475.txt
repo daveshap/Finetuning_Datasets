@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and I'm having trouble writing my essay.
+COACH: OK, let's start by talking about your goals and objectives. What are your long-term goals?
+STUDENT: My long-term goal is to attend medical school and become a doctor.
+COACH: That's great! What inspired you to pursue this goal?
+STUDENT: Growing up, I was always interested in science and medicine. I also had a close family member who was a doctor, so it made me realize that it was something I could do too.
+COACH: That's really admirable. What other aspects of your life have shaped your goals and objectives?
+STUDENT: Well, I'm part of the LGBT community and I want to use my education and career to help others in similar situations. I also have a strong interest in international affairs. I've traveled to Thailand and seen firsthand the struggles faced by people in developing countries, and I want to use my knowledge to help them. 
+COACH: That's great. So, it sounds like you have a lot of motivation and ambition. What would you like to focus on in your essay?
+STUDENT: I want to focus on how my experiences have shaped my goals and objectives, and how I plan to use my education to make a difference in the world. 
+COACH: That's a great topic for your essay. Can you tell me more about how you plan to use your education to make a difference?
+STUDENT: Sure. I plan to focus on research and advocacy related to LGBT issues and international development. I also want to use my knowledge to help people in developing countries gain access to healthcare and education. 
+COACH: That's wonderful. It sounds like you have a clear vision for how you want to use your education to make a difference. Is there anything else you'd like to discuss before we begin working on your essay?
+STUDENT: No, I think that's it. 
+COACH: Great. Let's get started then.

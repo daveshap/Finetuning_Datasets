@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question. Before we dive into the specifics, can you tell me a bit more about your goals and why you are looking for scholarships and grants? 
+STUDENT: Well, I'm a student in college and I need financial assistance to cover my tuition and living expenses.
+COACH: Okay, that makes sense. Now, let's talk about how to go about applying for scholarships and grants. First off, it's important to know what kind of grants are available and who is eligible to apply. Do you know what types of grants are out there? 
+STUDENT: No, I don't.
+COACH: That's okay! There are a few main types of grants. The most common are need-based grants, which are awarded to students based on their financial need. Other types of grants are merit-based, which are based on academic achievement, and project-based grants, which are awarded to fund specific projects or research. Once you know what type of grant you're looking for, you'll need to do some research to find out which organizations offer them and what the eligibility requirements are.

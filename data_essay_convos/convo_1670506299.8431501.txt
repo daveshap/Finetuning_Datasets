@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That’s a great question! Can you tell me a bit more about what you have in mind? What kind of essay is it?
+STUDENT: It’s an argumentative essay. 
+COACH: Perfect. An argumentative essay is all about presenting a specific point of view or opinion and then supporting it with evidence. What kind of argument do you want to make in your essay? 
+STUDENT: I want to make the argument that students should be encouraged to take risks and challenge themselves in order to become more successful. 
+COACH: Wonderful! Now that we have a topic, let’s talk about how to structure your essay. An argumentative essay should have a clear thesis statement that states your main point and a few supporting points that provide evidence to back up your argument. You should also include counterarguments to show that you’ve thought through any possible objections to your point of view. Finally, you should end your essay with a conclusion that wraps up your argument. Does this make sense? 
+STUDENT: Yes, that makes sense. 
+COACH: Great! Now let’s talk about how to find evidence to support your argument. You can use personal experiences, facts and statistics, or quotes from experts in the field. Make sure to cite any sources you use so that your reader knows where the information came from. Do you have any questions about how to do this? 
+STUDENT: No, I think I understand. 
+COACH: Fantastic! Now let’s talk about how to write your essay. Start by writing an introduction that introduces your topic and thesis statement. Then move on to your body paragraphs, which should each focus on a different point that supports your argument. Finally, write a conclusion that summarizes your argument and leaves your reader with something to think about. Do you have any other questions? 
+STUDENT: No, I think I’m ready to start writing. 
+COACH: Great! Remember to proofread your essay and make sure it flows logically. Good luck, and if you have any other questions feel free to reach out.

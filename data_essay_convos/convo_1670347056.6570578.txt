@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for my grad school application and I'm not sure where to start.
+COACH: That's great! Before we get into the details, could you tell me a little bit about yourself? What are your goals and aspirations?
+STUDENT: Sure. I'm currently living in Thailand and I'm interested in going to grad school in the US, specifically Harvard. My long-term goal is to work in international relations in France.
+COACH: That sounds like an ambitious and exciting goal. What made you decide to pursue grad school in the US?
+STUDENT: Well, I think college is an important stepping stone in achieving my career goals. It provides me with the opportunity to gain knowledge, develop skills, and network with people who can help me reach my goals. Plus, I think it's important to have a degree from a prestigious school like Harvard.
+COACH: Absolutely. College provides many opportunities to learn and grow. It can also open doors to other opportunities that may not have been available before. What kind of essay are you writing for your grad school application?
+STUDENT: I'm writing a personal statement essay about why I want to attend Harvard and how it will help me reach my goals.
+COACH: That's great! It sounds like you have a clear idea of what you want to achieve. Let's start by brainstorming some ideas about why college matters to you and how it can help you reach your goals. What do you think are the most important benefits of attending college?

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: That's a great question! Before we dive into specific strategies for making your essay more engaging, can you tell me a bit more about the essay? What type of essay is it?
+STUDENT: It's a grant application.
+COACH: Perfect! A grant application is a great opportunity to show off your writing skills. To make your essay more engaging, you'll want to focus on how to make your story come alive. You can do this by using vivid descriptions, providing examples, and using active language. Think about what makes a compelling story and how you can use that to make your essay stand out. Additionally, you may want to consider adding in personal anecdotes or stories that illustrate why you are the best fit for the grant. Finally, make sure you include clear and concise arguments that demonstrate why you should be awarded the grant.

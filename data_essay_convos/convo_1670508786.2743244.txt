@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Let's not focus on the negative. We can focus on what you need to do to make your essay stand out. Can you tell me a bit about the essay you're writing? What school are you applying to and what is the prompt?
+STUDENT: I'm applying to Harvard and the prompt is "How has your experiences shaped who you are today?"
+COACH: Great! That's a great prompt that allows you to reflect on your experiences and how they have shaped you. What experiences do you want to focus on in your essay?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admission essay is important because it gives the admissions board a chance to get to know you beyond your grades and test scores. It’s an opportunity to show them who you are as a person and why you would be a great addition to their school. 
+STUDENT: What should I focus on in my essay?
+COACH: That depends on the prompt you’ve been given. Generally, you want to focus on how you can contribute to the school, what kind of person you are, and how you will benefit from attending the school. You also want to make sure to include concrete examples to illustrate your points. 
+STUDENT: How do I structure my essay?
+COACH: A persuasive essay should have an introduction, body paragraphs, and a conclusion. In the introduction, you want to introduce the topic and grab the reader’s attention. In the body paragraphs, you want to present your argument and support it with evidence. Finally, in the conclusion, you want to summarize your argument and leave the reader with something to think about.

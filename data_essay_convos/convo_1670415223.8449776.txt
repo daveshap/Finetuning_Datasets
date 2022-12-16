@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student who's applying to Harvard and I'm trying to figure out what to write about in my essay.
+COACH: That's great! You have a lot of potential here. What topics are you interested in exploring?
+STUDENT: Well, I'm really passionate about Buddhism and I wanted to explore how it has shaped my life and how it's impacted my views on sexism.
+COACH: That sounds like a great topic. How did you first become interested in Buddhism?
+STUDENT: I was raised in a Buddhist household and my parents taught me the basics of the religion. As I got older, I started to explore it further and it has become a big part of my life.
+COACH: That's wonderful. So, what do you think is the most important thing that Buddhism has taught you about sexism?
+STUDENT: Buddhism has taught me to recognize the importance of respect for all genders. It has also helped me to recognize that sexism is a result of ignorance and prejudice, and that we can only combat it by educating ourselves and others.

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I'm having trouble writing my essay. I'm not sure how to convey why college matters to me and why I would be a good fit for the university.
+COACH: That's a great question! Before we start talking about your essay, can you tell me a bit more about yourself? What are your goals and personal objectives?
+STUDENT: Well, my main goal is to become an artist. I want to combine creativity with technology to create new forms of art. I also want to use my art to advocate for the LGBT community.
+COACH: That sounds like a really inspiring goal! Let's focus on that for your essay. How can you explain why college matters to you in relation to your goal of becoming an artist and advocating for the LGBT community?
+STUDENT: I think college will help me develop the skills I need to succeed in my goal. I'll need to learn about the latest technology, understand different forms of art, and be able to communicate effectively in order to advocate for the LGBT community.
+COACH: Absolutely! You're right that college will give you the skills you need to succeed. You can also use your essay to talk about why you personally find college important. What do you think college can offer you that you can't get anywhere else?
+STUDENT: College can offer me the opportunity to explore different ideas and perspectives. I'm excited to learn from people with different backgrounds and cultures, and to be exposed to different ways of thinking. I'm also looking forward to being part of a diverse community of students who share similar goals and interests.

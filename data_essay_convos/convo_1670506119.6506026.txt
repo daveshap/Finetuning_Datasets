@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: Well, the admissions process can vary from school to school, but usually involves submitting a personal statement, letters of recommendation, transcripts, test scores, and other materials. Your personal statement is often the most important part of the application, and it's where you can really make your case for why you should be admitted.
+STUDENT: What should I include in my personal statement?
+COACH: A good personal statement for law school should focus on your academic and professional goals, as well as any relevant experiences that have shaped your interest in law. You should also discuss why you believe you’d be a great fit for the particular law school you’re applying to. It should also demonstrate your knowledge of the field and articulate your passion for the law. Finally, you should make sure to proofread your essay for any errors or typos. 
+STUDENT: How do I make my essay stand out?
+COACH: You can make your essay stand out by being honest, authentic, and creative in your writing. Try to avoid clichés and make sure to use vivid language to bring your story to life. Additionally, it helps to tie your essay back to the mission of the school you’re applying to, and show how you’d contribute to the school’s community. Finally, make sure to proofread your essay multiple times and get feedback from trusted sources.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale University and I'm having trouble writing my essay.
+COACH: Alright, let's start with the basics. Can you tell me more about your goals and personal objectives?
+STUDENT: Sure. My goal is to become a successful entrepreneur and eventually open a business that helps refugees around the world. I want to use my skills and knowledge to make a difference in the lives of those who have been displaced.
+COACH: That's a wonderful goal! What experiences have you had that will help you reach your goal?
+STUDENT: Well, I've traveled to different countries and worked with people from different cultures. I also volunteer for a local charity that provides support to refugees.
+COACH: Great, it sounds like you have a lot of experience that will help you reach your goal. What do you think makes you unique and stand out from other applicants?
+STUDENT: I think my experience living in different countries and seeing how different cultures interact has given me a unique perspective on the world. I also think my commitment to helping refugees sets me apart from other applicants.
+COACH: That's a great perspective. Do you have any questions or concerns about the application process or grad school at Yale?
+STUDENT: Yes, I'm a bit worried about the length of the essay and if it's enough to really showcase my personality and experiences.
+COACH: That's a valid concern. A good way to approach the essay is to focus on a few key experiences that have shaped your goals and objectives. Make sure to explain why these experiences are important to you and how they have influenced your future plans. This will help you create a compelling essay that will stand out.

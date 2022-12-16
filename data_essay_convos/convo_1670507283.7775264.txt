@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question. Let's start by talking about what your essay is about. What research paper are you working on?
+STUDENT: I'm writing about the history of the civil rights movement in the United States.
+COACH: That sounds like a fascinating topic. What kind of research have you done so far?
+STUDENT: I've done some background research online and read some books about the civil rights movement, but I'm not sure what direction to take with my paper.
+COACH: That's a great start. Have you identified any key themes or topics that you want to focus on in your paper?
+STUDENT: Yes, I'm interested in exploring how the civil rights movement impacted education and how it shaped the modern civil rights movement.
+COACH: That's a great angle to take. Now, let's talk about how to structure your paper. You'll want to start with an introduction that outlines the major themes you'll be exploring and provides an overview of the main points you'll be making. Then, you'll want to move into the body of your paper and discuss each of your topics in detail. Finally, you'll want to end with a conclusion that summarizes your main points and draws any conclusions from your research. Does that sound like a plan?
+STUDENT: Yes, that sounds like a great plan.
+COACH: Great! Now, let's talk about how to find the sources you need for your paper. You'll want to make sure you're using reliable sources like books, academic journals, and primary sources. Do you have any questions about how to find these sources?

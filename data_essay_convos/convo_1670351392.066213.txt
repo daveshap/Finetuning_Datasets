@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm a first generation college student and I'm writing an essay about my experience with science, Buddhism, and how financing college works.
+COACH: That sounds like an interesting topic! Can you tell me more about what you want to cover in your essay?
+STUDENT: Sure! I want to discuss how my experience with science has shaped my view of the world, and how my understanding of Buddhism has impacted how I approach education. I also want to explore how I've navigated financing college, especially as a first-generation student.
+COACH: That's a great idea! Have you done any research on this topic so far?
+STUDENT: Yes, I've done some research on financing college and I've read some books about Buddhism and science. I've also talked to some people who have gone through the same experience as me.
+COACH: That sounds like a great start. How do you plan to structure your essay?
+STUDENT: I was thinking of starting with my experience with science, then discussing how that has influenced my understanding of Buddhism, and finally talking about how I've navigated financing college.
+COACH: That sounds like a great plan. What specific aspects of science and Buddhism do you plan to discuss in your essay?
+STUDENT: I want to talk about how science has informed my view of the world and how Buddhism has helped me understand the importance of education. I also want to explore the different options for financing college, such as scholarships and loans, and how these have helped me pursue my education.
+COACH: That's a great plan. Do you have any specific examples or stories you plan to include in your essay?
+STUDENT: Yes, I want to include an example of how science has helped me understand the world, such as my experience studying physics in Germany. I also want to share a story about how my understanding of Buddhism has helped me stay motivated and focused on my studies. Finally, I want to talk about how different financing options have helped me pursue my education.

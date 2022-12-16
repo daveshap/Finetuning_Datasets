@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay on the relationship between Judaism, creativity, and art.
+COACH: That's a fascinating topic! Can you tell me more about what you're looking to explore in your essay?
+STUDENT: Sure. I'm looking to explore how Judaism has shaped the creative process for Jews, particularly in terms of art. I want to look at how Jewish art has evolved over time, and how it has been influenced by other religions, such as Islam.
+COACH: That sounds like an interesting angle to take. What kind of research have you done so far?
+STUDENT: I've done some reading on the history of Jewish art, and I've looked at some of the major works created by Jewish artists. I'm also interested in exploring how creativity is viewed within Judaism, and how that has changed over time.
+COACH: That's great! So, what kind of structure are you thinking of using to present your essay? 
+STUDENT: I was thinking of starting with an introduction that introduces the topic and outlines my main points. Then I'd like to give a brief overview of the history of Jewish art, and how it has been influenced by other religions. After that, I'd like to focus on how creativity is viewed within Judaism, and how that has changed over time. Finally, I'd like to conclude with some reflections on how this has impacted the creative process for Jews.
+COACH: That sounds like a great structure for your essay. What do you think are the most important elements to include in your essay to make it engaging?
+STUDENT: I think it's important to provide examples of how creativity has been expressed in Jewish art throughout history. It would also be helpful to include some personal anecdotes or stories to illustrate how Judaism has shaped the creative process for Jews. Additionally, I think it's important to provide a balanced perspective, so I'd like to include some perspectives from other religions, such as Islam, to provide a more nuanced view of the topic.

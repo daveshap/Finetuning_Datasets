@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question! Before we dive into the writing process, I'd like to get a better understanding of what you're trying to accomplish with your essay. What is the topic you're writing about?
+STUDENT: I'm writing about the need for more funding for public schools.
+COACH: Great! Now that we have a better idea of the topic, let's talk about the type of essay you're writing. Is this an argumentative essay?
+STUDENT: Yes, it is.
+COACH: Perfect! Argumentative essays are all about making a case for your opinion. To do this, you'll need to research your topic and find facts and evidence to support your argument. You'll also need to think about the opposing arguments and explain why your opinion is the right one. Once you have a clear understanding of your topic, you can start outlining your essay. Think about the main points you want to make and create an outline that follows the structure of an argumentative essay. That way, when you begin writing, you'll have a plan to follow.

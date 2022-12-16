@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and need help with my personal statement.
+COACH: Great! What would you like to talk about?
+STUDENT: Well, I'm having a hard time coming up with something interesting to write about. I feel like I'm not an interesting person.
+COACH: That's understandable. It can be difficult to come up with something unique to write about. Can you tell me a bit more about yourself and your interests?
+STUDENT: Sure. I'm a big fan of travel and exploring new cultures. I also love spending time outdoors, whether it's hiking or just enjoying nature.
+COACH: That sounds great! Have you ever had any experiences while traveling that could make for an interesting story in your essay?
+STUDENT: Yes, actually. I recently went to India and faced a lot of rejection and obstacles while trying to explore the country. I eventually overcame those obstacles and had an amazing experience.
+COACH: That sounds like an amazing experience! It could be a great way to show perseverance and resilience in your essay. What else would you like to include in your personal statement?

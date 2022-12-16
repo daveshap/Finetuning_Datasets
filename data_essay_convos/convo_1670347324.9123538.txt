@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with an essay I'm writing for my grad school application.
+COACH: Great! What kind of grad school are you applying to?
+STUDENT: I'm applying to law school in China.
+COACH: Okay, that's great. What kind of essay do you need help with?
+STUDENT: I'm writing a personal statement about my skills and achievements that will make me stand out as a candidate.
+COACH: Alright, that sounds like a good start. What kind of skills and achievements do you want to highlight in your essay?
+STUDENT: Well, I have a lot of experience working in law firms, and I'm also involved in several volunteer activities.
+COACH: That's impressive. What else can you tell me about your background and experiences that you could include in your essay?
+STUDENT: I've also done some research in the field of law, and I'm currently writing a paper on international trade law.
+COACH: Wonderful! It sounds like you have a lot of interesting experiences and knowledge to draw from. Is there anything else you'd like to add to your essay?
+STUDENT: Yes, I'd also like to talk about how I plan to use my education to benefit society.
+COACH: That's a great idea. It's important to demonstrate your commitment to making a positive impact in your essay. Now, another important part of your application is securing scholarships and grants. Do you have any questions about how to go about doing that?
+STUDENT: Yes, I'm not sure where to start. Can you give me some advice?
+COACH: Absolutely! The first step is to research the different types of scholarships and grants available. You can also reach out to alumni or other contacts who may be able to provide helpful information. Once you have a list of potential options, you can begin to apply for them. Good luck!

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I'm trying to figure out what to write about for my college admission essay.
+COACH: Okay, great! Before we get into the details of your essay, let's start with a few questions. What have been some of your most meaningful experiences so far in life?
+STUDENT: Well, I'm passionate about social issues and I've done some volunteer work at a local homeless shelter. I'm also really interested in creativity and art, so I've been involved in a lot of art projects over the years.
+COACH: That's wonderful. It sounds like you have a lot of interesting experiences that you could draw from for your essay. Can you tell me more about why you're interested in social issues and art?
+STUDENT: Sure. I think social issues are really important and it's important to be aware of how our actions can affect others. I also think art is a great way to express yourself and communicate ideas in unique ways.
+COACH: That's a great perspective. So, what do you think would be the best topic for your college admission essay?
+STUDENT: I'm thinking about writing about how my experiences with social issues and art have shaped my worldview and how it could help me contribute to the UNC community.
+COACH: That's a great idea! You could focus on how your experiences have shaped your values and how those values could be applied to your college experience. You could also talk about how your involvement with art and social issues has helped you develop skills that could be beneficial to the UNC community.

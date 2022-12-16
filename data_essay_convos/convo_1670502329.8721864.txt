@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: Essays typically have three parts: an introduction, body paragraphs, and a conclusion. The introduction should provide some background information about the topic and state your thesis statement. The body paragraphs should support your thesis statement with evidence and examples. Finally, the conclusion should summarize your main points and restate your thesis statement.
+STUDENT: What should I include in my introduction?
+COACH: Your introduction should provide some background information about the topic and state your thesis statement. You can begin by introducing the topic and providing some context. Then, you can move on to your thesis statement. Make sure your thesis statement is clear and concise. It should explain your position on the topic and provide the reader with an idea of what the essay will be about.
+STUDENT: What kind of evidence should I include in my body paragraphs?
+COACH: The evidence you include in your body paragraphs should be relevant to your thesis statement and support your argument. You can include facts from reliable sources, statistics, quotes from experts, and personal experiences. Make sure that each piece of evidence is properly cited.

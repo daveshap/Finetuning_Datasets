@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Great question! Applying to college can be a daunting task, but it doesn’t have to be. Generally, you will need to complete an application form, provide transcripts and test scores, write an essay or personal statement, and possibly provide letters of recommendation. You should also research the college to make sure it’s the right fit for you.
+STUDENT: What should I include in my personal statement?
+COACH: Your personal statement should be a reflection of your personality and values. It should tell a story about you that demonstrates why you are a good fit for the medical school. You should talk about your academic and professional goals, your passion for medicine, and any challenges or obstacles you have overcome. Be sure to use vivid language and detail to make your statement stand out.

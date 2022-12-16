@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: A good conclusion should summarize your main points, but also leave the reader with something to think about. It should also be an appropriate length - not too long or too short. You want to make sure you tie up any loose ends and provide a lasting impression on the reader. Additionally, you can use a call to action to encourage the reader to take action based on what they have read.

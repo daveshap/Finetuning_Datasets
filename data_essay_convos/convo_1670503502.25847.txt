@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. It's important to think about what you want to do after college and how you will use your degree to get there. Start by researching potential career paths that align with your interests and skills. You can also look into internships or apprenticeships that could provide you with valuable experience. Additionally, networking is key. Talk to people in the field you are interested in and ask for advice on how to get started. Finally, create a resume that highlights your qualifications and skills. This will be essential when applying for jobs.

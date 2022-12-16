@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing an essay about my life and I'm having trouble getting started.
+COACH: Okay, let's start by talking about what you want to focus on in your essay. What topics do you think are important to discuss?
+STUDENT: Well, I think it's important to talk about growing up in a single parent home and how that shaped me. I also want to talk about overcoming obstacles and rejection and why college matters to me.
+COACH: That sounds like a great starting point. Are there any other topics you'd like to include in your essay?
+STUDENT: Yes, I'd also like to talk about my experiences traveling to Europe and the Philippines, and how those trips have impacted my life.
+COACH: That's a great idea. Let's start by talking about your experience growing up in a single parent home. What kind of challenges did you face and how did you overcome them?
+STUDENT: Growing up with a single parent was difficult at times. I had to take on more responsibilities than most kids my age, and I had to learn to be independent and self-reliant. I had to learn how to manage my time effectively, and I had to learn how to be resourceful and make the most out of limited resources. But I was determined to make the best of my situation, and I was able to overcome the challenges I faced.
+COACH: That's really inspiring. Now, let's talk about why college matters to you. What do you hope to gain from going to college?
+STUDENT: College is important to me because it will open up new opportunities that I wouldn't have otherwise. It will give me the chance to pursue my dreams and to make something of myself. It will also give me the opportunity to learn more about different cultures and perspectives, which will help me become a better global citizen. Finally, it will provide me with the skills and knowledge I need to succeed in the future. 
+COACH: Those are all great reasons for why college matters to you. Now, let's talk about your experiences traveling to Europe and the Philippines. What did you learn from those trips?
+STUDENT: Traveling to Europe and the Philippines has been one of the most eye-opening experiences of my life. I've been able to see different cultures, lifestyles, and perspectives firsthand. I've also been able to appreciate how diverse the world is, and I've learned that there is beauty in every corner of the globe. Most importantly, I've learned to be more open-minded and tolerant of others, even if they have different beliefs or values than I do.

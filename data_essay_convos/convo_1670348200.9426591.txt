@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and I'm having trouble writing my admissions essay.
+COACH: Alright, let's start by talking about why an admissions essay matters. What do you think makes it important?
+STUDENT: Well, I guess it's important because it's the first impression the admissions committee will have of me, so it needs to show them who I am and why I'm a good fit for the school.
+COACH: That's true, but there's more to it than that. An admissions essay is a chance for you to stand out from other applicants and show the admissions committee why you're the best candidate for the school. It's also a chance to tell your story and showcase your unique talents and experiences. So, what kind of story do you want to tell in your essay?
+STUDENT: Well, I'm a boring person so I don't know if I have a very interesting story to tell.
+COACH: Everyone has an interesting story to tell! What are some of your passions or interests that you could write about? What experiences have shaped who you are today? Even if you don't think you have an exciting story, you can still write about the little moments that make up your life and why they're important to you.

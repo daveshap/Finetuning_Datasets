@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm currently a student at Yale and I'm thinking about applying to med school at Princeton. I'm having trouble writing my essay and I was hoping you could help me with it.
+COACH: Absolutely! Let's start by discussing what you want to achieve with your essay. What are your goals for the essay?
+STUDENT: Well, I want to show the admissions committee why I'm a great candidate for med school and how my experiences have prepared me for the rigors of medical school.
+COACH: That's a great goal! Now, let's talk about your experiences. What have you done that has prepared you for medical school?
+STUDENT: Well, I've done a lot of research in the sciences, particularly in biology and biochemistry. I've also been involved in several volunteer programs, both in the US and in the Philippines.
+COACH: That sounds like a great set of experiences! To make sure we can maximize the impact of your essay, can you tell me more about the research projects and volunteer programs you were involved in?
+STUDENT: Sure! My research project focused on understanding the genetic basis of certain diseases. I also volunteered at a local hospital in the Philippines, where I assisted with patient care and provided educational programs to the community.
+COACH: That's fantastic! So now that we have a better understanding of your experiences, let's talk about how you can use them to create a compelling essay. What do you think would be the best way to showcase your experiences and demonstrate why you're a great candidate for medical school?
+STUDENT: I think it would be best to focus on the lessons I learned from my experiences, such as the importance of hard work and dedication. I could also talk about how my research and volunteer experiences have shaped my understanding of the medical field and my desire to become a doctor.
+COACH: That's an excellent plan! Now, let's talk about the structure of your essay. How do you think you should organize your essay to make sure it's effective?
+STUDENT: I think I should start off by talking about why medicine is important to me and why I'm passionate about becoming a doctor. Then, I could discuss my research and volunteer experiences in more detail and explain how they have prepared me for medical school. Finally, I could talk about my future plans and how I hope to use my medical degree to help others.
+COACH: That sounds like a great plan! Now, let's talk about what you can do after college. Have you thought about how you will find a job after graduation?
+STUDENT: Yes, I've been researching potential job opportunities and internships. I'm also considering applying to graduate programs in the future.

@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble coming up with ideas for my essay.
+COACH: Sure, what kind of topics are you considering?
+STUDENT: I'm interested in exploring creativity and art, but I'm not sure what admissions officers look for.
+COACH: That's a great topic! Admissions officers are looking for essays that show your unique perspective and demonstrate your values and interests. They want to get a sense of who you are as a person. Have you considered talking about how creativity has shaped your life?
+STUDENT: That's a great idea. I've been involved in art since I was a child and it's been a big part of my life.
+COACH: That's wonderful. What kind of art have you been involved in?
+STUDENT: I've been doing a lot of painting and drawing, but I'm also interested in exploring other forms of art like photography and writing.
+COACH: Those are great outlets for creativity. Are there any other aspects of your life that have been influenced by creativity?
+STUDENT: Yes, actually. I'm Jewish and my faith has been a huge influence on my creative endeavors. I've been exploring Judaism through art, which has been really rewarding.
+COACH: That sounds like a great experience. How has exploring Judaism through art impacted your life?
+STUDENT: It's been really eye-opening. I've been able to gain a deeper understanding of my faith and its history. I've also been able to connect with my heritage in a more meaningful way. It's been an incredible journey.
+COACH: That's wonderful. It sounds like you have a lot to share about your culture and faith. Is there anything else you'd like to include in your essay?
+STUDENT: I'd also like to talk about my experience growing up in the Philippines. I moved to the US when I was a teenager, so I think it would be interesting to explore how my upbringing in the Philippines has shaped my identity.
+COACH: That's a great idea. You could talk about the differences between the two cultures and how they've influenced you. You could also discuss how being exposed to two different cultures has given you a unique perspective.

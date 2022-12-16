@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help understanding why an admission essay matters, and how to make mine stand out.
+COACH: Absolutely! An admission essay matters because it is your opportunity to tell a college admissions team who you are as an individual. It's a chance for you to showcase your creativity, your passions, and your goals. It can be the difference between getting accepted or being rejected from a college.
+YALE: Why does college matter?
+COACH: College matters because it provides an opportunity to learn, grow, and develop skills that will help you in your future career. It also allows you to meet people from different backgrounds, cultures, and beliefs, which can open up new perspectives and opportunities. Plus, college can be a great way to explore your interests and develop new ones. 
+STUDENT: How do I apply to college?
+COACH: Applying to college can seem like a daunting task, but it doesn't have to be. The first step is to research the colleges you're interested in and make sure they match your academic and career goals. Then you'll need to fill out the application, write your essay, and submit any supporting documents. Finally, you'll need to take the necessary tests and submit scores. 
+STUDENT: What tips do you have for making my essay stand out?
+COACH: One of the best ways to make your essay stand out is to focus on creativity. Think outside of the box and use your essay to showcase your unique passions and interests. Art, music, literature, and other creative endeavors can be great ways to express yourself and make your essay stand out. Also, don't be afraid to include personal stories or anecdotes that can help bring your essay to life.

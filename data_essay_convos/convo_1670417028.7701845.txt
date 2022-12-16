@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm working on my personal statement. I'm interested in exploring some of my experiences with social issues and volunteer work, as well as my connection to Judaism.
+COACH: That sounds like an interesting topic for your essay. Can you tell me more about the social issues that you want to address?
+STUDENT: Sure. Growing up, I was exposed to a lot of poverty and inequality in my neighborhood, and I want to talk about how that has shaped my views on social justice. I'm also passionate about volunteering and advocating for those in need, so I want to include that in my essay as well.
+COACH: That's great! It sounds like you have a lot of experiences to draw from. What about your connection to Judaism? How do you want to incorporate that into your essay?
+STUDENT: I'm Jewish, and while I don't practice it religiously, I do feel a strong connection to my heritage and culture. I want to talk about how this has influenced my values and beliefs, and how it has impacted the way I view the world.
+COACH: That's a great idea. It sounds like you have a lot of unique experiences to draw from. Do you have any questions or concerns about the essay that I can help you with?

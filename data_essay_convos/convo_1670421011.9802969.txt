@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to figure out how to find a job after college.
+COACH: That's a great question! What kind of job are you looking for?
+STUDENT: I'm thinking about applying to MIT and I want to know what kind of job I should be looking for.
+COACH: That's a great goal! Have you done any research into the types of jobs that are available in the area around MIT? 
+STUDENT: Not yet, I'm not sure where to start.
+COACH: That's understandable. A good place to start is by researching the types of industries that are prevalent in the area. You can also look into local job postings and search for openings that match your skills and interests. Additionally, networking with people who already work in the industry can provide valuable insight into job opportunities and help you gain valuable connections.
+STUDENT: That sounds like a great idea. I'm also concerned about financing college.
+COACH: Financing college can be a daunting task. There are a variety of options available to students, such as scholarships, grants, loans, and work-study programs. It's important to do your research and explore all of your options before making a decision. Additionally, many colleges offer financial aid advisors who can help you understand the process and make the best decision for your situation.
+STUDENT: That's really helpful. I'm still feeling overwhelmed and don't know where to start.
+COACH: That's totally understandable. A great way to get started is by creating a plan. Start by researching the different types of financing options available to you and exploring your options. Then, create a budget and set a timeline for when you need to have certain tasks completed. Finally, reach out to financial aid advisors for additional guidance and support.

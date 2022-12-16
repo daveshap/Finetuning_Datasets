@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I'm having a lot of trouble with my personal statement. I'm not sure what to write about.
+COACH: That's a great question. What do you think is important to include in your personal statement?
+STUDENT: Well, I want to make sure that I highlight my academic achievements and experiences, but I was also thinking of talking about how I overcame sexism in my field.
+COACH: That's a great idea. How did you overcome sexism in your field?
+STUDENT: Well, I had to work twice as hard as everyone else to prove myself. I had to be more knowledgeable and prepared than anyone else in order to be taken seriously.
+COACH: Wow, that's impressive. It sounds like you have a lot of resilience and determination. How do you think you can use that in your personal statement?
+STUDENT: I think I can use it to show that I'm capable of overcoming obstacles and that I'm driven to succeed.
+COACH: That's a great point. How else do you think you can show that you're capable and driven?
+STUDENT: I think I can talk about the challenges I've faced in my studies and how I've been able to overcome them. I can also talk about my involvement in extracurricular activities and how I've been able to use those experiences to develop my skills and knowledge.
+COACH: That's a great way to demonstrate your capabilities. Do you think there's anything else you'd like to add to your personal statement?
+STUDENT: I think I'd like to include something about my personality and why I'm a good fit for NCSU.
+COACH: That's a great idea. What do you think makes you unique and a good fit for NCSU?
+STUDENT: I think I'm a good fit because I'm very passionate about learning and I'm always looking for ways to challenge myself and grow. I'm also a creative thinker and I'm not afraid to take risks. I'm confident that I could bring a lot of enthusiasm and new ideas to the program.

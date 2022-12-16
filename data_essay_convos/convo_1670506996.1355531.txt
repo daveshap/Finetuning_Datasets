@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. What type of job are you looking for?
+STUDENT: I'm looking for a grant writing position.
+COACH: Okay, that's a great goal. Let's talk about what you need to do to make sure you have the best chance of getting hired. First, you'll need to have a strong understanding of the type of grant you're applying for. Then, you'll need to create a compelling essay that outlines why you're the perfect candidate for the job. Finally, you'll need to make sure your resume and cover letter are up to date and tailored to the job.

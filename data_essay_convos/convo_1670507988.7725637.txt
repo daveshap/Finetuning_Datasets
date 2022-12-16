@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: Well, let's start by talking about your essay. What kind of essay is it?
+STUDENT: It's a personal statement for law school.
+COACH: Okay, great. How long is it currently?
+STUDENT: About 1,500 words.
+COACH: Alright, so that's a bit on the longer side for a personal statement. What do you think is the most important information you want to include?
+STUDENT: I think my experiences in college and my passion for legal studies are the most important things to include.
+COACH: Perfect! So what we can do is focus on cutting out anything that isn't directly related to those two points. Let's look at the essay together and see what can be removed or condensed.

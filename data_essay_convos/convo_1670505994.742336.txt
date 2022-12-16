@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. Before we jump into topics, let's talk a bit about what kind of essay you're writing. Is it a persuasive essay, an argumentative essay, or something else?
+STUDENT: It's a thesis essay
+COACH: Excellent! A thesis essay is all about making a strong argument. To do that, you'll need to pick a topic that you can make a strong argument about. What topics are you interested in? 
+STUDENT: I'm interested in the effects of technology on society.
+COACH: That's a great topic! Now, when you're picking a thesis for your essay, you want to make sure it's something you can argue for or against. So, what kind of argument can you make about the effects of technology on society? 
+STUDENT: I could argue that technology has had a positive effect on society.
+COACH: That's a great start! Now, you'll need to come up with some specific points to support your argument. What evidence can you provide to back up your claim?

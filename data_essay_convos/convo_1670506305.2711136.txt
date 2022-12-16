@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. Can you tell me a bit more about what you're looking for? What kind of topics are you interested in exploring?
+STUDENT: I'm interested in exploring the history of the industrial revolution and its effects on society.
+COACH: That sounds like an interesting topic for your essay. Before we get into the details, let's start with some research. What kind of sources have you looked at so far?
+STUDENT: I've been reading some books about the industrial revolution, but I haven't found anything that really stands out.
+COACH: That's ok. There are plenty of other sources you can use. Have you tried searching online for articles or journals related to your topic? You could also look for primary sources, such as letters or diaries from people who experienced the industrial revolution firsthand.

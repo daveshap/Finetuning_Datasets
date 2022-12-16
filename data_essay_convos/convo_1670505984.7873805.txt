@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. Let's start by talking about your interests. What topics do you find interesting or that you would like to learn more about?
+STUDENT: I'm interested in the history of the civil rights movement.
+COACH: Wonderful! That's a great topic for a research essay. Now, let's think about how to narrow it down. What specific aspect of the civil rights movement do you want to focus on? 
+STUDENT: I'd like to focus on the role of grassroots organizations in the civil rights movement.
+COACH: Perfect! That's a great topic for your research essay. Now, let's think about how you can go about researching this topic. What sources do you think you'll need to look at?

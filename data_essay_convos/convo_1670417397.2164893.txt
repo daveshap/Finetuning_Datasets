@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to law school and I wanted to get some help with my essay.
+COACH: Sure, what kind of help do you need?
+STUDENT: Well, I'm not sure how to go about writing it. I want to make sure it's the best it can be.
+COACH: Okay, that's a great start. What kind of topics are you interested in writing about?
+STUDENT: I'm interested in writing about social issues, particularly those regarding the LGBT community.
+COACH: That's an excellent topic. Have you done any research or written anything about this issue before?
+STUDENT: Yes, I have written some articles for my university's newspaper about LGBT rights.
+COACH: That's great! Do you have any ideas for your essay yet?
+STUDENT: I'm thinking of writing about the importance of protecting LGBT rights and why they should be recognized in law.
+COACH: That sounds like a great idea. Are there any specific points you want to focus on?
+STUDENT: Yes, I want to talk about the legal challenges faced by the LGBT community and how they can be addressed. I also want to discuss the importance of passing laws that protect their rights.
+COACH: Those are great points to focus on. How long do you want your essay to be?
+STUDENT: I was thinking around 1000 words.
+COACH: That's a good length. Do you have any other questions or concerns about the essay?
+STUDENT: Yes, I was wondering if you could give me some advice on how to get scholarships and grants for law school.
+COACH: Absolutely. There are several ways to go about this. You can look into scholarship programs specifically for law students, as well as grants and other forms of financial aid. You can also look into scholarships offered by the school you're applying to, such as Yale. Additionally, there are many organizations that offer scholarships and grants specifically for LGBT students.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question! Before we dive into the writing process, let's talk a bit about your term paper. What is the topic you're writing about? 
+STUDENT: I'm writing about the importance of mental health awareness in schools. 
+COACH: That's an important and timely topic. What kind of research have you already done? 
+STUDENT: I've done some research online, but I'm not sure what kind of sources are best to use.
+COACH: That's a great question. When it comes to research for a term paper, it's important to focus on reliable sources. These could include scholarly articles, books, or other credible sources. Have you looked into any of those yet? 
+STUDENT: Not yet, no.
+COACH: Great! Let's start by looking at some scholarly articles related to your topic. From there, you can get an idea of what kind of information is out there and start narrowing down your focus.

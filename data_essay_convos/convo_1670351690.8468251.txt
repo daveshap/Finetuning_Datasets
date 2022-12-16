@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm hoping to get into med school at Yale and I need help with the essay.
+COACH: Alright, let's start by talking about why you want to go to med school at Yale. What inspired you to pursue this goal?
+STUDENT: Well, I recently traveled to Thailand and saw how healthcare was provided there. It made me realize how important it is to have access to quality healthcare, and I decided that I wanted to be part of providing that to people.
+COACH: Interesting! So what specifically did you observe in Thailand that made you interested in pursuing a medical career?
+STUDENT: Well, I saw how the healthcare system was structured differently than in the US and how it was lacking in certain areas. I also saw how the doctors were working with limited resources and how they were still able to provide quality care to the people. It really made me appreciate the importance of healthcare and motivated me to pursue a career in medicine.
+COACH: That's wonderful. What kind of experience do you have that would make you a good candidate for med school at Yale?
+STUDENT: I have a lot of experience in research, both in the US and abroad. I've conducted research in China and other parts of Asia, which has given me a unique perspective on healthcare systems in different parts of the world. I also have a strong academic background, having graduated with honors from my undergraduate program. 
+COACH: That's fantastic! So now that we have a better understanding of why you want to pursue a medical career and your qualifications, let's talk about how to craft a compelling essay. What do you think would be the most effective way to convey your message?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are a form of financial aid that can help you pay for college. They are typically awarded based on a combination of academic merit, community service, and financial need. Many scholarships are offered by colleges, universities, and private organizations. To apply for a scholarship, you will usually need to fill out an application and provide a personal essay. 
+STUDENT: What should I include in my essay?
+COACH: A good essay should be focused and clear, and it should highlight your unique strengths and experiences. You should include information about why you are interested in the program you are applying for, and how it will help you achieve your goals. Additionally, you should explain how you have prepared yourself to be successful in the program, and what unique skills or qualities you possess that make you an ideal candidate. Finally, you should demonstrate why you are the best choice for the scholarship. 
+STUDENT: What should I avoid when writing my essay?
+COACH: You should avoid including any irrelevant information, as this could distract from your main points. Additionally, you should not use overly informal language, as this could make your essay appear unprofessional. Furthermore, you should not copy or plagiarize any part of your essay, as this is considered unethical and could lead to serious consequences. Finally, you should avoid using cliches or generalizations, as these can make your essay seem generic and uninteresting.

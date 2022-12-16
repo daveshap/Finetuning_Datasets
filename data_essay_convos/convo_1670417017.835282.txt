@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and Harvard and I have no idea what to write about.
+COACH: That's a great question! What topics or themes are you interested in? Do you have any particular passions or interests that you would like to explore in your essay?
+STUDENT: Well, I'm passionate about neurodiversity and I'm planning to study abroad in France next year.
+COACH: That sounds like a great topic to explore in your essay! You can write about how your experiences with neurodiversity have shaped your worldview and how studying abroad in France will further expand your perspectives. You can also discuss how these experiences have impacted your decision to pursue higher education and the goals you hope to achieve.

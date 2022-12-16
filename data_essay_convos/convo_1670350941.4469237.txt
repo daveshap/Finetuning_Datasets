@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to a few universities and I need help with my essay.
+COACH: Sure, which universities are you applying to?
+STUDENT: Yale, UCLA, and MIT.
+COACH: Alright, let's start with the basics. What kind of essay are you writing?
+STUDENT: It's a reflective essay on my experience in Vietnam.
+COACH: Got it. What parts of the essay do you need help with?
+STUDENT: Well, I'm having trouble getting started. I'm not sure how to craft a hook that will draw the reader in.
+COACH: That's understandable. Crafting a compelling hook can be tricky. Let's start by brainstorming some ideas. What do you think would be an interesting way to start your essay?
+STUDENT: Hmm, I was thinking something about how my time in Vietnam changed my perspective.
+COACH: That's a great idea! You could start by describing a particular moment or experience that made you realize how your perspective had shifted. That could be a great hook to draw the reader in.
+From there, you could move on to the body of your essay. What do you want to focus on in the middle of your essay?
+STUDENT: I want to talk about the people I met there and how their stories impacted me.
+COACH: That sounds like a great topic for the middle of your essay. Make sure to include vivid descriptions and interesting anecdotes to make your essay engaging.
+Finally, you'll want to make sure you have a strong conclusion. What do you want to make sure to include in your conclusion?
+STUDENT: I want to make sure that I emphasize how my time in Vietnam has shaped my outlook on life.
+COACH: Perfect! You could end your essay by reflecting on how your experiences there have influenced your life and your future goals. That could be a powerful way to wrap up your essay.

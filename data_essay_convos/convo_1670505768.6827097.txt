@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: It can be scary to think about the possibility of rejection, but you should focus on the process of writing a strong essay that best reflects who you are and what you bring to the table. It's important to remember that admissions decisions are based on more than just an essay, so don't let one piece of writing determine your fate. Instead, focus on crafting an essay that showcases your unique strengths and experiences. 
+STUDENT: What should I include in my essay?
+COACH: A strong college admissions essay will typically include a few key components. First, it should have a clear thesis statement that outlines the main point or argument of your essay. Second, it should provide evidence to support your thesis statement. This could be through personal stories, quotes from experts, or research findings. Finally, it should contain a conclusion that summarizes your main points and ties them together.

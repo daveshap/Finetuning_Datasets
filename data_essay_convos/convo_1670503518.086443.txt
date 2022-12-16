@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: Engaging essays are those that make the reader think, wonder, and feel something. They should be well-written, with clear structure and strong argumentation. You want to make sure that your essay stands out from the rest, so it's important to include unique and interesting details. Additionally, you want to make sure that your essay is personal and reflects who you are and why you're a great fit for medical school. 
+STUDENT: What should I focus on when writing my essay?
+COACH: You should focus on conveying your story in an authentic way. Think about what makes you unique and why you would be a great fit for medical school. Don't be afraid to be creative and use vivid language to paint a picture of yourself and your motivations. Additionally, you should focus on providing evidence to back up any claims you make. Make sure that your essay is well-structured, with a clear introduction, body, and conclusion. 
+STUDENT: Are there any topics I should avoid?
+COACH: Generally, it's best to avoid topics that are too controversial or could be seen as negative. You want to make sure that your essay is positive and showcases your strengths. Additionally, you should avoid using cliches or overly generic language. Your essay should be unique and reflect your own personal story.

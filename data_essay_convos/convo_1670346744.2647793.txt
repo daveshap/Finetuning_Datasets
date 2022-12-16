@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college soon and I'm feeling overwhelmed. I'm a first-generation college student and don't know where to start.
+COACH: That's understandable. It can be really intimidating to apply to college, especially as a first-generation student. Let's start by talking about what you want to get out of college. What kind of school are you interested in?
+STUDENT: I'd like to go to a prestigious university like Yale.
+COACH: Okay, great! Applying to Yale is a big undertaking. What do you think the admissions officers are looking for in a student?
+STUDENT: Well, I know they look for students who have a strong academic record, extracurricular activities, and leadership experience.
+COACH: That's right. But they also look for students who have a unique perspective and can contribute to the diversity of their campus. Do you have any experiences that you think would help you stand out as an applicant?
+STUDENT: Yes, I'm a Muslim and I'm very involved in my community.
+COACH: Perfect! That's something you can highlight in your essay. You can talk about how your faith has shaped your outlook and how it has influenced your approach to life and learning. You can also talk about how you've used your faith to serve your community. That will help show the admissions officers that you're a well-rounded individual and that you have something unique to offer.

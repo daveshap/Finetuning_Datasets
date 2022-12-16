@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my skills and achievements and I need help figuring out how to structure it.
+COACH: That sounds like a great topic! What kind of skills and achievements are you focusing on?
+STUDENT: Well, I've done some charity work in the Philippines, I'm quite creative and have done some art projects, I've also been involved in a few initiatives to combat racism.
+COACH: Interesting! It sounds like you have a lot of experience to draw from. How do you think you could best highlight these experiences in your essay?
+STUDENT: I'm not sure. I want to make sure I'm making the most of what I've done and that I'm presenting it in the best way possible.
+COACH: Sure. Let's start by breaking down each experience. For the charity work in the Philippines, what kind of activities did you take part in?
+STUDENT: I volunteered at a local orphanage, helping with their daily operations. I also raised money for the orphanage and organized a few fundraisers.
+COACH: Great! And what about the art projects?
+STUDENT: I created a series of paintings that focused on themes of racial injustice. 
+COACH: Excellent. And what about the initiatives to combat racism?
+STUDENT: I was part of a group that organized protests and rallies to raise awareness about racism and create a more inclusive society.
+COACH: Wonderful! Now that we've gone over each experience, let's think about how you can tie them all together in your essay. What kind of narrative do you want to tell?
+STUDENT: I want to show how I've used my skills and talents to make a difference in the world and to fight against injustice.
+COACH: Perfect. Then you could start by introducing yourself and talking about what inspired you to get involved in these activities. From there, you can go into more detail about each experience, highlighting the skills and achievements you've gained along the way. Finally, you can end your essay with a reflection on how these experiences have shaped you and your outlook on life.

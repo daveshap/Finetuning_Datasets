@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That’s a great question. Can you tell me a bit more about why you’re asking? What do you think college could offer you that’s important to you?
+STUDENT: I want to go to college because I want to get an education that will help me get a good job and start a successful career.
+COACH: That’s a great goal. College can definitely help you with that. It can open up doors to new opportunities and give you the skills and knowledge you need to succeed in your chosen field. College also provides you with a network of people who can help you reach your goals. You'll have access to mentors, professors, and other professionals who can provide valuable advice and guidance. Additionally, college gives you the chance to explore different areas of interest and discover what you’re really passionate about.

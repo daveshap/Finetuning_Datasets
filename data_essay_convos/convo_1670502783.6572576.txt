@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That's a great question! A personal statement is your chance to tell the admissions committee who you are and why you should be accepted into college. You can talk about your accomplishments, experiences, and goals. Think of it as a way to introduce yourself to the committee and make a lasting impression. 
+STUDENT: What should I avoid when writing my personal statement?
+COACH: It's important to be honest and genuine in your essay, but there are certain topics you should avoid. Avoid talking about controversial topics such as politics or religion, and don't try to be overly dramatic or exaggerate your experiences. Focus on what makes you unique and how you can contribute to the college community. 
+STUDENT: How should I structure my essay?
+COACH: A good structure for a personal statement is to start with an introduction that briefly explains who you are and why you're applying. Then, move on to the body of your essay, which should include stories and examples that illustrate your personality and qualities. Finally, end with a conclusion that ties everything together and reiterates your message. Make sure to proofread your essay and edit out any mistakes.

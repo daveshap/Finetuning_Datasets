@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying for college and I need help writing my essay.
+COACH: That's great! What kind of essay are you writing?
+STUDENT: It's a personal statement. I want to talk about my skills and achievements, charity work, and involvement in politics.
+COACH: Okay, that sounds like a great topic. What do you want to focus on in your essay?
+STUDENT: I want to show that I'm a well-rounded person with a variety of interests and experiences.
+COACH: Alright, so how can I help you?
+STUDENT: Well, I'm not sure how to structure the essay or what admissions officers are looking for. Can you give me some advice?
+COACH: Of course! Admissions officers are looking for essays that really show who you are as a person. They want to see your personality and what makes you unique. You should focus on highlighting your skills and achievements, charity work, and political involvement, but also include anecdotes and stories that show why these things are important to you. 
+STUDENT: That makes sense. I think I have some good stories to tell.
+COACH: Great! You should also make sure to include any travel experiences you've had and how they've shaped you.
+STUDENT: That's a great idea, I definitely have some stories from my travels.
+COACH: Perfect! Just make sure to keep your essay focused on you and your experiences, and don't forget to proofread it before you submit it. 
+STUDENT: Got it! Thanks for the advice. Is there anything else I should know about the college admissions process?
+COACH: Yes, definitely. You should research the colleges you're applying to and make sure you understand their admissions requirements. You should also make sure to plan ahead and give yourself plenty of time to write and revise your essay. Good luck!

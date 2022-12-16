@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question! When selecting a topic for your admissions essay, it's important to think about what makes you unique and what experiences have shaped you. Consider topics that are meaningful to you and will help the admissions committee get to know you better. You can also talk to friends and family members and ask them what they think would make a good essay topic. Once you have a few ideas, narrow it down to the one that resonates with you the most. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should tell a story about you and how you've grown or changed over time. You should focus on the main points of your story and provide details to illustrate them. Make sure to include why you want to attend the school you're applying to, and how it will help you reach your goals. Also, don't forget to include concrete examples of how you've developed or grown as a person. Finally, be sure to proofread your essay for any grammar or spelling mistakes.

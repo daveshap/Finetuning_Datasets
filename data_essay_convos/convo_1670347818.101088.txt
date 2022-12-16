@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am an undergrad student applying to Princeton and I need help with my admission essay.
+COACH: Sure! That's a great school and I'm sure you have some amazing ideas for your essay. Before we get started, can you tell me a bit more about why you think an admission essay matters?
+STUDENT: Well, I think an admission essay is important because it gives the admissions committee a chance to get to know me beyond my grades and test scores. It's an opportunity to showcase my creativity and writing skills, and to express my thoughts and opinions on important social issues.
+COACH: That's great! It sounds like you have a good understanding of why an admission essay matters. Now, can you tell me a bit more about what kind of topics you're considering for your essay? What kind of social issues are you interested in exploring?
+STUDENT: I'm interested in exploring issues related to poverty and inequality. I also want to talk about how art and creativity can be used to make a positive impact on society.
+COACH: That's a great topic! I think it's important to focus on how art and creativity can be used to make a difference. Do you have any specific examples in mind?
+STUDENT: Yes, I want to talk about how art can be used to raise awareness about social issues and how it can inspire people to take action. I also want to discuss how art can be used to bring people together and create a sense of community.
+COACH: That's a great idea! I think it's important to highlight how art can be used to bring people together and create positive change. Now, let's talk about structure and organization. How do you plan to organize your essay?
+STUDENT: I plan to start by introducing the topic and then discussing the importance of art and creativity in addressing social issues. After that, I'll talk about specific examples of how art has been used to make a difference. Finally, I'll end with a conclusion that highlights the importance of art and creativity in making a positive impact on society.

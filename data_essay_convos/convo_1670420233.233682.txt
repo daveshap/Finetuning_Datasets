@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to college and I'm having a hard time figuring out how the admissions process works.
+COACH: That's a great question! The college admissions process varies from school to school, but in general, most colleges will look at your academic record, extracurricular activities, letters of recommendation, and essays. Depending on the school, they may also consider other factors such as standardized test scores, interviews, or community service. 
+STUDENT: Okay, that makes sense. I'm interested in applying to Duke University and I want to write about my experience volunteering in Vietnam. How should I approach this?
+COACH: That's a great topic for your essay! You should focus on how your experience in Vietnam has shaped your perspective on social issues. Talk about the lessons you learned and how they have influenced your outlook on life. Also, make sure to explain why attending Duke University is important to you and how it will help you pursue your goals.

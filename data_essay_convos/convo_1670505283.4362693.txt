@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are funds that are given to individuals or organizations for a specific purpose. The criteria for obtaining grants can vary, but generally, they are awarded based on financial need, academic merit, or other qualifications. To apply for grants, you typically need to fill out an application and provide supporting documents.

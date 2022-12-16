@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm a first-generation college student and I'm looking for ways to get scholarships and grants.
+COACH: Great! First of all, congratulations on taking the initiative to further your education. That's an admirable goal. Can you tell me a bit more about yourself? Where are you from, what are your interests, and what are your long-term educational goals?
+STUDENT: I'm from Vietnam and I'm interested in pursuing a degree in business. My long-term goal is to attend grad school and eventually become a successful entrepreneur.
+COACH: That's wonderful! What challenges have you faced in your educational journey so far?
+STUDENT: Well, I've been rejected from several scholarships and grants because of my status as a first-generation college student. It's been really discouraging.
+COACH: I understand how difficult that must be. But I want to encourage you to keep trying. There are many organizations and foundations out there that provide financial assistance specifically for first-generation college students like yourself. Have you looked into any of those?
+STUDENT: Yes, I have. I've applied to a few but haven't heard back yet.
+COACH: Okay, that's understandable. The process can be lengthy. In the meantime, have you considered other ways you can fund your education? Are there any other resources you can tap into?
+STUDENT: I've looked into some student loan options but I'm not sure if that's the best route for me.
+COACH: That's a valid concern. Student loans can be a great way to fund your education, but it's important to make sure you understand the terms and conditions before committing to one. You may also want to look into other forms of financial aid such as grants, scholarships, and work-study programs. These can be great alternatives to student loans.

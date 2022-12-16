@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help writing a personal statement for my college application.
+COACH: Alright, let's get started. Can you tell me a bit more about yourself and why you want to apply for college?
+STUDENT: Well, I'm from the Philippines, and I'm interested in studying abroad in Thailand. I want to go to college because I feel like I'm a boring person and I want to challenge myself and learn more about the world.
+COACH: Sounds like you have a great goal in mind! Can you tell me a bit more about what kind of essay you're writing? 
+STUDENT: Yeah, it's a personal statement for my college application.
+COACH: Got it. What kind of structure do you want to use for your essay? Do you want to start with a hook, then move into the middle and then wrap up with a conclusion?
+STUDENT: Yeah, that sounds like a good structure.
+COACH: Great! Let's start with the hook. What kind of hook do you want to use to grab the reader's attention?
+STUDENT: Hmm, I don't know. I guess I could use something about how I'm from the Philippines and I want to study in Thailand, and how it would be a great opportunity for me to challenge myself and learn more about the world.
+COACH: That sounds like a great hook! Now let's move on to the middle of the essay. What kind of stories or experiences do you want to share in the middle to show the reader why you're a great candidate for college?
+STUDENT: Well, I want to talk about how I've always been interested in learning about different cultures, and how I've had a lot of experiences that have made me a more well-rounded person. I also want to talk about how I'm not afraid to take risks and try new things.
+COACH: Perfect! That sounds like a great way to demonstrate why you're a great candidate for college. Lastly, let's move on to the conclusion. What kind of message do you want to leave the reader with at the end of your essay?
+STUDENT: I want to leave them with the message that I'm a hardworking and ambitious person who is willing to take risks and challenge myself in order to achieve my goals.

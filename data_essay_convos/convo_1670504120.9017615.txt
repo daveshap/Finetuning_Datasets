@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: When you feel that you have expressed yourself clearly and effectively, and when you feel that your essay accurately reflects the message you want to convey, then your essay is finished. You should also make sure that you have proofread it for any errors in grammar, punctuation, and spelling.

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question! The first step is to brainstorm ideas for your essay. What are some topics that you think would be relevant to your admissions essay?
+STUDENT: I'm thinking of writing about my experience in the classroom and how it has shaped my academic journey.
+COACH: That's a great idea! Now, let's talk about how you can structure your essay. What kind of structure do you think would work best for this topic?
+STUDENT: I think I would like to use a chronological structure, starting with my early academic experiences and then moving on to more recent experiences.
+COACH: That sounds like a great plan! Now, let's talk about how you can make sure your essay is engaging and compelling. What kind of details can you include to help illustrate your points? 
+STUDENT: I can include specific examples of how my experiences have shaped my academic journey, like how I overcame a challenging course or how I worked hard to achieve a goal.
+COACH: Perfect! Those are great ideas. Now, let's talk about how you can make sure your essay flows logically. What kind of transitions can you use to help move from one point to the next?
+STUDENT: I can use phrases like "in addition," "moreover," and "as a result" to connect my points.
+COACH: Great! Those are all great ideas. Now, let's talk about how you can make sure your essay is polished and professional. What kind of editing techniques can you use to make sure your essay is error-free?
+STUDENT: I can read my essay out loud to check for grammar and spelling errors, and I can also ask a friend or family member to review my essay for me.

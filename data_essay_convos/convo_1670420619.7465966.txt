@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having some trouble writing my admissions essay.
+COACH: Great. Can you tell me a bit more about your background and why you're applying to college?
+STUDENT: Sure. I come from a poor family and I'm interested in studying engineering in France or another European country.
+COACH: That's a great goal. Can you tell me more about why you want to study engineering in Europe?
+STUDENT: Well, I think it would be a great opportunity to learn from the best engineers in the world and gain experience that I wouldn't be able to get in my home country.
+COACH: That makes sense. What kind of engineering would you like to study?
+STUDENT: I'm most interested in civil engineering.
+COACH: Interesting. What specifically draws you to civil engineering?
+STUDENT: I think it's a great way to make a real difference in people's lives. I want to be part of a team that helps build infrastructure and create a better society.
+COACH: That's admirable. What kind of experiences have you had that have made you interested in civil engineering?
+STUDENT: Growing up, I was always fascinated with the different structures around me. I used to visit construction sites with my father and ask him questions about how things were built. That really sparked my interest in engineering.
+COACH: That sounds like a great experience. What do you think makes you stand out from other applicants who are interested in studying engineering?
+STUDENT: I think my passion for engineering really sets me apart from other applicants. I'm motivated to learn and I'm willing to put in the hard work to reach my goals. I also have a unique perspective on engineering due to my diverse cultural background.

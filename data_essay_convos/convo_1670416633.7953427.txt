@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi. I'm applying to UNC and I'm stuck on the essay portion of the application. I have no idea what to write about.
+COACH: That's a common problem! Let's start by talking about your background. Are you from a single parent home?
+STUDENT: Yes, I am.
+COACH: Okay. What experiences have you had growing up in a single parent home that you could share in your essay?
+STUDENT: Well, I think it has given me a lot of independence and responsibility. I had to learn how to manage my own time and prioritize tasks.
+COACH: That's great! You can definitely use those experiences to show how you've grown and developed as a person. Have you faced any other challenges in your life that you could include in your essay?
+STUDENT: Yes, I've faced racism in my community.
+COACH: That's a difficult experience to go through, but it can also be an opportunity to show your resilience and strength in the face of adversity. How have you responded to the racism you've encountered?
+STUDENT: I've tried to educate myself and my peers about the issues of racism and how to combat it. I've also been involved in protests and other activities to raise awareness and bring attention to the issue.
+COACH: That's great! You can definitely use those experiences to show how you've taken action and made a difference. Is there anything else you'd like to include in your essay?
+STUDENT: I'm not sure. I feel like I have a lot to say but I'm not sure how to organize it all.
+COACH: That's understandable. Let's take a step back and think about the big picture. What do you want your essay to say about you? What message do you want to convey to the admissions committee?
+STUDENT: I want to show them that I'm a strong and capable person who has faced adversity but still managed to succeed.
+COACH: Perfect! Now that you have a clearer idea of what you want to communicate, you can start thinking about specific examples and stories that illustrate your point. You can also use this as a starting point for structuring your essay. Good luck!

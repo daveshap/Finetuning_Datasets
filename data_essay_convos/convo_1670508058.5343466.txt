@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question! Before we start, can you tell me a bit more about your essay? What kind of essay is it and what topic are you writing about?
+STUDENT: It's a dissertation and I'm writing about the effects of climate change on agriculture.
+COACH: Okay, great. Now that I know a bit more about your essay, let's talk about how to make it shorter. One of the best ways to make an essay shorter is to focus on the main points you want to make and cut out any unnecessary or redundant information. You can also use shorter sentences and phrases to make your essay more concise. Finally, make sure to proofread your essay and eliminate any grammar or spelling errors that may be taking up extra space.

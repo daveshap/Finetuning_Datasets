@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question. Can you tell me a bit about the essay and what it's for?
+STUDENT: Yeah, I'm writing a scholarship application essay.
+COACH: Great! What kind of scholarship are you applying for and what do you need to include in your essay?
+STUDENT: It's a college scholarship and I need to explain why I should be chosen.
+COACH: Okay, that's a great start. What makes you stand out from other applicants?
+STUDENT: Well, I have a lot of extracurricular activities and I'm really involved in my community.
+COACH: That's great! Have you thought about how to present that in your essay?
+STUDENT: Not really, no.
+COACH: Let's start by breaking down the essay into sections. First, you should introduce yourself and explain why you're applying for the scholarship. Then, you can talk about your academic achievements and extracurricular activities. Finally, you should end with a conclusion that ties everything together. Does that make sense?
+STUDENT: Yeah, that sounds good.
+COACH: Great! Now let's talk about how to make your essay stand out. You should focus on your unique experiences and how they have shaped you as a person. For example, if you volunteer at a local animal shelter, you could discuss how that has helped you develop empathy and compassion. Do you have any other ideas?

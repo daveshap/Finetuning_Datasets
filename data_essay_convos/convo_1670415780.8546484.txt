@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm applying to medical school and I need help writing my essay.
+COACH: Alright, that's a great start. What kind of essay are you writing? 
+STUDENT: It's a personal statement for UNC.
+COACH: Got it. So, what kind of topics are you considering writing about?
+STUDENT: I'm not sure. I feel like I'm a pretty boring person and I don't have any interesting stories or experiences to write about.
+COACH: That's okay! You don't have to have an exciting life story to write a compelling essay. What are some things that you're passionate about? 
+STUDENT: Well, I'm really interested in Vietnam. I've studied the history and culture of the country and I'm fascinated by it.
+COACH: That sounds like a great topic for your essay! You can talk about why you find Vietnam so interesting and how you plan to use your knowledge to make a difference in the medical field. What do you think? 
+STUDENT: Yeah, I think that could work! I'm excited to start writing about it.

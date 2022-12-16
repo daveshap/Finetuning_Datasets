@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Well, the first step is to research the college or universities you are interested in and make sure you meet their admissions requirements. Then you will need to complete the application, which usually includes an essay.
+STUDENT: What should I include in my essay?
+COACH: Your essay should be persuasive, so you want to make sure you include evidence to support your argument. You should also focus on your strengths and accomplishments and explain why you are a good fit for the college. Additionally, you can include any personal stories or experiences that have shaped who you are today.

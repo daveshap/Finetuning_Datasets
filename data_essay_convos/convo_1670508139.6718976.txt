@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: That's a great question. Let's start by talking about your essay's purpose. What kind of argument are you trying to make in your essay?
+STUDENT: I'm trying to argue that global warming is an issue that needs to be addressed.
+COACH: Okay, great. So you want to make sure your essay is persuasive and compelling. You'll need to provide evidence to support your argument, and you'll also want to consider the opposing view, so your reader can understand why your argument is the right one. You can use facts, figures, and statistics to back up your points, as well as personal stories or anecdotes. Additionally, you can use rhetorical devices such as metaphors and similes to make your argument more vivid and engaging.

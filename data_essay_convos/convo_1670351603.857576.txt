@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm having a lot of trouble coming up with an essay topic. I don't know what to write about.
+COACH: That's understandable, it can be difficult to figure out what to write about when you're starting from scratch. Can you tell me a bit more about yourself and what you're interested in?
+STUDENT: Sure. I'm a student from Europe and I'm interested in topics such as racism, refugees, and why college matters.
+COACH: Great, those are all really interesting topics. Have you considered writing an essay about the importance of college for refugees or other immigrants? 
+STUDENT: That's a really great idea! I hadn't thought of that before.
+COACH: Sure, it's a great way to explore the concept of college being a path to success for those who may have faced difficulty in their lives. You could discuss how college can provide a platform for refugees to be successful, despite the challenges they may face.
+STUDENT: That sounds really interesting. How should I go about researching and writing this essay?
+COACH: Well, there are a few steps you can take to get started. First, you'll want to research the topic and get a better understanding of the issues and how they relate to college. You can look into articles, books, and interviews with refugees and experts in the field. Once you have a better understanding of the topic, you'll want to think of a main argument or thesis statement that you want to make in your essay. From there, you can start to outline your essay and write it.

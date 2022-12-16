@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: That's a great question. It sounds like you're looking for financial aid information. What kind of essay are you working on?
+STUDENT: I'm writing a personal statement for medical school.
+COACH: Great! A personal statement is a great way to show the admissions committee who you are and why you’d be a great fit for the school. What kind of help do you need with it? 
+STUDENT: I'm having trouble getting started. I don't know how to structure it or what to include.
+COACH: That's understandable. A personal statement can be tricky to write. Let's start by talking about your goals and why you want to attend medical school. What inspired you to pursue a career in medicine?

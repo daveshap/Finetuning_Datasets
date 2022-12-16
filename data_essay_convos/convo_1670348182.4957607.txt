@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am applying for a college admission essay for Yale and I'm an engineering student. I'm having trouble coming up with something to write about because I feel like I'm a boring person.
+COACH: Well, that's not true! Everyone has something interesting to say. What do you find interesting about engineering?
+STUDENT: I like that it involves problem solving and understanding how things work.
+COACH: That's great! A lot of people find engineering fascinating. Have you ever had any experiences related to engineering that have been particularly meaningful or memorable to you?
+STUDENT: Yes, I recently built a robot with my friends. It was a really cool project and we had to figure out a lot of complex problems in order to get it to work.
+COACH: That sounds like a great experience! You could use that as the focus of your essay. Talk about the challenges you faced and how you overcame them. Describe the feeling of accomplishment when you finally got the robot to work. That could be a great way to show your passion for engineering and demonstrate your problem solving skills.

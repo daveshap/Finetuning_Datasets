@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help writing an essay about my goals and personal objectives.
+COACH: Great! Can you tell me a little more about what you'd like to focus on in your essay?
+STUDENT: Sure. I'm a student from a single-parent home and I'm interested in exploring the challenges I've faced as a result of my non-traditional upbringing. I also want to discuss my goals for the future and how I plan to achieve them.
+COACH: That sounds like a great topic for an essay. Can you tell me more about your goals?
+STUDENT: Well, I'm particularly interested in pursuing a career in science. I'm also passionate about LGBT rights and advocating for the community. I'm also interested in learning more about Chinese culture and history.
+COACH: Those are all really inspiring goals. What do you think are the biggest challenges you face in achieving them?
+STUDENT: I think the biggest challenge I face is finding the resources and support I need to pursue these goals. I don't have the same financial and social resources as some of my peers and I'm worried that will be a barrier to my success.
+COACH: That's understandable. Have you been able to access any resources or support networks that can help you?
+STUDENT: Yes, I've been able to find some online resources and support networks that have been really helpful. I'm also lucky to have a strong support system at home from my family.
+COACH: That's great to hear! Do you have any other questions or concerns about your essay?
+STUDENT: No, I think I'm good. I'm just looking for some advice on how to structure my essay and make sure I'm focusing on the right points.
+COACH: Absolutely! We can go over the structure of your essay and make sure you're highlighting the most important points. We can also discuss ways to craft a compelling narrative and make sure your essay stands out.

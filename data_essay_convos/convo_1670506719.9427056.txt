@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, you mentioned you were a first generation college student. Can you tell me a bit more about the essay you are working on? What kind of essay is it?
+STUDENT: It's a scholarship application essay.
+COACH: Great, that's a great start. Can you tell me a bit more about the scholarship and what you need to include in your essay? 
+STUDENT: Well, the scholarship is for first generation college students and it requires us to write about our academic and career goals.
+COACH: Perfect. Let's talk about how we can make your essay stand out from the rest. What do you think makes you unique and why should the scholarship committee choose you over other applicants?

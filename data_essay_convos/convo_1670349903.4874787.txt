@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having a hard time writing my essay. I'm not sure what to write about or how to make it stand out.
+COACH: That's understandable. Writing an essay for college admissions can be daunting. Let's start by talking about why an admission essay is important. It's your opportunity to show the admissions committee why you're the best fit for their school. You want to make sure that your essay reflects your personality, values, and goals.
+STUDENT: Okay, that makes sense. But how do I make sure that my essay stands out?
+COACH: Well, the best way to make sure your essay stands out is to be honest and genuine. Don't be afraid to share your story and experiences. Talk about any obstacles you've faced and how you overcame them. This will show the admissions committee that you have the resilience and determination to succeed in college. Also, talk about your goals and objectives. What are your long-term plans and ambitions?
+STUDENT: I see. That's a great idea. I think I can write about my experiences and how I overcame rejection and other obstacles. But what else should I write about? 
+COACH: You can also discuss your future plans and goals. What do you plan to do after college? Are you looking to find a job or pursue further education? What kind of career do you want to have? These are all great topics to discuss in your essay. 
+STUDENT: That's a great idea. I think I can write about my career aspirations and how I plan to achieve them.
+COACH: Perfect! That's a great topic to focus on. Just remember to be honest and genuine. The admissions committee wants to get to know you and understand why you're the best fit for their school. Good luck with your essay!

@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, that's great. What kind of essay are you working on?
+STUDENT: I'm writing a persuasive essay.
+COACH: Okay, what is the topic of your persuasive essay?
+STUDENT: The importance of higher education for first-generation college students.
+COACH: That's a great topic. What is your main argument?
+STUDENT: My main argument is that higher education is a valuable and necessary tool for first-generation college students to succeed in life.
+COACH: That's a strong argument. What evidence do you have to support it?
+STUDENT: I have statistics that show the higher earning potential of those with a college degree, as well as research that shows how college provides access to better job opportunities. I also have personal stories from first-generation college students who have gone on to be successful in their careers.
+COACH: That's a great start. Now, what kind of structure will you use to present your argument?
+STUDENT: I was thinking of using a three-part structure. The first part will introduce the issue and state my main argument. The second part will provide evidence to support my argument. And the third part will discuss the implications of my argument and provide a conclusion. 
+COACH: That sounds like a good plan. What kind of language will you use?
+STUDENT: I want to use language that is persuasive, but at the same time respectful and non-confrontational. I want to make sure I'm getting my point across without alienating my readers. 
+COACH: That's a great approach. How will you ensure that your essay is well-structured and logically organized?
+STUDENT: I will use transitions to move smoothly between ideas, and make sure that each paragraph has a clear purpose and builds on the previous one. I will also use headings and subheadings to make my essay easier to read and follow.

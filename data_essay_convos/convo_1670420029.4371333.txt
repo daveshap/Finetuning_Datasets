@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking to apply to UCLA for grad school and I'm having trouble getting started on my personal statement.
+COACH: Okay, that's understandable. It can be difficult to know where to start. Can you tell me a bit more about your goals? What do you want to study in grad school?
+STUDENT: I'm interested in politics and public policy. 
+COACH: That's great! So, what do you think you could bring to the program? What unique perspectives or experiences do you have that would make you stand out from other applicants?
+STUDENT: Well, I've been involved in local politics for several years now and I think that gives me a unique perspective on how policy is formulated and implemented.
+COACH: That's fantastic! Those are excellent experiences to highlight in your essay. What else could you add to your essay to help you stand out?
+STUDENT: I'm also very passionate about social justice and human rights.
+COACH: Perfect! You could use your passion for social justice to demonstrate your commitment to making a difference in the world. How do you think your experiences and interests will help you contribute to the program?
+STUDENT: I think my experiences and interests will help me understand the complexities of policymaking and how to create effective solutions.
+COACH: That's great! You could use this as a way to show how your knowledge and experience will help you contribute to the program. What do you think will be the most challenging part of writing your personal statement?
+STUDENT: I think the hardest part will be finding the right words to express my thoughts and feelings.
+COACH: That's understandable. Writing can be difficult, but there are some strategies you can use to help you find the right words. For example, you can brainstorm ideas and write down key points that you want to include in your essay. This can help you organize your thoughts and make sure you don't miss anything important. You can also read sample essays to get an idea of how other people have expressed their ideas.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm having trouble figuring out what to write about.
+COACH: Wow, that's a great accomplishment! What kind of essay are you writing?
+STUDENT: It's for an application to a university in Germany. 
+COACH: Ah, okay. What topics are you interested in?
+STUDENT: I'm really interested in science and technology.
+COACH: That's great! What specific aspects of science and technology do you want to focus on? Are there any particular areas that you're passionate about?
+STUDENT: Well, I'm really interested in robotics and artificial intelligence.
+COACH: That sounds fascinating! What kind of research have you done in these areas so far?
+STUDENT: I've done some reading about the potential applications for AI in industry and healthcare, but I haven't done much research beyond that.
+COACH: That's a great start! Have you considered looking into the history of robotics and AI and how it has evolved over time? That could be a good angle to explore in your essay. Also, since you come from a single parent home, you could consider discussing how this experience has shaped your views on technology and its potential to improve people's lives.

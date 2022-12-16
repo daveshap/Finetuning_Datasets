@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That's a great question. Can you tell me a bit more about why you're asking? What kind of essay are you writing?
+STUDENT: I'm writing a persuasive essay about why college matters.
+COACH: Okay, great. To help you craft your argument, let's start by talking about what college offers that other post-secondary options don't. What do you think are the advantages of pursuing a college degree? 
+STUDENT: Well, I think one of the biggest advantages is the opportunity to learn from experienced professors and to get access to a wide range of resources.
+COACH: That's true. College also provides an opportunity to develop skills such as critical thinking, communication, and problem-solving. These are all important skills that employers value in the workplace. Additionally, college provides a network of contacts and resources that can be invaluable when seeking employment after graduation. 
+STUDENT: That makes sense. I hadn't thought of it that way.
+COACH: Great! Another advantage of college is the chance to explore different subjects and find out what you're passionate about. College can also open doors to research opportunities and internships that can provide valuable experience and contacts. Finally, college can give you a competitive edge in the job market. Employers often look for applicants with a college degree, so having one can make you stand out from the crowd. 
+STUDENT: That's really helpful. Thanks for all the insights.

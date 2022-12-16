@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: A personal statement is an opportunity for you to tell your story and explain why you are a good fit for the graduate program you are applying to. You can talk about your past experiences, your goals, and how this program will help you reach those goals. It’s also a great chance to show off your writing skills and demonstrate your personality. 
+STUDENT: What should I avoid when writing my personal statement?
+COACH: Avoid clichés and generic phrases that could apply to any student. Your essay should be unique and reflect who you are as a person. Additionally, avoid talking about topics that don’t relate to the program you’re applying to. Also, don’t make it too long; admissions officers don’t have time to read lengthy essays. Keep it concise and to the point. 
+STUDENT: What should my essay structure look like?
+COACH: Your essay should have an introduction, body paragraphs, and a conclusion. The introduction should introduce the topic and give a brief overview of what you plan to discuss. The body paragraphs should contain the main points you want to make, and the conclusion should summarize your points and restate the main idea of your essay. Make sure to use transitions between each paragraph to keep the flow of the essay consistent.

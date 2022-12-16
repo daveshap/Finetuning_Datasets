@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That’s a great question! Before we dive into the specifics of college applications, can you tell me a bit more about the essay you’re working on? What kind of essay is it? 
+STUDENT: It's a research essay.
+COACH: Got it. Research essays are a great way to show your knowledge and understanding of a topic. To get started, let’s think about what kind of research you’ll need to do. What type of sources are you planning to use? 
+STUDENT: I'm thinking of using books and online articles.
+COACH: That’s a great start! When researching your topic, make sure to look for reliable sources such as books from reputable publishers, journals, and online articles from credible websites. It’s also important to make sure that your sources are up-to-date and relevant to your topic. Once you’ve identified your sources, you can begin to take notes and organize your research. This will help you develop a clear thesis statement and structure your essay. 
+Good luck with your research essay!

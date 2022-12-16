@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I need help with my essay structure.
+COACH: Sure, what kind of essay are you writing? Is it a personal statement or an academic essay?
+STUDENT: It's a personal statement.
+COACH: Alright, so what kind of topics are you planning to cover in your essay?
+STUDENT: I want to talk about my faith in Islam and how it has shaped my life experiences.
+COACH: Interesting. Can you tell me more about how your faith has impacted your life?
+STUDENT: Sure! I was raised in a Muslim household and my parents always taught me the importance of respecting others and being kind. This has really stuck with me throughout my life and has influenced many of my decisions.
+COACH: That's great. What other elements are you planning to include in your essay?
+STUDENT: I want to talk about how my experiences at Princeton and Yale have also shaped my worldview.
+COACH: Excellent. What kind of experiences have you had at those universities that have impacted your outlook?
+STUDENT: Well, I've had the opportunity to take classes on a variety of topics, from religion to history to politics. I've also been able to participate in extracurricular activities like debate team and student government, which have helped me develop my leadership skills. All of these experiences have given me a better understanding of the world and how to interact with different people.

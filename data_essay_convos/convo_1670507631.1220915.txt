@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question. Before we dive into the specifics of your essay, can you tell me a bit more about what you're looking for? What do you hope to achieve with this essay?
+STUDENT: I'm writing a personal statement for medical school, and I want to make sure it stands out.
+COACH: Okay, that's a great goal. Now, let's talk about the structure of your essay. How long is it? What topics are you covering?
+STUDENT: It's about 1000 words and I'm talking about my experiences in medical school and why I chose to pursue a career in medicine. 
+COACH: That sounds like a great start. Now, let's talk about the content of your essay. What makes your story unique? What are some of the key points you want to make sure you include in your essay?

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my goals and personal objectives. I'm having trouble figuring out how to start.
+COACH: That's a great topic! Let's start by talking about what you want to achieve. What are your goals and objectives?
+STUDENT: My main goal is to apply to college and get accepted. I also want to explore my creativity and art, and learn more about Islam.
+COACH: That's a great goal. What specifically do you want to do with your creativity and art?
+STUDENT: I want to use my creativity to create something unique and meaningful. I'm particularly interested in exploring Islamic art and culture, and using it in my own artwork.
+COACH: That sounds really interesting. What kind of artwork are you thinking of creating?
+STUDENT: I'm interested in creating digital art, as well as traditional art forms like painting and sculpture. I'm also interested in exploring Islamic architecture and design.
+COACH: That's great! What kind of college are you looking to apply to?
+STUDENT: I'm interested in applying to college in the Philippines, as I'm originally from there. I want to find a college that will help me explore my creativity and art, while also providing a good education.
+COACH: That sounds like a great plan. What kind of research have you done into colleges in the Philippines?
+STUDENT: I've done some research online, but I'm still not sure which college would be the best fit for me. I'm looking for a college that offers a good curriculum and has a strong focus on Islamic art and culture.

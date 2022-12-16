@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and I need help writing my essay.
+COACH: Great! What would you like to focus on in your essay?
+STUDENT: Well, I come from a single parent home and I want to talk about how that has shaped my skills and achievements.
+COACH: That sounds like a great topic to explore. Can you tell me more about how your upbringing has impacted your development?
+STUDENT: Sure. Growing up in a single parent home was challenging at times. My mom had to work long hours to make ends meet, so I had to learn how to be independent and take responsibility for myself. I also had to develop strong problem-solving and organizational skills to manage my time and get things done.
+COACH: That's really impressive! It sounds like you have a lot of valuable skills and experiences to draw from. What else would you like to include in your essay?
+STUDENT: I'd also like to talk about my faith. I was raised in a Jewish household and my faith has been a big part of my life. I'd like to discuss how it has shaped my values and helped me become the person I am today.
+COACH: That's a great idea! It sounds like you have a lot of material to work with. Are you ready to get started on your essay?
+STUDENT: Yes, I think I'm ready. I just need some guidance on how to structure my thoughts and make sure my essay is compelling.
+COACH: Absolutely! Let's start by brainstorming some ideas and talking through the main points you want to make. Then we can work on organizing your thoughts into an outline and finally begin drafting your essay. Does that sound like a plan? 
+STUDENT: Yes, that sounds great. Let's get started!

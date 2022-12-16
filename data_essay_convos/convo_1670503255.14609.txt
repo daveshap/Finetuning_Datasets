@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be done a few different ways. You can apply for grants and scholarships, take out student loans, or pay for it out of pocket. It's important to research all your options before making a decision. Now, what kind of essay are you working on?
+STUDENT: I'm writing an argumentative essay for my college admissions essay.
+COACH: Great! An argumentative essay is a great way to show the admissions board your critical thinking skills. When writing an argumentative essay, it's important to clearly state your position and provide evidence to back it up. Make sure you research your topic and provide facts and examples to support your argument. Have you chosen a topic yet?

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm interested in applying to Yale, MIT and some universities in the Philippines. I'm from a single parent home and I'm trying to figure out how to get scholarships and grants to help with tuition.
+COACH: That's great! It's wonderful that you're looking into so many universities. Can you tell me more about your background? What kind of courses have you taken, and what are your academic interests?
+STUDENT: Sure, I've taken mostly college prep courses in high school and I'm interested in studying computer science and mathematics. I'm also passionate about music and the arts.
+COACH: Sounds like you have a lot of interests! To get into a top university like Yale or MIT, you'll need to show that you have the academic qualifications, as well as having a strong extracurricular profile. Do you have any volunteer experience, or have you been involved in any clubs or organizations?
+STUDENT: Yes, I've been involved in a few clubs and organizations in my school, and I have some volunteer experience as well. 
+COACH: That's great! Having extracurricular activities is an important part of the application process. You'll also need to write a compelling essay that showcases your unique qualities and experiences. Do you have any ideas for the essay topic?
+STUDENT: I'm not sure yet. I was thinking of writing about how growing up in a single-parent home has shaped my values and ambitions.
+COACH: That's a great idea! Writing about your personal experiences can be a powerful way to tell your story and demonstrate why you're a great fit for the university. I can help you develop your essay topic and craft a compelling narrative. Do you have any questions about the application process or scholarships and grants?
+STUDENT: Yes, I'm wondering if there are any scholarships or grants available specifically for students from single-parent homes.
+COACH: Absolutely! There are many scholarships and grants available specifically for students from single-parent homes. I can help you research and apply for these scholarships and grants. Do you have any other questions?

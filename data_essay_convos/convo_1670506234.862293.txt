@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: A great place to start is by thinking about what makes you unique. What sets you apart from other applicants? What experiences have shaped you and your career aspirations?
+STUDENT: Well, I'm interested in pursuing a career in law and I feel like my background and experiences have prepared me for this.
+COACH: That's great! What kind of background and experiences do you have that have led you to this point?
+STUDENT: I've had a lot of internships in the legal field throughout the years, and I've also been involved in several community service projects that have helped me gain a better understanding of the law and its implications.
+COACH: That's fantastic! Those experiences are great building blocks for a strong personal statement. You could use them to demonstrate your knowledge of the law, as well as your commitment to helping others. How else have you prepared yourself for a career in law?
+STUDENT: I've taken classes in legal studies and participated in several mock trials. I've also done research on legal topics and attended lectures on the subject.
+COACH: All of these experiences can be used to showcase your knowledge and passion for the law. You could discuss how each experience has shaped your understanding of the law and how it has prepared you for a career in the field. Additionally, you could talk about how your unique background and experiences have made you an ideal candidate for law school.

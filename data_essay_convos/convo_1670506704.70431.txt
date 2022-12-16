@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, I can help you with that. What type of essay is it?
+STUDENT: It's a term paper.
+COACH: Great! Let's start by getting some background information. What is the topic of your term paper?
+STUDENT: The topic of my term paper is the impact of being a first generation college student.
+COACH: That's a great topic! What kind of research have you done so far?
+STUDENT: I've read some articles about the experiences of first-generation college students and I've also talked to some of my peers who are in the same situation as me.
+COACH: That's a good start. Now, let's talk about the structure of your paper. What kind of structure do you think would be best for this topic?
+STUDENT: I was thinking of having an introduction, followed by three body paragraphs discussing different aspects of the topic, and then a conclusion.
+COACH: That's a great idea. Now let's talk about the introduction. What kind of information should you include in the introduction?
+STUDENT: I think I should include some background information on the topic, such as statistics on the number of first-generation college students, as well as a brief overview of the challenges they face.
+COACH: That sounds like a great plan. Now let's talk about the body paragraphs. What kind of information should you include in each body paragraph?
+STUDENT: I think I should focus each body paragraph on a different aspect of the topic. For example, one paragraph could discuss the financial struggles faced by first-generation college students, another could discuss the academic challenges, and a third could discuss the emotional and social challenges.
+COACH: That's a great plan. Finally, let's talk about the conclusion. What kind of information should you include in the conclusion?
+STUDENT: I think I should summarize the main points of my paper, as well as provide some recommendations for ways to support first-generation college students.

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm stuck on what to write about in my personal statement.
+COACH: Okay, I can certainly help you with that. Let's start by talking about your background and what makes you unique. What kind of experiences have you had that you think could be interesting to discuss in your essay?
+STUDENT: Well, I've done a lot of charity work in Vietnam over the past few years. I've also been involved in some student organizations at my high school and have been a leader in some of them.
+COACH: That's great! Those types of experiences are very valuable when you're applying to college. Can you tell me a bit more about your charity work? What did you do and how did it impact you?
+STUDENT: Sure. I worked with an organization that helps provide education and basic necessities to children in rural areas of Vietnam. It was really eye-opening to see how different life is for people living in poverty. I learned a lot about the power of giving and how even small gestures can make a difference.
+COACH: That sounds like an amazing experience. How did it shape your view of the world and your own values?
+STUDENT: It made me realize that no matter where we come from, we all have the potential to make a positive impact in the world. It also made me more aware of global issues and the importance of helping those in need. It definitely changed my perspective on life and how I approach problems.

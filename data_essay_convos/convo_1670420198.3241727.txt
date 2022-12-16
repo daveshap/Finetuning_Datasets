@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about the challenges refugees face when they come to a new country. I'm having trouble getting started.
+COACH: That's a great topic! It sounds like you have a lot of ideas, but you're having trouble organizing them into an essay structure. Let's start by brainstorming some of the main points you want to address in your essay. What are some of the challenges that refugees face when they come to a new country?
+STUDENT: Well, there are a lot of challenges. A lot of refugees have to start from scratch in a new country. They may not know the language, or have any money or resources. They may also face discrimination or prejudice from the local population.
+COACH: That's a great list! Now, let's think about how you want to organize these points. Do you want to focus on one challenge at a time and explain it in detail? Or do you want to compare and contrast different challenges?
+STUDENT: I think I want to compare and contrast the different challenges.
+COACH: That's a great approach! Now, let's think about how you want to structure your essay. Do you want to start with an introduction that explains what you're going to talk about, and then move into the body of the essay where you discuss each challenge? Or do you want to start with the body of the essay and then write an introduction at the end?
+STUDENT: I think I want to start with the body of the essay and then write the introduction at the end.
+COACH: Great! Now, let's think about how to structure the body of the essay. Do you want to focus on one challenge at a time, or do you want to compare and contrast two or more challenges?
+STUDENT: I think I want to compare and contrast two or more challenges.
+COACH: Perfect! Now, let's think about how to structure each section. Do you want to start each section with a brief overview of the challenge, and then move into a more detailed explanation of the challenge? Or do you want to start with a detailed explanation of the challenge, and then move into a brief overview?
+STUDENT: I think I want to start with a brief overview of the challenge, and then move into a more detailed explanation.
+COACH: Great! Now, let's think about how you want to conclude your essay. Do you want to end with a summary of the main points you made in the essay? Or do you want to end with a call to action, encouraging readers to take action to help refugees?
+STUDENT: I think I want to end with a call to action, encouraging readers to take action to help refugees.
+COACH: Wonderful! Now, let's think about how to overcome any obstacles that might stand in your way. Are you feeling overwhelmed by the task of writing this essay? Are you worried about rejection?
+STUDENT: Yes, I'm feeling a bit overwhelmed and I'm worried about rejection.
+COACH: That's totally understandable. Writing essays can be intimidating, and it's normal to feel anxious about rejection. Here are some tips to help you get started. First, break the essay down into smaller tasks. Make a plan for each part of the essay and set deadlines for yourself. This will help you stay focused and motivated. Second, remember that rejection is part of the process. Don't let it stop you from submitting your essay. Instead, use it as an opportunity to learn and grow. Finally, don't forget to take breaks and celebrate your successes. These strategies will help you stay focused and productive.

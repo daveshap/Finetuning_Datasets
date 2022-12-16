@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: First, think about what makes you unique and what experiences have shaped your life. What are your interests, strengths, or passions? You can choose a topic based on your experiences or create a story that showcases your personality. It's important to pick something that you feel passionate about and that will make your essay stand out. 
+STUDENT: What should I focus on in my essay?
+COACH: Your essay should focus on why you are a great fit for the college you are applying to. Think about the qualities and values the college holds and how you embody those values. Showcase your accomplishments, but also explain how they have shaped who you are and why you would be a great addition to their student body. 
+STUDENT: How do I start my essay?
+COACH: Start with a strong hook that grabs your reader's attention. This could be a personal anecdote, an interesting fact, or a thought-provoking quote. Then move into the body of your essay, where you will explain your topic in more detail. Make sure to include concrete examples and stories to illustrate your points. Finally, end your essay with a conclusion that ties together all the thoughts and ideas you have discussed.

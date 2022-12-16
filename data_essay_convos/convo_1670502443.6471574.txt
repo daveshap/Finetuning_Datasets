@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. When it comes to writing a college admissions essay, the topic is really important. It should be something that you are passionate about and knowledgeable about. Think about your interests and experiences that have shaped who you are today. That could be a great starting point for your essay topic. 
+STUDENT: What kind of research do I need to do?
+COACH: Research is a critical part of any essay, especially a college admissions essay. You'll want to make sure you have enough information to support your claims and arguments. Start by doing some basic research on your topic. Try to find reliable sources, like peer-reviewed journals or articles from credible news outlets. Once you have some background information, you can start to narrow your focus and look for more specific information.

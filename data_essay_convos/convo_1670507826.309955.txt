@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question! First, let's talk about the type of essay you're writing. What type of essay is it?
+STUDENT: It's a dissertation.
+COACH: Okay, great. A dissertation is a long-form essay that requires a lot of research and critical thinking. The best way to know when your dissertation is finished is to make sure that you've addressed all the key points you want to make in your essay. Have you done enough research? Have you come up with a clear thesis statement? Have you fully developed your arguments? Have you included all the evidence and examples you need to support your points? Have you addressed any counterarguments? Have you proofread and edited your work? If you can answer yes to all of these questions, then you can be confident that your dissertation is complete.

@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admissions essay is an important part of the college application process. It's your chance to show the admissions committee who you are beyond your grades and test scores. An admissions essay can help you stand out from the rest of the applicants and give you an edge in the admissions process. It can also be a great way to showcase your writing skills and demonstrate your ability to think critically.

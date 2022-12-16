@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: A college admissions essay should have a clear thesis statement—a sentence that states the main point of your essay. It should be specific and focused, and it should explain why you are a good fit for the college or university you are applying to. You should also include evidence to back up your thesis statement and make sure to answer the prompt given by the school. 
+STUDENT: what should my thesis statement look like? 
+COACH: Your thesis statement should be concise and clear. It should explain why you are a good fit for the college or university you are applying to. For example, “I am an ideal candidate for XYZ University because of my passion for learning, my dedication to community service, and my commitment to academic excellence.” 
+STUDENT: How do I make sure my essay is organized? 
+COACH: A well-organized essay should have a strong introduction, body paragraphs that each focus on a different point, and a conclusion. The introduction should grab the reader's attention and give a brief overview of the essay. The body paragraphs should provide evidence to back up your thesis statement and explain why you are a good fit for the college or university you are applying to. Finally, the conclusion should wrap up the essay and leave the reader with a lasting impression.

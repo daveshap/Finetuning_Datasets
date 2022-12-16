@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to a university in Germany and I need help with my admissions essay.
+COACH: Alright, can you tell me a bit more about your essay? What topics have you chosen to focus on?
+STUDENT: Well, I'm really passionate about social issues and I want to write about how I think we can create a better world for everyone.
+COACH: That sounds like a great topic! What kind of essay structure do you think would work best for this topic?
+STUDENT: I'm not sure. I was thinking of writing an argumentative essay, but I'm not sure if that's the right approach.
+COACH: An argumentative essay is a great way to tackle this topic. You can use evidence to support your points and make a strong case for your ideas. You can also include counterarguments to show that you understand both sides of the issue. That said, it's important to make sure you structure your essay properly. Start with an introduction that lays out your main argument and then use body paragraphs to back up your claims. Finally, end with a conclusion that summarizes your argument and offers any additional thoughts.

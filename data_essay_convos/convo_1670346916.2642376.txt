@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my admissions essay to MIT.
+COACH: Great! Could you tell me more about yourself and why you're applying to MIT?
+STUDENT: Sure. I'm a first-generation college student from Germany and I'm applying to MIT because I have a passion for engineering and technology. My goal is to gain the necessary skills to become a successful engineer and make a positive impact on the world.
+COACH: That's fantastic. What inspired you to pursue a career in engineering and technology?
+STUDENT: I've always been fascinated by the possibilities of engineering and technology and how they can be used to improve the lives of people around the world. My parents were both engineers and they instilled in me the importance of hard work and dedication, which has motivated me to pursue this field.
+COACH: That's wonderful. What do you think makes you stand out among other applicants?
+STUDENT: I believe that my unique background and experience set me apart from other applicants. I'm a first-generation college student from Germany, so I bring a different perspective to the table. Additionally, I have a strong passion for engineering and technology and a dedication to making a positive impact on the world. I'm confident that my background and skillset will make me an excellent addition to the MIT community.

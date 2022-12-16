@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: You should focus on a topic that is meaningful to you and that showcases your unique perspective. Think about a challenge you overcame, an experience that shaped you, or a value that's important to you. Your essay should be an honest reflection of who you are and how you think.
+STUDENT: How should I structure my essay?
+COACH: Start with an introduction that captures the reader’s attention and sets the tone for your essay. Then, move on to the body of your essay, which should be composed of three to five paragraphs. Each paragraph should have a main point that supports your thesis statement. Finally, wrap up your essay with a conclusion that reiterates your thesis and summarizes the main points of your essay.
+STUDENT: What should I include in my essay?
+COACH: You should include concrete details and examples that illustrate your points and make your essay come alive. Use vivid language and descriptive imagery to bring your story to life. Also, make sure to include evidence to support your argument and show why it matters. Finally, don’t forget to proofread your essay and make sure it is free of errors.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I’m applying to law school and I’m having trouble writing my essay.
+COACH: Great! What kind of help do you need?
+STUDENT: Well, I’m not sure what the different parts of an essay are and how to structure it.
+COACH: Sure, that's a great place to start. An essay typically consists of an introduction, body, and conclusion. The introduction is often called a hook and is used to grab the reader's attention. The body is where you provide evidence to support your argument and make your case. The conclusion is where you wrap up your essay and summarize your main points. Does this help?
+STUDENT: Yes, that helps a lot. But I’m still not sure what admissions officers are looking for when they read my essay.
+COACH: Generally, admissions officers are looking for essays that are well-written and demonstrate your knowledge and understanding of the law. They also want to see that you have a clear understanding of the topic and can make a persuasive argument. Additionally, they will be looking for evidence of your research and critical thinking skills. Finally, they want to get a sense of who you are as a person and why you would be a good fit for the law school.

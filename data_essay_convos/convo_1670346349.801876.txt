@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I'm having trouble getting started with my essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's an essay about my skills and achievements.
+COACH: Okay, that's a great topic! Let's start by talking about what you've accomplished so far. What have you done that you're most proud of?
+STUDENT: Well, I recently volunteered with a non-profit organization in the Philippines. We worked to improve access to education for children in rural areas.
+COACH: That's wonderful! How did you get involved in this project?
+STUDENT: I heard about it through a friend who was already volunteering and I decided to join them.
+COACH: That's great! What did you do specifically?
+STUDENT: We organized donation drives, held fundraisers, and helped build schools and classrooms.
+COACH: Wow, that's impressive. What did you learn from this experience?
+STUDENT: I learned a lot about the importance of education and how even small efforts can make a big difference in people's lives.
+COACH: That's really inspiring. Now, let's talk about your essay. What makes an essay engaging?
+STUDENT: I think it's important to focus on a few key points and use vivid language to make your points come alive. It's also important to use personal stories and examples to illustrate your points.

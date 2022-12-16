@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are usually awarded by organizations, government agencies, or educational institutions to help fund projects or activities. They are typically given to individuals or organizations that demonstrate a need for the funds and meet certain criteria. What kind of essay are you working on?
+STUDENT: I'm writing an admissions essay for college.
+COACH: Great! What are your goals for this essay? What do you want to accomplish?
+STUDENT: I want to show the admissions committee why I would be a great fit for their school.
+COACH: Okay, that's a great goal. Let's start by brainstorming some ideas that could help you achieve that. What are some of your strengths and interests that could give you an edge in the admissions process?

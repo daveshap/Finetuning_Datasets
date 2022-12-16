@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I want to write an essay about my experience as a refugee from Vietnam.
+COACH: That's a great topic to write about! What kind of experience do you want to focus on in your essay?
+STUDENT: Well, I want to focus on the political implications of being a refugee from Vietnam and how it has shaped my life.
+COACH: That sounds like a really interesting topic. Can you tell me a bit more about the political implications of being a refugee from Vietnam?
+STUDENT: Sure. When I was a child, my family had to flee Vietnam due to the political situation there. We had to leave our home and everything we knew behind and start a new life in China. It was a difficult experience and it changed my life in many ways.
+COACH: That must have been a very difficult experience for you and your family. How did it shape your life?
+STUDENT: Well, it made me realize how important it is to stand up for what you believe in and to fight for the things that matter to you. It also taught me the importance of resilience and that no matter what obstacles you face, you can always find a way to overcome them.
+COACH: Those are great lessons to learn. How do you think these experiences will help you in college and beyond?
+STUDENT: I think it will help me approach any challenges I face with a sense of determination and perseverance. It will also help me understand the importance of standing up for what I believe in and fighting for causes I care about. I think it will also make me a more empathetic person and help me understand different perspectives.

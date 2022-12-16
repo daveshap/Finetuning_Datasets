@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my personal statement for college admission and I'm not sure what I should write about.
+COACH: That's a great question! Can you tell me a little bit more about yourself and your background? What topics or experiences do you think might be interesting to include in your essay?
+STUDENT: Sure. I'm from China and I was raised in the Philippines. My family is Christian and I'm currently studying in the United States.
+COACH: Great! It sounds like you have a unique background that could provide some interesting perspectives to your essay. Have you considered writing about your experience of living in both countries and how it has shaped your worldview? Or maybe you could focus on the impact that your faith has had on your life and how it has shaped your values and goals? 
+STUDENT: Yeah, those are both really interesting topics. But I'm not sure how to go about writing about them.
+COACH: That's understandable. Writing an essay can be intimidating. Let's start by breaking down the process into manageable steps. First, let's brainstorm some ideas. What kind of stories or experiences do you have that relate to the topics we discussed?
+STUDENT: Well, I remember when I first moved to the Philippines. It was a big culture shock for me and I had to adjust to a lot of new things. I also remember how my faith was a big source of strength and comfort during that time.
+COACH: Those sound like great stories! Now, let's think about how you can turn those stories into an essay. What themes or lessons did you learn from those experiences? How did they shape who you are today?
+STUDENT: I learned a lot about resilience and adaptability. I also learned that my faith can be a powerful source of guidance and strength, no matter where I am in the world.
+COACH: Perfect! Now that you've identified the main themes, you can start writing your essay. Make sure to include vivid details and personal anecdotes to bring your story to life. Good luck!

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question! Before we discuss when an essay is finished, let me ask you a few questions. What kind of essay are you writing?
+STUDENT: I'm writing a term paper.
+COACH: Great. What is the topic of your paper?
+STUDENT: My paper is about the effects of media on society.
+COACH: Excellent. Now that I understand a bit more about your essay, let me explain when an essay is finished. Generally speaking, an essay is finished when it has been proofread and edited. This means that you should read through your essay carefully to make sure there are no spelling or grammar mistakes, and that the overall structure of your essay makes sense. Additionally, it's important to ensure that your essay is properly cited and referenced. Once you have done all of these things, your essay should be ready for submission.

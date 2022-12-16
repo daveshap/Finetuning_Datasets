@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essay. I'm applying to UNC and want to write about how my Christian faith has shaped my views on social issues.
+COACH: That's a great topic! Can you tell me a bit more about what specifically you want to write about?
+STUDENT: Sure. I'm interested in exploring how my faith has shaped the way I think about things like poverty, racism, and other social issues.
+COACH: That's a very interesting topic. What do you think would be the best way to approach this essay?
+STUDENT: I think it would be best to start by talking about my faith and how it has shaped my worldview. Then I could go into detail about how my faith has impacted my views on specific social issues.
+COACH: That sounds like a great plan. Let's talk a bit more about your faith and how it shapes your views. Can you tell me more about that?
+STUDENT: Sure. My faith is very important to me and it guides my decisions in life. It has taught me to be compassionate and to care for those who are less fortunate. It has also taught me to stand up for what I believe in and to fight for justice.
+COACH: That's wonderful. How have these beliefs impacted your views on social issues?
+STUDENT: Well, my faith has taught me to be aware of the struggles of others and to do what I can to help. It has also made me more open-minded and willing to listen to different perspectives. I think this has helped me to better understand social issues and to find ways to make a difference.

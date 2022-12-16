@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are funds that are given by either a government agency or a private organization to help support specific activities or projects. Grants are typically awarded based on merit and need, so it’s important to make sure you meet the criteria for the grant you’re applying for.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction that sets the stage for your essay and draws the reader in. You should then provide evidence to support your main points, such as personal experiences, quotes from experts, facts, or other relevant information. You should also make sure to include a conclusion that ties everything together. Finally, make sure to proofread and edit your essay before submitting it.

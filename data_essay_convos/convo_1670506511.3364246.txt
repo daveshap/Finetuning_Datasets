@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that demonstrate a student's ability to think critically and express themselves clearly. They want to see evidence of a student's unique perspective, experiences, and interests. They also look for essays that are well-structured, organized, and show evidence of research. 
+STUDENT: How do I write an essay that stands out?
+COACH: To make your essay stand out, you need to focus on telling your story in a unique way. Think about what makes you unique and how you can best express that in the essay. Consider your strengths, accomplishments, and interests, and how you can use them to craft a compelling story. You should also make sure to include examples that illustrate your points and back up your arguments. Finally, take the time to edit and proofread your essay to ensure that it is free of errors and reads well.

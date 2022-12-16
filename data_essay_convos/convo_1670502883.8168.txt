@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: You'll want to focus on your accomplishments, experiences, and what makes you unique. Think about the things that have shaped who you are and why you would be an ideal candidate for the grant you're applying for. Tell a story that shows the reader why you deserve the grant.
+STUDENT: What kind of structure should I use?
+COACH: Generally, you'll want to start with an engaging introduction that introduces the main idea of your essay. Then, you can provide evidence to support your argument. You'll want to include stories, examples, and quotes to make your essay more compelling. Finally, wrap up your essay with a conclusion that summarizes the main points of your essay. 
+STUDENT: How long should the essay be?
+COACH: It depends on the grant you're applying for, but typically grant applications require essays between 500-1000 words. Make sure you follow the instructions for the grant you're applying for and stick to the word count limit.
+STUDENT: What should I avoid in my essay?
+COACH: Avoid using cliches, overly formal language, or flowery language. You'll also want to avoid making sweeping generalizations and using too much jargon. You want your essay to be unique and personal, so focus on telling your story in a natural and interesting way.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the assignment and what type of essay you’re writing. What type of essay are you writing?
+STUDENT: A research paper.
+COACH: Okay, research papers typically range from 5-7 pages. Is there anything else you need help with?
+STUDENT: Yes, I'm having trouble coming up with a good topic.
+COACH: Alright, let's start by thinking about what interests you. What topics do you enjoy learning about?
+STUDENT: I'm really interested in the history of the American civil rights movement.
+COACH: That's a great topic! Let's narrow it down a bit. Are there any particular aspects of the civil rights movement that you'd like to focus on?
+STUDENT: I'm interested in how the civil rights movement influenced the development of modern civil rights laws.
+COACH: Perfect! Now that you have a specific topic, you can start doing some research. Make sure to look into primary sources such as court cases and documents from the time period. This will give you a better understanding of the context and will help you develop your argument.

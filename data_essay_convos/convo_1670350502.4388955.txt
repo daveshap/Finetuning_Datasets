@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with an essay I'm writing for grad school.
+COACH: Great! Could you tell me a bit more about the essay? What's it about?
+STUDENT: I'm writing about my experiences growing up in a single-parent home in Thailand and then later in the Philippines. I want to show how those experiences shaped my outlook on life and my desire to do charity work in the future.
+COACH: Wow, that sounds like a really interesting topic. What kind of experiences did you have growing up in Thailand and the Philippines that you think will be relevant to your essay?
+STUDENT: Well, in Thailand, I was exposed to a lot of poverty and inequality. In the Philippines, I saw a lot of people struggling to make ends meet. It really opened my eyes to the struggles of people living in developing countries.
+COACH: That's really powerful. How did these experiences shape your desire to do charity work in the future?
+STUDENT: Seeing the struggles of people living in poverty really made me realize that I wanted to do something to make a difference. I wanted to use my skills and resources to help people in need.
+COACH: That's a wonderful goal. What kind of charity work do you think you'd like to do?
+STUDENT: I'm still exploring different options, but I'm interested in working with children in impoverished communities. I think I could make a real difference in their lives by providing them with the education and resources they need to succeed.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college is a complex process that involves many different factors. Generally, you'll need to consider the cost of tuition, fees, room and board, books, and other expenses. You can pay for college with scholarships, grants, loans, and personal savings. Each of these options has its own advantages and disadvantages, so it's important to do your research and find out what works best for you.
+STUDENT: What should I include in my admissions essay?
+COACH: When writing an admissions essay, you want to make sure to focus on yourself and your accomplishments. Talk about your interests, hobbies, and skills that make you unique. Showcase your strengths and explain why you would be a great fit for the school. Make sure to provide specific examples and stories to illustrate your points. Finally, end your essay with a strong conclusion that ties everything together.

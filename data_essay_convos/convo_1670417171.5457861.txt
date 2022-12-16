@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with writing an essay for college applications.
+COACH: Great! What kind of essay do you need help with? Are you applying to a specific university or program?
+STUDENT: Yes, I'm applying to UNC and Yale.
+COACH: Excellent. What are you hoping to achieve with your essay?
+STUDENT: I want to make sure that my essay stands out and makes me look interesting as a person.
+COACH: That's a great goal. Can you tell me a bit more about yourself? What do you think makes you unique and sets you apart from other applicants?
+STUDENT: Well, I'm very passionate about volunteer work and helping others. I've been involved in several volunteer projects over the past few years and I'm really proud of the work I've done. I also have a lot of experience leading teams and organizing events.
+COACH: That sounds like a great start. It's clear that you have a lot of experience and passion for volunteer work. How would you like to use that in your essay?
+STUDENT: I think it would be great to highlight my commitment to volunteer work and how it has shaped me as a person. I want to show the admissions officers that I'm someone who cares about making a difference and that I'm not just focused on my own success.
+COACH: That's a great idea. Have you considered how you might incorporate other aspects of your life into your essay? For example, do you have any hobbies or interests that you could mention?
+STUDENT: Yes, I'm a big fan of music and I play several instruments. I also love reading and exploring new cultures.
+COACH: That's great! Those are all excellent topics to include in your essay. Is there anything else you'd like to discuss?
+STUDENT: I was also wondering if there are any scholarships or grants I could apply for.
+COACH: Absolutely. There are many scholarships and grants available for students. Do you have any specific criteria you're looking for? For example, are you looking for scholarships related to volunteer work or music?
+STUDENT: Yes, I'm mainly interested in scholarships related to volunteer work and music.
+COACH: Perfect. I can provide you with some resources to help you find the right scholarships and grants. Do you have any other questions?

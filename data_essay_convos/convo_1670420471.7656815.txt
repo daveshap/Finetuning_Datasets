@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experiences in charity work and volunteer work. 
+COACH: That's great! Can you tell me more about it? What kind of charity work and volunteer work have you done?
+STUDENT: Well, I've done a lot of charity work in China and Thailand. I've been involved in helping build schools, providing medical aid, and other projects. I've also volunteered at a local homeless shelter and a food pantry.
+COACH: Wow, that sounds like a lot of great work! Can you tell me more about what you learned from these experiences?
+STUDENT: Sure. I learned about the importance of giving back to the community and the impact of helping those in need. It was also really eye-opening to see the living conditions of people in developing countries. I also realized how much of a difference I can make with my time and energy.
+COACH: That's wonderful! It sounds like you've gained a lot of insight from your volunteer and charity work. How do you think this will help you in law school?
+STUDENT: Well, I think it will help me to be a more empathetic lawyer. I'll be able to better understand the needs of my clients and be more aware of the social issues they may be facing. It will also give me a better understanding of the legal system and the impact of laws on people's lives.

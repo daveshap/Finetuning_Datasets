@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm trying to write my college admission essay, but I'm having a hard time deciding what to write about.
+POLITICS: Interesting! Have you ever considered writing about politics? It's a very broad subject and can be approached from a variety of angles.
+STUDENT: Yeah, I've been thinking about it. What kind of topics should I focus on?
+COACH: Well, it really depends on what interests you the most. You could write about current political events in Europe, or you could look at a historical event and analyze its impact on politics today. You could also discuss the effects of certain policies on the population, or the role of government in society.
+STUDENT: That all sounds really interesting. How do I go about actually writing the essay?
+COACH: When writing an essay, it's important to have a clear structure and to make sure that each point you make is supported by evidence. Start by brainstorming some ideas and then narrow them down to the ones that interest you the most. Once you have your main points, you can start researching and gathering evidence to support them. Finally, you can begin writing your essay.
+STUDENT: I understand. One last question: how does college admission work?
+COACH: College admissions is a complex process. Generally speaking, colleges look at a variety of factors when considering applicants, such as grades, test scores, essays, activities, and recommendations. For example, if you are applying to North Carolina State University, they will consider your GPA, SAT/ACT scores, and essay. They may also look at your extracurricular activities, leadership experience, and letters of recommendation. Ultimately, they will decide whether or not you are a good fit for their school.

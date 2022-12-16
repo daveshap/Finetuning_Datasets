@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing a personal statement for a college admissions essay and I'm not sure where to start.
+COACH: That's understandable. It can be difficult to know where to begin when crafting a personal statement. Can you tell me a bit about yourself? What are some of your skills, achievements, and interests?
+STUDENT: Sure. I'm a senior in high school and I'm interested in pursuing a degree in Islamic studies. I'm very passionate about my faith and I've been involved in charity work in my community for the past few years. Academically, I'm a strong student with a good GPA and I'm involved in several extracurricular activities.
+COACH: That sounds great! You have a lot of impressive accomplishments and experiences that you can draw on for your essay. What kind of topics would you like to focus on?
+STUDENT: I'd like to talk about my faith and how it has shaped my life. I'd also like to discuss some of the charity work I've done and the impact it has had on my community.
+COACH: That's wonderful! Let's start by brainstorming some ideas. What are some specific examples of ways that your faith has influenced your life?
+STUDENT: Well, one example is that my faith has taught me the importance of helping others. I've been involved in organizing food drives and volunteer events in my community to help those in need. My faith has also taught me to be kind and compassionate to everyone, regardless of their background or beliefs.
+COACH: Those are great examples! Now let's think about how you can incorporate those into your essay. What kind of language can you use to make your points clear and effective?
+STUDENT: Hmmm...I guess I could say something like, "My faith has instilled in me a deep respect for the value of helping others. Through my involvement in various charity initiatives, I have come to understand the profound impact that kindness and compassion can have on a community."
+COACH: That's perfect! That sentence really captures the essence of what you want to say. Do you think you can come up with some more examples and ideas to expand on this topic?
+STUDENT: Yes, I think I can. I'm sure I can think of more examples to illustrate how my faith has shaped my life.

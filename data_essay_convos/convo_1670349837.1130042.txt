@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my college admission essay and I'm having trouble figuring out what to write about.
+COACH: Alright, what have you been considering writing about so far?
+STUDENT: Well, I was thinking about writing about growing up in a single parent home and how that has shaped my values and outlook on life.
+COACH: That sounds like a great topic. Can you tell me more about it? What values have you developed from growing up in a single parent home?
+STUDENT: Well, I think it has made me more independent and self-reliant. It has also taught me the value of hard work and perseverance since I had to take on a lot of responsibility from an early age.
+COACH: That's really insightful. How has this shaped your view of the world?
+STUDENT: I think it has made me more compassionate and understanding of other people's struggles. Growing up with a single parent meant that I had to be aware of the challenges and difficulties that other people face and I think it has given me a greater appreciation of life.
+COACH: That's great. What else do you want to include in your essay?
+STUDENT: I was also thinking of writing about my interest in Buddhism and how it has impacted my life.
+COACH: That's definitely worth exploring. Can you tell me more about that?
+STUDENT: Sure. I've been interested in Buddhism since I was a teenager and it has helped me develop a deep sense of inner peace and calm. It has also helped me to appreciate the beauty of life and the importance of living in the moment.
+COACH: That's really interesting. So how will you tie these two topics together in your essay?
+STUDENT: I think I want to focus on how these two aspects of my life have helped me to become a more resilient and compassionate person. I want to show how my experiences have shaped my values and outlook on life and how I will use them to make a positive contribution to the university.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Well, the first step is to research colleges and universities that offer the degree program you are interested in. After you have narrowed down your choices, you will need to fill out an application form, which usually includes a personal statement or essay. That's where I come in! I can help you craft a compelling and effective essay that will help you stand out from the competition.
+STUDENT: What should I include in my essay?
+COACH: Your essay should be focused on why you want to pursue a career in law and how your unique background and experiences make you a great candidate for the program. You should also include any relevant accomplishments, awards, or extracurricular activities that demonstrate your commitment to the field. Additionally, you should explain how the program will help you achieve your long-term career goals. 
+STUDENT: How should I structure my essay?
+COACH: A good essay structure typically consists of an introduction, body paragraphs, and a conclusion. In the introduction, you should provide a brief overview of your background and explain why you are applying to the program. The body paragraphs should focus on specific experiences or accomplishments that demonstrate your commitment to the field. Finally, the conclusion should wrap up your essay by summarizing your main points and reiterating why you are a great fit for the program.

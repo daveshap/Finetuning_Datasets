@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Well, that depends on the type of essay you're writing. Is this a research paper?
+STUDENT: Yes, it is
+COACH: Ok, great! When writing a research paper for college admissions, you should focus on presenting your research in a clear, organized way. You'll want to include information about the topic you've chosen, and any relevant findings from your research. Additionally, you'll want to discuss why you chose the topic and what you learned from it. Make sure to back up your points with evidence from your research. Finally, don't forget to include your conclusion.

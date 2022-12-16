@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: Well, a good conclusion should summarize the main points of your dissertation in a concise yet impactful way. It should also provide a sense of closure and resolution to your argument. To do this, you'll need to review the main points of your dissertation, and then come up with a few sentences that will tie them together. Once you've written your conclusion, make sure to check it for clarity and accuracy.

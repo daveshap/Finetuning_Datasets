@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some advice on writing my essay for a college application. 
+COACH: Okay, let's start with the basics. What school are you applying to?
+STUDENT: I'm applying to UCLA.
+COACH: Great! What type of essay do you need to write?
+STUDENT: It's a personal statement essay about my skills and achievements.
+COACH: Alright, so let's start by talking about your skills and achievements. What kind of skills do you have that you want to highlight in your essay?
+STUDENT: Well, I'm really passionate about politics and international affairs. I've been studying German for the past five years, and I'm very interested in Europe and its political landscape.
+COACH: That's great! You have a lot of interesting skills and interests that you can incorporate into your essay. Can you tell me a bit more about why you're interested in politics and international affairs?
+STUDENT: Sure. I think it's important to understand the world around us, and politics and international affairs have always been fascinating to me. I'm particularly interested in Germany and Europe, and how politics impacts their citizens.
+COACH: That's great! You have a lot of interesting insights to share. What have you done to further your understanding of politics and international affairs?
+STUDENT: I've taken part in several political debates and discussions, volunteered for a few campaigns, and even interned at a local political office. I've also done some research on European politics and international relations.
+COACH: That's impressive! You have a lot of great experience to draw from when writing your essay. How would you like to structure your essay? 
+STUDENT: I think I'd like to start off by talking about my interest in politics and international affairs, and then discuss my experiences in more detail. I'd also like to include my research on Europe and Germany, and how those topics have shaped my views.
+COACH: That sounds like a great plan. Do you have any questions before we get started? 
+STUDENT: Yes, I was wondering if you had any tips on how to make my essay stand out?
+COACH: Absolutely! My best advice would be to focus on your unique experiences and perspectives. Make sure to include vivid details and anecdotes to bring your essay to life. Also, try to connect your experiences to larger themes or ideas to make your essay more meaningful. Good luck!

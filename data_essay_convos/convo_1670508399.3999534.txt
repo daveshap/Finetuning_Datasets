@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are awards of financial aid given to students to help pay for college expenses. It is important to research the different types of scholarships available, as well as the criteria for each one. You can find information on scholarships on your college's website or through online scholarship search websites.
+STUDENT: What kind of essay should I write for a personal statement?
+COACH: A personal statement is a type of essay that allows you to express your thoughts, feelings, and experiences in relation to a particular topic or goal. This type of essay should be written in a way that is reflective and honest, and it should focus on why you are a good candidate for the scholarship or school you are applying to. You should also make sure to include any extracurricular activities, skills, and accomplishments that make you unique and stand out.

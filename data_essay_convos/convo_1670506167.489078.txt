@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: Okay, let's start with a reference interview. What kind of research essay are you working on?
+STUDENT: I am writing an essay about the college admission process.
+COACH: Great! So, what specific questions do you have about the college admission process?
+STUDENT: How competitive is it? What criteria do colleges use to evaluate applicants?
+COACH: Those are great questions. Let's start by talking about how competitive college admissions can be. Generally, it depends on the school you're applying to and how many other applicants they have. Colleges typically look at a few factors when evaluating applicants, such as grades, test scores, extracurricular activities, letters of recommendation, and essays. They may also consider things like financial need and diversity.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question. Let me first ask you what kind of essay you're writing? Is it a personal statement or something else?
+STUDENT: Yes, it's a personal statement.
+COACH: Great. A personal statement is a way to introduce yourself to the reader and tell them about who you are and why you are applying for a certain program or position. It's important to be honest and genuine in your writing, and make sure to focus on your achievements and experiences that make you unique.
+To get started, I recommend brainstorming ideas and writing down any thoughts that come to mind. Think about the qualities or experiences that make you stand out, and what makes you the best candidate for the program or position. Once you have some ideas, start writing out your essay in an organized way.
+Make sure to include a clear introduction and conclusion, and keep your essay focused on one main point. Also, don't forget to proofread and edit your essay before submitting it.
+STUDENT: Thank you, that's really helpful. I think I have some ideas now.
+COACH: Great! If you need any help while you're writing, I'm here to help. Feel free to reach out if you have any questions. Good luck with your essay!

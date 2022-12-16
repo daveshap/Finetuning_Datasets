@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help on an essay about my experience traveling in Europe.
+COACH: That sounds like a great topic! Can you tell me a bit more about what you want to focus on?
+STUDENT: Well, I want to talk about the different cultures I experienced and how it changed my perspective on life.
+COACH: That's really interesting! Can you tell me a bit more about the cultures you experienced?
+STUDENT: Sure, I visited a lot of countries in Europe, including France, Germany, Italy, and Spain. I was able to explore different religions like Buddhism and Christianity and learn about their history and culture. I also got to explore the art and creativity of each country.
+COACH: That sounds like an amazing experience. How did it change your perspective on life?
+STUDENT: Well, it made me realize that there are so many different ways of living and thinking. It opened my eyes to the beauty of diversity and made me more open minded.
+COACH: That's wonderful. How do you think this experience will help you in your essay?
+STUDENT: I think it will give me a unique perspective when discussing my experience in Europe, and I can use it to illustrate how different cultures can affect one's outlook.
+COACH: That's a great idea. Is there anything else you need help with in terms of your essay?
+STUDENT: Yes, I'm also wondering how college admissions work.
+COACH: College admissions can be a complicated process, but it's very important to understand the basics. Generally speaking, admission officers look at your academic record, test scores, extracurricular activities, letters of recommendation, and essays. Your essay is a great chance for you to show the admissions officers who you are and demonstrate why you would be a great fit for their school.

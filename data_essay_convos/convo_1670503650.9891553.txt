@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay! Let's start by brainstorming some ideas. What topics or ideas do you think would make a good essay topic?
+STUDENT: I'm not sure, maybe something about how technology has changed our lives?
+COACH: That's a great idea! Now, what kind of angle do you want to take with this? Do you want to focus on the positive or negative aspects of technology? 
+STUDENT: Maybe both?
+COACH: Sure, that could work. Now, let's start by doing some research. What kind of sources can you find that will help you develop your argument?
+STUDENT: I'm not sure, I guess I could look online for articles and books about technology?
+COACH: That's a great start! You can also look for interviews with people who have had firsthand experience with technology, such as tech entrepreneurs, engineers, or even everyday users. This will help you get a better understanding of how technology has impacted our lives.

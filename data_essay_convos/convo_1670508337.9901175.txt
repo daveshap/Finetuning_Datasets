@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: I'm sorry, I'm not sure I understand. Are you looking for help with an admissions essay?
+STUDENT: Yes, I am.
+COACH: Great! Let's start by discussing what kind of essay you are writing. Are you writing an admissions essay for college or university?
+STUDENT: Yes, I'm writing an admissions essay for university.
+COACH: Okay, great. Can you tell me a bit more about the essay? What is the purpose of the essay? What do you hope to accomplish with it?

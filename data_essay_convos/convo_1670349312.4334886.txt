@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help writing my college admission essay.
+COACH: Great! What topics have you been considering?
+STUDENT: Well, I'm interested in writing about my skills and achievements, and I also wanted to touch on sexism in college admissions and how it affects my chances of getting in.
+COACH: Interesting! Let's start with your skills and achievements. What are some of the things you're proud of that you'd like to include in your essay?
+STUDENT: I'm proud of my academic achievements, like getting a 4.0 GPA and being accepted into honors classes. I'm also proud of my extracurricular activities, like being a member of the student council and participating in community service projects.
+COACH: Those are all great accomplishments! Now let's talk about the sexism angle. What kind of research have you done on this topic, and what do you think it means for your college admission chances?
+STUDENT: I've done some research on the gender gap in college admissions, and I've found that women are often at a disadvantage when it comes to getting accepted. I think it's important to address this issue in my essay because it could be a factor in whether or not I get accepted.
+COACH: Absolutely. It sounds like you have a good grasp of the issue. How do you plan to approach it in your essay?
+STUDENT: I want to focus on my personal experience with sexism in college admissions and how I'm working to overcome it. I want to emphasize that I'm not letting this issue discourage me, but instead using it as motivation to succeed.
+COACH: That's a great approach! What else do you need help with in terms of your essay?
+STUDENT: Well, I also wanted to talk about financing college. I'm not sure how to go about it or what information to include.
+COACH: Financing college is an important part of the college application process. You'll want to include information about scholarships, grants, and loans that you've applied for, as well as any other financial aid you may be eligible for. You may also want to mention any savings you have, or any other resources you're using to pay for college. Finally, you can talk about your plans for financing grad school if applicable.

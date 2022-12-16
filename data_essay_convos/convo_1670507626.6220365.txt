@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That’s a great question! Before we can answer that, can you tell me a bit more about your essay? What type of essay is it?
+STUDENT: It's a personal statement for law school.
+COACH: Great! So, what kind of topics are you covering in your essay?
+STUDENT: I'm talking about my experiences and how they have shaped my interest in the legal field.
+COACH: That sounds like a great topic! Now, let's talk about how to make sure your essay is good. First, you want to make sure your essay is well-organized and easy to read. Make sure you have a clear introduction and conclusion, and that each paragraph flows logically from the one before it. You also want to make sure your writing is clear and concise. Avoid using overly complex language and try to avoid repetition. Finally, make sure you proofread your essay for grammar and spelling mistakes. 
+STUDENT: That's really helpful, thank you! Is there anything else I should consider?
+COACH: Absolutely! You also want to make sure your essay is personal and engaging. Try to use vivid language to describe your experiences and connect them to why you're interested in the legal field. Show, don't tell - use anecdotes or stories to illustrate your points. Lastly, make sure your essay reflects who you are and why you are unique. Good luck!

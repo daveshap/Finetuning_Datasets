@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: That's a great question. An engaging essay will usually have a strong argument, interesting evidence to back up that argument, and a captivating introduction and conclusion. It should also have a clear structure and be written in a way that is easy to follow. What kind of essay are you writing?
+STUDENT: I'm writing a dissertation.
+COACH: Ah, great. A dissertation is a lengthy piece of academic writing that requires significant research, analysis, and argumentation. It's important to have a clear thesis statement that you can build your argument around, as well as a comprehensive understanding of the topic. Additionally, you should make sure to use reliable sources and cite them properly. Are there any specific challenges you're facing with your dissertation?

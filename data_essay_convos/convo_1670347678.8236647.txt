@@ -1,0 +1,21 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help with my college admissions essay.
+COACH: Alright, let's start by talking about what you want to get out of the essay. What are your goals?
+STUDENT: Well, I want to make sure that my essay stands out and that it conveys my skills and achievements in a way that will demonstrate my potential to the admissions officers.
+COACH: That's a great goal! Have you already written an essay or are you just starting out?
+STUDENT: I've started, but I'm having trouble getting it all down on paper.
+COACH: That's understandable. Writing an essay can be overwhelming. Let's start by breaking down the structure of the essay. How many paragraphs do you think you should have?
+STUDENT: I was thinking about three or four.
+COACH: That sounds like a good plan. Now, let's talk about the content. What kind of topics do you want to include in your essay?
+STUDENT: I want to talk about overcoming obstacles, my skills and achievements, and how college admission works.
+COACH: Great! Those are all great topics to include. Now, let's focus on the obstacle part. What kind of obstacles have you faced in your life and how did you overcome them?
+STUDENT: Well, I faced rejection when I applied for a scholarship and I had to work really hard to prove myself and show that I was worthy of the scholarship.
+COACH: That's great. Facing rejection and overcoming it is a great story to tell in your essay. It shows that you have resilience and perseverance, which are qualities that admissions officers look for. You could also talk about how you used your skills and achievements to overcome the obstacle. That would be a great way to show your potential. 
+STUDENT: Yeah, that's a great idea.
+COACH: Perfect! Now, let's talk about how college admission works. What kind of information do you think is important to include in your essay?
+STUDENT: I think it's important to explain why I'm applying to this particular college and what I'm hoping to gain from the experience.
+COACH: That's great. Explaining why you're applying and what you hope to gain from the experience is a great way to show your enthusiasm and dedication to the college. It also gives the admissions officers a better understanding of who you are as a person. 
+STUDENT: That makes sense.
+COACH: Yes, it does. Now, let's move on to the essay structure. Have you decided on an introduction and conclusion for your essay?
+STUDENT: Not yet, I'm still trying to figure out what to write.
+COACH: That's okay. Let's start by brainstorming some ideas. What kind of introduction do you want to write?

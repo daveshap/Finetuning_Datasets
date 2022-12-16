@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply to grad school and I'm having trouble writing my personal statement.
+COACH: Alright, let's start by breaking down the task. What would you like to achieve with your personal statement?
+STUDENT: I want to demonstrate my knowledge and experience in my field, as well as highlight my unique perspective on the subject.
+COACH: That's a great goal. Now, what are some of the topics or experiences that you think could be relevant to your personal statement?
+STUDENT: Well, I have a lot of experience in neurodiversity, which is an important topic in my field. I also have a lot of research experience and have been involved in several projects that I think could be relevant.
+COACH: Great! So, it sounds like you have a lot of material to work with. How do you think you can best utilize this material in your personal statement?
+STUDENT: I think I should start by outlining my experiences in neurodiversity and how they have shaped my views on the subject. Then, I can discuss my research experience and how it has helped me develop my understanding of the field.
+COACH: That sounds like a great plan. Now, how do you think you can make your personal statement stand out from the rest?
+STUDENT: I think I should focus on my unique perspective and experiences. I want to show that I have a deep understanding of the subject matter, and that I'm able to approach it from an unconventional angle. That way, I can show that I'm not just another generic applicant.

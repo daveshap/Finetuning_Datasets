@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Well, it depends on what kind of essay you’re writing. Is it for a scholarship application?
+STUDENT: Yes.
+COACH: Okay, great. First, let’s talk about what your essay should include. What do you want to emphasize in your essay? 
+STUDENT: I want to show that I am a motivated and hardworking student.
+COACH: Perfect. Let’s start by talking about the qualities that make you stand out as a student. What are some of your strengths?
+STUDENT: I have good organizational skills and I'm very detail-oriented.
+COACH: Excellent. Now, let’s think about how to structure your essay. We want to make sure that you present yourself in the best light possible. What kind of story can you tell that will help demonstrate your strengths?
+STUDENT: I could talk about how I organized a school project that was very successful.
+COACH: Great idea! Now let’s think about how to frame this story. What kind of details can you include to make it more compelling and memorable?

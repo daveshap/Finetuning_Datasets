@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start by talking about why you want to go to law school. What are your motivations and goals? 
+STUDENT: I want to become a lawyer because I believe in justice and the power of the law to make the world a better place. I also want to use my knowledge to help people who are facing difficult legal situations.
+COACH: That's great! So now that we know why you want to go to law school, let's talk about how you plan to make your essay stand out. What unique experiences have you had that you can draw on in your essay? 
+STUDENT: Well, I've volunteered at a legal aid clinic for the past two years. I've helped low-income families understand their rights and navigate the legal system. I've also been part of a student organization that lobbies for criminal justice reform.
+COACH: That sounds like great material for your essay. You could discuss how those experiences have shaped your view of the law and your commitment to justice. Also, consider talking about any personal challenges or obstacles you have faced and how they have made you a stronger and more resilient person.

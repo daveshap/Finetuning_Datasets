@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to Duke University and I'm having trouble writing my admissions essay.
+COACH: Okay, let's start with the basics. What are you hoping to study at Duke?
+STUDENT: I'm interested in politics and religion.
+COACH: Interesting. What kind of politics and religion?
+STUDENT: I'm a Christian and I'm interested in exploring how my faith can inform my views on politics.
+COACH: That's a great topic for your admissions essay. Can you tell me more about what you want to cover in your essay?
+STUDENT: Sure. I want to talk about how my faith has shaped my view of politics, and how I think it can help me contribute to a better society.
+COACH: That sounds like a great idea. What do you think sets your perspective apart from other applicants?
+STUDENT: Well, I think my faith gives me a unique perspective on politics that not many other applicants have, especially since I come from a Christian background. I also think that my views on politics are informed by my belief in the power of love and kindness.
+COACH: That's an excellent point. How do you think this perspective will help you at Duke?
+STUDENT: I think it will help me engage with the diverse perspectives of my peers and professors, and it will also help me understand different points of view. I also think that my faith-based view of politics can help me contribute to a more tolerant and compassionate society.
+COACH: That's a great answer. Do you have any examples of how you've already applied your faith-based view of politics in your life?
+STUDENT: Yes, I have. I've been involved in a number of volunteer and advocacy efforts that focus on issues such as poverty, homelessness, and racial justice. I believe that my faith calls me to be an advocate for those who are less fortunate and I try to use my political views to support these causes.

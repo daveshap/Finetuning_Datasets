@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question! Before we dive into the specifics of how to shorten your essay, let me ask you a few questions. What type of essay is it?
+STUDENT: It's an argumentative essay.
+COACH: Alright, great. What kind of argument are you making?
+STUDENT: I'm arguing that the current education system is outdated and needs to be reformed.
+COACH: Got it. Now, let's talk about how to make your essay shorter. One way to do this is to focus on the main points of your argument. Instead of trying to include every detail, pick the three or four most important points and focus on those. This will help you to reduce the length of your essay while still getting your point across. You can also look for areas where you can cut out unnecessary words or phrases, or use shorter words when possible. Finally, make sure you're being concise and clear in your writing. This will help to keep your essay focused and on track.

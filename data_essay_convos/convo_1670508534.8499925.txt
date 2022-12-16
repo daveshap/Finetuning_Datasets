@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: Great question! Applying for scholarships can be a bit tricky, so let’s start by talking about what you need to do. First, you need to research the different scholarships that are available to you. Once you’ve narrowed down your choices, you’ll need to fill out the application forms and write an essay.
+STUDENT: What should I include in my essay?
+COACH: That depends on the scholarship you’re applying for, but generally speaking, you want to focus on why you’re a good fit for the scholarship and what makes you stand out from other applicants. You should also include any relevant experiences or achievements that demonstrate your qualifications. Finally, be sure to proofread and edit your essay to ensure it’s free of errors.

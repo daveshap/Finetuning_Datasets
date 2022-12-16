@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question! The first step to writing a successful essay is to identify the prompt and understand what it is asking of you. Once you have a clear understanding of the prompt, it's time to brainstorm ideas. Think about what experiences, qualities, and values you want to highlight in your essay. This will help you create an outline that will guide your writing process. 
+STUDENT: What should my essay be about?
+COACH: Your essay should revolve around the prompt and should reflect who you are as an individual. It should provide insight into your character, interests, and goals. Take some time to think about how you want to portray yourself to the admissions committee and what experiences and qualities you want to emphasize. 
+STUDENT: How do I make sure my essay stands out?
+COACH: A great way to make your essay stand out is to focus on the details. Make sure you provide vivid descriptions and use language that is precise and concise. Additionally, try to make connections between your experiences and the essay prompt. This will help demonstrate your understanding of the prompt and show your ability to think critically and creatively.

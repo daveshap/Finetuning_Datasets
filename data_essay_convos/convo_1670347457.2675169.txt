@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University for engineering and I need help with my admissions essay.
+COACH: Wonderful! Tell me a bit more about yourself and what you hope to achieve by attending Duke.
+STUDENT: Well, I've always been interested in engineering and I'm really passionate about it. I'm also very into travel and I want to be able to explore different cultures and learn more about them. I also practice Buddhism and I'm hoping to find a way to combine my interests and use engineering to make a positive difference in the world.
+COACH: That's great! It sounds like you have a lot of ambition and clear goals. How do you think attending Duke will help you achieve those goals?
+STUDENT: I believe that Duke has some of the best engineering programs in the country and I want to be able to learn from the best to become the best. I'm also hoping that I can learn more about different cultures and religions through the diverse student body and faculty at Duke. 
+COACH: It sounds like you have a great understanding of what Duke can offer you. What do you think makes you an ideal candidate for the engineering program at Duke?
+STUDENT: I believe that I have a strong passion for engineering and I'm eager to learn as much as I can. I'm also a self-starter who is always looking for ways to improve and grow. I'm also passionate about travel and learning about other cultures and I think that my experience and perspective will be beneficial to the engineering program at Duke.

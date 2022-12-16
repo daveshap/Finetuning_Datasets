@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question! Let me start by asking you a few questions about your goals and needs. What type of essay are you writing? 
+STUDENT: I'm writing a dissertation.
+COACH: Great! What is the topic of your dissertation?
+STUDENT: It's about the effects of climate change on the agricultural industry in developing countries.
+COACH: Okay, that's a great topic. Can you tell me a bit more about what you want to achieve with this dissertation? 
+STUDENT: I want to explore how climate change is impacting the agricultural industry in developing countries and suggest solutions to help farmers adapt to the changing environment. 
+COACH: That's an excellent goal. Now let's talk about how you can get started. The first step is to do some research and create a strong outline for your paper. What resources have you used so far to research your topic?

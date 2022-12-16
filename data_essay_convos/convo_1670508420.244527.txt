@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: That's a great question. Scholarships are funds that are awarded to people based on certain criteria, such as academic achievement, community service, or financial need. Some scholarships are based on a combination of these criteria. How can I help you with your essay?
+STUDENT: Well, I'm applying for a scholarship and I need to write an admissions essay.
+COACH: Alright, let's start by talking about the purpose of the essay. What do you want to communicate to the scholarship committee?
+STUDENT: I want to show them that I'm a hard worker and that I'm dedicated to achieving my goals.
+COACH: Great! Now, let's talk about how you can best communicate that. What kind of stories or examples can you use to illustrate your hard work and dedication?

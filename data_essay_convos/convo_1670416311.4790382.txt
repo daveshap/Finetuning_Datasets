@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to MIT for engineering, and I need help writing my essay.
+COACH: Great, let's start by discussing the parts of an essay. What do you know about hooks, conclusions, and the middle part?
+STUDENT: Well, I know that the hook is the first sentence and it should grab the reader's attention. The conclusion is the last sentence, and it should summarize the main points. And the middle part is the body of the essay where I explain my points in more detail.
+COACH: That's right! Now, what is your essay about?
+STUDENT: It's about how my background in Judaism and growing up in China has shaped my interest in engineering.
+COACH: That sounds like a great topic! Let's start by brainstorming some ideas for your hook. What do you think would be an effective way to grab the reader's attention?
+STUDENT: Hmm, maybe something about how my Chinese upbringing and Jewish faith have both contributed to my passion for engineering? 
+COACH: That's a great idea! Now, let's think about the middle part of your essay. What kind of points could you make to explain how your background has impacted your interest in engineering?
+STUDENT: I could talk about how my Chinese culture taught me to appreciate hard work and dedication, and how my Jewish faith has instilled in me a sense of responsibility and service. I could also discuss how these two backgrounds have allowed me to see engineering as a way to make a positive difference in the world.
+COACH: That's a great start! Now, let's think about your conclusion. How can you tie all of your points together to make a powerful statement?
+STUDENT: I could say something like, "My Chinese and Jewish backgrounds have given me the tools I need to become an engineer. With these tools, I am confident that I can use engineering to make a positive impact on the world."
+COACH: That's a great conclusion! I think you have a great start to your essay. Good luck with the rest of your writing!

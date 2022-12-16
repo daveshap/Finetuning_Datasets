@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there, I'm applying to med school and I'm having trouble writing my admissions essay. I have no idea what to write about.
+COACH: That's understandable. It can be difficult to know where to start when writing an admissions essay. What topics are you interested in? Are there any particular ideas or experiences that you'd like to explore?
+STUDENT: Well, I'm really interested in the culture of France. I've been studying the language and I'm planning on visiting soon. I was thinking of writing about how my experience in France has shaped my views on medicine and how it's impacted my decision to pursue a career in this field.
+COACH: That sounds like an interesting angle to take with your essay. Have you faced any obstacles or rejections in your journey towards med school that you'd like to discuss in your essay?
+STUDENT: Yes, I have. I applied to several medical schools and was rejected multiple times. I was really discouraged and felt like giving up, but I kept pushing forward and eventually got accepted into my dream school. I'd like to talk about how I overcame those rejections and used them as motivation to continue pursuing my goals.
+COACH: That's a great story to tell. It's important to show admissions committees that you're resilient and able to overcome challenges. It sounds like you have a lot of material to work with here. Let's start by brainstorming some ideas and then we can start developing a structure for your essay.

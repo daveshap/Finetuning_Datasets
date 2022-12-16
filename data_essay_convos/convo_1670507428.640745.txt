@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: That's a great question! Before we dive into the specifics, let me ask you a few questions to get a better understanding of the essay you're writing. What type of essay is it?
+STUDENT: It's an admissions essay.
+COACH: Okay, great. Is there a prompt you're responding to, or is this an open-ended essay?
+STUDENT: It's open-ended.
+COACH: Alright, perfect. Now that I know more about the essay, let's talk about openings. A good opening should capture the reader's attention and introduce them to the main point of the essay. To do this, you can start with a vivid description, an intriguing anecdote, or a thought-provoking question. Think about what kind of introduction would best fit your essay and go from there.

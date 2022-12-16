@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That’s a great question! A personal statement is an opportunity for you to tell the admissions committee about yourself. Think about what experiences, values, and interests you want to highlight. What makes you unique? What do you want to share about yourself that will make the admissions committee remember you?
+STUDENT: How should I structure my essay?
+COACH: The structure of your essay should be clear and organized. Start with an introduction that introduces the reader to the topic. Then provide background information to help the reader understand the context of the essay. After that, you can move into your main argument or thesis statement. Finally, end your essay with a conclusion that summarizes your main points and leaves the reader with something to think about.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, that's great! Could you tell me a bit more about the essay you're working on? What's the topic and what type of essay is it?
+STUDENT: I'm writing a monograph about the impact of being a first-generation college student.
+COACH: Okay, that's an interesting topic. Do you have any research or sources you plan to use for your essay?
+STUDENT: Yes, I've been reading some articles and books about the subject, but I'm having trouble organizing my thoughts and putting them into an essay.
+COACH: That's understandable. Let's start by talking through your ideas and seeing if we can come up with an outline. What are the main points you want to make about the impact of being a first-generation college student?

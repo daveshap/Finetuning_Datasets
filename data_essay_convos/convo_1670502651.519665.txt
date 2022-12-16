@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions is a competitive process that involves submitting applications with the necessary documents, such as transcripts, letters of recommendation, and essays. The admissions committee reviews all of the applications and decides which students to admit.
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on why you are a good fit for the college and why you should receive the grant. You should explain your academic history, achievements, and goals. Be sure to include any unique experiences or qualifications that make you stand out from other applicants. Also, be sure to keep it concise and to the point.

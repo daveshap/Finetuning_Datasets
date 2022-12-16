@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my undergraduate application to UCLA and I'm having a hard time figuring out how to make it stand out.
+COACH: That's a great question! What do you think makes your essay unique?
+STUDENT: Well, I'm from the Philippines and I'm very passionate about art and creativity. I want to make sure that my essay reflects that.
+COACH: That's great! It sounds like you have a lot of ideas that you can use to make your essay stand out. Let's start by talking about the structure of your essay. What do you think the main parts should be?
+STUDENT: I'm thinking that I should have an introduction, body, and conclusion.
+COACH: That's a great start! Now let's talk about the introduction. What kind of hook do you think would grab the reader's attention?
+STUDENT: I was thinking that maybe I could talk about how growing up in the Philippines has shaped my creative outlook on life and how that has helped me to be successful in pursuing my passions.
+COACH: That sounds like a great hook! Now let's talk about the body of the essay. What do you think are the most important points you want to make in the essay?
+STUDENT: I want to focus on how my experiences in the Philippines have influenced my creativity and how I have used that creativity to pursue my passions. I also want to talk about how that has prepared me to be successful at UCLA.
+COACH: That sounds like a great plan! Now let's talk about the conclusion. What kind of message do you want to leave the reader with?
+STUDENT: I want to leave the reader with a sense of my commitment to creativity and how I will use that to continue to be successful at UCLA.

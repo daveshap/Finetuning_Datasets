@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm hoping to get into medical school at UNC and I need help with my personal statement.
+COACH: Great! What kind of help do you need?
+STUDENT: Well, I'm having trouble figuring out what to write about. I'm not sure what makes me stand out from the other applicants.
+COACH: That's a great question. Let's start by talking about why college matters to you. What do you hope to gain from a college education?
+STUDENT: I want to become an engineer and I think college will give me the skills and knowledge I need to reach my goals.
+COACH: That's a great start. What specifically do you want to learn in college that could help you become an engineer?
+STUDENT: I'm interested in learning more about mathematics, computer science, and engineering principles. I also want to develop my critical thinking and problem-solving skills.
+COACH: That's a great list of skills and knowledge that will help you achieve your goal. Now, how can you use these skills and knowledge to make yourself stand out from other applicants?
+STUDENT: I think I can use my knowledge and skills to demonstrate that I'm a creative problem solver and that I'm passionate about engineering. I'm also eager to learn and I think that will be attractive to admissions committees.

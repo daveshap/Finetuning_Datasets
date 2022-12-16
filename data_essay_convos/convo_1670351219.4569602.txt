@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT and I want to write an essay about social issues.
+COACH: Okay, great. What kind of social issues are you interested in writing about?
+STUDENT: Well, I'm particularly interested in exploring the impact of Islam on modern society.
+COACH: That sounds like a really interesting topic. What do you think makes an essay about this topic engaging?
+STUDENT: I think it's important to focus on how Islam has shaped different aspects of society, such as culture, politics, and economics. By looking at these different aspects, I can provide a more complete picture of the effects of Islam on modern society.
+COACH: That's a great way to approach this topic. What else do you think would make this essay engaging?
+STUDENT: I think it's also important to consider the different perspectives on this topic. There are many people who have different opinions on how Islam has impacted society, so it's important to include different points of view in the essay.
+COACH: Absolutely. It's important to consider different perspectives when writing an essay on any topic. Why do you think college matters when it comes to learning about social issues?
+STUDENT: College is a great place to explore different topics and learn more about social issues. Through courses, research projects, and engaging conversations with professors and peers, I can gain a better understanding of different social issues and the impact they have on society.

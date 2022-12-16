@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question. Can you tell me a bit more about the essay you are writing? What type of essay is it?
+STUDENT: It's a grant application essay.
+COACH: Great, so you're looking for advice on how to make your grant application essay stand out?
+STUDENT: Yes, exactly.
+COACH: Okay, let's start with the basics. What are the key elements of a good grant application essay? 
+STUDENT: Well, I think having a clear structure and making sure to include all the relevant information are important.
+COACH: Absolutely. A good grant application essay should have an introduction that clearly states your purpose for applying, a body that outlines the reasons why you are a good fit for the grant, and a conclusion that ties everything together. Additionally, make sure to proofread your essay and double-check that all the information is accurate.
+STUDENT: Okay, that's helpful. Anything else I should keep in mind?
+COACH: Yes, make sure you use strong language and persuasive arguments to make a convincing case for why you deserve the grant. Also, don't forget to include any relevant awards or experiences that can help support your application. Finally, make sure to follow the instructions provided by the grant committee and adhere to the word count limit.

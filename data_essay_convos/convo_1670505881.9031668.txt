@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question! Before we get into the structure, let's talk about your specific assignment. What type of essay is it?
+STUDENT: It's a term paper.
+COACH: Okay, great. A term paper is an academic essay that usually requires research and analysis. The structure of a term paper typically consists of an introduction, body paragraphs, and a conclusion. The introduction should introduce your topic and provide some background information. The body paragraphs should present your argument and evidence to support it. Finally, the conclusion should summarize your main points and restate your thesis. Do you have any other questions about structuring your essay?

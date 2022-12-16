@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question! Before we can answer that, I'd like to know a bit more about your essay. What type of essay are you writing?
+STUDENT: I'm writing a dissertation.
+COACH: Okay, great. A dissertation is a very important and complex project, so it's important to make sure you're prepared. What kind of research have you done so far? What topics are you interested in exploring?

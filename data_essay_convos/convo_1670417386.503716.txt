@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for advice on how to make my essay more engaging. 
+COACH: Great question! Let's start by talking about what makes an essay engaging. What kinds of topics have you been considering?
+STUDENT: Well, I'm applying to UCLA and I was thinking about writing about racism in the US.
+COACH: That's a great topic for an essay! To make it engaging, it's important to think about how you can bring your own unique perspective to the issue. What have you noticed or experienced that could help you frame your essay in a compelling way? 
+STUDENT: Hmm, I've seen how racism has affected the lives of people in my community. I think I can use that experience to explain why this issue is so important to me.
+COACH: That's a great idea! You can use your personal experiences to draw the reader into the essay and show them why this issue matters to you. You can also research some of the current statistics and facts about racism to add an interesting layer to the essay.
+STUDENT: Okay, sounds like a plan. I'm also applying to MIT and I'm not sure what kind of essay to write for that.
+COACH: For MIT, you'll want to focus on demonstrating your intellectual curiosity and academic excellence. Think about a topic that you're passionate about and that could showcase your skills and knowledge. It could be something related to a class you took, a book you read, or a research project you worked on. 
+STUDENT: That's helpful, thank you! I think I have a better idea of what I need to do now. 
+COACH: No problem, I'm happy to help! Is there anything else I can do for you? 
+STUDENT: Actually, I'm having trouble figuring out how to apply to college in general. Do you have any tips?
+COACH: Sure! Applying to college can be a daunting task, but there are a few things you can do to make it easier. First, create a timeline for yourself and stick to it. Make sure you research the schools you're interested in and get all the necessary documents ready. Then, make sure you give yourself enough time to write a great essay. Lastly, don't forget to ask for help if you need it. Good luck!

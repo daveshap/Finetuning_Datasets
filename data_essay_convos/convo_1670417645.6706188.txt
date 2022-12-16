@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I'm having trouble getting started with my college admission essay.
+COACH: That's understandable. It can be hard to get started on any writing project. What do you think might be the most difficult part of writing your essay?
+STUDENT: I'm not sure what to write about. I'm a neurodiverse person and I'm interested in creativity and art, but I'm not sure how to make that work in an essay.
+COACH: That's a great topic to explore. Let's start by thinking about what makes you unique. What experiences have shaped your life and your understanding of creativity and art?
+STUDENT: Well, I've always been passionate about art and creativity. Growing up, I was encouraged to pursue my passions and explore different forms of art. I've also been involved in various creative projects and organizations that have allowed me to express myself and explore my ideas.
+COACH: That's wonderful! You clearly have a passion for creativity and art. What values or principles have you learned through your experiences?
+STUDENT: I've learned the importance of self-expression and the power of collaboration. I've also realized that creativity and art can be used to bring people together and create meaningful connections.
+COACH: Those are great insights. Now, let's focus on how you can incorporate these values and experiences into your essay. Think about how you can use your story to show the admissions committee why you are the best candidate for their program. What lessons have you learned that could be applied to your future studies?
+STUDENT: I've learned that creativity is essential to success and that it's important to collaborate with others to achieve goals. I believe that these skills will help me to be successful in my future studies and contribute to the program in meaningful ways.

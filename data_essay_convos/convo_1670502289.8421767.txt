@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question! When writing an essay, you should begin with an introduction that introduces the topic and states your thesis statement. After that, you should have several body paragraphs that support your thesis statement with research and evidence. Finally, you should end with a conclusion that summarizes your main points and reinforces your thesis statement.
+STUDENT: What kind of research should I use?
+COACH: For a research essay, you should use reliable sources such as scholarly journals, books, and articles from reputable websites. Make sure to cite all of your sources appropriately so that you don't plagiarize. Additionally, use the research to back up your points and provide evidence for your claims.
+STUDENT: How do I make sure my essay stands out?
+COACH: To make your essay stand out, you should focus on making it unique. Think about what sets you apart from other applicants and highlight those qualities in your essay. Additionally, make sure to use strong, vivid language and imagery to create an engaging and captivating essay. Finally, be sure to proofread your essay multiple times to ensure that it is free of any errors.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my college admission essay and I'm having trouble coming up with a topic.
+COACH: That's understandable. What topics interest you? Do you have any particular areas of expertise or passions that you want to explore in your essay?
+STUDENT: Well, I'm interested in German culture and religion, particularly Christianity and its relationship to the LGBT community.
+COACH: That's an interesting topic. Could you tell me more about why this interests you?
+STUDENT: Sure. I've always been fascinated by the history of Christianity in Germany and how it has interacted with the LGBT community over time. I'm also interested in understanding how this history has impacted modern-day Germany.
+COACH: That's a great topic to explore in your essay. What angle do you want to take when discussing this topic? Is there a particular issue or perspective that you'd like to focus on?
+STUDENT: Yes, I'd like to focus on how the acceptance of LGBT rights in Germany has evolved over time and how it has been shaped by Christianity.
+COACH: That's a great angle to take. What evidence can you use to support your argument? Are there any sources you could draw from?
+STUDENT: I could look at research papers from universities like MIT or other academic institutions, as well as news articles on the subject. I could also look at statistics and surveys to see how public opinion has changed over time.

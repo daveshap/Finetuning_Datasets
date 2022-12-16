@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for some help writing an essay for a college application.
+COACH: That's great! Could you tell me a bit more about the essay? What are some of the topics you plan to cover?
+STUDENT: Well, I'm planning to talk about why college matters to me, my goals and personal objectives, and my experience as an LGBT student in Germany.
+COACH: That sounds like a great start! Let's start with why college matters to you. Can you tell me more about that?
+STUDENT: Sure. College matters to me because it provides an opportunity to gain knowledge and skills that will be essential to achieving my goals. It also provides a platform to network with people who can help me reach those goals.
+COACH: That's a great perspective. What kind of goals do you have in mind?
+STUDENT: My main goal is to attend a top university, such as Yale, and pursue a degree in business. I want to gain the knowledge and skills necessary to become a successful entrepreneur in the future.
+COACH: That's a great goal! What other experiences do you want to highlight in your essay?
+STUDENT: I also want to discuss my experience as an LGBT student in Germany. I think this is important to include because it shows how I have faced challenges and persevered to reach my goals.
+COACH: That sounds like a great topic to include! What kind of challenges have you faced as an LGBT student in Germany?
+STUDENT: Well, I've faced a lot of discrimination and prejudice from peers and teachers. I've also had to work harder than my peers to prove myself and get the same opportunities. Despite all this, I've still managed to make the most of my education and stay focused on my goals.
+COACH: That's incredible. It sounds like you have a lot of resilience and determination. How do you think these qualities will help you in college and beyond?
+STUDENT: I believe they will help me stay focused on my goals and not get discouraged by any obstacles I may face. They will also help me succeed academically and professionally, as I will be able to stay motivated and work hard even when faced with difficult tasks.

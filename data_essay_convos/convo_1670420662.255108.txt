@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for my application to North Carolina State University and I'm having trouble getting started.
+COACH: Great! What would you like to focus on in your statement? 
+STUDENT: Well, I'm really passionate about Judaism and I would like to incorporate that into my essay somehow.
+COACH: That's great! How do you think you could use your passion for Judaism to make your essay stand out?
+STUDENT: I'm not sure. I guess I could talk about how Judaism has shaped my creativity and art, and how it impacts the way I look at the world.
+COACH: That sounds like a great idea! Do you have any specific examples of how your faith has influenced your creative work?
+STUDENT: Yes, I've been painting and drawing since I was a child, and I've always tried to capture the beauty of Jewish culture in my artwork. I also like to use my art to explore different aspects of Judaism and to express my own spiritual journey.
+COACH: That's wonderful! It sounds like you have a strong connection with your faith and a great appreciation for its beauty. How could you use this to make your essay stand out?
+STUDENT: I could talk about how my faith has influenced my view of the world and how it has helped me develop my creativity and artistic skills. I could also discuss how my faith has motivated me to pursue my goals and strive for excellence.

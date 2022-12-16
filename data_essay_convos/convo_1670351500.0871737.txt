@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I need help with my essay.
+COACH: Great! What kind of help do you need?
+STUDENT: Well, I'm having trouble figuring out what to write about. I'm applying to the engineering program, and I'm not sure what I should focus on.
+COACH: Okay, that's understandable. Can you tell me a bit more about yourself and your goals?
+STUDENT: Sure. I'm originally from the Philippines and my goal is to eventually get into medical school. I want to use my engineering degree to help me get there.
+COACH: That's great! It sounds like you have a clear personal objective. Now, let's talk about how you can use your essay to showcase your skills and experiences that will help you reach your goal. What kind of experiences do you have that you think would be relevant to the engineering program at UNC?

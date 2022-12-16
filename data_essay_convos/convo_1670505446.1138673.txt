@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are financial awards that are given to students who demonstrate a certain level of academic achievement or who meet certain criteria set by the scholarship provider. Some scholarships are based on merit, while others are need-based. Generally, scholarships are given to help cover the cost of tuition, books, and other educational expenses.

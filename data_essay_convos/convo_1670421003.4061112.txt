@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first generation college student applying to North Carolina State University and I need help with my essay structure.
+COACH: That's great! Could you tell me more about yourself? What has been your experience with writing essays in the past?
+STUDENT: Well, I come from a poor family, so I haven't had a lot of opportunities to write essays or get help with them. I usually just write whatever I can and hope that it's good enough.
+COACH: I understand that it can be difficult to write essays when you don't have a lot of experience. What specifically do you need help with?
+STUDENT: I'm having trouble with the structure of my essay. I don't know how to organize my thoughts and make sure that I'm making a strong argument.
+COACH: That's a common problem for many students. Let's start by talking about what you want to achieve with your essay. What are you hoping to communicate to NCSU about yourself and why you should be accepted?
+STUDENT: I want to show them that I'm a hardworking student who is passionate about engineering and eager to learn. I also want to demonstrate that I have the skills and determination to succeed at NCSU.
+COACH: Great, that's a great starting point. Now let's talk about how to structure your essay. One way to do this is to start with an introduction that introduces your topic and establishes your main argument. Then, you can break down your argument into several points and use evidence to support each point. Finally, you can end with a conclusion that summarizes your main points and reiterates your argument. Does that make sense?
+STUDENT: Yes, that makes a lot of sense. I think I can work with that structure.
+COACH: Wonderful! If you need any help along the way, don't hesitate to reach out. Good luck with your essay!

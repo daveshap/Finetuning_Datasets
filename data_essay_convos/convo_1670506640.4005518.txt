@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, that's a great place to start. Tell me a bit about yourself and why you're applying to grad school.
+STUDENT: Well, I'm a first-generation college student and I'm applying to grad school because I want to pursue a career in public health. I'm passionate about making sure everyone has access to quality healthcare and I think that grad school will give me the tools and knowledge I need to do that.
+COACH: That's great! What have you done so far to prepare for grad school?
+STUDENT: I've taken classes in public health, volunteered at a local clinic, and shadowed a doctor in the field. I've also done some research on the programs I'm interested in and what they offer.
+COACH: That's impressive! Now, let's talk about your essay. It's important to make sure it stands out and captures the reader's attention. What do you think makes your story unique and compelling?
+STUDENT: I think my story is unique because I'm a first-generation college student. I'm the first in my family to go to college and pursue a higher education, so I think my story can really resonate with people. I also think I can bring a unique perspective to the field of public health because of my background and experiences.

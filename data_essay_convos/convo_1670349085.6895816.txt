@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to UCLA and I'm having trouble with my admissions essay. I want to make sure it stands out, but I'm not sure how to go about it.
+COACH: That's a great question! An admission essay is important for a few reasons. First, it gives the admissions committee an insight into who you are as a person. It allows them to get to know you beyond your grades and test scores. Second, it shows that you have the writing skills necessary to succeed in college. Finally, it can help you stand out from other applicants. 
+STUDENT: That makes sense. What kind of topics should I write about?
+COACH: You can write about anything that you feel passionate about or that you think will give the admissions committee an insight into who you are. For example, you could write about a personal experience that has shaped your life, an issue of social justice that you care about, or an accomplishment that you are proud of. 
+STUDENT: I'm interested in writing about racism and politics. Is that a good idea?
+COACH: Absolutely! Writing about racism and politics is a great way to demonstrate your knowledge of current events and your commitment to social justice. It can also show the admissions committee that you are an engaged and thoughtful student. Just make sure to keep your essay balanced and unbiased. Focus on presenting facts and your own opinion, rather than making accusations or taking sides.

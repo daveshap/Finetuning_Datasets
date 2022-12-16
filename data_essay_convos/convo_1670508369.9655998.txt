@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are a great way to get funding for your project. The first step is to research different grants that you may be eligible for, and then apply. Can I ask what type of essay you are writing?
+STUDENT: Yes, I'm writing a monograph.
+COACH: Great! A monograph is a type of essay that focuses on one particular subject. To write a successful monograph, you will need to do in-depth research, analyze your findings, and draw conclusions. You'll also need to use clear and concise language to communicate your points effectively. Do you have any questions about the process?

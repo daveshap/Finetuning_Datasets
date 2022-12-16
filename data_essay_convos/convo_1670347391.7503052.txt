@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a college student applying to UCLA and I need help with my essay.
+COACH: Okay, great! Let's start by talking about the structure of your essay. What kind of essay are you writing?
+STUDENT: It's a personal essay. I'm supposed to write about myself and why I'd be a great addition to the university.
+COACH: Got it. So, what kind of topics have you been considering for your essay?
+STUDENT: Well, I'm not sure. I don't think I'm very interesting as a person.
+COACH: That's okay! Everyone has something unique to offer. Think about your background, your family, your hobbies, your passions - anything that makes you stand out. What kind of experiences have you had that would make you an interesting addition to UCLA?
+STUDENT: Well, I'm Jewish and my family is originally from Russia. We moved to the US as refugees when I was a child.
+COACH: That's a great topic for your essay! You can talk about the challenges you faced as a refugee and how those experiences shaped you into the person you are today. You can also discuss how your Jewish faith has impacted your life and how it might contribute to the diversity of the university.

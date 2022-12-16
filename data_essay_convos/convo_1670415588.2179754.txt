@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student trying to apply to law school. I'm really not sure how the college admissions process works and I need some help with my essay.
+COACH: No problem, I'm here to help! Let's start by talking about your background and what you're hoping to achieve with your essay. What have been some of your experiences that you think could be relevant to your essay?
+STUDENT: Well, I've done a lot of volunteer work over the past few years and I think it could be an important part of my essay. I also have a lot of experience in the legal field and I'm confident that I have the necessary skills to succeed in law school.
+COACH: Great! It sounds like you have a lot of valuable experiences that can be included in your essay. Now let's talk about the college admissions process. Generally speaking, college admissions involve submitting an application, writing an essay, taking standardized tests, and submitting transcripts. The essay is usually the most important part of the admissions process, so it's important to make sure it's well-written and conveys your story in an interesting and compelling way. 
+STUDENT: That makes sense. I'm just not sure how to go about writing a good essay.
+COACH: Don't worry, I'm here to help. The first step is to brainstorm topics that you think could be relevant to your essay. Think about experiences you've had, challenges you've faced, and successes you've achieved that could be used to tell your story. Once you have a list of topics, you can begin to craft your essay. Make sure to use vivid language and concrete examples to illustrate your points.
+STUDENT: Okay, that sounds like a good plan. I think I have a better understanding of what I need to do now.
+COACH: Excellent! If you need any help along the way, don't hesitate to reach out. Good luck with your essay!

@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a senior in high school and I'm applying to college. I'm looking for advice on how to write a great essay that stands out from the crowd.
+COACH: That's a great question. Let's start by talking about the parts of an essay. What do you know about writing an introduction, body paragraphs, and a conclusion?
+STUDENT: Well, I know that the introduction should grab the reader's attention, that the body paragraphs should contain evidence and examples to support my argument, and that the conclusion should wrap up the essay.
+COACH: That's right! An introduction should have a hook to draw the reader in, and the conclusion should be a summary of your main points. Now, what kind of essay are you writing? Is it a personal statement, a narrative, or a persuasive essay?
+STUDENT: It's a persuasive essay. I'm arguing that Thailand should be a top destination for international students.
+COACH: Great! So, let's start by brainstorming some ideas for your introduction. What do you think would make a good hook?
+STUDENT: I was thinking something like, "When you think of studying abroad, Thailand should be at the top of your list."
+COACH: That's a great hook! Now, let's talk about the body of your essay. What kind of evidence and examples can you use to support your argument?
+STUDENT: I could talk about the low cost of living, the beautiful beaches, the vibrant culture, and the many opportunities to explore and learn.
+COACH: Those are all excellent points! Make sure to provide specific examples of each point so that your readers can really feel the benefits of studying in Thailand.
+COACH: Lastly, let's talk about your conclusion. What kind of message do you want to leave your readers with?
+STUDENT: I want to emphasize the unique opportunities that studying in Thailand can offer, and encourage them to consider it as a viable option.
+COACH: Perfect! Make sure to end your essay with a strong call-to-action so that your readers are inspired to take action.
+STUDENT: Alright, thanks for the advice! I have another question. How can I make my application stand out from other applicants when applying to schools like Harvard?
+COACH: When applying to top universities like Harvard, admissions officers are looking for students who demonstrate academic excellence, leadership potential, and a commitment to making a positive impact in their communities. You should focus on highlighting your strengths and experiences that showcase these qualities. Additionally, look into scholarship and grant opportunities to help fund your education.

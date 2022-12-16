@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That’s a great question! Before we talk about scholarships and grants, let’s talk about your essay. What kind of essay are you working on?
+STUDENT: I'm writing a personal statement for medical school.
+COACH: Alright, excellent. Now, what do you want to focus on in your essay?
+STUDENT: Well, I want to explain why I want to pursue a career in medicine, and how I have the skills and experiences to be successful.
+COACH: That sounds like a great topic for your essay. Let’s start by talking about your motivations for wanting to pursue a career in medicine. What inspired you to pursue this path?

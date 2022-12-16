@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and I'm struggling with my admission essay. I'm not sure what to write about or why it matters.
+COACH: That's a great question! An admission essay is one of the most important pieces of your application and it can make or break your chances of getting accepted. It's a chance for you to show the admissions committee who you are and why you should be accepted. 
+STUDENT: What should I write about in my essay?
+COACH: That's up to you! You can write about anything that you think will showcase your strengths and make you stand out from other applicants. Some popular topics include your unique life experiences, your passions and interests, or your goals for the future. You can also write about something that has had a big impact on your life, such as growing up in a refugee camp in China. 
+STUDENT: That sounds like a great idea. I think I'd like to focus on my experience in the refugee camp. How should I go about writing my essay?
+COACH: Start by brainstorming some ideas. Think about what you want to convey to the admissions committee and what you want them to know about you. Then, work on developing a structure for your essay. You'll want to have an introduction, body paragraphs, and a conclusion. Once you have your structure and ideas down, you can start writing. Make sure to be concise and to the point, and try to use vivid language to bring your essay to life. Also, don't forget to proofread your essay and make sure there are no typos or grammar mistakes.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a senior in high school and I'm trying to figure out how to apply to college.
+COACH: That's great! What schools are you looking into?
+STUDENT: Well, I'm interested in Duke University and UNC.
+COACH: Wonderful! What specifically are you looking for help with in regards to your essay?
+STUDENT: I'm not sure what makes an essay engaging and how to make my essay stand out.
+COACH: That's a great question! Let's start by talking about what makes an essay engaging. Generally, it's important to have a clear structure and to focus on the main points that you want to make. It's also important to use vivid language and to tell a story that will capture the reader's attention. Additionally, it's important to make sure that your essay is tailored to the specific school that you are applying to. For example, if you are applying to Duke University, you may want to focus on the school's values and mission statement and how your experiences have prepared you to contribute to the university's goals. On the other hand, if you are applying to UNC, you may want to focus on how you would contribute to the university's research initiatives or its vibrant student life. 
+STUDENT: Wow, that's really helpful. I hadn't thought of that before. Do you have any advice for someone applying to med school?
+COACH: Absolutely! When applying to med school, it's important to demonstrate your commitment to the field and to showcase your knowledge of the medical profession. You'll want to highlight your unique experiences that have shaped your interest in medicine and discuss how you plan to use your education to contribute to the medical field. Additionally, you'll want to make sure that your essay is well-structured, organized, and concise. Lastly, it's important to proofread your essay and make sure that you have addressed all the key points that the admissions committee is looking for.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and I need help with my admission essay.
+COACH: Great, let's get started. Can you tell me a bit more about why you're applying to Harvard?
+STUDENT: Well, I've always been fascinated by the culture and history of France, and I'm hoping to study French at Harvard.
+COACH: That's an excellent goal! What makes you passionate about French?
+STUDENT: I love the language, the literature, and the art. I also enjoy exploring the different regions of France and learning about the unique cultures.
+COACH: That's wonderful. So, why do you think an admission essay is important for your application?
+STUDENT: I think the essay is important because it gives the admissions committee an insight into who I am as a person. It allows me to show them my personality, my interests, and my goals. It also allows me to demonstrate my writing skills and my ability to articulate my thoughts.
+COACH: That makes a lot of sense. What kind of topics have you been considering for your essay?
+STUDENT: I've been thinking about discussing my volunteer work, my experience studying abroad in France, and my personal statement about why I want to study at Harvard.
+COACH: Those are all great topics! Do you have any questions about how to structure your essay or how to make it stand out from other applicants?

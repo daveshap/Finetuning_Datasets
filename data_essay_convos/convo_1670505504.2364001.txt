@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That’s a great question! Applying for scholarships can be a great way to help finance your college education. Generally, you’ll need to submit an essay along with your application. This is where I come in! Let’s start by talking about what makes a persuasive essay.
+STUDENT: What makes a persuasive essay?
+COACH: A persuasive essay is one that is designed to convince the reader of your point of view. To do this, you’ll need to provide evidence to support your argument. This could be facts, statistics, or even personal experiences. Additionally, you’ll need to make sure your essay is well-structured and flows logically.
+STUDENT: How should I structure my essay?
+COACH: An effective structure for your essay would be to start with an introduction, then move on to the body paragraphs, and finish with a conclusion. In the introduction, you should introduce the topic and state your thesis statement. Your body paragraphs should each focus on one main idea, and provide evidence to support it. Finally, your conclusion should restate your thesis and summarize the main points of your essay.
+STUDENT: What kind of evidence should I use?
+COACH: Evidence can come from many sources, such as research studies, surveys, or personal experiences. Whatever evidence you choose to use, make sure it is relevant to your topic and supports your argument. Additionally, be sure to cite any sources you use to back up your argument.

@@ -1,0 +1,140 @@
+N a m e :
+Oleg Melnyk
+A g e :
+37
+E - m a i l :
+o.seoking@gmail.com
+Skills:
+●
+Python
+●
+PostgreSQL
+●
+OOP
+●
+Django
+●
+Git / Github
+Web Scraping:
+●
+Requests
+●
+BeautifulSoup
+●
+Selenium
+●
+Scrapy
+●
+Undetected Chromedriver
+●
+Authorization bypass
+●
+Rotating ips
+●
+CAPTCHA bypass
+Messengers Automation and Bots
+●
+pywhatkit
+●
+discord.py
+●
+pyrogram
+●
+telethon
+●
+aiogram
+●
+asyncio
+●
+API
+Libraries
+●
+Pillow
+●
+pywikibot
+●
+wikipedia
+●
+Tkinter
+●
+Pygame
+●
+Kivy
+●
+xlsxwriter
+●
+and many others
+Other
+:
+●
+Threading
+N a m e :
+Oleg Melnyk
+A g e :
+37
+E - m a i l :
+o.seoking@gmail.com
+Skills:
+●
+Python
+●
+PostgreSQL
+●
+OOP
+●
+Django
+●
+Git / Github
+Web Scraping:
+●
+Requests
+●
+BeautifulSoup
+●
+Selenium
+●
+Scrapy
+●
+Undetected Chromedriver
+●
+Authorization bypass
+●
+Rotating ips
+●
+CAPTCHA bypass
+Messengers Automation and Bots
+●
+pywhatkit
+●
+discord.py
+●
+pyrogram
+●
+telethon
+●
+aiogram
+●
+asyncio
+●
+API
+Libraries
+●
+Pillow
+●
+pywikibot
+●
+wikipedia
+●
+Tkinter
+●
+Pygame
+●
+Kivy
+●
+xlsxwriter
+●
+and many others
+Other
+:
+●
+Threading

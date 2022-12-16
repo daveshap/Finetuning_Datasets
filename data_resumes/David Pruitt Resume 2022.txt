@@ -1,0 +1,35 @@
+David Frederick Pruitt
+443-561-4531
+dp60789@gmail.com 
+9306 Player Dr Laurel, MD
+Languages & Technologies
+Core languages: Dart, Java, Python; others include: C/C++, C#, Lua, Javascript, Typescript, PHP, SQL
+Frameworks used include: Flutter, Swing, Kivy, JavaFX, .Net, LAMP, Angular
+Extremely quick-learning, with 10+ years of personal experience.  Strong real-time, mobile, applications, and
+multi-threaded background, and both self-taught and formally-educated.
+Personal Projects of Note
+(Current): Cross-platform game engine in Dart & Flutter with a custom microservices architecture
+Component-based GUI framework for use in Source Engine with event handling and visual designer
+External ballistics library for Source engine, optimized for low runtime overhead and accuracy, using both public
+and purpose-designed 3d transformational algorithms, AI tuning and differential equations
+Embedded & robotics simulation in game engines, recreating vehicle components down to message bus & PID
+level, working with actual physics and customized control algorithms (2012-2019), often integrating with web
+services and frameworks for visualization and monitoring
+Education
+University of Maryland Global Campus (2016-2020, 3.4 GPA) – Bachelors in Computer Science:
+Worked in team using Agile & Scrum to build cross-platform roadwork safety mobile app in Python
+Classes excelled in include: C/C++ and Java, software architecture, technical writing, multi-threaded
+programming, databases, operating systems, algorithmic analysis & design, and computer graphics
+Work Experience
+Shafer Consulting Services, LLC – Software Engineer (2022):
+C# development and documentation to assist in business processes
+Created RPA systems in UIPath to aid in client process automation
+Coordinated with team to ensure successful development and deployment for client
+Independent Consulting (2018-2022):
+Designed and built frontend & backend system to take real-time  telemetry from Arduino & other
+embedded robotics, to be visualized & processed with C, Python, Matplotlib, Pillow, and Flask for client
+Developed algorithms for multi-threaded system in Java & C for sim actuator control for startup
+Built ground-up reliable internal-use tool mobile apps in Flutter & Python for clients
+RK&K – Traffic Technician (2014-2020):
+Produced Python code to automate routine internal tasks
+Fieldwork for civil engineering projects, land surveying & GIS, traffic surveying, wildlife impact survey

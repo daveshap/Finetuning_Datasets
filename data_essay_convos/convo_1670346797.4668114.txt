@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm having trouble coming up with an essay topic that showcases my creativity and passion for art.
+COACH: That's a great question. What kind of creative art are you interested in?
+STUDENT: I'm really into photography and painting.
+COACH: That's wonderful! Can you tell me more about why you're interested in these two forms of art?
+STUDENT: Well, I think photography is a great way to capture memories and moments in time. With painting, I love the idea of creating something out of nothing and being able to express myself through color and texture.
+COACH: That's really inspiring. How do you think these interests could be used in an essay?
+STUDENT: I'm not sure. I don't feel like I have anything particularly interesting to say about them.
+COACH: That's okay. You don't need to have an extraordinary story to tell in your essay. You can focus on how your interests in art have shaped you as a person. For example, you could talk about how your interest in photography has helped you pay attention to details and appreciate the beauty of the world around you. Or, you could talk about how your interest in painting has allowed you to express yourself in new and unique ways.
+STUDENT: That's a great idea. I hadn't thought of it that way before.
+COACH: That's what I'm here for! Now, what else do you need help with when it comes to your college application?
+STUDENT: I'm not sure if my extracurricular activities are impressive enough. I haven't done a lot of charity work or anything like that.
+COACH: That's okay. You don't need to have an extensive list of extracurriculars to be successful in your application. Instead, focus on the activities you have done and how they have impacted you. For example, if you've been involved in any clubs or organizations, you can discuss how those experiences have taught you important skills such as teamwork and problem-solving. You can also talk about how your volunteer work has helped you develop empathy and compassion.

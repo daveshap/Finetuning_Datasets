@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admissions essay for college and I have no idea what to write about.
+COACH: Alright, let's start by talking a bit about your background. What kind of family do you come from?
+STUDENT: I come from a poor family. We don't have a lot of money and most of my family members have had to work hard to get by.
+COACH: I see. What kind of interests do you have? Are there any hobbies or activities that you're passionate about?
+STUDENT: Well, I'm really interested in creativity and art. I love painting and drawing and I'm always looking for new ways to express myself.
+COACH: That sounds great. Does that interest you enough to pursue it as a career?
+STUDENT: Not necessarily. I'm also interested in engineering and technology, so I'm considering studying those subjects in college.
+COACH: Okay, so it sounds like you're interested in both art and engineering. How could you use your essay to highlight this unique combination of interests?
+STUDENT: Hmm, I'm not sure. Can you help me think of some ideas?
+COACH: Sure! One idea could be to talk about how art and engineering can be combined to create something new and innovative. You could discuss how your creative side allows you to think outside the box while your technical skills give you the knowledge to make your ideas a reality. You could also focus on how this combination of interests has helped you to become a better problem solver and how it has shaped your approach to life.

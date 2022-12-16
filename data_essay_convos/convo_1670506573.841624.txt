@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That’s a great question! Before we get into the specifics of writing an admissions essay, I need to ask you a few questions. What college are you applying to?
+STUDENT: I am applying to Harvard University.
+COACH: Great! What is the prompt for the admissions essay?
+STUDENT: The prompt is "Describe a time when you faced a challenge and how you overcame it."
+COACH: Ok, great. Now that we know the prompt, let's start by brainstorming ideas of challenges you have faced and how you overcame them. Can you think of any examples?

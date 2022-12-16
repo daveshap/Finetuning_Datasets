@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm having a lot of trouble coming up with ideas for my personal statement.
+COACH: Okay, let's start by talking about what you're interested in. What topics do you like to write about?
+STUDENT: I'm really interested in the history and culture of the Philippines, and I'm also curious about the similarities and differences between Islam and Judaism.
+COACH: That's great! Let's use those topics as our starting point. What do you find most interesting about the Philippines?
+STUDENT: Well, I'm fascinated by the country's colonial history and the various influences it has had on its culture.
+COACH: That's really interesting. Can you tell me more about that?
+STUDENT: Sure! One of the most interesting aspects of the Philippines' history is the way it has been shaped by different foreign powers. For example, during the Spanish colonial period, Catholicism was introduced to the islands, and this has had a lasting impact on Filipino culture.
+COACH: That's really fascinating. Now, let's talk about your interest in Islam and Judaism. What do you find most interesting about those two religions?
+STUDENT: I'm mostly interested in how they both have a strong emphasis on morality and ethics. I think it's really interesting that despite their differences, both religions have similar values when it comes to how people should live their lives.
+COACH: That's a great observation. With those topics in mind, here are some ideas for your personal statement: You could focus on your experience growing up in the Philippines and how it has shaped your values, or you could explore the similarities and differences between Islam and Judaism and how they have impacted your worldview. You could also combine the two topics and talk about how your experience in the Philippines has influenced your understanding of morality and ethics from both religions. 
+STUDENT: Wow, that's really helpful! I think I'm going to go with the last option. Thanks so much for your help!

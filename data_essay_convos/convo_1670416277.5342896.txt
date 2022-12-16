@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing a personal statement for my college application and I'm having trouble getting started.
+COACH: Sure, let's start there. What are you hoping to accomplish with your essay?
+STUDENT: I want to show the admissions committee why I'm a good fit for their school, and how I can contribute to their community. I'm a first-generation college student and a refugee, so I want to make sure that I'm highlighting my unique experiences.
+COACH: Absolutely. It sounds like you have a lot of great things to say about yourself. Why don't we start by talking about your background and how it has shaped you?
+STUDENT: Sure. I was born in Iraq and moved to the US when I was 8. Growing up, I faced a lot of challenges adjusting to a new culture while also trying to learn English. I had to work hard to catch up with my peers, but I eventually found success in school.
+COACH: That's really inspiring. How did those experiences shape your perspective on education and learning?
+STUDENT: Well, I learned that hard work and dedication can really pay off. I also realized the importance of understanding different cultures and perspectives. I think this is especially important in today's world, where we need to be more open-minded and accepting of diversity.
+COACH: That's great. You could use this experience to talk about how you plan to take advantage of the resources at UCLA and how you plan to contribute to their diverse community.
+STUDENT: Yes, I definitely want to talk about that. I'm also interested in exploring how neurodiversity can be embraced and celebrated in the classroom. I think this is something that is often overlooked and I want to show the admissions committee that I'm passionate about this issue.
+COACH: That's a great idea. You could talk about how you plan to use your experiences to advocate for neurodiversity in the classroom and how you plan to help foster an inclusive learning environment.
+STUDENT: That sounds perfect. Thank you for your help!

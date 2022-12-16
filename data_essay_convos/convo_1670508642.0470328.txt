@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start with a few questions. What kind of essay are you writing?
+STUDENT: It's a personal statement for grad school.
+COACH: Okay, that's great. What do you want to focus on in the essay?
+STUDENT: I want to talk about my experiences and how they have shaped who I am today.
+COACH: That sounds like a great starting point. What experiences do you want to focus on?
+STUDENT: Well, I want to talk about my volunteer work, my studies, and how I overcame certain challenges.
+COACH: Alright, so it sounds like you have a lot of great topics to cover. Now let's talk about structure. What do you think the main points of your essay should be?
+STUDENT: I think I should start with a brief overview of my background, then talk about each of my experiences in more detail.
+COACH: That's a great approach. Now let's talk about how you can make your essay stand out. What unique perspectives or insights do you have that could make your essay more memorable?
+STUDENT: I think I could talk about how my experiences have helped shape my world view and how I approach challenges.
+COACH: That's a great idea. Finally, let's talk about how you can make sure your essay is polished and professional. What tips do you have for making sure your essay is free from errors?
+STUDENT: I think I should read it over several times, get feedback from others, and use a grammar checker to make sure I don't have any typos or other errors.

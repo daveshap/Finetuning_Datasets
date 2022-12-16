@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: That's a great question. To make your essay more engaging, start with a clear introduction that captures the reader's attention and introduces the topic of your essay. Then, use vivid language to make your points more interesting and memorable. Make sure to provide examples and evidence to back up your claims. Finally, end with a strong conclusion that ties everything together.

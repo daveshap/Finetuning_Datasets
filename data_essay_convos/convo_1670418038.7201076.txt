@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I have no idea what to write about.
+COACH: That's ok, let's start by exploring a few topics that interest you. Is there any particular subject you are passionate about, such as charity work, Christianity, refugee issues, or something else?
+STUDENT: Yes, I'm interested in charity work.
+COACH: Great! What kind of charity work are you interested in?
+STUDENT: I'm interested in helping refugees.
+COACH: That's wonderful! Can you tell me more about why this interests you?
+STUDENT: I think it's important to help those who are less fortunate than ourselves and I believe that everyone should have the opportunity to live a better life.
+COACH: That's a great perspective! What kind of charity work do you think would be most effective for helping refugees?
+STUDENT: I think providing basic necessities such as food, shelter, and clothing is essential. I also think providing access to education, job training, and health care can go a long way in helping refugees transition into their new lives.
+COACH: Those are all great suggestions. What else do you think could be done to help refugees?
+STUDENT: I think it's important to provide emotional and psychological support to refugees, especially those who have experienced trauma. I also think it's important to provide legal assistance to help them navigate the process of seeking asylum. 
+COACH: Those are excellent ideas. Now, let's talk about how you can turn these ideas into an essay. What kind of structure do you think would be best for this topic?
+STUDENT: I think it would be best to start with a brief introduction of the issue and then move into discussing the different ways that charity work can help refugees. After that, I could discuss the importance of providing emotional and psychological support, as well as legal assistance. Finally, I could end with a conclusion that summarizes my points and calls for further action. 
+COACH: That's a great outline for your essay! Is there anything else you need help with before you get started?

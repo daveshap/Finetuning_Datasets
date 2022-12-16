@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions typically involve a few key steps. First, you need to fill out an application, which includes basic information about yourself and your academic history. Then, you'll need to submit any required test scores, such as the SAT or ACT. Finally, you'll need to write a personal statement or essay, which is typically the most important part of the application.
+STUDENT: What should I include in my essay?
+COACH: Your essay should be focused on why you are a good fit for the school you're applying to. You should also include any unique experiences or skills that you have that make you stand out from other applicants. Additionally, it's important to make sure your essay is well-written and free of any grammar and spelling errors. Lastly, make sure to proofread your essay multiple times before submitting it.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: That's a great question! Let's start by talking about what kind of essay you're writing. Is it a persuasive essay?
+STUDENT: Yes, it is.
+COACH: Okay, great. Persuasive essays require strong arguments and evidence to support your point of view. To make your essay more engaging, you'll need to focus on making sure that your arguments are well-structured and convincing. You'll also want to make sure that you provide clear evidence to back up your points. Finally, you'll want to ensure that your essay is written in a way that is interesting and engaging to the reader.

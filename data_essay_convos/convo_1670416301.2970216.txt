@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm working on my college admission essay and I'm having trouble deciding what to write about.
+COACH: Okay, let's start by talking about yourself. What is your background?
+STUDENT: Well, I come from a poor family, and I've faced a lot of struggles growing up.
+COACH: That sounds like a great starting point for your essay. Can you tell me more about the struggles you faced?
+STUDENT: Yeah, it's been hard. We've had to move around a lot, which made it difficult to make friends and stay in one place for too long. Plus, my family has experienced a lot of racism and discrimination.
+COACH: Wow, that's really tough. How have those experiences shaped you and your outlook on life?
+STUDENT: It's made me more aware of the injustices in the world and how important it is to stand up for what's right. I think it's also made me more compassionate and understanding of people who are different from me. 
+COACH: That's great. What else makes you unique? Do you have any hobbies or interests that you could talk about in your essay?
+STUDENT: Yeah, I'm really passionate about LGBT rights and I volunteer with an organization that works to promote equality.
+COACH: That's wonderful. You could definitely focus on that in your essay. What do you think makes an essay engaging?
+STUDENT: I think it's important to tell a story and make the reader feel something. It's also important to be honest and show your personality in the essay.
+COACH: Absolutely. Those are all great tips. Is there anything else I can help you with?
+STUDENT: No, I think that's it. Thanks for all your advice!

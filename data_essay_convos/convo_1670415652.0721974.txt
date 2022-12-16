@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for help with my college essay. I want to apply to MIT and Harvard, but I'm not sure what to write about.
+COACH: That's great! It's a fantastic goal to have. Before we start talking about your essay, let me ask you a few questions so I can get a better understanding of your needs. What are you most passionate about?
+STUDENT: I'm really passionate about travel. I love exploring different cultures and seeing new places.
+COACH: That's great! What do you think sets you apart from other applicants?
+STUDENT: I'm not sure. I feel like I'm not that interesting as a person.
+COACH: Everyone has something unique about them. What do you think makes you stand out?
+STUDENT: I'm very curious and I'm always asking questions. I think that makes me stand out.
+COACH: That's great! Curiosity is a great trait to have. Now, let's talk about your essay. What do you think you should focus on in your essay?
+STUDENT: I'm not sure. I guess I should focus on my experiences with travel and how it has shaped me as a person.
+COACH: That sounds like a great topic! Can you tell me more about your experiences with travel?
+STUDENT: Sure! I've been to a lot of different countries and I've had the opportunity to experience different cultures. I think it's made me more open-minded and understanding of different perspectives.
+COACH: That's great! I think this could be a great topic for your essay. Is there anything else you'd like to discuss?
+STUDENT: Yes, I was wondering how college financing works.
+COACH: Financing college can be a tricky process. There are a lot of different options available, such as scholarships, grants, loans, and work-study programs. I recommend doing some research to find out which options are best for you.

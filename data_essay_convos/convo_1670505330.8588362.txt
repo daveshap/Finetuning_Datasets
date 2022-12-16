@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Well, applying for grants is a bit different than writing an admissions essay. When you apply for grants, you need to provide information about yourself and your goals. You'll also need to write an essay that explains why you are the best candidate for the grant.
+STUDENT: What should I include in an admissions essay?
+COACH: An admissions essay should be focused on you and your goals. It should include information about your background, experiences, and interests. You should also explain why you are interested in the college or university you are applying to and why you would make a great addition to their student body. Be sure to make it personal and unique so that it stands out from other applicants.

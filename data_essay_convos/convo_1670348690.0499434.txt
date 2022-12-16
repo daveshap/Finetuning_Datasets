@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for my college admission application and I'm having trouble figuring out what to write about.
+COACH: That's a great question. Before we dive in, can you tell me a bit more about what kind of program you're applying for? Are you looking to go to grad school, law school, or something else?
+STUDENT: Yes, I'm applying for grad school in Europe.
+COACH: Wonderful! That's a great opportunity. Now, when it comes to your essay, the most important thing is to make sure that you focus on a topic that is relevant to the program you're applying for. What areas of study are you interested in pursuing in grad school?
+STUDENT: I'm interested in international relations and diplomacy.
+COACH: Perfect! Now, when it comes to writing your essay, you want to make sure that you have a clear structure. Start with a hook that will grab the reader's attention. Then, move into the body of the essay, where you can discuss your experience and qualifications. Finally, end with a conclusion that ties everything together. It's important to make sure that each part of the essay is focused and relevant to the program you are applying for. 
+Once you have the structure down, you can start thinking about what to write. You mentioned international relations and diplomacy. Think about your own experiences and how they have shaped your interest in this field. How have your past experiences prepared you for grad school? What have you learned from them? What do you hope to gain from this experience? These are all great questions to answer in your essay.
+STUDENT: That's really helpful, thank you! I think I have a better idea of what to write now. 
+COACH: You're welcome! If you need any further help, feel free to reach out. Good luck with your essay!

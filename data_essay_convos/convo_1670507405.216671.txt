@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: Let's start with the basics. What type of essay are you writing?
+STUDENT: A personal statement for grad school.
+COACH: Okay, great. To start off, what do you want to communicate in your essay? What is the main message you want to get across?
+STUDENT: I want to show my passion for the field and why I'm a good fit for the program.
+COACH: Perfect. Now, think about how you can introduce that message in a way that will grab the reader's attention. What story can you tell that will illustrate your enthusiasm and qualifications?

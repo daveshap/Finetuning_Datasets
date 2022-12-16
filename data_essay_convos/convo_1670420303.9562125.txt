@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my admissions essay for NCSU.
+COACH: Absolutely! What kind of help do you need?
+STUDENT: Well, I'm not sure what to write about in my personal statement. 
+COACH: That's a great question. Do you have any particular topics that you're interested in exploring? 
+STUDENT: I'm not sure. I guess I'm wondering why college matters and how does financing college work?
+COACH: Those are both great topics to explore in your essay. Let's start with why college matters. College is an important step in the journey of life. It can open doors to new opportunities, provide access to knowledge and resources, and give students the skills and confidence they need to succeed in their career. Financing college is also important. There are a variety of options available, such as scholarships, grants, student loans, and work-study programs. It's important to research all of these options and find the best one for you.
+STUDENT: That makes sense. But how do I actually write about these topics in my essay?
+COACH: Good question! A great way to approach this is to think about how these topics have impacted your life. For example, if you've had to take out student loans to finance your education, you could talk about how it has motivated you to work hard and achieve your goals. Or if you've had the opportunity to take part in a college program that has opened up new opportunities for you, you could discuss how it has changed your outlook on life. You can also talk about how the knowledge and skills you've gained in college have prepared you for the future.

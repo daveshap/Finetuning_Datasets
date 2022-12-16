@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my experience as a refugee from a poor family in Europe.
+COACH: That sounds like a fascinating topic! What kind of structure were you thinking of for the essay?
+STUDENT: I was thinking of starting with a brief overview of my family's situation and then going into more detail about our experience as refugees.
+COACH: That's a great idea. What kind of details do you want to include?
+STUDENT: I want to talk about the difficulties we faced, the challenges we overcame, and the lessons we learned.
+COACH: That sounds like a great way to structure your essay. Can you tell me more about what you want to focus on in the essay?
+STUDENT: I want to focus on the strength and resilience of my family and how we managed to survive despite the odds. I also want to emphasize the importance of education in helping us to succeed.
+COACH: That sounds like a powerful message! What type of personal statement do you want to make with this essay?
+STUDENT: I want to show that no matter what obstacles you face, you can still find success if you are willing to work hard and never give up. I want to be an example of how education can be a powerful tool for overcoming adversity.

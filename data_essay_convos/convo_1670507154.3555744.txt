@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Let's start by talking about the type of essay you need to write. Is it a research paper?
+STUDENT: Yes, it is.
+COACH: Great. What kind of research paper is it? Is it for a class, a project, or something else?
+STUDENT: It's for a class.
+COACH: Alright. What subject is the paper on?
+STUDENT: It's on the history of the civil rights movement in the United States.
+COACH: That sounds like an interesting topic. What specifically do you want to focus on in your paper?
+STUDENT: I'm not sure yet.
+COACH: That's okay. Let's start by brainstorming some ideas. What kind of questions do you have about the civil rights movement? What aspects of it interest you the most? What do you want to learn more about?

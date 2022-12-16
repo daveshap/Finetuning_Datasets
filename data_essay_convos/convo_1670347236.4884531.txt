@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help getting started on my personal statement. I'm from a single parent home and I'm trying to write about why college matters to me.
+COACH: That's great! Let me ask you a few questions to get a better understanding of your situation. What do you think college will do for you? 
+STUDENT: College will give me the opportunity to gain knowledge and skills that I wouldn't be able to get in my current environment. It will also open up new opportunities for me and help me reach my goals.
+COACH: That's a great answer! So, what do you think makes college so important for people like you who come from single parent homes?
+STUDENT: I think college is important because it gives us a chance to break the cycle of poverty and create a better future for ourselves. It also allows us to pursue our dreams and make a positive impact on our communities.
+COACH: That's a great insight! Now, let's talk about your personal statement. What do you think you should focus on in your essay?
+STUDENT: I want to focus on how college will help me reach my goals and why I'm passionate about pursuing higher education. I also want to talk about how my experience growing up in a single parent home has shaped my views on the importance of college.
+COACH: That's a great idea! You can also talk about how a college education can help you explore different cultures and experiences, such as studying abroad in Europe. How do you think that could benefit you?
+STUDENT: Studying abroad in Europe would give me the chance to explore different cultures, meet new people, and gain a better understanding of the world. It would also give me the opportunity to learn new languages and immerse myself in a different culture.

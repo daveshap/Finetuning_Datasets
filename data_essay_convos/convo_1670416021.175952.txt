@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about overcoming obstacles and I'm having trouble getting started.
+COACH: Alright, can you tell me a bit more about the essay? What kind of obstacles are you looking to discuss?
+STUDENT: Well, I'm looking at how people from different backgrounds and religions have faced rejection and discrimination in their lives and how they've managed to overcome those obstacles. In particular, I'm looking at how Muslims have been affected by sexism in engineering.
+COACH: That's a really interesting topic. To make your essay engaging, it would be helpful to focus on a specific story or example. Can you think of any particular stories or experiences that you could draw on to illustrate your points?
+STUDENT: Yes, I know a few people who have faced discrimination in engineering because of their faith. One of them is a woman who was rejected from a job she applied for because she was Muslim.
+COACH: That's a great example. It would be useful to explore her story in more detail and to look at how she overcame this obstacle. How did she do it?
+STUDENT: She was very determined and resilient. She kept applying for jobs despite the rejections and eventually found a position in a company that was willing to overlook her faith.
+COACH: That's inspiring. It would be helpful to explore her experience further. How did she stay motivated despite the rejections? What strategies did she use to stay focused and positive?
+STUDENT: She was very active in her community and she found support from other Muslims who were in similar situations. She also had a strong belief in herself and her abilities, and she was confident that she could find a job if she kept trying.
+COACH: That's great. It sounds like her determination and self-belief were key to her success. You could use her story as a case study to illustrate how Muslims have faced and overcome discrimination in the engineering field. It would also be useful to look at the wider issues at play here, such as the prevalence of sexism in engineering and the challenges that Muslim women face in this field.

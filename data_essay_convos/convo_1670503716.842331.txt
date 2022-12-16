@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: The best way to get started writing an admissions essay is to brainstorm ideas. Think about a time in your life that was meaningful and how it has shaped who you are today. Then, think of a few key points or themes that could be used to express this experience. Once you have your topic and some ideas, you can start to create an outline of what you want to say.
+STUDENT: How should I structure the essay?
+COACH: Generally, it's best to start with an introduction that sets the tone for the essay and introduces the main point or theme. After that, the body of the essay should include several paragraphs that provide more detail about the topic and support the main point. Finally, you should end the essay with a conclusion that summarizes the main points and leaves the reader with something to think about.
+STUDENT: What kind of language should I use?
+COACH: It's important to use language that is appropriate for the essay. This means using language that is clear, concise, and engaging. Try to avoid slang and overly technical language, as they can make the essay difficult to read. Additionally, using active verbs and strong adjectives can help to make your essay stand out.

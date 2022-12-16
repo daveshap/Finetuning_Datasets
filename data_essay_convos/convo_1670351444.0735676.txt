@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to grad school and am having trouble writing my admissions essay.
+COACH: Okay, can you tell me a bit more about what you're looking for help with?
+STUDENT: Sure! I'm having trouble figuring out what to focus on in my essay. I want to make sure that it will stand out from the other applications.
+COACH: That's a great question. What are your goals for grad school? Are you looking to stay in the US or move abroad?
+STUDENT: I'm hoping to stay in the US, and my goal is to eventually find a job after college. I'm thinking about applying to Harvard, but I'm also interested in studying abroad in France.
+COACH: That's a great plan! To stand out in your application, you should focus on how attending Harvard or France would help you achieve your career goals. What do you think makes you an ideal candidate for these schools?
+STUDENT: I think my strong academic background, leadership experience, and international perspective make me an ideal candidate. I'm also passionate about the topics I'm applying to study and believe I could make a positive impact in the field. 
+COACH: That's great! You should definitely highlight those qualities in your essay. Make sure to include specific examples of how your experiences have prepared you for success. You could also discuss any research projects or internships you've done that have helped you gain insight into the field. Finally, don't forget to explain why you're passionate about the topic and why you would be a great addition to the school.

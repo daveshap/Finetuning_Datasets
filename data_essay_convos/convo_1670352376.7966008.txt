@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm having trouble writing my admission essay.
+COACH: Alright, why don't you tell me a bit about yourself and why you want to go to Duke?
+STUDENT: Well, I'm a junior in high school and I'm interested in studying engineering. I'm passionate about problem-solving and creating solutions that make a difference in the world. I believe Duke's engineering program will provide me with the best education and resources to achieve my goals.
+COACH: That sounds great! So why do you think an admission essay is important for your application?
+STUDENT: I think it's important because it gives the admissions committee a chance to get to know me better and understand my motivations and goals. It also allows me to show my personality and demonstrate why I'm a good fit for their program.
+COACH: That makes sense. What parts of the essay are you having trouble with?
+STUDENT: The hook and the conclusion. I'm having trouble finding a way to grab the reader's attention and then wrapping up the essay in a meaningful way.
+COACH: That's understandable. Let's start with the hook. What have you tried so far?
+STUDENT: I've been trying to think of something interesting or unique to start off with, but I'm not sure what would work best.
+COACH: That's okay. Have you thought about using a personal anecdote or experience to start off your essay? That can be a great way to engage the reader and make them want to learn more about you. 
+STUDENT: Hmm, that's a good idea. I could talk about how I overcame racism growing up and how it has shaped my view of the world.
+COACH: That sounds like a powerful story. When it comes to the conclusion, you want to make sure you bring the essay full circle by tying everything together and reiterating your main points. You can also use the conclusion to make a lasting impression on the reader and leave them with something to remember.
+STUDENT: Alright, I think I understand. Thanks for the help!
+COACH: No problem! Is there anything else I can help you with?
+STUDENT: Actually, I'm feeling a bit discouraged because I feel like I'm not interesting enough as a person.
+COACH: That's normal to feel that way. Everyone has something unique and interesting to offer. I suggest that you focus on the things that make you different and emphasize those in your essay. Think about what you can bring to the table that no one else can and use that to your advantage.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help writing my admissions essay.
+COACH: Sure, what would you like to focus on in your essay?
+STUDENT: I want to talk about my experience with volunteer work and how it has shaped me as a person.
+COACH: That sounds like a great idea. Can you tell me more about the kind of volunteer work you've done?
+STUDENT: Well, I grew up in a poor family, so I had to take on a lot of responsibility at home. I also volunteered at a local synagogue to help out with their youth programs. I was part of a group that traveled to Europe to do volunteer work and learn more about Judaism.
+COACH: That's amazing! It sounds like you have a lot of experience with volunteer work. How has this impacted you as a person?
+STUDENT: It's been a really eye-opening experience. I've learned a lot about different cultures, and it has given me a better understanding of the world around me. It has also helped me develop a strong sense of compassion and empathy for those in need.
+COACH: That's wonderful. How would you like to incorporate these experiences into your essay?
+STUDENT: I want to emphasize how volunteering has taught me the importance of giving back to the community and how it has shaped my values.
+COACH: That's a great idea. You can start by talking about how you were inspired to volunteer and why it is so important to you. Then, you could explain how your experiences have shaped your values and how you view the world. Finally, you can discuss how this has impacted your goals for the future.

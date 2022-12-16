@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on what kind of essay you're writing and what the requirements are. Generally, a research essay should be around 1,000 words.
+STUDENT: What kind of research do I need to do?
+COACH: Before you start writing your essay, it's important to do some research on the topic. You'll want to look for sources that provide reliable information about the topic and can be used to support your argument. Make sure to cite any sources you use in your essay.
+STUDENT: How do I structure my essay?
+COACH: A good structure for a research essay is to start with an introduction, then provide evidence to support your argument, and finish with a conclusion. In the introduction, you'll want to provide background information on the topic and explain why it is important. You'll also want to state your thesis statement here. The body of your essay should include evidence to support your argument, such as facts, quotes, and examples. Finally, the conclusion should summarize your main points and provide a call to action or a reflection on your essay.

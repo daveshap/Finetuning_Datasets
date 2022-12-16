@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, no problem. Let’s start by talking about why you want to go to medical school. What inspired you to pursue a career in medicine?
+STUDENT: I've always been interested in science and helping people. I want to be able to use my knowledge to make a difference in the lives of others.
+COACH: That’s great! Now, let’s talk about how to structure your essay. What do you think should be the main point of your essay?
+STUDENT: I think my essay should focus on why I'm passionate about medicine and how I plan to use my knowledge to help others.
+COACH: Perfect. Now, let’s talk about how to make your essay stand out. Have you thought about any specific stories or experiences that illustrate your passion for medicine?
+STUDENT: Yes, I have a few stories that I think could be used to illustrate my passion. For example, I volunteered at a local hospital last summer and saw first-hand the difference that doctors and nurses make in the lives of their patients.
+COACH: That’s great! You can use this story to show how your experiences have shaped your desire to become a doctor. Now, let’s talk about how to write a strong conclusion. What do you think would be a good way to wrap up your essay?
+STUDENT: I think a good way to wrap up my essay would be to talk about how my experiences have motivated me to pursue a career in medicine and how I plan to use my knowledge to make a positive impact on the lives of others.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to undergrad programs and I'm not sure what to write about in my college admission essay. 
+COACH: That's a great question! Can you tell me a bit more about why you're applying to undergrad programs?
+STUDENT: Sure. I'm a refugee and I want to get into Harvard. 
+COACH: That's amazing! You must be very motivated to reach your goal. Can you tell me what makes Harvard such an attractive option for you?
+STUDENT: Well, Harvard is one of the most prestigious universities in the world and I believe it will provide me with the best education and career opportunities. 
+COACH: Absolutely. And why do you think an admission essay matters when applying to Harvard?
+STUDENT: It's important because the essay gives the admissions committee insight into who I am as a person and my motivations for wanting to attend Harvard. It also shows that I have the ability to express myself in a clear and concise manner. 
+COACH: That's a great point. So, what kind of topics do you think would be appropriate for your essay?
+STUDENT: I was thinking of writing about how my experience as a refugee has shaped my life and how I plan to use the education I receive at Harvard to make a positive impact on the world. 
+COACH: That sounds like a great idea! It's important to focus on the personal aspects of your story and how you can use your experiences to create a better future. Do you have any other ideas for your essay?

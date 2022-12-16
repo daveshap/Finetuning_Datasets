@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: Well, a good essay should have a clear purpose and a strong central argument. It should also be well-structured, with a logical flow and good transitions between ideas. Additionally, your essay should be free of errors in grammar, spelling, and punctuation. Finally, it should be engaging and memorable – something that will stick in the reader’s mind and make them want to learn more about you.

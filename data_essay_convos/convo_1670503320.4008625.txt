@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That’s a great question. Scholarships and grants are awarded based on a variety of criteria, such as academic achievement, financial need, community involvement, and extracurricular activities. You should start by researching the scholarships and grants available to you and then apply for those that you qualify for. It’s also important to make sure that you meet all of the requirements for the scholarship or grant before applying.
+STUDENT: What is a college admissions essay?
+COACH: A college admissions essay is an essay that a student writes as part of their application to a college or university. It is typically used to demonstrate the student’s knowledge, skills, and writing ability. The essay should be focused on the prompt provided by the college or university and should provide evidence of the student’s understanding of the topic.

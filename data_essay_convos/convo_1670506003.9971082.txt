@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. First, let's start by talking about the purpose of your essay. What do you want to accomplish with this term paper?
+STUDENT: I want to write about the history of the internet and how it has changed the way we communicate.
+COACH: Alright, great. That's a really interesting topic. Now, what kind of information do you need to research and include in your paper?
+STUDENT: I'm not sure.
+COACH: Well, first let's think about the scope of your paper. Do you want to focus on just one aspect of the internet, such as its impact on communication, or do you want to cover a wider range of topics? 
+STUDENT: I think I want to focus on the impact of the internet on communication.
+COACH: Perfect. Now, what kind of information do you need to include in your paper to support your argument? You'll want to look at different sources, such as books, articles, and websites, to get a better understanding of the topic.

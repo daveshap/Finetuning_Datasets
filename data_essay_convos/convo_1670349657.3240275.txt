@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for advice on writing an essay for my grad school application to Duke University. 
+COACH: Great! What program are you applying to? 
+STUDENT: Engineering.
+COACH: Perfect. Can you tell me a bit about why you want to study engineering at Duke?
+STUDENT: Well, I've always been interested in engineering and I think Duke has a great program. I also want to get some international experience, so I'm hoping to take part in a study abroad program in Germany.
+COACH: That's great! It sounds like you have a clear goal in mind for your education. Tell me more about your experiences with engineering and what inspired you to pursue it.
+STUDENT: I've been working in the engineering field for a few years now and I'm really passionate about it. I think the combination of Duke's program and the opportunity to study abroad in Germany is the perfect way to expand my knowledge and skills.
+COACH: That's wonderful. It sounds like you have a clear vision of what you want to achieve. Now, let's talk about your essay. What topics do you want to focus on?
+STUDENT: I want to talk about my experiences with engineering and how they've shaped my goals for the future. I also want to discuss why I'm interested in studying engineering at Duke and why I think their program is the best fit for me.
+COACH: That's a great plan. Are there any specific questions you have about the essay?
+STUDENT: Yes, I was wondering if you had any tips for getting scholarships and grants for grad school?
+COACH: Absolutely! There are many resources available to help you find scholarships and grants. Start by researching which organizations offer these types of awards and then look into the application process for each one. You can also reach out to your school's financial aid office for more information. Good luck!

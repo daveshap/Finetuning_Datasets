@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to Princeton and I'm stuck on what to write about in my college admission essay.
+COACH: That's a great question. Let's start by talking through some of the topics that you're passionate about and how they could be relevant to writing an essay for Princeton. What are some of the issues that you feel strongly about?
+STUDENT: Well, I'm really interested in sexism and racism, and I'm also fascinated by China and its culture.
+COACH: Interesting. So, let's start with sexism and racism. How do you think these issues can be relevant to your essay for Princeton?
+STUDENT: I think it could be interesting to explore how the university environment has changed over the years in terms of these issues, and how it is still evolving.
+COACH: That's a great idea. You could explore how the university is addressing these issues and how it is creating a more inclusive environment. You could also talk about how you have personally experienced or witnessed sexism and racism, and how you would like to use your education at Princeton to help create a more equitable society.
+STUDENT: That sounds like a great idea. What about my interest in China?
+COACH: You could explore how your interest in China has shaped your worldview and how you believe it can help inform your academic pursuits at Princeton. You could discuss how your understanding of Chinese culture has given you insight into the global community and how you plan to use this knowledge to make a positive impact.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am applying to MIT and I'm having trouble getting started on my essay.
+COACH: Alright, let's start by talking about what you want to accomplish with your essay. What do you want the admissions committee to know about you?
+STUDENT: I want them to know that I am a hardworking student, who is passionate about learning and exploring new things. I also want to show that I am resilient and capable of overcoming obstacles.
+COACH: That's great! Can you give me an example of a time when you had to overcome an obstacle or challenge?
+STUDENT: Well, I am part of the LGBT community and I have faced a lot of rejection and discrimination. I have had to learn to be strong and keep pushing forward despite the adversity.
+COACH: That's admirable. How did you use your experiences to shape who you are today?
+STUDENT: I used my experiences to become more open-minded and understanding of different perspectives. I also learned to be more confident in myself and my abilities, even when others don't believe in me.
+COACH: That's wonderful. What else do you think makes you an interesting person and why should MIT accept you?
+STUDENT: I think my unique background and experiences make me an interesting person. I have had to confront many difficult situations and I have come out on top. I am a creative thinker and I strive to think outside the box. I also have a strong sense of empathy and I am passionate about helping others. I believe I will be a great asset to the MIT community.

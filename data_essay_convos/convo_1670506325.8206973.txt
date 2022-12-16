@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. Can you tell me a bit more about yourself and the essay topic you are considering?
+STUDENT: Sure, I'm interested in writing about my experience volunteering at a local animal shelter.
+COACH: That sounds like a great topic! Let's start by breaking down the essay into manageable chunks. We can begin by brainstorming some ideas for the introduction, body, and conclusion of your essay. What kind of information do you think would be important to include in each section?

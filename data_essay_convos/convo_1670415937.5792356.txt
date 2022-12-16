@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm currently applying for an undergraduate program at Princeton, and I need to write an essay about my skills and achievements. But I'm not sure how to structure it.
+COACH: That's a great question! Let's start by talking about what kind of skills and achievements you want to highlight in your essay. What do you think are your biggest strengths?
+STUDENT: Well, I'm really good at science. I'm a straight-A student in all of my science classes and I've been involved in some research projects over the past few years.
+COACH: That's impressive! What kind of research projects have you worked on?
+STUDENT: Mostly biochemical research. I've been exploring the effects of certain compounds on the human body and trying to find new ways to treat diseases.
+COACH: Wow, that sounds like fascinating work! Now, let's talk about how to structure your essay. What kind of format do you think would be most effective?
+STUDENT: I think I'd like to focus on my research experience first, then talk about my academic achievements and other relevant skills.
+COACH: That sounds like a great plan. You could start by giving an overview of your research experience, then go into more detail about the specific projects you've worked on and the impact they've had. After that, you could discuss your academic achievements and any other skills or experiences that make you a great candidate for Princeton.

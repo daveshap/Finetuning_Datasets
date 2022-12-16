@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers are looking for essays that demonstrate your ability to think critically, express yourself clearly, and showcase your unique perspective. They want to get to know you as a person, so it’s important to write an essay that reflects your personality and interests.
+STUDENT: How do I write an argumentative essay?
+COACH: Argumentative essays are all about making a case for your point of view. To do this, you need to research the topic thoroughly and present evidence to support your argument. You should also anticipate counterarguments and address them in your essay. Additionally, you should make sure to use strong language and persuasive techniques to convince the reader of your point of view.

@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my goals and personal objectives for college.
+COACH: That's a great topic! Can you tell me a bit more about what you want to include in the essay? 
+STUDENT: Well, I want to talk about how I plan to finance college, what I want to study, and why I think college is important to me.
+COACH: That's a good start. What do you know about financing college? How do you plan to pay for your education?
+STUDENT: I'm looking into taking out loans, but I'm also considering applying for scholarships and grants.
+COACH: That's a great idea. Have you looked into any specific scholarships or grants that you might qualify for? 
+STUDENT: Yes, I've been researching some local scholarships and grants, as well as some national ones.
+COACH: That's great! What have you learned about the application process for these scholarships and grants? 
+STUDENT: Well, I know that most of them require an essay, so I need to make sure that my essay is well-written and persuasive.
+COACH: Absolutely. Do you have any ideas about how you want to structure your essay?
+STUDENT: I was thinking about discussing my goals and objectives first, then talking about how I plan to finance college, and finally discussing why I think college is important to me.
+COACH: That sounds like a great plan. Are there any other topics you want to include in your essay?
+STUDENT: I was also thinking about mentioning some of the volunteer work I've done in the past, and how it has helped shape my goals and objectives.
+COACH: That's a great idea! It's always helpful to include real-world examples in your essay to make it more convincing. Is there anything else you would like to discuss? 
+STUDENT: I think that's it for now.
+COACH: Alright, great! Now that we have a plan, let's talk about the specifics of your essay. What do you think are the most important points you want to make?

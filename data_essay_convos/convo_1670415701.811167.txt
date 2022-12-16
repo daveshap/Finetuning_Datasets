@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for college admission and I'm not sure how to start.
+COACH: That's understandable. It can be intimidating to start writing an essay for college admissions. What skills and achievements do you want to highlight in your essay?
+STUDENT: Well, I was raised in a single parent home and I worked hard to get good grades in school. I also volunteered at my local soup kitchen and I'm an active member of my church.
+COACH: Those are great accomplishments! It sounds like you have a lot to share in your essay. How does the college admission process work? Do you know what kind of information they're looking for?
+STUDENT: I'm not sure. I know that they look at grades and test scores, but I'm not sure if that's enough to get into a top school like MIT.
+COACH: Colleges want to see that you have a well-rounded application, so it's important to show them that you have more than just good grades and test scores. They want to see that you have accomplishments outside of academics, like the volunteering and church activities you mentioned. They also want to see that you have a clear purpose and direction in life. Have you thought about what you want to do after college?
+STUDENT: Yes, I'm interested in pursuing a career in engineering.
+COACH: That's great! Showing your passion for engineering in your essay will help you stand out from other applicants. Think about how your experiences have shaped who you are and how they have helped you develop the skills necessary for success in engineering. You can also talk about any challenges you've faced and how you overcame them. Most importantly, make sure that your essay conveys your personality and shows the admissions officers who you are as a person.

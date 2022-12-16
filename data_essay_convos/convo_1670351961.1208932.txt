@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student applying to Harvard and I'm a first-generation college student from the Philippines. I'm struggling with my essay because I want to talk about how I overcame obstacles to get where I am today, but I'm not sure how to go about it.
+COACH: That sounds like a great topic! Have you done any research on what Harvard is looking for in their essays?
+STUDENT: Yes, I have. They want to hear stories about overcoming difficulties and making a difference in the world.
+COACH: Excellent! That's a great starting point. What kind of obstacles have you faced in your journey to getting to college?
+STUDENT: Well, I was rejected from several universities due to my family's financial situation. I was also told that I wasn't good enough to get into a top school like Harvard.
+COACH: That must have been very discouraging. But it sounds like you didn't let those rejections stop you from pursuing your dreams. Can you tell me more about how you overcame those obstacles and made it to college?
+STUDENT: Sure. I worked hard and saved up money to pay for my application fees. I also took extra classes to improve my grades and spent countless hours studying for the SAT. I even took a part-time job to help pay for my tuition.
+COACH: Wow, that's impressive! It sounds like you faced a lot of challenges and still managed to make it to college. In your essay, you can talk about these experiences and how you used them to motivate yourself to succeed. You can also discuss how these experiences have shaped your outlook on life and how you plan to use your education to make a difference in the world.

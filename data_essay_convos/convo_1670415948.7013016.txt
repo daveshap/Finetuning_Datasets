@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I have no idea what to write about.
+COACH: That's okay, let's take this step by step. What topics are you interested in?
+STUDENT: Well, I'm interested in neurodiversity and how it affects learning.
+COACH: That's a great topic! What specifically do you want to focus on?
+STUDENT: I want to explore how neurodiversity can be seen as an asset in the classroom and how teachers can better support students with diverse learning needs.
+COACH: That sounds like a great idea! What research have you done so far?
+STUDENT: I've read some articles about neurodiversity and how it can be beneficial in the classroom. I've also looked at some case studies to see how different schools have implemented strategies to support students with different learning needs.
+COACH: That's great! What other topics do you want to include in your essay?
+STUDENT: I'd like to talk about my own passion for learning and how it has helped me to develop my skills and achievements.
+COACH: That sounds interesting. How have your passions and achievements been shaped by your experiences with neurodiversity?
+STUDENT: I think that my passion for learning has been shaped by my experience with neurodiversity. I'm able to look at things from different perspectives and use my unique skills to come up with creative solutions. I've also been able to use my skills and achievements to help others with similar challenges.
+COACH: That's really inspiring! Is there anything else you want to include in your essay?
+STUDENT: Yes, I'd like to talk about my experiences in China and how they have influenced my approach to learning.
+COACH: That sounds great! What have your experiences in China taught you about learning?
+STUDENT: My experiences in China have taught me the importance of cultural understanding and the value of diversity. I've also learned that learning is a lifelong process and that there is always something new to discover.

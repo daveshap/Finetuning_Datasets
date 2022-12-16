@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admissions essay for Duke University and I'm having trouble getting started.
+COACH: Alright, let's start by talking about why you want to go to Duke. What interests you about the school?
+STUDENT: Well, I'm interested in their international studies program, especially their focus on China. I'm Chinese-American and I want to learn more about my heritage.
+COACH: That's great! So, what kind of experiences have you had that can help you write your essay?
+STUDENT: Well, I've traveled to China a few times, and I've done some research on Chinese culture and history. I've also taken some classes in international studies.
+COACH: Excellent! It sounds like you have a lot of experience to draw from for your essay. What kind of story do you want to tell in your essay?
+STUDENT: I want to talk about my journey from being a boring person who didn't know much about my heritage to someone who is passionate about learning more about it and engaging with the world.
+COACH: That's a great story to tell! What challenges have you faced in your journey so far?
+STUDENT: One of the biggest challenges has been overcoming my fear of speaking up in class. I was always too shy to ask questions or voice my opinions, but I eventually realized that if I wanted to learn more, I had to be brave and speak up.
+COACH: That's a great lesson to share in your essay. Do you have any other stories or experiences you'd like to include in your essay?
+STUDENT: Yes, I'd like to talk about how I got involved in international studies and how that has helped me gain a better understanding of my heritage and the world.
+COACH: That sounds like a great addition to your essay. Is there anything else you'd like to include?
+STUDENT: I think that's it. I feel like I have a good idea of what I want to write now.
+COACH: Great! Let's talk about the structure and organization of your essay. How do you plan on organizing your thoughts and ideas?

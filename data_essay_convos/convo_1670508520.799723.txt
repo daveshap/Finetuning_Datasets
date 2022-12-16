@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question! It's important to make sure you research the different scholarships that are available to you and determine which ones you are eligible for. Once you have identified the scholarships you want to apply for, you'll need to put together an application package that includes a personal statement. Can I help you with that?
+STUDENT: Yes, please.
+COACH: Great! Let's start by talking about the purpose of your personal statement. What do you want to accomplish by writing it?
+STUDENT: I want to show the admissions committee why I'm a good fit for medical school.
+COACH: That's a great goal! To do that, you'll need to focus on your experiences and how they have shaped who you are today. You'll also want to demonstrate your commitment to the medical field and explain why you are the best candidate for the program. Are there any particular experiences or stories that you think would be helpful to include?

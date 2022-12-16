@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm really struggling with my personal statement.
+COACH: What is it about your personal statement that you are having difficulty with?
+STUDENT: I'm not sure how to make myself stand out as an interesting person. I don't have any groundbreaking accomplishments or experiences, and I'm afraid that won't be enough to get me into Yale.
+COACH: That's a great question and a common concern. I think the best way to make yourself stand out as an interesting person is to tell your story in a unique way. What have been some of the defining moments in your life so far? Are there any particular experiences or values that have shaped who you are today?
+STUDENT: Well, I recently returned from a trip to Vietnam where I volunteered at a local school. It was an eye-opening experience that made me realize how much sexism still exists in many parts of the world. It also made me appreciate the freedom and opportunities that I have here in the United States.
+COACH: That sounds like an amazing experience! It's great that you were able to recognize the sexism in other cultures and appreciate the privilege you have here. This could be a great topic for your personal statement. You could talk about how this experience has shaped your views on gender equality and how it has impacted your life goals. You could also discuss how this experience has made you a more compassionate and understanding person.

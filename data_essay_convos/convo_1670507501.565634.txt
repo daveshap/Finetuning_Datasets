@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That's a great question. Can you tell me a bit more about the essay? What type of essay is it, and what program are you applying to?
+STUDENT: It's a personal statement for grad school.
+COACH: Great. What do you want to highlight in your essay? What do you think makes you a good candidate for this program?
+STUDENT: I think my experience working in the field gives me a unique perspective that could benefit the program.
+COACH: That's a great start! What else do you think should be included in your essay?
+STUDENT: I think I should also talk about my leadership skills and how I have used them to make an impact in my community.
+COACH: That sounds like a great addition. Now, let's talk about structure. How do you want to organize your essay? Do you want to use a chronological narrative, or would you prefer to focus on key themes?
+STUDENT: I think I'd like to focus on key themes, since that will allow me to showcase my strengths more effectively.
+COACH: That's a great idea. Let's start by identifying the main themes you want to address. What do you think are the most important elements of your story that you want to include in your essay?

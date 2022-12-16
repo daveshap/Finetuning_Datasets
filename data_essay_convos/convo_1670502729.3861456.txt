@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That depends on what you want to communicate to the admissions committee. Think about what makes you unique and how you want to tell your story. What experiences or qualities do you want to highlight?
+STUDENT: I'm interested in researching the impact of technology on education.
+COACH: That's a great topic! Research essays are a great way to show your knowledge and interest in a particular subject. When researching, make sure to use reliable sources and be sure to cite them properly. Make sure to present your ideas in a logical and organized manner, and provide evidence to support your claims. Also, don't forget to include a conclusion that summarizes your main points.

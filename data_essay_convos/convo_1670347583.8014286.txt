@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to North Carolina State University and I have no idea what to write about.
+COACH: That's okay! It can be a bit overwhelming to figure out what to write about when you're applying to college. What are some things you care about or that interest you?
+STUDENT: Well, I've been doing a lot of charity work lately.
+COACH: That's great! Have you thought about writing about your experience with charity work? It could be a great way to show how you're making a difference in your community.
+STUDENT: Yeah, I guess I could write about that. But I'm worried it might sound boring.
+COACH: It doesn't have to be boring! Think about the specific details of your experience that you can share with your readers. What made you decide to get involved with charity work? How has it changed your outlook on life? What have you learned from it?
+STUDENT: I guess I got involved with charity work because my family is not well off and I wanted to help other people who are in a similar situation. It has changed my outlook on life because it has shown me that even though I don't have much, I can still make a difference. I've learned that it's important to give back to the community and that no matter how small the gesture, it can have a big impact.
+COACH: That's wonderful. It sounds like you have a great story to tell about your experience with charity work. You could focus on how it has impacted your life and how it has shaped your values. You could also talk about the lessons you have learned and how you plan to use those lessons in the future.

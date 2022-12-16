@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my personal goals and objectives and I'm having trouble getting started.
+COACH: That's great! Let's start by talking about what you're passionate about. What interests you?
+STUDENT: Well, I'm very interested in Christianity and Buddhism, as well as French culture and language.
+COACH: That's wonderful! How do those interests influence your goals and objectives?
+STUDENT: Well, I want to use my knowledge of Christianity and Buddhism to help others, and I want to learn French so that I can travel to France and experience the culture firsthand.
+COACH: That's a great goal! What steps do you plan to take to achieve it?
+STUDENT: I plan to take some online classes to learn more about Christianity and Buddhism and then I want to volunteer at a local church or temple. I also plan to take a French class and practice speaking with native speakers.
+COACH: That sounds like a great plan! What other goals and objectives do you have?
+STUDENT: I want to become more involved in my community and make a difference in people's lives. I also want to develop my leadership skills and work on improving my public speaking abilities.
+COACH: Those are great goals! How do you plan to accomplish them?
+STUDENT: I plan to join some clubs and organizations in my community and get involved in volunteer activities. I also want to take some public speaking classes and practice speaking in front of groups.

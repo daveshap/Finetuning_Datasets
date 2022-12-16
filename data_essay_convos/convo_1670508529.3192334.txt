@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That’s a great question, and a great place to start. Applying for scholarships is a great way to help finance your education. Let’s start by talking about what kind of scholarship you’re looking for and what kind of essay you need to write.
+STUDENT: I’m looking for scholarships for grad school and I need to write a personal statement.
+COACH: Okay, great. A personal statement is a great way to tell the admissions committee more about yourself and your goals. It’s important to be honest and sincere in your writing, so make sure to think about what you want to say before you start writing.
+STUDENT: What kind of topics should I focus on?
+COACH: When writing a personal statement, it’s important to focus on topics that demonstrate your strengths, passions, and motivations for pursuing your chosen field of study. Think about why you’re passionate about this field and how you plan to use your degree in the future. It’s also important to talk about any unique experiences or qualifications that make you stand out from other applicants.

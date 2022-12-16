@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hello! I'm trying to write an essay for my application to Duke University. I want to talk about my goals and personal objectives, as well as how my experiences have shaped them.
+COACH: Great! Let's start by talking about your goals. What do you hope to accomplish with your education?
+STUDENT: My primary goal is to use my education to make a positive impact in the world. I want to focus on combating sexism and promoting gender equality, particularly in Europe. I also want to use my education to help me travel to other countries and learn more about different cultures, such as Thailand.
+COACH: That's a great goal! It sounds like you want to use your education to make a difference in the world. What experiences have shaped your goals?
+STUDENT: Growing up, I was exposed to a lot of gender inequality. I saw how it impacted the lives of women and girls around me, and it inspired me to work towards creating a more equal society. I also had the opportunity to travel to Thailand, where I saw firsthand how different cultures approach gender roles. These experiences have shaped my goals and motivated me to pursue a higher education.

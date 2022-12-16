@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for advice on how to write a personal statement for law school.
+COACH: Great! Can you tell me a bit about yourself and why you're interested in law school?
+STUDENT: Sure. I'm currently studying engineering and have been involved in a lot of charity work related to social issues and refugee rights. I want to use my skills and knowledge to help people through law school.
+COACH: That's wonderful! What specifically has drawn you to law school? Are there any particular areas of law you'd like to focus on?
+STUDENT: Well, I'm really interested in human rights law. I think it's important to protect those who are vulnerable and ensure that everyone is treated fairly. I also want to learn more about the legal system and how it works in different countries.
+COACH: That's admirable. What experiences have you had that have helped shape your interest in law?
+STUDENT: I've volunteered with a number of organizations that focus on social justice and human rights issues. Through this work, I've seen firsthand the power of the law to protect people and ensure they get the help they need. It's inspired me to pursue a career in law.

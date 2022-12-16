@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for advice on how to write an essay that will help me stand out when applying for scholarships and grants.
+COACH: Great! Can you tell me a bit more about yourself? What are your skills and achievements, and what type of engineering are you interested in?
+STUDENT: Sure. I'm a student from the Philippines and I'm interested in civil engineering. My skills include problem solving, communication, and leadership. I have achieved a few awards in school such as the Math and Science Award, and I was also a member of the student council.
+COACH: That's impressive! What else can you tell me about yourself?
+STUDENT: I'm also a practicing Muslim and I'm very passionate about my faith. I'm involved in a few Islamic organizations and I'm always looking for ways to give back to my community.
+COACH: That's wonderful! It sounds like you have a lot of great qualities that can help you stand out when applying for scholarships and grants. What do you think are the most important things to include in your essay?
+STUDENT: I think the most important thing is to highlight my skills, achievements, and commitment to my faith. I want to show that I'm a well-rounded individual who is also dedicated to making a positive impact in the world.
+COACH: That's a great approach! What else do you need help with in terms of writing your essay?
+STUDENT: I'm having trouble organizing my thoughts and getting started on the actual writing process.
+COACH: That's understandable! I suggest starting by brainstorming some ideas and writing down your main points. Once you have those down, you can start to organize them into a cohesive essay. Do you have any questions about the writing process?

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm trying to write an admission essay for a college in Germany.
+COACH: Alright, let's start with why you're applying to this college. What is it about this college that interests you?
+STUDENT: Well, I think the college has a great international reputation and I'm interested in the cultural diversity of the student body.
+COACH: That's great! What kind of skills and achievements do you have that would make you a good fit for this college?
+STUDENT: I'm a hard worker and I'm very organized. I'm also a good communicator and I'm very passionate about learning.
+COACH: Those are all great qualities! Do you have any specific experiences that relate to why you want to attend this college?
+STUDENT: Yes, I'm a refugee from Syria and I'm passionate about helping others in similar situations. I'm hoping to use my experiences to make a difference in the lives of other refugees.
+COACH: That's wonderful. It sounds like you have a lot of unique experiences to draw on for your essay. Why do you think it's important to write a good admission essay?
+STUDENT: I think a good admission essay can help me stand out from other applicants and show the college that I'm a dedicated and passionate student who is committed to making a difference. It can also help demonstrate my skills and achievements and highlight how I'm a good fit for the college.

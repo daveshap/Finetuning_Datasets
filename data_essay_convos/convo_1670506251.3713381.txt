@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. Let's start with a reference interview. What kind of essay is it for? 
+STUDENT: It's a personal statement for graduate school.
+COACH: Okay, great. Now, what do you want to focus on in your essay? 
+STUDENT: I want to talk about my passion for learning and how I can use that to help me reach my goals.
+COACH: That's wonderful! It sounds like you have a clear idea of what you'd like to focus on. Now let's talk about how to structure the essay. Have you ever written an essay before?
+STUDENT: Yes, I have written essays for college classes.
+COACH: Great! Do you know the basic structure of an essay? 
+STUDENT: Yes, I know the basics.
+COACH: Perfect. Let's go over it again to make sure you have a good foundation. An essay typically consists of an introduction, body paragraphs, and a conclusion. The introduction should introduce your topic and provide some background information. The body paragraphs should provide evidence to support your main points. Finally, the conclusion should summarize your main points and provide a sense of closure. Does that make sense?
+STUDENT: Yes, that makes sense.
+COACH: Great! Now let's talk about how to apply this structure to your personal statement. Think about what you want to accomplish in your essay. What experiences or qualities do you want to highlight? 
+STUDENT: I want to talk about my enthusiasm for learning and how it has helped me achieve my goals.
+COACH: That's great! You could start your essay by talking about a time when you were particularly motivated to learn something new. In the body paragraphs, you could provide examples of how you used that knowledge to reach your goals. Finally, you could use the conclusion to reflect on what you've learned and how it has impacted your life. Does that sound like a good plan? 
+STUDENT: Yes, that sounds like a good plan. 
+COACH: Perfect! Now let's talk about how to make your essay stand out. What unique qualities or experiences do you have that you can use to make your essay memorable?

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am applying to North Carolina State University and I need help with my admissions essay.
+COACH: No problem. What is your topic of interest?
+STUDENT: I have no idea what to write about.
+COACH: That's okay. Before we get into the specifics of your essay, let me ask you a few questions. What topics do you find interesting? What do you enjoy doing in your free time?
+STUDENT: I'm interested in learning about different cultures and I love to travel. I recently went to Thailand and it was an incredible experience.
+COACH: Sounds like you have a great topic. Why don't you focus on your trip to Thailand and how it has impacted your view of the world? What did you learn from your experience? What did you take away from it?
+STUDENT: Well, I learned a lot about the culture and history of Thailand. I also gained a better understanding of the importance of respecting different cultures and customs.
+COACH: That sounds like a great topic for your essay. What else could you include? Are there any specific stories or anecdotes that you could share to illustrate your points?
+STUDENT: Yes, I could talk about my visit to the Grand Palace and how it left me in awe. I could also share my experience of trying out the local cuisine and how it gave me a new appreciation for Thai food.
+COACH: That's great! You could also discuss how your experience in Thailand has shaped your perspective on the world and how it has influenced your future goals and plans. What do you think admissions officers are looking for in an essay like this?
+STUDENT: I think they're looking for a personal story that shows how the applicant has grown and developed as a result of their experiences. They want to see how the applicant has taken away valuable lessons and how they plan to use those lessons in their future endeavors.

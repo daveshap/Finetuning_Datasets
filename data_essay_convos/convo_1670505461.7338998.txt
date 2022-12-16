@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: Scholarships are a great way to help pay for college, and there are a variety of ways to apply for them. Most scholarships require you to submit an essay as part of your application. This essay should showcase your strengths and abilities, so it's important to take the time to craft a well-written piece that reflects who you are and why you're a good fit for the scholarship.
+STUDENT: What should I include in my essay?
+COACH: When writing your essay, it's important to focus on the qualities that make you unique. You should include details about your academic goals, extracurricular activities, and any other experiences that have shaped who you are. Additionally, you should highlight any special skills or talents that you possess that may be beneficial to the scholarship committee. Be sure to explain why you believe you’re a good candidate for the scholarship and how it will help you achieve your goals.

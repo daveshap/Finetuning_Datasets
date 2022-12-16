@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and Duke University and I'm looking for some guidance on my essay.
+COACH: Great! What type of essay are you writing? 
+STUDENT: It's an undergrad essay about my experience studying abroad in Europe. 
+COACH: Okay, so what kind of experience did you have in Europe?
+STUDENT: Well, I spent a semester in France and then traveled around other countries like Italy and Spain. I got to experience different cultures, languages, and customs that were completely different from what I was used to in Vietnam. 
+COACH: That sounds incredible! What did you learn from these experiences?
+STUDENT: I learned a lot about the importance of cultural understanding and acceptance. I also got to experience different perspectives on life, which really opened my eyes to the world outside of my own. 
+COACH: That's great! So how can you use this experience in your essay? 
+STUDENT: Well, I want to talk about how my experiences abroad have shaped my view of the world and how it has made me realize the importance of cultural exchange. I also want to discuss how it has prepared me for a successful undergraduate experience at either Yale or Duke University. 
+COACH: That sounds like a great idea! I think it would be a great way to show the admissions committee that you are well-rounded and open to new experiences. How can I help you with the essay? 
+STUDENT: I'm having trouble organizing my thoughts and putting them into words. Could you help me with that?
+COACH: Absolutely! Why don't we start by brainstorming some ideas and then work on structuring them into a cohesive essay?

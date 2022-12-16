@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help writing my admissions essay.
+COACH: Great, what is the essay about?
+STUDENT: It's about my experience as a refugee from the Middle East and how it has shaped my identity and worldview.
+COACH: That sounds like a great topic. What kind of angle would you like to take with the essay?
+STUDENT: I want to focus on how my experience of being a refugee and a Muslim in Germany has impacted my understanding of neurodiversity and my view of the world.
+COACH: That's an interesting perspective. What do you think are the main points you want to make in the essay?
+STUDENT: I want to emphasize how my experience of displacement and cultural difference has made me more aware of the diversity of human experience and has given me a unique insight into the importance of understanding and respecting neurodiversity.
+COACH: That's a great point. What kind of evidence can you provide to back up your argument?
+STUDENT: I can draw on my own personal experiences as well as research I've done on the topic. I can also cite examples from my community of how people have been able to overcome obstacles due to their understanding and appreciation of neurodiversity.
+COACH: That sounds like a great approach. How do you plan to structure the essay?
+STUDENT: I was thinking of starting with a brief introduction about my background and why this topic is important to me. Then I'll provide some context about the situation of refugees in Germany and how it relates to neurodiversity. After that, I'll discuss my own experiences and how they have impacted my views on the subject. Finally, I'll conclude with a call to action for greater understanding and acceptance of neurodiversity.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I want to make sure my essay stands out to the admissions officers.
+COACH: That's great! What kind of topics are you considering writing about?
+STUDENT: Well, I was thinking about writing about growing up in a single parent home in China.
+COACH: Interesting! Can you tell me more about what you would like to focus on in the essay?
+STUDENT: Sure. I want to talk about how my upbringing has shaped my skills and achievements, and how I have been able to overcome the challenges of having a single parent home.
+COACH: That sounds like a great topic for your essay! What parts of the essay do you think you need help with?
+STUDENT: I'm not sure how to structure the essay. I know there's a hook, middle and conclusion, but I'm not sure how to tie it all together.
+COACH: Sure, let's start with the hook. This is the part of the essay that grabs the reader's attention and makes them want to read more. For your essay, you could start with a personal anecdote or a statistic about single parent homes in China. Then, you can move on to the middle of the essay where you discuss your skills and achievements, and how they have been shaped by your upbringing. Finally, you can end the essay with a conclusion that ties everything together and explains why this topic is important to you. Does that make sense?
+STUDENT: Yes, that makes sense. Thank you for your help!

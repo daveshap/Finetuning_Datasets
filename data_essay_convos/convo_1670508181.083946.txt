@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: Well, let's start with a few questions. What kind of essay is it?
+STUDENT: It's a term paper.
+COACH: Alright, so what kind of topic are you writing about?
+STUDENT: I'm writing about the effects of climate change on the environment.
+COACH: Great, that's a great topic. Now, what do you want to accomplish with your essay? What is the main point or message you want to convey? 
+STUDENT: I want to show how climate change is affecting our environment and what can be done to mitigate its effects.
+COACH: Perfect. Now, let's talk about how to make your essay more engaging. To start, think about your audience. Who are you writing for? 
+STUDENT: I'm writing for my professor and other students in my class.
+COACH: Okay, that's great. Now, think about how you can make your essay interesting to them. You can use personal examples to illustrate your points, share stories, use vivid language, and provide real-world examples. You can also use visuals like graphs or diagrams to illustrate your points. Finally, make sure your essay has a clear structure and flow. That way, your readers will be able to follow your argument and stay engaged.

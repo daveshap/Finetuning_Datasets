@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my personal statement. I'm applying to a few universities in Europe and I want to make sure my essay stands out.
+COACH: That's great! Can you tell me a bit more about your essay? What kind of topics have you been considering?
+STUDENT: I was thinking about talking about my experience traveling in China. I think it would be a great way to show my knowledge of different cultures and my openness to new experiences.
+COACH: That sounds like a great topic! Have you already started writing your essay?
+STUDENT: Yes, I've written a rough draft but I'm not sure if it conveys the right message.
+COACH: That's understandable. It can be difficult to know how to best present yourself in an admissions essay. Why don't you tell me a bit more about your experience in China? What kind of things did you do while you were there?
+STUDENT: Well, I traveled around a lot and visited different cities. I also took part in some cultural activities like calligraphy and tai chi.
+COACH: That sounds like an amazing experience! I think that could make a great essay. What kind of message do you want to convey in your essay?
+STUDENT: I want to show that I'm open to new experiences, that I'm willing to step out of my comfort zone, and that I'm comfortable in unfamiliar environments.
+COACH: Great! Those are all excellent qualities for a university student. How can I help you make sure your essay conveys that message?
+STUDENT: I think I need help with the structure and the language. I'm not sure how to craft my story in the most effective way.
+COACH: Absolutely! We can work together to make sure your essay is well-structured and that your language is clear and concise. Let's start by brainstorming some ideas for the essay.

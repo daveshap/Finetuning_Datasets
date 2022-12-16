@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a college student and I'm having trouble writing an essay about Buddhism.
+COACH: Alright, let's start by talking about what you already know about Buddhism. What have you already learned?
+STUDENT: Well, I know that Buddhism is a religion based on the teachings of Siddhartha Gautama, also known as the Buddha. I know that it emphasizes the practice of meditation and mindfulness.
+COACH: That's great! It sounds like you have a good foundation to work with. Now, what would you like to focus on in your essay? 
+STUDENT: I guess I'd like to talk about how Buddhism has helped me in my life.
+COACH: That's a great topic! What kind of personal experiences do you want to share in your essay?
+STUDENT: Well, I was a refugee when I first came to this country, and I experienced a lot of trauma and hardship. Buddhism has helped me to cope with these experiences and find peace.
+COACH: That's a powerful story. It sounds like you have a lot of material to work with. Do you have any other topics you'd like to discuss in your essay?
+STUDENT: Yes, I'd also like to talk about how Buddhism has helped me to find a job after college and how I can get scholarships and grants.
+COACH: That's great! You can talk about how Buddhism has given you the tools to stay focused and motivated while looking for a job, and how you can use Buddhist principles to help you find scholarships and grants. Do you have any other questions or topics you'd like to discuss?

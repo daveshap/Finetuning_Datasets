@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to write a personal statement for college admissions, but I'm struggling to come up with what to write about.
+COACH: That's understandable. What topics interest you?
+STUDENT: Well, I'm passionate about social justice and racism. I think it's important to talk about the issues that people of color face in our society, and I want to use my essay to bring attention to those issues.
+COACH: That's great. How do you plan to approach this topic in your essay?
+STUDENT: I want to focus on how racism has impacted my life and the lives of my peers. I'd also like to explore how racism affects our society as a whole and how we can work to create real change.
+COACH: That sounds like a great approach. What else do you want to include in your essay?
+STUDENT: I want to talk about my volunteer work and charity work. I've been involved in several social justice projects, and I think it's important to highlight the work I've done to make a difference.
+COACH: Absolutely. Volunteering and charity work are great ways to demonstrate your commitment to social justice. Is there anything else you'd like to include in your essay?
+STUDENT: Yes, I'd like to talk about how I've personally been affected by racism and how I've grown from those experiences. I think it's important to show that I'm not just talking about these issues, but that I'm actively working to make a difference.

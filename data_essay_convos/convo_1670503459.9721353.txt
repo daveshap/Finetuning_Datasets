@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question! Depending on your field of study, there are several ways to find a job after college. You can start by researching the job market in your area and looking for open positions. You can also network with professionals in your industry, attend job fairs, and utilize online job search resources. Additionally, many colleges and universities offer career counseling services that can help you find the right job for you.

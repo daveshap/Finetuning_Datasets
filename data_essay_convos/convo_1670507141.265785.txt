@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay. Let's start with a reference interview. What subject or topic are you interested in writing about?
+STUDENT: I'm interested in writing about the effects of technology on society.
+COACH: Great, that's a great topic to write about. Now, what kind of essay are you writing?
+STUDENT: A monograph.
+COACH: Alright, so for a monograph essay you'll need to provide an in-depth analysis of a single topic. You'll need to research the topic thoroughly, and then present your findings in an organized way. To start, you'll need to come up with a thesis statement that will focus your essay and provide structure. Do you have any ideas for a thesis statement?

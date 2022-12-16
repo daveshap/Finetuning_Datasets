@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my personal statement for college applications. I'm interested in applying to UNC and UCLA.
+COACH: Great! What is your background and what makes you unique?
+STUDENT: I grew up in a poor family, but I've always had a passion for creativity and art. I think that sets me apart from other applicants.
+COACH: That's fantastic! It sounds like you have a lot of potential and a great story to tell. How can I help you with your personal statement?
+STUDENT: Well, I'm not sure how to start or what to include. I want to make sure it stands out and really captures who I am.
+COACH: Of course. Let's start with brainstorming. What are some of the experiences, values, and passions that make you unique?
+STUDENT: Well, I'm passionate about art and creativity. I also value hard work and determination. I think these things have really helped me get to where I am today.
+COACH: Those are great qualities to highlight in your essay. Let's focus on how you can use them to tell your story. What experiences have shaped you and how can you use them to show the admissions committee who you are?
+STUDENT: I think my experience growing up in a poor family has been a huge influence on my life and how I approach things. It has taught me the importance of hard work and resilience, and I believe it has given me a unique perspective.
+COACH: That's an excellent point to make in your essay. You can use this experience to show how you've overcome adversity and how it has shaped your values and goals. What else do you think you should include in your essay?

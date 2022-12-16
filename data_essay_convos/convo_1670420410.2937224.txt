@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college admissions essay.
+COACH: Sure, what kind of essay are you writing?
+STUDENT: It's about my experience as a refugee and how it has shaped my views on politics and charity work.
+COACH: That sounds like an interesting topic. Could you tell me more about your experience and how it has impacted your views? 
+STUDENT: Sure. I was born in a war-torn country and had to flee with my family when I was very young. We eventually settled in a new country, but I still carry with me the memories of our journey and the struggles we faced. This has made me more aware of the plight of refugees around the world and has led me to become more politically active and involved in charity work.
+COACH: That's a powerful story. How do you plan to incorporate this into your essay?
+STUDENT: I want to focus on how my experience has shaped my views on politics and charity work, and how it has motivated me to take action. I want to emphasize the importance of understanding different perspectives and recognizing that everyone has a unique story to tell.
+COACH: That's a great approach. Can you tell me more about the admissions process and what kind of essay you need to write?
+STUDENT: Sure. I'm applying to a few colleges and they all have slightly different requirements. Generally, they require an essay that talks about my background, experiences, and goals.
+COACH: Got it. Do you have any questions about the admissions process or the essay itself?
+STUDENT: Yes, I'm wondering how important the essay is in the admissions process and if there are any tips for making sure it stands out.
+COACH: The admissions essay is important because it gives you the opportunity to showcase your personality and demonstrate why you'd be a great fit for the school. My best advice is to be authentic and honest in your essay, and to make sure it reflects your unique voice and perspective. Good luck!

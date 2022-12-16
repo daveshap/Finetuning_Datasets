@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: The best way to pick a topic for your essay is to think about something that you're passionate about and that has shaped your life in some way. It could be a hobby, an experience, or a person who has influenced your life. Once you have a topic in mind, you can start brainstorming ideas for your essay.
+STUDENT: How do I structure my essay?
+COACH: Start by introducing yourself and why you are applying to medical school. Then, explain how your experiences have shaped your decision to pursue a career in medicine. After that, you can provide specific examples of your experiences, such as volunteer work, research projects, or internships. Finally, conclude your essay by expressing your enthusiasm for the profession and your commitment to becoming a doctor.

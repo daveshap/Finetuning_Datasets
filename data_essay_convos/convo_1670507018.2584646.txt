@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: That’s a great question. An engaging essay is one that includes interesting facts, meaningful arguments, and persuasive language. It should also have a clear structure and purpose. What type of essay are you working on?
+STUDENT: A research essay.
+COACH: Great! Research essays require a lot of research and evidence to back up your arguments. Start by brainstorming a few topics that interest you and that you want to research further. Then, do some research and find reliable sources to support your points. Finally, use the information you gathered to create an outline for your essay. This will help you organize your thoughts and make sure you don’t miss any important points. Does that make sense?

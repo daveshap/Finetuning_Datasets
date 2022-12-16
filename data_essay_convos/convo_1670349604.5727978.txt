@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to Duke University for engineering, and I'm having trouble getting started on my essay.
+RACCOACH: Alright, let's start by talking about what kind of topics you might want to focus on. What interests do you have that you could write about?
+STUDENT: Well, I'm really passionate about issues of racism and social justice, so I'd like to write about that if possible.
+COACH: That's great! There are so many potential angles to explore when it comes to racism and social justice. Do you have any specific ideas in mind?
+STUDENT: Not really, I have no idea what to write about.
+COACH: That's okay! Let's start by brainstorming some potential topics. What aspects of racism and social justice are you most interested in? Are there any particular stories or experiences that come to mind?

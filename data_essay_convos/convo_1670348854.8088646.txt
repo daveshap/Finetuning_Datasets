@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about overcoming obstacles.
+COACH: That sounds like a great topic! What kind of obstacles do you plan to discuss?
+STUDENT: Well, I want to talk about rejection and sexism in the sciences, and how I think politics can play a role in it.
+COACH: Okay, that's a really interesting angle. What makes you passionate about this topic?
+STUDENT: Well, I've experienced a lot of sexism in the sciences, and it's something I feel strongly about. I also think it's important to talk about how to overcome these obstacles and make sure more people have access to the sciences.
+COACH: Absolutely. What do you think are the biggest challenges people face when it comes to tackling sexism in the sciences?
+STUDENT: I think one of the biggest challenges is that people don't always recognize the sexism that exists in the sciences. It's often seen as a meritocracy, but in reality, there are a lot of biases and systemic issues that prevent people from having equal access to resources and opportunities.
+COACH: That's a really important point. So, how do you think people can overcome these obstacles?
+STUDENT: I think it's important to start by raising awareness about the issue and educating people on how to recognize and address sexism in the sciences. We also need to make sure that we're creating an environment that encourages people to speak up and take action when they experience discrimination. Finally, we need to ensure that everyone has access to the same resources and opportunities, regardless of their gender or background.

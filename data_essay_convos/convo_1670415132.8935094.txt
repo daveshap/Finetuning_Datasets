@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble writing my personal statement.
+COACH: Alright, what kind of help do you need? 
+STUDENT: Well, I'm not sure what admissions officers are looking for in a personal statement.
+COACH: That's a great question. Generally, a personal statement should be an honest reflection of who you are and what you want to accomplish. It should highlight your strengths, any special skills or talents you have, and the experiences that have shaped you. Admissions officers also want to see that you have a clear vision of the future and that you can articulate it in your essay. 
+STUDENT: That makes sense. But I'm also worried about how to discuss my experiences with racism and my faith as a Muslim.
+COACH: Absolutely. You don't have to shy away from discussing your experiences with racism and your faith. In fact, it can be very powerful to share your story and how it has shaped your identity. Be sure to present your experiences in a positive light and focus on how you have grown and developed as a result. And if you feel comfortable doing so, you can also discuss how your faith has helped you navigate difficult situations and how it has shaped your values.

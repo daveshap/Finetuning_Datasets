@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Rejection is a part of the writing process, so it's important to be prepared for it. What kind of essay are you writing?
+STUDENT: It's an argumentative essay.
+COACH: Okay, great. An argumentative essay should present a clear and well-reasoned argument. What is the main point you want to make in your essay?

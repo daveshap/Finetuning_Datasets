@@ -1,0 +1,211 @@
+Soujanya
+
+Python Developer | Green Card
+
+soujanyat880@gmail.com | 901-701-7248
+
+Summary:
+
+-   5+ years of experience in developing and designing Web Based,
+    Multi - tier distributed applications using latest analytical
+    programming Python, Django technologies.
+
+-   Knowledge about setting up Python REST API Framework using Django.
+
+-   Experienced in working with different operating systems like
+    Windows, Linux and UNIX.
+
+-   Highly motivated, dedicated, quick learner and have proven ability
+    to build and manage a team and work individually.
+
+-   Experience includes Database Design, Analysis and Development with
+    MySQL and SQL Server.
+
+-   Experienced in installing, configuring, modifying, testing and
+    deploying applications with Apache.
+
+-   Experienced in developing Web Services with Python programming
+    language - implementing JSON based RESTful and XML based SOAP web
+    services.
+
+-   Experience in working with various Python Integrated Development
+    Environments like PyCharm, Python IDE, Eclipse, and IntelliJ Idea.
+
+-   Expertise in Software Development Life Cycle (SDLC), Software
+    Testing Life Cycle (STLC) and Defect Life cycle with major
+    responsibilities in all the phases.
+
+-   Experienced in developing web - based applications using Python,
+    Django, XML, CSS, HTML, JavaScript and JQuery.
+
+-   Excellent written and oral communication skills with
+    results-oriented attitude.
+
+Technical Skills:
+
++--------------------+-------------------------------------------------+
+| Languages          |   Python                                        |
++====================+=================================================+
+| Frameworks         |   Django, Flask and Spring MVC                  |
++--------------------+-------------------------------------------------+
+| Web Technologies   |   HTML5, CSS3, Java Script, JQUERY              |
++--------------------+-------------------------------------------------+
+| Application        |   Apache2, JBoss                                |
+| Servers            |                                                 |
++--------------------+-------------------------------------------------+
+| Database           |   MySQL                                         |
++--------------------+-------------------------------------------------+
+| IDE's              |   Python IDE, PyCharm, Eclipse 4.x, IntelliJ    |
+|                    |   Idea                                          |
++--------------------+-------------------------------------------------+
+| Operating Systems  |   Windows, Linux                                |
++--------------------+-------------------------------------------------+
+| Version Control    |   SVN, GIT                                      |
++--------------------+-------------------------------------------------+
+
+Education:
+
+-   B.Tech in IT, JNTU, India.
+
+Professional Experience:
+
+Pinnacle Financial Partners, Nashville, TN | Python Developer | October
+2021 - Present
+
+-   Used Eclipse as IDE for developing the application
+
+-   Developed views and templates with Python and Django's view
+    controller and templating language to create a user-friendly website
+    interface.
+
+-   Using Subversion control tool to coordinate team-development.
+
+-   Responsible for gathering requirements, system analysis, design,
+    development, testing and deployment.
+
+-   Used HTML, CSS, AJAX, JSON designed and developed the user interface
+    of the website.
+
+-   Developed entire frontend and backend modules using Python on Django
+    Web Framework.
+
+-   Used PyUnit, the Python unit test framework, for all Python
+    applications.
+
+-   Worked with LAMP (Linux, Apache, MySQL, and Python) Architecture.
+
+-   Used JQuery for the data manipulations on client side.
+
+-   Worked on JSON and XML data of web application assets and its
+    attributes.
+
+-   Designed front end and backend of the application using Python on
+    Django Web Framework.
+
+-   Rewrite existing Python/Django modules to deliver certain format of
+    data.
+
+-   Used JavaScript and JSON to update a portion of a webpage.
+
+-   Wrote and executed various MySQL database queries from Python-MySQL
+    connector and MySQL db. Package.
+
+-   Involved in Developing a Restful service using Python Flask
+    framework.
+
+-   Created a repository and pushed the code to GitHub Enterprise.
+
+Environment: Python, Flask, HTML, CSS, MVC, Django, My SQL, PostGreSQL,
+REST API, JavaScript, JQuery, Git, Apache, Linux, PyCharm, Eclipse,
+IntelliJ
+
+Geomotiv, Alexandria, VA | Python Developer | November 2019 – September
+2021
+
+-   Built database model, Views and API's using Python for interactive
+    web-based solutions.
+
+-   Placed data into JSON files using Python to test Django websites.
+    Used Python scripts to update the content in the database and
+    manipulate files.
+
+-   Implemented responsive user interface and standards throughout the
+    development and maintenance of the website using the HTML, CSS,
+    JavaScript, and JQuery.
+
+-   Developed views and templates with Python and Django's view
+    controller and templating language to create a user-friendly website
+    interface. Created unit test/regression test framework for
+    working/new code
+
+-   Handled all the client-side validation using JavaScript.
+
+-   Collaborated within a team using an Agile Development workflow and
+    widely accepted collaboration practices using Git.
+
+-   Used Python and Django creating graphics, XML processing, data
+    exchange and business logic implementation.
+
+-   Wrote indexes, views, constraints, stored procedures, triggers,
+    cursors and user defined functions or subroutines in MySQL.
+
+-   Used Python and Django to interface with the jQuery UI and manage
+    the storage and deletion of content.
+
+-   Developed a fully automated continuous integration system using Git,
+    MySQL, and custom tools developed in Python.
+
+-   Used Git version control tool to coordinate team-development.
+
+-   Responsible for user validations on client side as well as server
+    side.
+
+-   Developed views and templates with Python and Django's view
+    controller and templating language to create a user-friendly
+    interface using MVC architecture.
+
+-   Interacted with QA to develop test plans from high-level design
+    documentation
+
+Environment: Python, Django, Java, Java Script, HTML, CSS, JSON, JQuery,
+XML, MYSQL, GitHub, SQL, and Windows.
+
+Logis, Golden Valley, MN | Python Developer | May 2017 – October 2019
+
+-   Implemented code in Python to retrieve and manipulate data.
+
+-   Used MySQL as backend database and MySQL of python as database
+    connector to interact with MySQL server. Built an Interface between
+    Django with REST API.
+
+-   Daily Task Distribution within the team and keeping track of the
+    progress using Scrum Board.
+
+-   Used Django Database APIs to access database objects.
+
+-   Wrote python scripts to parse XML documents and load the data in
+    database.
+
+-   Developed the required XML Schema documents and implemented the
+    framework for parsing XML documents.
+
+-   Used Python and Django to interface with the jQuery UI and manage
+    the storage and deletion of content.
+
+-   Developed Wrapper in Python for instantiating multi-threaded
+    application.
+
+-   Managed datasets using Panda data frames and MySQL, queried MYSQL
+    database queries from Python using Python-MySQL connector MySQL dB
+    package to retrieve information.
+
+-   Used JDBC to access MySQL database for accessing customer
+    information.
+
+-   Rewrite existing Python/Django module to deliver certain format of
+    data.
+
+-   Wrote Python scripts to parse JSON documents and load the data in
+    database.
+
+Environment: Python, Django, MySQL, JDBC, REST API, JSON, JQuery, XML.

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: That's a good question. First, let's talk about what kind of essay you're writing. Is it a research paper?
+STUDENT: Yes, it is.
+COACH: Okay, great. What kind of research are you doing for your paper? What sources have you used so far?
+STUDENT: I'm researching the history of the civil rights movement in the United States. I've been using books and articles from the library.
+COACH: That's great. Have you thought about how to organize your paper? What kind of structure will you use?
+STUDENT: I was thinking of starting with a brief overview of the civil rights movement, then going into more detail about specific events and people who were involved.
+COACH: That sounds like a great plan. Now, let's talk about the actual writing process. What kind of writing style should you use?
+STUDENT: I was thinking of using an academic style, since it's a research paper.
+COACH: That's a good choice. Academic writing is usually clear and concise, and it's important to cite your sources properly. Have you thought about how you'll incorporate evidence from your sources into your paper?
+STUDENT: Not really.
+COACH: That's okay. A good way to do this is to make sure that each point you make is supported by evidence from your sources. This will help make your paper more persuasive and convincing. Also, make sure to use transitions between paragraphs to help the flow of your paper.

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student applying to North Carolina State University and need help with my personal statement.
+COACH: That's great! I'm happy to help. Tell me a bit about yourself and what you want to study.
+STUDENT: Well, I'm interested in engineering and I think NCSU would be a great fit for me. I'm really passionate about engineering and I want to make sure I present myself in the best light in my personal statement.
+COACH: That's fantastic! It sounds like you have a clear goal and vision for your future. Let's talk about some of your skills and achievements that you can include in your statement. What have you accomplished so far that you're proud of? 
+STUDENT: Well, I've been on the honor roll every semester since I started high school. I also volunteered at a local engineering firm last summer, which gave me some valuable experience.
+COACH: Great! Those are both excellent experiences that you can highlight in your essay. What else do you think you could include in your statement?
+STUDENT: I'm not sure. I don't have many other accomplishments or experiences to draw from.
+COACH: That's okay! Everyone has different experiences, and there are still plenty of ways to make your statement stand out. Think about the qualities that make you unique and how you can communicate them effectively. Are there any particular topics or interests that you're passionate about that you'd like to discuss in your essay? 
+STUDENT: I'm really interested in robotics and I've been working on a few projects in my free time. I'm also passionate about renewable energy and sustainable development.
+COACH: Fantastic! You can use these topics to demonstrate your interest in engineering and your commitment to making the world a better place. You can also talk about the challenges you faced while working on these projects and how you overcame them. This will show the admissions committee your resilience and problem-solving skills. 
+STUDENT: That sounds great! I think that's a great way to make my personal statement stand out. 
+COACH: Absolutely! I'm confident that with these ideas and some thoughtful editing, you'll have a great essay that will make you stand out from the crowd.

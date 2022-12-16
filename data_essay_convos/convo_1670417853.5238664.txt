@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am looking for help with my college essay. I am not sure what to write about or how to make it interesting.
+COACH: That's a great question! Can you tell me a bit more about yourself and why you're interested in college?
+STUDENT: Sure. I'm a high school student from Europe and I'm interested in studying in France. I want to know more about how financing college works and what I should write about in my personal statement.
+COACH: Great! Financing college can be an intimidating process, but I'm here to help you. First, let's talk about what you should write about in your personal statement. It's a great opportunity to tell your story and explain why you are a perfect fit for the college you're applying to. What do you think makes you unique and sets you apart from other applicants?
+STUDENT: Well, I'm a very hardworking and dedicated student. I'm also passionate about learning and exploring new cultures and ideas. I think that my diverse background and experiences have given me a unique perspective on life.
+COACH: That's wonderful! It sounds like you have a lot to offer and I'm sure the college you're applying to will appreciate that. Now, let's talk about how to make your essay stand out. What do you think would make your essay really memorable?
+STUDENT: I think that incorporating stories and anecdotes from my life would be a great way to make my essay stand out. I could talk about my travels and experiences abroad, as well as any challenges I've faced and how I overcame them.
+COACH: That's a great idea! Stories and anecdotes are a great way to bring your essay to life and make it unique. Lastly, let's talk about financing college. What do you know about the process and what questions do you have?
+STUDENT: I know that there are a variety of options available for financing college, such as scholarships, grants, and student loans. I'm not sure which one is best for me and I'm wondering how to go about applying for them.
+COACH: That's a great question! There are many resources available to help you understand and apply for financial aid. You can start by researching different scholarships and grants that you may qualify for. Additionally, you can look into student loans and compare the different interest rates and repayment plans.

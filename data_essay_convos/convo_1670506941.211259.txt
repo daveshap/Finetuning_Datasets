@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question! What kind of job are you looking for? Are you looking for something in a specific field or industry?
+STUDENT: I'm hoping to find a job in the finance sector.
+COACH: That's great! What kind of skills or experiences do you have that might be relevant to this field? 
+STUDENT: I have a degree in economics, and I've been working in banking for the past two years.
+COACH: That's excellent! Now, what kind of admissions essay do you need to write? Are you applying for a specific program or university? 
+STUDENT: Yes, I'm applying to a master's program in finance at a university.
+COACH: Great! What kind of essay are you writing? A personal statement, a statement of purpose, or something else? 
+STUDENT: I'm writing a personal statement.
+COACH: Perfect. Let's start by talking about your goals and why you want to pursue a master's degree in finance. What do you hope to achieve with this degree?

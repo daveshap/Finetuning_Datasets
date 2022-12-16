@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Absolutely! You can write a great essay about being a first-generation college student. The key is to focus on how your unique experience has shaped you and your goals for the future. Start by brainstorming some of the ways that being a first-generation college student has impacted your life.
+STUDENT: What should my thesis statement be?
+COACH: Your thesis statement should capture the central idea of your essay. For example, you could say something like: "As a first-generation college student, I have faced many challenges that have made me a more determined and resilient individual, and this has enabled me to pursue my educational and career goals with greater ambition."

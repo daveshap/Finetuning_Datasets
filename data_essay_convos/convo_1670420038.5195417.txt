@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to write a personal statement for my application to UNC, and I'm struggling to make it stand out.
+COACH: That's great! Can you tell me a bit more about what you want to focus on in your essay?
+STUDENT: Well, I'm really passionate about volunteer work and neurodiversity, and I think I want to emphasize my experiences with both of those topics.
+COACH: Okay, that sounds like a great starting point. What kind of volunteer work have you done, and how has it impacted you?
+STUDENT: I've been involved with a few different organizations that focus on neurodiversity. I've been able to learn a lot about the subject, and it's helped me become more aware of the issues faced by people with neurological differences. It's also given me a better understanding of how I can help others in similar situations.
+COACH: That's great! Can you tell me a bit more about how you've been able to apply this knowledge in your everyday life?
+STUDENT: Sure! I've been able to use my understanding of neurodiversity to help build more inclusive environments in my school and community. I've also been able to use my experiences to help mentor other students who are interested in learning more about neurodiversity.
+COACH: That's wonderful! It sounds like you've had a lot of great experiences. How do you think these experiences could be used to help you stand out in your personal statement?
+STUDENT: I think that by talking about my experiences with volunteer work and neurodiversity, I can demonstrate my commitment to helping others and my passion for the subject. Additionally, I've had the opportunity to travel to different places to learn more about neurodiversity, and I think that this could provide an interesting perspective to my essay.

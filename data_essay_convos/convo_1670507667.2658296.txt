@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question! Before we dive into the essay itself, can you tell me a bit more about the context? What type of essay is it? What program or school are you applying to?
+STUDENT: It's an admissions essay for a college and I don't have a prompt.
+COACH: Alright, that's helpful. An admissions essay without a prompt can be tricky, so let's break it down. First, think about what you want to say to the admissions committee. What do you want them to know about you? What are your strengths, passions, and experiences that you want to highlight?
+STUDENT: I want to show them that I'm a hardworking student who is passionate about learning. I also want to highlight my leadership skills and my commitment to making a difference in the world.
+COACH: Great! Now that you have an idea of what you want to say, let's talk about structure. An admissions essay should be well-organized and easy to follow. Start by introducing yourself and your background. Then, use the body of the essay to elaborate on the points you want to make about yourself. Make sure to provide specific examples and stories to illustrate your points. Finally, wrap up the essay with a strong conclusion that summarizes your main points and reiterates why you would be an ideal candidate for the program. 
+STUDENT: Okay, that makes sense. I think I have a good idea of what I need to do now.
+COACH: Fantastic! If you need any help along the way, don't hesitate to reach out. Good luck with your essay!

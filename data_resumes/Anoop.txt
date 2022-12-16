@@ -1,0 +1,462 @@
+Anoop Singh
+
+Sr Python Developer
+
+www.linkedin.com/in/anoop-d-ab4427234
+
+US Citizen
+
+Email: Anoopd510@gmail.com ; Ph: +1 (713) 322-0375
+
+PROFESSIONAL SUMMARY:
+
+___________________________________________________________________________________________
+
+Senior Software Developer with total 8+years of experience in Web
+Application Development with solid analytical programming using python;
+with skills in analysis, design, development, testing and deploying
+software applications.
+
+-   Versatile & sound experience using various python libraries to speed
+    up development (libraries used: Beautiful Soup, SciPy, Matplotlib,
+    python - twitter, Pandas data frame, network, urllib2, MySQL, NOSQL,
+    dB for database connectivity, JSON libraries)
+
+-   Involved in Developing a Restful service using python Flask
+    framework.
+
+-   Made Django web-based apps for Insurance premium calculations.
+
+-   Developed entire frontend and back-end modules using python on
+    Django Web Framework with GIT
+
+-   Successfully Migrated the Django database from SQLite to MySQL to
+    PostgreSQL with complete data integrity.
+
+-   Working in UNIX environment in developing the application and
+    familiar with all its commands.
+
+-   Experienced in working Stretch Database feature of SQL Server 2019
+    for the cold data residing on on-premises SQL Server Databases can
+    be migrated transparently and securely to Microsoft Azure Cloud.
+
+-   Hands on Experience in Data mining and Data warehousing using ETL
+    Tools and Proficient in Building reports and dashboards in Tableau
+    (BI Tool).
+
+-   Proficient in using Amazon Web Services AWS. Extensive experience
+    focusing on services like EC2, VPC, Cloud Watch, Cloud Front, Cloud
+    Formation, IAM, S3, RDS, Elastic Cache, SNS, SQS.
+
+-   Configured AWS Identity and Access Management (IAM) Groups and Users
+    for improved login authentication.
+
+-   Hands on experience in design and development of Unix Shell
+    Scripting as a part of the ETL Process to automate the process of
+    loading.
+
+-   Automate different workflows, which are initiated manually with
+    Python scripts and Unix shell scripting.
+
+-   Experience in Creation and managing user accounts, security, rights,
+    disk space and process monitoring in Solaris and Red hat Linux.
+
+-   Worked in agile and waterfall methodologies with high quality
+    deliverables delivered on-time.
+
+-   Excellent Experience of Databases such as MySQL, Oracle 8g/9g/10g,
+    Microsoft SQL Server, PostgreSQL, SQL/PLSQL concepts
+
+-   Experience with continuous integration and automation using Jenkins.
+
+TECHNICALSKILLS:
+
+  ------------------ ----------------------------------------------------
+  Operating Systems  Microsoft Windows, macOS, Linux and Ubuntu
+
+  Languages          Python, C++, Java, J2EE, JavaScript, SQL, Django, R
+
+  Python Libraries   Matplotlib, PyQt, NLTK, Stats models, Beautiful
+                     soup, Twisted, NumPy, Scapy, SQLAlchemy, Boto,
+                     logging, Nose, Blaze, Hug Scikit-learn/sklearn,
+                     SOAP, Scipy
+
+  Python Frameworks  Pandas, Pyramid, Fast API, Django, Docker
+
+  Python IDE         Sublime Text 3, Eclipse, Jupyter Notebook, VIM,
+                     PyCharm
+
+  Data Science Tools R Language, STASTISTICA, Big Data, python
+
+  Development Tools  AWS, Docker, Selenium, Sublime Text, Eclipse,
+                     Notepad++, Open Grok, Jenkins, Coverity, Pylint
+
+  NLP used for       NLTK, OpenNLP, StanfordNLP (NER, POSTag,
+  Python             Tokenization)
+
+  Databases          RDBMS (Oracle, SQL Server, MySQL), No SQL (Mongo
+                     DB), HDFS (Hadoop), Cassandra, PostgreSQL, SQLite,
+                     AWS, AWS Redshift
+
+  Design Tools       Gnu, Apache Ant, Apache Maven, Buck, Bit-Bake, Boot,
+                     Grunt Gulp, UML, IBM Rational Rose, Ansible, JIRA,
+                     GNU Debugger Bugzilla
+
+  Web Technologies   Django, Flask, Pyramid, Servlets, JSP, AJAX, HTML5,
+                     CSS3, X Path, Java Script, jQuery, Web Services
+                     (Soap, Restful), AWS like EC2, S3, ELB, EBS, SES,
+                     Selenium, PyUnit
+
+  Other Tools        Putty, SQL developer, Toad, JIRA, MATLAB, HP ALM, HP
+                     QC, R studio
+  ------------------ ----------------------------------------------------
+
+PROFESSIONAL EXPERIENCE
+
+  -----------------------------------------------------------------------
+  GAP Inc, San Francisco CA Sep 2021 - Present
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+Role: Sr. Python Developer
+
+Responsibilities:
+
+-   Involved in requirement gathering and analysis phase of the project
+    in documenting the business requirements by conducting
+    workshops/meetings with various business users.
+
+-   Developed entire frontend and backend modules using Django
+    Framework.
+
+-   Manage datasets using Panda data frames and MySQL, queried MYSQL
+    database queries from python using Python-MySQL connector and MySQL
+    DB package to retrieve information.
+
+-   Involved in the Web/Application development using Python, HTML5,
+    CSS3, AJAX, Bootstrap, React.js, JavaScript,JSON and JQuery.
+
+-   Wrote UNIX shell scripting for automation and
+    used JavaScript and JSON to update a portion of a webpage.
+
+-   Created API services using FASTAPI frame work for making
+    asynchronous calls during execution of applications.
+
+-   Generated Python Django forms to record data of online users and
+    used PyTest for writing test cases.
+
+-   Used Python, Jupyter, Scientific computing stack (NumPy, SciPy,
+    pandas and matplotlib).
+
+-   Developed single page application by using Angular 2 backed
+    by MongoDB and Node.JS.
+
+-   Design and maintain databases using Python and developed Python
+    based API (RESTful Web Service) using Flask,SQL
+    Alchemy and PostgreSQL.
+
+-   Manage code versioning with GitHub, Bit Bucket and deployment to
+    staging and production servers and implement MVC architecture in
+    developing the web application with the help of Django framework.
+
+-   Design and manage API system deployment using http server and Amazon
+    AWS architecture.
+
+-   Involved in development of Web Services using SOAP for sending and
+    getting data from the external interface in the XML format.
+
+-   Developed entire frontend and backend modules using Python on Django
+    Web Framework.
+
+-   Outputting the parsed data as JSON/BSON and stored into MongoDB.
+
+-   Used NLTK and StanfordNLP to process text data and created offline
+    intelligence and used AWS for application deployment and
+    configuration.
+
+-   Develop Sqoop scripts to handle change data capture for processing
+    incremental records between new arrived and existing data
+    in RDBMS tables.
+
+-   Implemented AWS solutions using E2C, S3, RDS, EBS, Elastic Load
+    Balancer, Auto scaling groups, Optimized volumes and EC2 instances.
+
+-   Develop consumer-based features using Django, HTML and Test-Driven
+    Development (TDD).
+
+-   Configuring auto scalable and highly available Micro Services set
+    with monitoring and logging using AWS, Docker, Jenkins and Splunk.
+
+-   Increased the speed of pre-existing search indexes through Django
+    ORM optimizations.
+
+-   Developed module to build Django ORM queries that can pre-load data
+    to greatly reduce the number of databases queries needed to retrieve
+    the same amount of data.
+
+-   Used Python unit and functional testing modules such as unit test,
+    unittest2, mock, and custom frameworks in-line with Agile Software
+    Development methodologies.
+
+-   Involved in entire lifecycle of the project including Design,
+    Development, Deployment, Testing and implementation and support.
+
+Environment: Python, Django, HTML5/CSS3, PostgreSQL, MS SQL Server,
+MySQL, JavaScript, Jupyter Notebook, E2C, S3,RDS, EBS, Elastic Load
+Balancer, Auto scaling, VIM, PyCharm, React.js, Shell Scripting, Angular
+2, AWS, Docker,Jenkins,GitHub, Bit Bucket,Jira, Windows All versions.
+
+  -----------------------------------------------------------------------
+  Auto Zone INC, Memphis TN Sep 2019 – Aug 2021
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+Role: Python Developer
+
+Responsibilities:
+
+-   Followed Agile methodology to iterate product changes, developing
+    user stories and working through backlog, and used JIRA to document
+    the stories and backlogs.
+
+-   Involved in requirement gathering, analysis, design, and development
+    of SDLC.
+
+-   Implemented and designed several Python microservices in the
+    healthcare domain.
+
+-   Developed views and templates with Python and Djangos view
+    controller and templating language to created user-friendly website
+    interface.
+
+-   Utilized Python and Django for Business logic implementation, data
+    exchange, and XML processing and graphics creation.
+
+-   Used Pandas library for statistical Analysis, Panda library was used
+    for flexible reshaping and pivoting of data sets.
+
+-   Used Celery as task queue and RabbitMQ, Redis as messaging broker to
+    execute asynchronous tasks.
+
+-   Used Django configuration to manage URLs and application parameters.
+
+-   Used Pandas API to put the data as time series and tabular form for
+    east timestamp data
+
+-   manipulation and retrieval to handle time series data and do data
+    manipulation.
+
+-   Developed Web Services using SOAP for sending and getting data from
+    the external interface in the XML format.
+
+-   Worked on Rest APIs, Web Scraping, Integrating web services with
+    applications.
+
+-   Developed module to build Django ORM queries that can pre-load data
+    to greatly reduce the number of databases queries needed to retrieve
+    the same amount of data.
+
+-   Used Flask to connect front-end to backend, CherryPy to build the
+    server and wordclouds to visualize movies.
+
+-   Wrote multiple Stored Procedures, Functions and Triggers to support
+    the web applicationas mentioned in the requirements specifications.
+
+-   Created collections &amp; documents and performed CRUD operations
+    with Mongo repositories.
+
+-   Developed API using NodeJS to allocate access to data in SQL,
+    MongoDB.
+
+-   Wrote filter queries in MongoDB to retrieve JSON data &amp; passed
+    to service layer.
+
+-   Created Jenkins pipelines &amp; integrated Python scripts to
+    communicate to AWS resources.
+
+-   Implemented high-performance MongoDB replica sets on EC2 with robust
+    reliability.
+
+-   Utilized Cloud Watch Events to collect data from other AWS resources
+    and transfer them to SQS and SNS for alerting solar.
+
+-   Wrote MapReduce code to make un-structured data into semi-
+    structured data and loaded into Hive tables.
+
+-   Used Test driven approach for developing the application and
+    implemented the unit tests using Python Unit test and Pitesti
+    framework.
+
+-   Analyzed various logs have been forecasting next occurrence of event
+    with various Python libraries.
+
+-   Coordinated with the business on User Acceptance Tests (UAT) and to
+    get the approval from business on the design changes.
+
+  -----------------------------------------------------------------------
+  JP Morgan Chase, Tampa FL July 2017 - Aug 2019
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+Role: Python Developer
+
+Responsibilities:
+
+-   Developed, tested, and deployed Business feature set in Node.js with
+    Express and MongoDB backend, incorporating APIs.
+
+-   Created Batch Services to generate reports using Spring Batch and
+    used Mockito for Behaviour Driven Development (BDD) and developed
+    scripts for build, deployment, maintenance, and related tasks using
+    Jenkins, Docker, and Maven.
+
+-   Worked on Docker container snapshots, attaching to a running
+    container, removing images, managing director structures, and
+    managing container.
+
+-   Developed application using Amazon Web Service (AWS) like EC2, cloud
+    search, Elastic load balancer ELB, Cloud Deploy and monitor scalable
+    infrastructure on Amazon web services (AWS) & configuration
+    management using puppet.
+
+-   Wrote SQL and implemented ORM using JPA and developed front end
+    features using React/Redux/ES6 with Web pack. Worked on Amazon Web
+    Services (AWS) infrastructure with automation and configuration
+    management tools such as Chef and Puppet. Worked on Python Open
+    stack API's.
+
+-   Developed fully functional responsive modules based on Business
+    Requirements using Scala. Automated different workflows, which are
+    initiated manually with Python scripts and UNIX shell scripting.
+
+-   Refactoring the code with Angular JS and created a new modal
+    template by using ng- show and ng-hide in-built directives.
+    Leveraged Two-way data binding through scope in applications built
+    on Angular2.
+
+-   Used Scala for the concurrency and synchronizing process for the
+    functional yet Object-Oriented features. Exposure to CI/CD tools -
+    Jenkins for Continuous Integration, Ansible for continuous
+    deployment.
+
+-   Redesigned and redeployed the Nagios implementation. Nodes
+    automatically added/removed themselves via Puppet.
+
+-   Exposure in working for developing a portal to manage and entities
+    in a content management system using Flask. Experience in agile
+    environment using a CI/CD model methodology and Cleaned data and
+    processed third party spending data into manoeuvrable deliverables
+    within specific formats with Excel macros and Python libraries by
+    using TDD (Test driven development) methodology.
+
+-   Django caching, sessions and Redis to reduce the server calls and
+    increase performance. Developed a batch processing system with REST
+    based APIs, using Spring Batch 3.0, integrated with Quartz
+    scheduling.
+
+-   Implemented Restful web service to interact with Redis Cache
+    framework.
+
+-   Worked on developing Restful endpoints to cache application specific
+    data in in-memory data clusters like REDIS and exposed them with
+    Restful endpoints.
+
+-   Worked on AKKA Play framework which provides abstraction for
+    transparent distribution and the basis for truly scalable and
+    fault-tolerant applications.
+
+-   Associated with various phases of Software Development Life Cycle
+    (SDLC) of the application like requirement gathering, Design,
+    Analysis and Code development.
+
+-   Developed Microservices by creating REST APIs and used them to
+    access data from different suppliers and to gather network traffic
+    data from servers. Worked with AJAX framework to get the
+    asynchronous response for the user request and used JavaScript for
+    the validation.
+
+-   Managed Amazon Web Services (AWS) infrastructure with automation and
+    configuration management tools such as UDeploy, Puppet or
+    custom-built. designing cloud-hosted solutions, specific AWS product
+    suite experience.
+
+  -----------------------------------------------------------------------
+  Rockwell Automation , Milwaukee WI May 2014 - June 2017
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+Role: Python Developer
+
+Responsibilities:
+
+-   Extensively used Python / Django Framework for developing backend
+    applications.
+
+-   Strong Expertise in working with server-side technologies including
+    databases, Restful API and MVC design patterns.
+
+-   Actively involved in Initial software development life cycle (SDLC)
+    of requirement gathering and in suggesting system configuration
+    specifications during client interaction.
+
+-   Was leading an effort to build a real time click stream analytics
+    platform for processing the beacons from web and mobile devices
+    using Spark, Kafka, elastic and building dashboard using Kibana and
+    Grafana
+
+-   Develop python code to automate the ingestion of common formats such
+    as JSON, CSV by using Logstash from elastic search to Kibana
+    dashboard to be viewed by clients.
+
+-   Responsible for designing and deploying new ELK clusters
+    (Elasticsearch, Logstash, Graphite Kibana, beats, Kafka, zookeeper
+    etc.
+
+-   Automated RabbitMQ cluster installations and configuration using
+    Python/Bash.
+
+-   Fixed issues related to Open Stack components such as Nova, Glance,
+    Neutron, MySQL, RabbitMQ, Cech, Repose, HAP Roxy and Horizon.
+
+-   Experienced in developing API services Python/Tornado while
+    leveraging AMQP and RabbitMQ for distributed architectures.
+
+-   Designed and developed web crawler in python using Scrappy framework
+    and using RabbitMQ as a messaging server between the micro services.
+
+-   Experience with Kibana to check logs and other time-stamped data
+    sets stored in Elastic Search.
+
+-   Written and Maintained Automated Salt scripts for Elasticsearch,
+    Logstash, Kibana, and Beats.
+
+-   Worked on several python packages like NumPy, Beautiful Soup, SQL
+    Alchemy, Py Tables etc.
+
+-   Developed full stack Python web framework with an emphasis on
+    simplicity, flexibility, and extensibility. It is built atop
+    excellent components and reinvents zero wheels. WSGI, routing,
+    templating, forms, data, plugins, config, events, SQL Alchemy,
+    Storm, CouchDB, OpenID, App Engine, jQuery, etc.
+
+-   Enabled continuous delivery via Gitlab, Spinnaker, Docker, Jenkins,
+    Terraform, and AWS Designed and developed load tests using Scala
+    (Gatling)
+
+-   Analysis of logs data and filter required columns by Logstash
+    configuration and send it to Elasticsearch.
+
+-   Validated BI Support events, transformed, and batched events which
+    are sent to HNM and Kafka by triggering these events using Kafka,
+    Mesos.
+
+-   Used micro service architecture, with Spring Boot-based services
+    interacting of REST and Kafka.
+
+EDUCATIONAL QUALIFICATIONS:
+
+Bachelor of Science in Computer Science from Coleman University in 2006

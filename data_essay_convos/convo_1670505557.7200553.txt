@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question! Applying for scholarships is a great way to help pay for college. To apply, you'll need to fill out an application and write an essay. The essay is your chance to let the scholarship committee know more about you and why you should receive the scholarship.
+STUDENT: What topics should I write about in my essay?
+COACH: You can write about anything that you think is important for the scholarship committee to know about you. Some topics may include your academic and career goals, your personal background, your unique qualities or talents, and any special challenges or obstacles you have faced.
+STUDENT: What should the structure of my essay look like?
+COACH: A good essay typically has an introduction, three body paragraphs, and a conclusion. The introduction should provide an overview of your essay and explain what you will be discussing. The body paragraphs should provide evidence and examples to support your main points. The conclusion should summarize your main points and provide a call-to-action for the reader.

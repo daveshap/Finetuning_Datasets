@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT and I need help writing my essay.
+COACH: Great! Can you tell me a bit more about yourself and why you're interested in attending MIT?
+STUDENT: Sure. I'm a senior in high school and I'm really passionate about science, particularly physics. I'm also interested in politics and I've been reading up on French political theory.
+COACH: Interesting! It sounds like you have a lot of knowledge and experience that could be applicable to your essay. What kind of topics do you think you'd like to explore in your essay?
+STUDENT: I was thinking of writing about how my interest in science, politics, and French political theory has shaped my worldview and how I plan to use it to contribute to the MIT community.
+COACH: That's an excellent topic for your essay! Have you considered any other topics that you might want to include in your essay?
+STUDENT: I was also thinking of writing about my experiences at Princeton, where I attended a summer program.
+COACH: That's great! How did your time at Princeton shape your perspective?
+STUDENT: It was incredibly eye-opening. I had the opportunity to learn from some of the best professors in the world, and I was able to gain an understanding of the intersection between science, politics, and French political theory. It really opened my eyes to the possibilities of what I can achieve with knowledge and hard work.

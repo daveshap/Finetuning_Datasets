@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admissions essay for college and I'm having a hard time getting started.
+COACH: Alright, let's start with what kind of essay you're writing. What type of program are you applying to?
+STUDENT: I'm applying to a science program in Thailand.
+COACH: Great! What kind of topics are you considering for your essay?
+STUDENT: Well, I was thinking about writing about how I overcame obstacles and rejection due to racism.
+COACH: That sounds like a really powerful topic. Can you tell me a little bit more about your experience with racism and how it has affected your life?
+STUDENT: Sure. Growing up in a predominantly white town, I faced a lot of discrimination and prejudice. It was hard to make friends and I was constantly being rejected from activities and clubs. But I didn't let that stop me. I worked hard to prove myself and eventually I was accepted into my dream school.
+COACH: That's an inspiring story. Do you have any specific examples of how you overcame these obstacles?
+STUDENT: Yes, I do. One time I applied to be a part of a student organization and was rejected because of my race. I was really upset, but instead of giving up I decided to start my own student organization that focused on diversity and inclusion. We had a lot of success and eventually I was accepted into the original organization.
+COACH: That's amazing. It sounds like you've been through a lot and have a lot of insight to share with the admissions committee. Can you think of any other experiences you'd like to include in your essay?
+STUDENT: Yes, I was also involved in a number of volunteer activities that helped to promote diversity and acceptance in my community. I think those experiences will help to show the admissions committee that I'm passionate about making a difference.
+COACH: That's great. It sounds like you have a lot of material to work with. Do you have any questions for me?
+STUDENT: Yes, do you have any tips on how to make my essay stand out?
+COACH: Absolutely. I would recommend focusing on your unique experiences and emphasizing how they have shaped who you are today. You want to make sure that your essay is personal and reflective of your values and beliefs. Good luck with your essay!

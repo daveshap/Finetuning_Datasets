@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to figure out how to write my personal statement for college admissions.
+COACH: Alright, let's start with the basics. What kind of information do you want to include in your essay?
+STUDENT: Well, I was thinking of talking about my volunteer work, my academic achievements, and why I'm interested in going to college.
+COACH: That sounds like a great start. Can you tell me a bit more about your volunteer work? What kind of activities have you been involved in?
+STUDENT: Sure! I've volunteered at a local animal shelter for the past three years. I help out with cleaning, feeding, and socializing the animals. I also recently started volunteering with a youth mentoring program.
+COACH: That's really impressive! Volunteering is a great way to demonstrate your commitment to helping others. What else can you tell me about your academic achievements?
+STUDENT: I'm currently enrolled in honors classes and I'm on track to graduate with high honors. I'm also a part of several clubs and organizations at my school.
+COACH: That's great! It sounds like you're doing very well in school. Now, what about your reasons for wanting to go to college?
+STUDENT: I'm interested in pursuing a career in medicine, so going to college is an important step for me. I want to learn as much as I can about the medical field and gain the necessary skills to be successful.
+COACH: That's a great goal to have! Your essay should reflect your passion for medicine and your commitment to achieving your dreams. Are there any other topics you'd like to discuss in your essay?
+STUDENT: I was thinking about talking about how I'm a hard worker and how I'm dedicated to succeeding in whatever I put my mind to.
+COACH: That's a great idea! You should also mention any hardships or obstacles you've had to overcome in order to get to where you are today. These experiences will make your essay even more compelling.

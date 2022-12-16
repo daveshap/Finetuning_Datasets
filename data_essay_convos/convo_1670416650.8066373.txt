@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm hoping to write about my volunteer work with refugees and how it's connected to my Christian faith.
+STUDENT: I'm also an engineering student, so I want to make sure I'm highlighting my skills and achievements in the essay as well.
+COACH: That sounds like a really interesting topic for your essay. Let's start by talking about your volunteer work with refugees. How long have you been doing this?
+STUDENT: I've been volunteering for about two years now.
+COACH: That's great! What kind of activities do you do when you volunteer?
+STUDENT: Well, I help out with basic needs like food and clothing, but I also help out with job applications, resume writing, and other employment-related tasks.
+COACH: That's really impressive! Can you tell me more about how your Christian faith has impacted your volunteer work?
+STUDENT: Sure! My faith has been a big driving force behind my volunteer work. I believe that it's important to help those in need, and I feel like I'm doing God's work when I'm helping out with the refugees. It's really fulfilling to be able to make a difference in their lives.
+COACH: That's wonderful! Now let's talk about your engineering studies. What have been some of your biggest accomplishments in that field?
+STUDENT: Well, I recently designed a new type of bridge that is more efficient and cost effective than traditional bridge designs. I was able to develop the design with minimal resources and it has already been implemented in several cities. I'm also working on a project to develop a new type of energy efficient lighting system.

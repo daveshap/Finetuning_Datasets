@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing an essay about my experiences in college and I'm having trouble figuring out how to structure it.
+COACH: That sounds like a great topic. Can you tell me a bit more about what experiences you'd like to discuss?
+STUDENT: Sure. I've been involved in a lot of different activities in college, from engineering classes to Buddhist meditation classes to charity work to helping refugees.
+COACH: Wow, that's quite a range of activities! How have these experiences impacted your college experience?
+STUDENT: They've all had a really big impact on me. Engineering classes taught me a lot about problem-solving and critical thinking, while Buddhist meditation classes helped me to relax and stay focused. Charity work has allowed me to give back to my community and help those in need, and working with refugees has given me a better understanding of different cultures and perspectives.
+COACH: That's really impressive! It sounds like you've gained a lot from these experiences. What would you say are the biggest lessons you've learned?
+STUDENT: I think the biggest lesson I've learned is that there is so much more to college than just academics. It's important to take time to explore different interests and get involved in activities that can help you grow as a person. 
+COACH: Absolutely. So, how do you plan on incorporating these experiences into your essay?
+STUDENT: I plan on talking about each experience separately, highlighting the lessons I've learned and how they've shaped my college experience. I also want to talk about how I've used these experiences to develop my skills and prepare for my future. Finally, I want to explore how these experiences have made me a better person and how I can use them to make a positive impact on the world.

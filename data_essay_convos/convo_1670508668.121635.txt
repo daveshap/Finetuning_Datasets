@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, no problem. Before we get started, can you tell me a bit about the essay you're working on? What kind of essay is it?
+STUDENT: It's an admissions essay for college. I don't have a prompt to work with.
+COACH: Alright, so it sounds like you're writing a personal statement. That's great! Do you know what you want to write about?
+STUDENT: Not really. I'm not sure where to start.
+COACH: That's okay. Let's start by brainstorming some ideas. What are some things that you're passionate about or that you think are important to talk about in your essay?

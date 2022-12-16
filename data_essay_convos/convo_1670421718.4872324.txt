@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay on racism in Christianity and Judaism and I'm having trouble figuring out the structure.
+COACH: That's a great topic! Can you tell me a bit more about what you want to focus on in your essay?
+STUDENT: Well, I want to explore the different ways that racism has been addressed in both Christianity and Judaism, as well as how this has impacted their respective communities.
+COACH: That's a really interesting topic. What kind of sources do you have in mind?
+STUDENT: I'm mostly looking at primary sources such as religious texts and historical documents.
+COACH: Great! What kind of structure are you thinking of for your essay?
+STUDENT: I was thinking of starting with an introduction about racism in both religions, then going into a section about how it has been addressed in Christianity, followed by a section about how it has been addressed in Judaism, and then finishing with a conclusion.
+COACH: That sounds like a good start. How do you plan to transition between each section?
+STUDENT: I was thinking of using a few quotes from the religious texts to link the sections together.
+COACH: That's a great idea. Are there any other elements you want to include in your essay?
+STUDENT: Yes, I also want to discuss how racism has impacted college admissions and how colleges are working to combat it.
+COACH: That's a really important issue. Can you tell me a bit more about how college admission works?
+STUDENT: Sure. Generally, colleges look at a student's grades, test scores, extracurricular activities, essays, and letters of recommendation when making admissions decisions. They may also take into account factors such as race, ethnicity, and socioeconomic status.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm writing an essay about how I overcame obstacles to get here.
+COACH: That's great! Can you tell me a bit more about the obstacles you faced?
+STUDENT: Well, I had to deal with racism growing up, and it was really hard. People would make assumptions about me and my family based on our skin color.
+COACH: That sounds difficult. How did you manage to overcome these obstacles?
+STUDENT: It wasn't easy, but I kept my focus on why college mattered to me. I knew that if I could get into college, I could create a better future for myself and my family. So I worked hard and made sure I stayed on top of my studies.
+COACH: That's very inspiring. What else motivated you to keep going?
+STUDENT: Well, my parents were immigrants from Vietnam, and they had to struggle a lot to make a life in this country. I wanted to make them proud, and I wanted to show them that their sacrifices were worth it. That was a huge motivator for me.
+COACH: That's amazing. What advice would you give to other first-generation college students who are facing similar obstacles?
+STUDENT: I would tell them to never give up and to keep their eyes on the prize. College is a way to open up new opportunities, and it's worth fighting for. I'd also say that it's important to find support systems and mentors who can help guide you through the process.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Okay, let's start by talking about what kind of essay you're writing. Is it a persuasive essay?
+STUDENT: Yes, it is.
+COACH: Great! Now, what kind of persuasive essay are you writing? Are you trying to convince your readers of a certain point of view, or are you trying to persuade them to take a certain action?
+STUDENT: I'm trying to convince my readers of a certain point of view.
+COACH: Okay, so what point of view are you trying to get across?
+STUDENT: I want to argue that the death penalty should be abolished in the United States.
+COACH: That's a great topic to write about! Now, when writing a persuasive essay, it's important to think about how you can make your argument convincing. What kind of evidence can you use to support your point of view?
+STUDENT: I could use statistics and research to back up my argument.
+COACH: That's a great idea! You can also use examples and anecdotes to illustrate your point. You'll want to make sure that you present your evidence in a logical and organized way, so that your readers can follow your argument. And don't forget to include a conclusion that summarizes your main points and reinforces your argument.

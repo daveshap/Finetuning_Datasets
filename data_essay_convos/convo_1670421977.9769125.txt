@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my experience growing up in a single-parent home and how it has shaped me.
+COACH: That sounds like a great topic! Can you tell me a bit more about your experience? What have been some of the biggest challenges you've faced?
+STUDENT: Well, I was born in Vietnam and moved to the US with my mom when I was young. We didn't have a lot of money, so we had to work hard to make ends meet. I also faced discrimination because of my background, which was difficult to deal with.
+COACH: I'm sorry to hear that. It sounds like you've been through a lot. How did you manage to overcome those challenges?
+STUDENT: I think the key was to stay focused on my goals. I was determined to get into a good college and eventually pursue a career that I was passionate about. So I worked hard in school and applied to a few prestigious universities, including MIT.
+COACH: Wow, that's impressive! And did you get accepted to MIT?
+STUDENT: Yes, I did! I was so excited and it felt like all of my hard work had paid off.
+COACH: Congratulations! That's an amazing accomplishment. So what are your plans now? Are you looking for a job after college?
+STUDENT: Yes, I am. I'm also interested in getting involved in advocacy work for the LGBT community, since I'm part of that community myself. But I'm not sure how to go about finding a job that combines both my interests.
+COACH: That sounds like a great idea! Have you looked into any internships or volunteer opportunities that might help you gain experience in this field? 
+STUDENT: Not yet, but I think that's a great idea. Do you know of any organizations I could look into?
+COACH: Sure, there are a few options. Have you heard of the Human Rights Campaign? They're a great organization that advocates for LGBT rights. They also offer internships and volunteer opportunities that could be a great way for you to gain experience.

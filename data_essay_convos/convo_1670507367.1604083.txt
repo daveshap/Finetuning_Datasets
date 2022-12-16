@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: A conclusion is the last part of your essay and it should be used to summarize the main points that you have made in your essay. You should also use it to provide a final perspective on your topic. To write an effective conclusion, you should restate your thesis statement and main arguments and then provide a call to action or a suggestion for further study.

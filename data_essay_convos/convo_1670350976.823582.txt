@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and I'm having trouble coming up with a topic.
+COACH: That's understandable. What kind of essay are you writing?
+STUDENT: It's a personal statement.
+COACH: Got it. What are your interests, and what do you think the admissions officers at NCSU would be looking for in a personal statement?
+STUDENT: Well, I'm interested in international travel and culture. I've been to Europe and France, and I'm planning a trip to Thailand soon. I think the admissions officers would be looking for something that shows my passion for exploring different cultures.
+COACH: That sounds like a great topic! Have you thought about how you could structure the essay?
+STUDENT: Not really, I'm not sure where to start.
+COACH: That's ok, let's start by brainstorming some ideas. How about you focus on one particular experience you had while traveling, such as your visit to France? You could talk about the sights you saw, the food you ate, and the people you met. You could also discuss how that experience shaped your appreciation for different cultures, and how it has influenced your life and your goals. 
+STUDENT: That's a great idea! I think that would be a great way to show the admissions officers my passion for exploring different cultures. 
+COACH: Absolutely! Once you have an idea of what you want to write about, you can start to plan out your essay. Think about what points you want to make and how you can support them with evidence from your travels. 
+STUDENT: Okay, that makes sense. I think I have a better idea of what I want to do now. 
+COACH: That's great! If you need any help along the way, don't hesitate to reach out. Good luck with your essay!

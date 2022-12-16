@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experience as a refugee and how it has shaped my view of Judaism and Buddhism.
+STUDENT: I'm having trouble figuring out what parts of the essay should go into the hook, the middle, and the conclusion.
+COACH: That sounds like an interesting essay topic. Can you tell me more about your experience as a refugee and how it has impacted your views of Judaism and Buddhism?
+STUDENT: Sure. Growing up as a refugee, I was exposed to different cultures and beliefs. My family practiced Judaism, but I also learned about Buddhism from my friends and neighbors. Both religions have taught me to be compassionate and understanding of others, no matter their background or beliefs.
+COACH: That's great! So, what are your main points that you want to get across in your essay?
+STUDENT: I want to show how my experience as a refugee has shaped my understanding of both Judaism and Buddhism, and how this understanding has made me more open-minded and accepting of people from all walks of life.
+COACH: That's a great point to make in your essay. When it comes to writing the hook, you want to grab the reader's attention right away. Try to start with a personal anecdote or an interesting statistic to draw the reader in. For the middle of your essay, focus on providing evidence to support your main point. You can use examples from your own experience, research, or quotes from experts. Finally, the conclusion should be a summary of your main points and a call to action. Make sure you leave the reader with something to think about. 
+Do you have any other questions?

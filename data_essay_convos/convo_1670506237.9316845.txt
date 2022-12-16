@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. Can you tell me a bit more about what kind of essay you're looking to write? Are you writing a personal statement for medical school?
+STUDENT: Yes, I am writing a personal statement for medical school.
+COACH: Okay, great. Before we get into the details of your essay, I want to make sure I understand what you're trying to accomplish. What do you hope to achieve by writing this essay? What do you want to communicate about yourself to the admissions committee?

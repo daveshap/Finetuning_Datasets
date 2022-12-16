@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Well, the essay prompt is usually designed to give you an opportunity to showcase your most important qualities and experiences. It's important to think about what makes you unique, and how that can be demonstrated in your essay. You should focus on a few key experiences or stories that illustrate who you are and why you would be a good fit for the college.
+STUDENT: What should I include in my essay?
+COACH: You should include details about yourself that will help the admissions committee understand who you are as a person. Think about what makes you stand out from other applicants and how you could use those qualities to make a positive contribution to the school. Also, include any experiences or stories that demonstrate your academic and personal achievements. Finally, make sure to include information that supports your argument and helps to explain why you are the best candidate for the college.

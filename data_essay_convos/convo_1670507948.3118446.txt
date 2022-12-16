@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the type of essay you’re writing. What kind of essay are you writing?
+STUDENT: A monograph
+COACH: For a monograph, typically you should aim for at least 1000 words. That said, it can vary depending on the topic and the style of essay. Are there any specific instructions you’ve been given about the length of your essay?
+STUDENT: No, I haven’t been given any instructions.
+COACH: Okay, then I would suggest that you aim for at least 1000 words. This should give you enough space to cover the topic in depth. Do you have a topic in mind for your essay?

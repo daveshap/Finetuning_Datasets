@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: An essay should have an introduction, body paragraphs, and a conclusion. The introduction should introduce the topic of the essay, provide some background information, and state the thesis of the essay. The body paragraphs should provide evidence to support the thesis and explain the main points of the essay. The conclusion should summarize the main points and provide a sense of closure.
+STUDENT: What should I include in my introduction?
+COACH: Your introduction should include a hook to grab the reader's attention, a brief overview of the topic you are writing about, and your thesis statement. The hook can be a quote, a story, or a statistic. The overview should give the reader a general idea of what the essay will be about. The thesis statement should be a clear statement of your position on the topic.
+STUDENT: How do I create a strong thesis statement?
+COACH: A strong thesis statement should be clear and concise, and it should state your position on the topic. You should also make sure that it is arguable, meaning that it can be argued both for and against. Additionally, it should be specific and focused, so that it can be addressed in the body of the essay. Finally, it should be relevant to the topic you are writing about.

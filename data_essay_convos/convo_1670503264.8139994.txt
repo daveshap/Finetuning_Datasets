@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college is a complex process, and it’s important to understand all the options available to you. There are several ways to finance your college education, including scholarships, grants, student loans, and work-study programs. It’s important to research all the options and make sure you understand the terms and conditions of each one. You should also keep in mind that the cost of college can vary greatly depending on the school you choose. 
+STUDENT: What tips do you have for writing an admissions essay?
+COACH: Writing a successful admissions essay is all about making sure that you stand out from the crowd. You want to make sure that you’re telling your story in a unique way, and that you’re highlighting your strengths and experiences. Make sure you’re focusing on the prompts and using specific examples to support your points. Also, make sure to proofread your essay multiple times and have someone else read it over as well. Finally, make sure you’re not submitting the same essay to multiple schools.

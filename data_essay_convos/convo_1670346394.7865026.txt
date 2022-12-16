@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing my essay. I don't know what to write about.
+COACH: That's understandable. Can you tell me a bit more about yourself and your interests? What are you passionate about?
+STUDENT: Well, I'm not sure. I guess I'm passionate about helping people, especially those who come from disadvantaged backgrounds. I was born in a refugee camp and my family is still quite poor.
+COACH: That's really admirable. It sounds like you have a lot of experience and understanding of the struggles that many people face. What do you think is important for someone in your situation to understand about why college matters?
+STUDENT: I think it's important to understand that college can be a way to create opportunities for yourself and your family. It can also be a way to gain knowledge and skills that will help you in your future career.
+COACH: Absolutely. College can be a great opportunity for growth and development. It can open doors to new possibilities and help you reach your goals. So, what kind of essay do you want to write?
+STUDENT: I think I want to write about how college matters to me and how it can make a difference in my life and the lives of others.
+COACH: That's an excellent topic. How do you plan to approach it?
+STUDENT: Well, I want to talk about my own experiences and how college can help people from disadvantaged backgrounds. I also want to talk about how college can help people develop their skills and knowledge, and how it can open up new opportunities.
+COACH: That sounds like a great plan! Do you have any ideas for how you'll structure your essay?
+STUDENT: I was thinking of starting with some background information about my family and my experiences growing up. Then I'd talk about why college matters to me, and how it can make a difference in my life and the lives of others. Finally, I'd talk about how college can help people develop their skills and knowledge, and open up new possibilities.

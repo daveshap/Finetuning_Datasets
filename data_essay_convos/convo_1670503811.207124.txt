@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: A good conclusion should wrap up your essay and provide a sense of closure. You want to leave the reader with a clear understanding of your main points and how they all tie together. A good way to do this is by restating your thesis statement and providing a brief summary of your main points. Additionally, you can add a call to action or a thought-provoking question to leave the reader with something to think about.

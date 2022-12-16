@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale for med school and I need help with my admissions essay.
+COACH: Okay, great. Let's start by talking about your volunteer work. What kind of volunteer work have you done?
+STUDENT: I've volunteered at a local homeless shelter, helping to serve meals and provide basic services. I also volunteer with a youth organization that provides mentorship and support to underprivileged kids in the community.
+COACH: That's really impressive. Tell me more about what you do with the youth organization.
+STUDENT: We organize activities for the kids, like field trips and educational workshops. We also provide mentorship and support to help them build skills and confidence.
+COACH: That sounds wonderful. What do you feel is the most important thing you've learned from your volunteer work?
+STUDENT: I think the most important thing I've learned is that everyone has something to contribute, no matter their background or circumstances. It has made me more aware of social issues and how I can help make a difference.

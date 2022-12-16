@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure. Let's start with a few questions. What kind of essay are you writing?
+STUDENT: A term paper.
+COACH: Great. What is the topic of your term paper?
+STUDENT: I'm writing about the effects of climate change on the global economy.
+COACH: That sounds like an interesting and important topic! What have you done so far in your research?

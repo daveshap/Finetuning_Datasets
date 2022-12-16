@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: Sure, admissions is a complex process that involves many different factors. Generally, admissions committees look at your academic record, test scores, extracurricular activities, and personal statements to determine if you're a good fit for the college or university.
+STUDENT: What should I include in my personal statement?
+COACH: A personal statement should tell the admissions committee about who you are and why you want to attend the school. You should focus on your unique experiences, values, and goals, as well as how they relate to the college or university you're applying to. Be sure to include any relevant accomplishments, such as awards, volunteer work, or other activities that demonstrate your commitment to learning. You should also explain why the school is a good fit for you and how you can contribute to the campus community.

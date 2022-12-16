@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I'm having trouble writing my admissions essay.
+COACH: Okay, what would you like to focus on in your essay?
+STUDENT: I want to talk about sexism in Buddhism and how it affects neurodiversity.
+COACH: That's a great topic! Can you tell me more about your interest in the subject?
+STUDENT: Well, I'm interested in the way sexism has been used to oppress people with neurodiverse conditions in certain Buddhist cultures.
+COACH: That sounds like an interesting and important topic to explore. What kind of research have you done so far?
+STUDENT: I've done some reading on the subject, but I'm not sure how to go about structuring my essay.
+COACH: That's understandable. Have you considered using a story or personal anecdote to illustrate your point? That can be an effective way to draw the reader in and make your argument more compelling.
+STUDENT: That's a great idea! I think I can use my own experience to illustrate my point.
+COACH: Perfect! Can you tell me a bit more about your experience?
+STUDENT: Sure. I grew up in a Buddhist culture where sexism was prevalent. I was often overlooked and not given the same opportunities as my peers because of my gender and neurodiversity. 
+COACH: That's a powerful story. How do you think this has shaped your perspective on the issue?
+STUDENT: It has made me realize how important it is to challenge sexism and recognize the unique experiences of those with neurodiverse conditions.
+COACH: That's great insight. Now that you have a better understanding of your story, let's start thinking about how to structure your essay. What kind of structure do you think would be most effective for this topic?

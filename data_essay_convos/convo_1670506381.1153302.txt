@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Well, it's important to think about what makes you unique and why you want to pursue a career in medicine. What experiences have you had that have shaped your interest in this field?
+STUDENT: I think my experience volunteering at the local hospital has been a major influence on my decision to pursue a career in medicine.
+COACH: That's great! Tell me more about that experience. How did it shape your interest in medicine?
+STUDENT: Volunteering at the hospital opened my eyes to how much work goes into providing medical care. I saw first-hand how dedicated the doctors and nurses were to their patients and how hard they worked to provide the best care possible. It made me realize how important it is to be able to help people in need and that I wanted to be part of that.
+COACH: That's wonderful! It sounds like you have a really strong motivation for pursuing a career in medicine. What else have you done to prepare for this field?

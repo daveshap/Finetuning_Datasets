@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: A persuasive essay should be engaging by presenting a strong argument that is supported by reliable evidence. You should also use powerful language, vivid imagery, and an engaging introduction to draw the reader in. Additionally, make sure to focus on your audience and tailor your argument to meet their needs.

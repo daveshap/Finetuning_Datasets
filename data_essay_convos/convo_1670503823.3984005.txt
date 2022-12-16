@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening should grab the reader's attention and make them want to read more. You can start with a memorable moment, an interesting anecdote, or a thought-provoking quote. Think of something that will make the reader want to learn more about you.
+STUDENT: What kind of information should I include in my essay?
+COACH: Your essay should give the reader a glimpse into who you are and what makes you unique. You can talk about your experiences, your passions, your values, and your goals. Make sure to include details that show rather than tell. For example, instead of just saying "I'm passionate about music," you could talk about how you started playing the guitar when you were eight and how it has become an important part of your life. 
+STUDENT: What kind of structure should I follow?
+COACH: A good structure for your essay would be to start with an introduction, followed by a few body paragraphs that each focus on a different aspect of yourself, and then end with a conclusion. Make sure to transition smoothly between each section and to provide enough detail to make your points clear.

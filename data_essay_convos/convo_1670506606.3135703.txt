@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Well, that's a great question. Applying to college involves a few steps, including researching colleges, submitting applications, and writing essays. Is that what you need help with?
+STUDENT: Yes, I need help with the essay part.
+COACH: Okay, great. What type of essay do you need to write?
+STUDENT: A term paper.
+COACH: Alright, so let's start by discussing what a term paper is and how to structure it. A term paper is a research-based paper that typically consists of an introduction, body paragraphs, and a conclusion. In the introduction, you should introduce your topic and provide a thesis statement. Then in the body paragraphs, you should go into more detail about your topic, using evidence to support your claims. Finally, in the conclusion, you should summarize your main points and provide a concluding statement. Does that make sense?
+STUDENT: Yes, that makes sense.
+COACH: Great! Now, let's talk about how to find sources for your paper. You'll need to use reliable sources like academic journals, books, and websites. Also, make sure to cite any sources you use properly. Do you have any questions about that?

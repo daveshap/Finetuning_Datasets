@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my law school application essay.
+COACH: Great! What kind of law school are you applying to?
+STUDENT: I'm hoping to get into Yale.
+COACH: Wow, that's an ambitious goal. What makes you passionate about law school?
+STUDENT: I've always been interested in the legal system and I think I could make a real difference if I studied law.
+COACH: That's admirable. Can you tell me more about what inspired your interest in the legal system?
+STUDENT: Well, I grew up in Germany, where I was surrounded by laws and regulations. I was fascinated by how the law works and how it affects people's lives.
+COACH: That's a great perspective to bring to your essay. How do you plan on expressing your passion for law in your essay?
+STUDENT: I want to focus on the impact that laws have on people's lives and how studying law can help create positive change.
+COACH: That sounds like a great angle to take. Have you started the application process yet?
+STUDENT: Not yet. I'm still trying to figure out how to apply to college.
+COACH: That's understandable. Applying to college can be confusing and overwhelming. I suggest starting by researching the different types of colleges and universities available to you. Once you narrow down your options, you can then look into the specific application requirements for each school.

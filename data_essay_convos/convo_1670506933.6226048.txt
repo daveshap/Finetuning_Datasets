@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question! But I'm actually here to help you with an essay. Is that what you need help with?
+STUDENT: Yes, I'm writing a personal statement for medical school.
+COACH: Okay, that's great. Can you tell me a bit more about what you're looking for? What kind of topics do you want to cover in your essay?
+STUDENT: I want to talk about my experience in the medical field and why I'm passionate about it.
+COACH: That sounds like a great topic. Let's start by brainstorming some ideas. What have been some of your key experiences in the medical field? 
+STUDENT: I've volunteered at a hospital for the past few years and I've shadowed a few doctors. I've also done research in the lab and presented my findings at conferences.
+COACH: Those are all great experiences! Now let's think about how you can use them to tell your story. What lessons have you learned from those experiences? How have they shaped your view of medicine?
+STUDENT: I've learned that medicine is more than just treating patients. It's about understanding people and their individual needs and being able to provide them with the best care possible. It's also about working as part of a team and collaborating to find solutions.
+COACH: Great! Now let's think about how you can use this to make your essay stand out. What unique perspective do you bring to the table? Why are you the perfect candidate for medical school? 
+STUDENT: I think my experience has given me a unique perspective on medicine. I understand the importance of empathy and compassion when treating patients and I'm passionate about finding innovative solutions to complex medical problems. I believe that I have the drive and dedication to make a difference in the medical field.

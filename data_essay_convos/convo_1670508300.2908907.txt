@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Well, let's start by talking about your essay. What type of essay are you working on? 
+STUDENT: A personal statement.
+COACH: Great! What kind of information would you like to include in your essay?
+STUDENT: I want to highlight my academic achievements and how they have prepared me for the future.
+COACH: That's a great start. What else do you think should be included in your essay? 
+STUDENT: I'd like to talk about my extracurricular activities and how they've shaped my goals and aspirations.
+COACH: That sounds like a great addition. What about your career goals? How do you envision your future?
+STUDENT: I'm interested in pursuing a career in medicine, so I'd like to discuss my passion for helping others and how I plan to use my skills to make a difference in the world. 
+COACH: That's an excellent point to make in your essay. Now, let's talk about how you can make your essay stand out. What makes you unique and different from other applicants? 
+STUDENT: I think my multicultural background has given me an interesting perspective on life and I'm passionate about using that perspective to help others. 
+COACH: That's a great point to make in your essay. To make it stand out even more, you could focus on how your experiences have shaped you and how they have helped you develop your goals and aspirations.

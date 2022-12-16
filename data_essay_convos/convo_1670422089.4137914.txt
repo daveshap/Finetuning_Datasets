@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help with writing my personal statement.
+COACH: Alright, let's start by talking about what you'd like to write about. What do you think would be the best topic for your essay?
+STUDENT: I want to talk about my experience growing up in a single parent home in Europe.
+COACH: That sounds like a great topic for your essay! Can you tell me more about what inspired you to choose this topic?
+STUDENT: Well, I feel like it's an important part of my story that I want to share. I want to show how I've grown from the challenges I faced and how it has shaped me into the person I am today.
+COACH: That's a great perspective to take on your essay. Now, let's talk about the structure of your essay. What do you think would be the best way to organize your thoughts?
+STUDENT: I was thinking of starting with a brief introduction about my background, then going into detail about my experience growing up, and finally wrapping up with what I have learned from it and how it has prepared me for college.
+COACH: That sounds like a great outline for your essay. As you start to write, make sure to include specific details to bring your story to life. Also, don't forget to include how your experience has impacted your future goals and aspirations. Good luck!

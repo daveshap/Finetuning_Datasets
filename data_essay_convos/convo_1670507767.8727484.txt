@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question. When you feel like your essay is conveying the message you want to get across and it reads clearly, then you can consider it finished. But if you're still in the process of writing and revising, then it's not quite done yet. What kind of essay are you working on?
+STUDENT: I'm writing a personal statement for grad school.
+COACH: Ok, great. For a personal statement, there are some key elements that you should consider. First, you want to make sure it expresses your passion for the subject you're applying for. You also want to make sure you highlight any relevant experience or qualifications you have. Finally, you want to make sure that your essay is well-structured and flows well. Does that help answer your question?

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my essay for Harvard.
+COACH: Great! What is the essay about and what are your goals and objectives?
+STUDENT: The essay is about Islam and how it affects my decision to pursue a law degree. My goal is to understand how financing college works, so I can make an informed decision on the best path for me.
+COACH: That's a great topic! Let's start by talking about how you can finance your college education. There are a few different options available, such as scholarships, grants, loans, and work-study programs. Scholarships and grants are typically awarded based on merit, while loans and work-study programs are based on need. It's important to research each option carefully to determine which one is best for you.
+You may also want to look into other forms of financial aid, such as federal and state grants, private scholarships, and tuition reimbursement programs. Additionally, some employers offer tuition assistance programs, so it's worth inquiring with your current or potential employers.
+Finally, you should consider other sources of funding, such as family members or friends. You can also look into crowdfunding platforms to raise money for your college expenses.
+Now that we've discussed financing, let's talk about your essay topic. What do you want to focus on in your essay?

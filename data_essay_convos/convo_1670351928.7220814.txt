@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for help on writing an essay about my passions.
+COACH: What are your passions?
+STUDENT: Well, I'm really passionate about LGBT rights and neurodiversity.
+COACH: That's great! What specifically do you want to focus on in your essay?
+STUDENT: I want to focus on how my experiences with LGBT rights and neurodiversity have shaped me into the person I am today.
+COACH: That sounds like a great topic! Can you tell me more about your experiences with these topics?
+STUDENT: Sure. I've been involved in LGBT rights activism since high school, and I've been passionate about neurodiversity since I learned about it in college. I've had the opportunity to travel to Thailand to work on a project related to LGBT rights and neurodiversity, and that experience has been incredibly meaningful to me.
+COACH: That sounds like an amazing experience! What did you learn from your travels to Thailand?
+STUDENT: I learned a lot about the importance of intersectionality in fighting for social justice. I also got to meet some amazing people who shared their stories with me, which was really inspiring.
+COACH: That sounds like an incredible experience. Is there anything else you want to talk about in your essay?
+STUDENT: Yes, I also want to talk about how I plan to use my passion for LGBT rights and neurodiversity to make a difference in my community and beyond.
+COACH: That's a great idea! Do you need help finding scholarships and grants to help you pursue your goals?
+STUDENT: Yes, I would love any advice you have on how to find scholarships and grants.

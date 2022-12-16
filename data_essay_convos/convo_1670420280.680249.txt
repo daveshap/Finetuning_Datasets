@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my college admission essay and I'm not sure what to write about.
+COACH: Alright, let's start by talking about what makes an essay engaging. What do you think makes a good essay?
+STUDENT: I think it should be interesting, have a unique perspective, and be well-written.
+COACH: That's a great start! What kind of topics do you think would be interesting to discuss in your essay?
+STUDENT: Well, I'm interested in Buddhism and I've been reading a lot about the philosophy lately.
+COACH: That sounds like a great topic! How could you incorporate Buddhism into your essay?
+STUDENT: I could talk about how it has shaped my worldview and how it has impacted my life.
+COACH: That sounds like a great idea! Now, how could you make your essay stand out from the rest?
+STUDENT: I could talk about how Buddhism has helped me to see the world differently, especially when it comes to issues like sexism and inequality.
+COACH: That's definitely a unique perspective. Have you considered applying to Harvard?
+STUDENT: Yes, I have. Do you think my essay could help me get accepted?
+COACH: Absolutely! You have a great topic and a unique perspective. All you need to do is write a compelling essay that showcases your knowledge and your passion for the subject. Good luck!

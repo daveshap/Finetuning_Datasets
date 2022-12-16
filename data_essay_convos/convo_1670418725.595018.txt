@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble coming up with an idea for my college admission essay. I have no idea what to write about.
+COACH: That's totally normal! It can be difficult to come up with something that will make your essay stand out. Let's start by talking about what topics interest you. Is there any particular subject you're passionate about or have a lot of knowledge about?
+STUDENT: Well, I'm really interested in Islam and Buddhism.
+COACH: That's great! Those are both fascinating topics. Can you tell me a bit more about why you're interested in them?
+STUDENT: Sure. I think both religions offer a unique perspective on life and have important lessons to teach. Plus, I'm interested in learning more about how these two faiths interact with each other.
+COACH: That sounds like a great topic for your essay. You could focus on the similarities and differences between Islam and Buddhism and how they can coexist peacefully. You could also explore the ways in which their teachings have impacted your own life and beliefs. Additionally, you could discuss any experiences you've had with racism or prejudice related to either of these religions.

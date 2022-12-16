@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I have no idea what to write about.
+COACH: That's understandable. Can you tell me a bit more about what you're looking for? What kind of essay are you writing?
+STUDENT: It's a personal statement essay.
+COACH: Great! What kind of topics are you interested in exploring in your essay? 
+STUDENT: I'm really interested in exploring social issues.
+COACH: That's a great topic! Have you thought about how you want to approach it? Do you want to focus on one particular issue, or take a broader look at the whole concept of social issues?
+STUDENT: I think I'd like to take a broader approach and explore why social issues matter and why college is important in addressing them.
+COACH: That's an interesting idea. Can you tell me more about why college matters when it comes to social issues?
+STUDENT: Well, I think that college is a great platform to learn about different social issues and develop the skills needed to address them. It also provides an opportunity to get involved with organizations and initiatives that are working to make a difference. Plus, if I decide to pursue grad school, I'll be better equipped to tackle social issues from an academic perspective.
+COACH: That's a great point! You could definitely use that as a starting point for your essay. Have you thought about any specific examples you could use to illustrate your point? 
+STUDENT: Yes, I've been researching some organizations that are doing great work in my local community and I'm also interested in exploring some of the initiatives that UNC has taken to address social issues.
+COACH: That sounds like a great plan! It's always helpful to include concrete examples in your essay, so that readers can really see the impact of your words. You could also consider discussing how your own experiences have shaped your views on social issues. 
+STUDENT: That's a great idea. I think I'm starting to get a clearer picture of what I want to write about.
+COACH: Wonderful! I'm glad to hear that. If you ever need any help or have any questions, don't hesitate to reach out. Good luck with your essay!

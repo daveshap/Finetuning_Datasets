@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am having trouble writing my essay. I'm not sure what to write about or how to structure it. 
+COACH: That's understandable. What is the essay about?
+STUDENT: It's about why I am a good candidate for a college program.
+COACH: Got it. Tell me a bit more about yourself. What do you like to do in your free time?
+STUDENT: I like to volunteer at my local synagogue and do some work with the Jewish Community Center. I also enjoy reading and spending time with my family.
+COACH: That's great! Volunteering is a great way to give back to your community. What else makes you stand out as a candidate?
+STUDENT: Well, I'm passionate about learning and exploring new things. I'm also quite organized and detail-oriented.
+COACH: Those are great qualities! Now, let's talk about the structure of your essay. What parts of an essay do you think you need to include?
+STUDENT: I think I need to have an introduction, a body, and a conclusion.
+COACH: That's right! The introduction should be a brief overview of who you are and why you are applying. The body should include specific examples of your qualifications, such as your volunteer work, and any other experiences that make you stand out. Finally, the conclusion should summarize your qualifications and reiterate why you are the best candidate for the program. Does this help?
+STUDENT: Yes, it does! Thank you so much for your help.

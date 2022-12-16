@@ -1,0 +1,18 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: What type of essay are you writing?
+STUDENT: A persuasive essay.
+COACH: Ok, great. What do you want to persuade your reader about finding a job after college?
+STUDENT: That it is possible and that there are resources out there to help.
+COACH: Alright, so the first step is to plan out your argument. What are the main points you want to make?
+STUDENT: I want to talk about the importance of networking, the value of internships and how to use social media to find job opportunities.
+COACH: Perfect! Now that you have your main points, you need to create an outline. This will help you organize your thoughts and structure your essay. Let’s start with an introduction. What is the purpose of your essay?
+STUDENT: To show that it is possible to find a job after college and that there are resources out there to help.
+COACH: Great, now let’s move on to the body of your essay. You can start by discussing the importance of networking. What strategies can students use to network with potential employers?
+STUDENT: Attend job fairs, join professional organizations, reach out to alumni and reach out to people in their field.
+COACH: Excellent. After that, you can discuss the value of internships and how they can help students gain experience and make connections.
+STUDENT: Yes, internships are a great way to get hands-on experience and learn more about a field.
+COACH: Finally, you can discuss how to use social media to find job opportunities. What tips can you give for using social media effectively?
+STUDENT: Use a professional profile photo, keep posts professional, follow companies and industry leaders, and stay up to date on trends in the field.
+COACH: Perfect! Now that you have all of your main points, you can write your conclusion. What do you want your reader to take away from your essay?
+STUDENT: That they should take advantage of the resources available to them and that networking and internships are valuable tools for finding a job after college.

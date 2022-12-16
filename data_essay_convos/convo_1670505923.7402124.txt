@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: A great place to start is with a reference interview. What kind of essay are you writing?
+STUDENT: I'm writing a personal statement for medical school.
+COACH: Perfect. What do you think you'd like to focus on in your essay?
+STUDENT: I want to talk about my passion for helping people and how it has driven me to pursue a career in medicine.
+COACH: That sounds like a great topic! Let's start by brainstorming some ideas. What experiences have you had that demonstrate your commitment to helping others?
+STUDENT: Well, I volunteer at a local homeless shelter and I've done a lot of mentoring with students at my high school.
+COACH: Great! Those are both excellent examples. Now, let's think about how you can use those experiences to illustrate your passion for helping people and how it has motivated you to pursue a career in medicine. What did you learn from your volunteer work and mentoring that has shaped your decision to pursue a career in medicine?
+STUDENT: I learned that there are a lot of people who need help and I want to be able to make a difference in their lives. I also realized that I have the knowledge and skills to help people in a meaningful way.
+COACH: Wonderful! Those are great points to include in your essay. Now, let's think about how you can structure your essay. What kind of introduction would you like to use?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question. Applying for scholarships is a great way to help finance your education. Can you tell me more about the essay you're working on? What type of essay is it and what is it about?
+STUDENT: It's an argumentative essay about why I should be awarded a scholarship.
+COACH: Okay, that's great. Do you have any ideas for how you want to structure your argument?
+STUDENT: Not really.
+COACH: No problem. Let's start by breaking down the argument into its key components. First, you want to identify your main point and explain why you should be awarded a scholarship. Then, you'll need to provide evidence to back up your argument. This could include personal experiences, research, and examples from other successful scholarship applicants. Finally, you'll want to wrap up your essay by summarizing your main points and emphasizing why you deserve the scholarship. Does that make sense?

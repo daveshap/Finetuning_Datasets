@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question. Let me start by asking you a few questions to get a better understanding of your essay. What type of essay are you writing?
+STUDENT: I'm writing a scholarship application essay.
+COACH: Okay, great. What is the purpose of your essay?
+STUDENT: The purpose of my essay is to demonstrate why I am a deserving candidate for the scholarship.
+COACH: Perfect. Now, let's talk about structure. A well-structured essay should have an introduction, body paragraphs, and a conclusion. The introduction should provide background information on the topic and introduce the main idea of the essay. The body paragraphs should provide evidence and examples that support the main idea. Finally, the conclusion should summarize the points made in the essay and provide a final thought or call to action. Does that make sense? 
+STUDENT: Yes, it does. 
+COACH: Great! Now let's talk about how to make your essay stand out. One way to do this is to use strong language and vivid imagery to capture the reader's attention. You can also draw on personal experiences and anecdotes to illustrate your points and show why you are a worthy candidate. Finally, be sure to proofread your essay and make any necessary revisions before submitting it. 
+STUDENT: Thank you, that's really helpful. 
+COACH: You're welcome! I'm happy to help. Good luck with your essay and let me know if you need anything else.

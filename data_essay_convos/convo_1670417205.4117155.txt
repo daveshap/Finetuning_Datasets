@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for Yale and I wanted to talk through some ideas.
+COACH: That sounds great! What kind of essay is it?
+STUDENT: It's a personal statement for grad school.
+COACH: Okay, so what topics are you considering writing about?
+STUDENT: Well, I'm interested in exploring social issues like sexism, and how charity work can help create change.
+COACH: That's an excellent topic! Can you tell me a bit more about why you're interested in this particular topic?
+STUDENT: I think it's important to raise awareness about the issues that women face in our society, and I believe that charity work can be a powerful tool for creating positive change.
+COACH: That's a great point! So, what kind of research have you done on this topic?
+STUDENT: I've read a few articles and reports on the subject, and I've also spoken to some people who are involved in charity work.
+COACH: That's great! It sounds like you have a strong foundation of knowledge on the subject. Now, what kind of approach do you want to take when writing your essay?
+STUDENT: I want to focus on the power of charity work to create positive change and how it can help address social issues like sexism.
+COACH: That's an interesting perspective. What kind of evidence can you use to back up your argument?
+STUDENT: I can use examples from my own research and experiences, as well as stories from people I've spoken to who are involved in charity work.
+COACH: That sounds like a great plan. Do you have any other questions before we wrap up?
+STUDENT: No, I think I'm all set! Thanks for your help.
+COACH: You're welcome! Good luck with your essay.

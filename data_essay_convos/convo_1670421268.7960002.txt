@@ -1,0 +1,21 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help writing a personal statement for college.
+COACH: Sure, let's start with the basics. What kind of essay are you writing?
+STUDENT: It's a persuasive essay about my experience as an LGBT Christian.
+COACH: Okay, so you want to make a persuasive argument in your essay. What kind of evidence do you have to support your argument?
+STUDENT: Well, I have some personal experiences that I can draw from, but I'm not sure if that's enough.
+COACH: Personal experiences can be very powerful evidence. Can you tell me more about the experiences you plan to use?
+STUDENT: Sure. I've faced a lot of discrimination because of my identity, and I want to talk about how I've overcome that and what I've learned from it.
+COACH: That sounds like a great starting point. What kind of structure do you want to use for your essay?
+STUDENT: I was thinking of starting with a hook to grab the reader's attention, then going into the body of the essay with my experiences, and then ending with a conclusion.
+COACH: That's a great structure. Now, let's talk about how to make your essay stand out. What unique perspective can you bring to the topic?
+STUDENT: I think I can bring a unique perspective because I'm a Christian who is also part of the LGBT community. I want to show that these two identities don't have to be mutually exclusive.
+COACH: That's a great idea. You could use your essay to show how faith and identity can coexist. Now, let's talk about how you'll craft your argument. What kind of evidence do you have to support your argument?
+STUDENT: I have some personal stories about how I've been able to reconcile my faith and identity, as well as some examples of how other LGBT Christians have done the same.
+COACH: Perfect! Those are great sources of evidence. Now, let's talk about the job search after college. What are your plans for finding a job once you graduate?
+STUDENT: I'm planning to network and build relationships with people in my field. I'm also looking into internships and other opportunities to gain experience.
+COACH: Great! Networking is a great way to find jobs. Have you considered joining any professional organizations or attending career fairs?
+STUDENT: Yes, I'm researching different organizations and events that I can attend.
+COACH: That's great! Keep building those connections and you'll be sure to find the perfect job after college. Now, let's go back to your essay. Do you have any questions about the structure or content?
+STUDENT: Yes, I'm wondering how I can make my essay stand out and really grab the reader's attention.
+COACH: A good way to do that is to focus on the details. Make sure you include vivid descriptions and examples that will draw the reader in. Also, try to avoid cliches and generalizations. Show the reader why your story is unique and special.

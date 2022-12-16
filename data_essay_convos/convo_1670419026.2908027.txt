@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hello, I'm a student from the Philippines and I'm applying to law school. I need help with my admissions essay.
+COACH: Hi there. That's great! Can you tell me a bit more about what you need help with? Do you need help with the structure of the essay or the content? 
+STUDENT: I think I need help with both. I'm not sure how to go about organizing the different parts of the essay.
+COACH: Alright, let's start by breaking down the essay into its different parts. Most essays have an introduction, body, and conclusion. The introduction is often referred to as the "hook" and it's what grabs the reader's attention and introduces the topic of the essay. Then, the body is the main part of the essay and it's where you expand on your topic and provide evidence to support your argument. Finally, the conclusion is where you wrap up your essay and provide a summary of your main points. Does this help you get started? 
+STUDENT: Yes, that helps a lot. Now I'm wondering how to come up with the content for the essay.
+COACH: That's a great question. When it comes to writing an admissions essay, it's important to focus on why you're a good fit for the program you're applying to and why you're passionate about the subject. Think about your experiences, achievements, and goals. What makes you stand out from other applicants? What makes you passionate about law? By focusing on these questions, you'll be able to come up with compelling content for your essay.

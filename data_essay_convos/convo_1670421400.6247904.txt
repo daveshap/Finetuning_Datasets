@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and need help with my essay about comparing Buddhism and Islam.
+COACH: Great! Could you tell me a bit more about what you are trying to achieve with this essay?
+STUDENT: Well, I want to compare the two religions and show how they have similar beliefs and practices.
+COACH: Okay, that sounds like an interesting topic. What kind of structure do you think would be best for this essay?
+STUDENT: I was thinking of having an introduction that explains the two religions and their similarities, then a few body paragraphs that go into more detail about each religion, and then a conclusion that ties everything together.
+COACH: That sounds like a great plan! Do you think you need help with any specific parts of the essay?
+STUDENT: Yes, I'm having trouble finding sources to back up my claims.
+COACH: Alright, let's take a look at some potential sources. Have you already looked at any scholarly articles or books on the topic?
+STUDENT: I've done some research online, but I haven't found any scholarly sources yet.
+COACH: That's understandable. It can be difficult to find reliable sources online. Have you considered looking at your school library or other academic libraries for sources?
+STUDENT: I hadn't thought of that. That's a great idea!
+COACH: Absolutely! It's always a good idea to look for sources from reliable and academic sources. While you're doing that, I can help you with the structure of the essay and make sure it flows well. Is there anything else you'd like to talk about?
+STUDENT: Actually, I'm also trying to incorporate some of my volunteer work into the essay. Do you have any advice for how to do that?
+COACH: Sure! You can mention your volunteer work in the introduction or in one of the body paragraphs. Make sure to explain how your experiences have shaped your views on Buddhism and Islam and how they have influenced your essay. This will help to draw the reader in and give them a better understanding of your essay.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: Scholarships and grants are based on a variety of criteria, so you should research the ones that best match your qualifications. You can also look into private scholarships and grants, which are often provided by businesses and organizations. Additionally, you should make sure to apply for any federal or state-funded grants for which you may be eligible.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction that introduces the topic and tells the reader why it is important. It should also include a body with several paragraphs that provide evidence and examples to support your argument. Lastly, it should end with a conclusion that summarizes the main points and provides a call to action. Make sure to include personal experiences and anecdotes to make it more engaging and memorable.

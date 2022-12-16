@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and need help with my essay.
+COACH: That's great! What kind of essay do you need help with?
+STUDENT: I need help with the personal statement essay.
+COACH: OK, let's get started. What kind of topics are you thinking about writing about?
+STUDENT: Well, I'm applying to both UCLA and NCSU, so I was thinking about talking about my volunteer work and my skills and achievements.
+COACH: That sounds like a great idea. Can you tell me more about your volunteer work and what kind of skills and achievements you want to highlight?
+STUDENT: Sure. I've been volunteering at a local animal shelter for the past two years. I've been helping out with the animals, cleaning cages, and working with the staff. I'm also involved in several clubs at my school, and I have a decent GPA.
+COACH: That's great! It sounds like you have a lot of experiences you can draw from. What else do you think you could talk about in your essay?
+STUDENT: I'm not sure. I have no idea what else I could write about.
+COACH: That's ok. A great way to brainstorm ideas is to make a list of things that make you unique or stand out. Think about your hobbies, interests, talents, and any other special qualities you have. Once you have a list, you can start to explore how these qualities could be relevant to the schools you're applying to. For example, if you have a talent for art, you could talk about how you plan to use that talent to contribute to the creative atmosphere of UCLA or NCSU.

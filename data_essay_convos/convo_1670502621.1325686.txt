@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions is a process of evaluating a student's academic and personal qualifications in order to determine whether they are a good fit for a particular college or university. Generally, the admissions process involves submitting an application, writing an essay, and taking an entrance exam.
+STUDENT: What should I include in my college admissions essay?
+COACH: The most important part of your admissions essay is the thesis statement. This is a sentence or two that summarizes the main point you are trying to make in your essay. You should also include information about yourself, such as your background, experiences, and any accomplishments. Be sure to explain why you are a good fit for the college or university you are applying to. Finally, make sure to provide evidence to support your points and end with a conclusion that ties everything together.

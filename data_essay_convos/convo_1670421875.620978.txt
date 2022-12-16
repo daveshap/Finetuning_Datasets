@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to UNC and I need help writing my college admission essay.
+COACH: Great! What kind of topics are you interested in exploring?
+STUDENT: I'm really interested in exploring the intersection of Islam and Christianity, as well as the concept of neurodiversity.
+COACH: Interesting topics! Can you tell me a bit more about why you're interested in these topics?
+STUDENT: Sure! I come from a multicultural background and I'm fascinated by the different ways that faith and culture can intersect. I'm also interested in how neurodiversity can play a role in our understanding of our own identities.
+COACH: That's fantastic! It sounds like you have a lot of great ideas to explore. How do you think you can use these topics to write a compelling college admissions essay?
+STUDENT: I think I can use these topics to discuss how I've grown and developed as an individual and how my experiences have shaped my perspective on life. I can also talk about how my understanding of faith, culture, and neurodiversity has helped me to become a more open-minded and empathetic person.
+COACH: That's a great approach! You can use your personal experiences to discuss the importance of these topics and how they have impacted your life. Make sure to include specific details to make your essay unique and engaging. Good luck!

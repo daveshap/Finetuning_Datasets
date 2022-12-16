@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: What type of essay are you writing?
+STUDENT: A grant application.
+COACH: Great! What kind of grant are you applying for and what do you want to focus on in your essay?
+STUDENT: I'm applying for a research grant to study the effects of climate change on public health.
+COACH: That's a great topic. So, what makes an essay engaging? Well, first off, it should be well-structured and organized. Your essay should have a clear introduction, body, and conclusion. You should also make sure to use vivid language, interesting examples, and compelling evidence to support your arguments. Finally, make sure to use active voice, avoid repetition, and maintain a consistent tone throughout your essay.

@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and Princeton and I'm having trouble getting started on my essay.
+COACH: Okay, let's start with why you want to go to college in the first place. What is it about college that matters to you?
+STUDENT: Well, I think college is a great opportunity to broaden my horizons and learn more about the world. I'm really interested in exploring different cultures, particularly Buddhism, and I feel like college would be the perfect place to do that.
+COACH: That's great! It sounds like you have a clear goal in mind for your college experience. How can I help you get started on your essay?
+STUDENT: I'm not sure where to begin. I'm having trouble figuring out how to structure my essay and what topics to cover.
+COACH: Okay, let's start by brainstorming some ideas. What are some of the topics you could cover in your essay that would demonstrate your interest in Buddhism?
+STUDENT: Well, I could talk about my experiences studying Buddhist philosophy and how it has shaped my worldview. I could also discuss how I plan to use my college experience to further explore Buddhist teachings.
+COACH: That sounds like a great starting point. Now, what kind of structure can you use to organize your essay?
+STUDENT: I was thinking of using a chronological structure, starting with my introduction to Buddhism and then discussing my experiences and plans for the future.
+COACH: That sounds like a great plan. Now, let's talk about how to make your essay stand out. What unique perspective can you bring to your essay that will make it memorable?
+STUDENT: I think I can talk about how my study of Buddhism has helped me develop a greater appreciation for the diversity of experiences and perspectives in the world.
+COACH: Perfect! That's a great way to make your essay stand out. Now, let's discuss how you can make sure your essay is well-written and engaging. What tips can you use to ensure your essay is compelling and interesting?
+STUDENT: I can use vivid language to bring my story to life and make sure my writing is clear and concise. I can also use anecdotes and examples to illustrate my points and make my essay more engaging.
+COACH: Wonderful. Those are all great tips. Is there anything else I can help you with before you get started on your essay?
+STUDENT: No, I think I'm ready to get started. Thanks so much for your help!
+COACH: You're welcome! Good luck with your essay, and don't hesitate to reach out if you need any more help.

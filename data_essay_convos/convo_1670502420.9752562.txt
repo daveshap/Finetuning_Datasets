@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question! When you're choosing a topic for your college admissions essay, think about what makes you unique and sets you apart from other applicants. What experiences do you have that could be interesting to read about? What are you passionate about? Also, consider what you want the admissions committee to learn about you and how you can showcase your best qualities in your essay.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction, body, and conclusion. In your introduction, you'll want to give a brief overview of who you are and why you're applying. In the body of your essay, you'll want to make sure to include specific examples and stories that help illustrate who you are and why you're a good fit for the school. Finally, in your conclusion, you'll want to wrap up your essay by summarizing the main points and expressing your enthusiasm for the school.

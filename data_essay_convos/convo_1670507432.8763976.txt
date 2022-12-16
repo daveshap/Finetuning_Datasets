@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: That's a great question. Before we get into the specifics of writing an opening, let's talk about what your essay is about and what you want to accomplish with it. What is the topic of your persuasive essay?
+STUDENT: I'm writing about why people should invest in renewable energy.
+COACH: That's a great topic! Now, when it comes to writing your opening, you want to make sure you start off strong and capture the reader's attention. One way to do this is to start with a quote or an anecdote that relates to your topic. You could also start with a strong statement that outlines your point of view on the topic. Whatever approach you choose, make sure it's interesting and engaging.

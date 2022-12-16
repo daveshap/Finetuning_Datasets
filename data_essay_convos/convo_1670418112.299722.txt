@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply to MIT and I want to focus on creativity and art in my essay.
+COACH: That's great! What kind of creative and artistic activities do you engage in?
+STUDENT: I'm a refugee from Vietnam and I love to paint and draw. I also like to write poetry and stories.
+COACH: That sounds amazing! What made you decide to apply to MIT?
+STUDENT: I've always been interested in technology and engineering, but I also have a passion for art and creativity. I think that if I can combine the two, I can create something really unique and special.
+COACH: That's an excellent goal! So what kind of help do you need with your essay?
+STUDENT: Well, I'm having trouble figuring out how to express my thoughts and ideas in a way that will make them stand out. Also, I'm not sure how to go about getting scholarships and grants.
+COACH: That's understandable. Let's start with the essay. I suggest focusing on the unique experiences and perspectives that you bring to the table. You can use those to show how you are the perfect fit for MIT. As for scholarships and grants, there are many available to students who come from diverse backgrounds. You can look into those and see what you qualify for.

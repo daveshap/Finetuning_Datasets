@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there, I'm looking for help with my college application essay.
+COACH: Alright, let's get started. What topics are you considering writing about?
+STUDENT: I want to write about my experience living in Vietnam.
+COACH: That sounds like a great topic! Tell me more about it. What did you learn while living in Vietnam?
+STUDENT: I learned a lot about different cultures and also about myself. I had to adapt to a new environment and that was a challenge, but it also taught me a lot about resilience.
+COACH: That's great! What kind of college are you hoping to apply to?
+STUDENT: I'm interested in applying to Duke University.
+COACH: Great choice! So, what do you think your essay should focus on?
+STUDENT: I'm not sure. I'm worried that I'm not very interesting as a person and that I won't have anything to write about.
+COACH: Don't worry! Everyone has something unique and interesting to say. Think about how your experience in Vietnam has shaped who you are today. What lessons did you learn while living there? How did it shape your views on the world? What did you gain from the experience that you can bring to a college campus? Once you start exploring these questions, you'll find that you have a lot to say.
+STUDENT: Okay, that's helpful. I guess I could talk about how living in Vietnam made me more open-minded and how it gave me a better understanding of different cultures.
+COACH: That's a great start! You could also explore the challenges you faced while living in Vietnam and how you overcame them. What about other experiences you've had? Have you traveled anywhere else?
+STUDENT: Yes, I recently went to Thailand.
+COACH: That's wonderful! What did you learn from that experience? How did it shape you as a person?
+STUDENT: I learned a lot about the importance of being open-minded and accepting of different cultures. It also taught me to appreciate the beauty of the world and to be grateful for what I have.

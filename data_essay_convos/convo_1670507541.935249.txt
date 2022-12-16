@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That depends on what type of essay you're writing. Is this a persuasive essay?
+STUDENT: Yes, it's a persuasive essay.
+COACH: Okay, great. Before we get into the specifics of what to include in your essay, let's talk about your goal. What do you hope to accomplish with this essay?
+STUDENT: I want to persuade my audience that my opinion is correct.
+COACH: Perfect. Now that we know what you want to accomplish, let's talk about how to make your essay persuasive. First, you should start by doing some research and gathering evidence to back up your argument. This could be facts, statistics, anecdotes, or any other kind of supporting material. Once you have your evidence, you'll need to craft a thesis statement that clearly states your position. Then, you can use your evidence to support your argument in the body of the essay. Finally, you'll want to provide a conclusion that ties everything together and reinforces your argument. Does that make sense?
+STUDENT: Yes, that makes sense. Thank you for your help!

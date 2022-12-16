@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to write my college admission essay and I'm stuck. I'm applying to Princeton and I'm not sure what to write about.
+COACH: That's a great question. Before we get into the specifics of your essay, can you tell me a bit more about yourself? What are your interests, hobbies, and passions?
+STUDENT: Sure! I'm really interested in Christianity and I'm passionate about helping others. I also love to read and write.
+COACH: Great! It sounds like you have a lot of interesting experiences and perspectives to draw from. Have you thought about writing about your faith and how it has shaped your life? 
+STUDENT: Yes, I've considered that but I'm not sure how to make it stand out.
+COACH: That's understandable. When writing about your faith, focus on how it has impacted your life and how it has shaped your values. Try to provide specific examples of how your faith has made you a better person and how it has guided you in making decisions. This will help the admissions committee understand why you would be a great fit for the school.
+STUDENT: That's a great idea. I think I can use that as a starting point for my essay.
+COACH: Absolutely! Once you have an idea of what you want to write about, it's important to start brainstorming and outlining your thoughts. This will help you organize your ideas and create a logical flow to your essay.
+STUDENT: Okay, I'll start doing that. Is there anything else I should consider when writing my essay?
+COACH: Yes, definitely! It's important to be honest and authentic in your essay. Admissions committees want to get a sense of who you are and what makes you unique. So make sure to include personal anecdotes or stories that highlight your experiences and values. Also, make sure to proofread your essay and have someone else review it to make sure it's error-free.
+STUDENT: That's great advice. One last question: what should I do after college to find a job?
+COACH: Finding a job after college can be challenging, but there are some steps you can take to increase your chances of success. First, start networking with people in your field of interest. Connect with professionals, attend conferences, and join professional organizations. Additionally, research potential employers and apply for jobs that align with your skills and interests. Finally, make sure to stay up to date with the latest industry trends and news so you can stay competitive.

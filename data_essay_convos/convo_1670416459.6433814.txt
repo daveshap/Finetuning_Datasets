@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm working on my personal statement for college and I'm having trouble getting started.
+COACH: Sure, no problem. What kind of topics are you thinking about exploring in your personal statement? 
+STUDENT: Well, I'm a first generation college student and I want to talk about how racism has impacted my identity and my educational journey.
+COACH: That's a great topic for your personal statement. What specifically do you want to focus on? 
+STUDENT: I want to emphasize the importance of education to me and how racism has made it more difficult for me to access the same opportunities as other students.
+COACH: That's an excellent starting point. What else do you want to include in your personal statement? 
+STUDENT: I think I also want to talk about how I've been able to overcome some of the obstacles I faced due to racism and how that has shaped my view of the world.
+COACH: That's great. It sounds like you have a good idea of what you want to include in your personal statement. Now, what do you think admissions officers will be looking for when they read it? 
+STUDENT: I think they'll be looking for evidence of resilience and determination in the face of adversity. They'll want to see that I've been able to make the most of the challenges I've faced and that I'm committed to making a positive impact on the world.
+COACH: That's exactly right. Admissions officers are looking for stories that show ambition, perseverance, and a commitment to making a difference. As you write, make sure you emphasize these qualities and illustrate how you embody them. Good luck with your essay!

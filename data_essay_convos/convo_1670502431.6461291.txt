@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: When selecting a topic for your essay, it's important to think about what you want to convey. Think about your goals, values, and experiences and how they connect to the college you are applying to. Then, brainstorm some ideas and consider which one would be the most interesting and engaging to write about.
+STUDENT: How do I start my essay?
+COACH: A great way to start your essay is by writing a hook. This can be a quote, an anecdote, or a thought-provoking question that will draw your reader in. Once you have your hook, you can introduce your topic and explain what you will be discussing in the essay.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include a few key components. First, you should provide background information on your topic. This will give the reader a better understanding of the context of your essay. Next, you should explain your main point and provide evidence to support it. Finally, you should conclude your essay with a summary of your main idea and a call to action. 
+STUDENT: How do I make my essay stand out?
+COACH: To make your essay stand out, you should focus on developing your own unique voice. Use vivid language to describe your experiences and emotions, and be sure to include personal anecdotes. Also, be sure to proofread your essay multiple times to ensure that there are no grammar or spelling errors.

@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm writing an essay about racism in Thailand.
+COACH: That's a great topic! Can you tell me a bit more about it?
+STUDENT: Sure. I'm looking at how racism affects people of color in Thailand and how it has impacted their lives.
+COACH: That sounds fascinating. What parts of the essay do you need help with?
+STUDENT: Well, I'm having trouble coming up with a good hook and conclusion for my essay.
+COACH: Okay, let's start with the hook. A good hook should draw your reader in and make them want to keep reading. What do you think would be a good opening sentence or two for your essay?
+STUDENT: Hmm...I'm not sure.
+COACH: That's okay. Let's think about what kind of story you want to tell. What are some of the key points you want to make in your essay?
+STUDENT: Well, I want to talk about how racism has been a problem in Thailand for a long time and how it affects people of color in the country. I also want to discuss what steps can be taken to combat racism and create a more inclusive society.
+COACH: That's great! With those ideas in mind, you could start your essay by talking about a specific example of racism in Thailand, like a personal experience or a story you heard from someone else. You could then use that example to introduce the broader issue and explain why it's an important topic to discuss.
+STUDENT: Okay, that sounds like a good idea.
+COACH: Now, let's move on to the conclusion. The conclusion of your essay should wrap up all of your main points and provide a sense of closure. What do you think would be a good way to end your essay?
+STUDENT: I was thinking of ending it by talking about how education can help fight racism and promote inclusion.
+COACH: That's a great point! You could talk about how education can empower people to speak out against racism and create a more equal society. You could also talk about how universities like MIT are working to create a more diverse and inclusive environment. That would be a great way to end your essay.

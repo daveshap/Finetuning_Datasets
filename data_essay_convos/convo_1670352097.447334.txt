@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I'm looking for help with my essay.
+COACH: Great! What kind of grad school are you applying for?
+STUDENT: I'm applying to a med school in Germany.
+COACH: Ah, excellent. What do you think makes you a good candidate for this program?
+STUDENT: Well, I have a strong academic background in engineering and I'm passionate about social issues. I believe my combination of skills and interests would make me a great fit for the program.
+COACH: That sounds like a great angle to focus on in your essay. Tell me more about your interest in social issues. What kind of topics do you find yourself drawn to?
+STUDENT: I'm particularly interested in healthcare access and poverty alleviation. I want to use my engineering skills to help create solutions that can improve the lives of people in need.
+COACH: That's wonderful. It sounds like you have a clear passion and direction for your essay. Now, let's talk about how you can best convey your message to the admissions committee. What do you think is the most important thing you want to communicate to them? 
+STUDENT: I want to show them that I understand the importance of using technology to solve social problems and that I'm committed to doing whatever it takes to make a difference.
+COACH: Perfect. Now the trick is to make sure you communicate this message in a way that is engaging and memorable. Let's talk through some strategies that you can use to make your essay stand out.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing an essay about how to finance college and I'm having some trouble getting started.
+COACH: That's a great topic! Can you tell me a bit more about what you're looking for? Are there any particular angles or topics related to financing college that you'd like to explore?
+STUDENT: Well, I'm interested in exploring the different options available for financing college, such as scholarships, grants, loans, and other forms of financial aid. I'd also like to look at how different countries approach financing college and how this affects students.
+COACH: That sounds like a great topic! It's really important to understand the different ways students can finance their college education. What countries have you been thinking about focusing on?
+STUDENT: I was thinking about looking at the US, Germany, and maybe Islam.
+COACH: That's a great selection! Each of these countries has its own unique approach to financing college, so it'll be interesting to compare and contrast them. For example, in the US, students typically take out loans to pay for college. In Germany, tuition is free for all citizens, so students don't have to worry about financing their education. And in Islamic countries, there are often religious scholarships and grants available for students. It will be interesting to see how each of these approaches affects students.

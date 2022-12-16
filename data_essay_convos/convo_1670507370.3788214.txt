@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: Before we talk about writing a conclusion, let's start with what kind of essay you're writing. What type of essay is it?
+STUDENT: It's a monograph.
+COACH: Great! A monograph is an essay that focuses on a single topic. To write a good conclusion for this type of essay, you'll want to summarize your main points, restate your thesis statement, and provide a call to action. Make sure to leave your readers with something to think about and to consider the implications of your essay.

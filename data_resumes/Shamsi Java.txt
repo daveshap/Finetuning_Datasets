@@ -1,0 +1,382 @@
+Mohammed Shamsi
+
+Sr. Java Developer
+
+shamsimohd06@gmail.com
+
+LinkedIn- https://www.linkedin.com/in/mohammed-shamsi-b89028255/
+
+(771) 333-5000.
+
+PROFESSIONAL SUMMARY
+
+-   Having around 7+ years of Professional experience in IT Industry
+      involved in Developing, Implementing and maintenance of various
+      web-based applications using Java, J2EE Technologies.
+
+-   Experience in all phases of Software development life cycle (SDLC),
+      which includes User Interaction, Requirement gathering, Business
+      Analysis/Modeling, Design/Architecture, Development,
+      Implementation, Integration, Documentation, Testing and
+      Deployment.
+
+-   Experience in working with different SDLC methodologies like
+      Waterfall, Agile (TDD, SCRUM).
+
+-   Experienced with J2SE Technologies like API, Threads, Collections,
+      and Exception Handling, J2EE Technologies like Servlet, Listener,
+      Filter, JSP, Java Security API and JSTL.
+
+-   Expertise in the implementation of Core concepts of Java, J2EE
+      Technologies: JSP, Servlets, JSF framework implementation using
+      JDBC, Spring, Hibernate,
+
+-   Practical knowledge and expertise working with frameworks like
+      Spring Core (DI (IOC)), Spring MVC, Spring Data, Spring Boot,
+      Spring Batch, Spring Security, Hibernate.
+
+-   Well versed with consuming and producing Web services like SOA
+      Architecture based SOAP (WSDL Component), UDDI and REST working
+      with data-exchange formats like PLAIN_TEXT, XML and JSON formats.
+
+-   Working experience of Relational DBMS like MySQL, Oracle SQL
+      (PL/SQL), SQL Server (MS SQL), DB2and NoSQL DB like MongoDB.
+
+-   Experience in writing the HTTP RESTful Web services and SOAP API's
+      in Golang. 
+
+-   Experience with Tomcat/ WebLogic servers and good understanding of
+      J2EE architectures, J2EE technologies. 
+
+-   Experience with amazon web services (AWS) and amazon cloud
+      technologies such as Amazon EC2 (virtual servers), Amazon Cloud
+      Watch (monitoring).
+
+-   Managed Amazon Web Services like EC2, S3 bucket, ELB, Auto-Scaling,
+      SNS, SQS, AMI, IAM, Dynamo DB, Elastic search, Virtual Private
+      Cloud (VPC) through AWS Console and API Integration.
+
+-   Experience with test driven development (TDD) using a unit testing
+      framework Junit and knowledge of ANT, Maven and Log4j tools.
+
+-   Used version controller tools like Subversion and CVS, Bitbucket,
+      Clear Case, Tortoise SVN and Git.
+
+-   Hands-on experience working with Continuous Integration (CI)
+      build-automation tools such as Maven, SVN, CVS, Jenkins and Apache
+      Ant.
+
+-   Experience on working with Amazon S3 buckets as a storage and
+      archive and creating user/resource-based security IAM policies for
+      the S3 bucket.
+
+-   Provide daily support with resolution of escalated tickets and act
+      as a liaison to business and technical leads and ensure issues are
+      resolved in timely manner.
+
+-   Well experienced in collaborating with onsite as well as offshore
+      teams and coordinating with business to convert business
+      requirements into technical specifications.
+
+TOOLS/TECHNOLOGIES 
+
+  -----------------------------------------------------------------------
+  Languages                 Java, SQL, Golang.
+  ------------------------- ---------------------------------------------
+  Java & J2EE Technologies  Java, J2EE, JDBC, Hibernate, JSP, Servlets,
+                            EJB, JMS, Struts, Spring Framework, Java
+                            Beans, Web Services
+
+  Framework                 Spring MVC, Spring boot, Spring security
+
+  Servers                   Apache Tomcat, WebLogic, Web sphere
+
+  Databases                 Oracle, DB, MySQL, Realm.
+
+  IDE/ Testing Tools        Eclipse, Android Studio, IntelliJ, Visual
+                            basic.
+
+  Database Tools            TOAD, SQL Developer.
+
+  Web Services              SOAP, RESTful, JAX-RS, Micro Services, AWS,
+                            Postman.
+
+  Software Management Tools Bitbucket, SVN, WinSCP, CVS, VSS, Clear Case.
+
+  Build Scripts             Gradle, Maven, ANT, Jenkins
+
+  Methodologies             Waterfall, Agile.
+
+  Defect Tracking Tools     Bugzilla, Jira, Firebug.
+
+  Others                    Log4J, JUnit, Ant, Maven, Putty, Jenkins
+
+                            
+  -----------------------------------------------------------------------
+
+EDUCATIONAL BACKGROUND
+
+B.S. in Computer Science Engineering - JNT University, 2014.
+
+PROFESSIONAL EXPERIENCE
+
+Client : Fond - West Chicago, IL. Sep 2021 - Till Date
+
+Role : Java Full Stack Developer.
+
+Responsibilities:
+
+-   Involved in designing and implementation of MVC design pattern for
+      the application.
+
+-   Implemented Spring Dependency Injection and Aspect Oriented
+      Programming using Spring Framework.
+
+-   Used Amazon Cloud Watch to monitor AWS services and Amazon Cloud
+      Watch logs to monitor application.
+
+-   Designed, built and deployed application using the AWS stack
+      (Including EC2, Mongo DB, Docker, Kubernetes Orchestration
+      container (EKS) focusing on high-availability, fault tolerance and
+      auto-scaling. 
+
+-   Developed multi-threaded standalone app in Python, Saas, PHP, C++ to
+      view Circuit parameters and performance. 
+
+-   Designed and developed Micro Services business components and
+      RESTful service endpoints using Golang. 
+
+-   Changed the AWS infrastructure Elastic Beanstalk to Docker
+      with Kubernetes.
+
+-   Build Scalable Concurrent Backend Restful API using Golang, Mysql
+      and deployed to Used HTML5, bootstrap, CSS3, Grid Gain,
+      JBPM, Golang, JavaScript and Angular JS to Designed dynamic and
+      browser compatible pages. 
+
+-   Experience with configuration management tools like Ansible and
+      Packer and automated the cloud deployments using Terraform.
+
+-   Developed microservices in Golang to process numerous data from
+      various dB like Postgres, MYSQL.
+
+-   Worked with MVW frameworks like Django, /Angular JS, HTML, CSS, C++,
+      XML, Java Script, jQuery, Bootstrap, JSON. 
+
+-   Built Jenkins jobs to Create AWS infrastructure from GitHub repos
+      containing terraform code.
+
+-   Developed scripts in Python to automate network application
+      deployments in order to increase efficiency.
+
+-   Used Java 8 Lambda expressions to facilitate functional programming
+      and for simplifying the development.
+
+-   Used Orchestration container Kubernetes for load balancing and to
+      schedule the tasks across the computer cluster and load balancers
+      for backend API services.
+
+-   Worked on building dynamic dashboards and reports based
+      off Salesforce ECP Data resource. 
+
+-   Developed backup and recovery engine using VMware vSphere
+      APIs, Golang, and RabbitMQ Message Bus. 
+
+-   Used Hibernate object relational data mapping framework to persist
+      and retrieve the data from database. 
+
+-   Developed a job server (REST API, Spring Boot, Oracle DB) and job
+      shell for job submission, job profile storage, job data
+      query/monitoring.
+
+-   Worked on Terraform to create stacks in AWS from the scratch and
+      updated the Terraform as per the organization’s requirement on a
+      regular basis and used in AWS.  
+
+-   Used Spring Boot Actuator to externalize application's configuration
+      properties for various environments. Configured Swagger-UI
+      registered Microservice with Eureka to monitor services from
+      Spring Boot console.
+
+-   Designed and implemented by configuring Topics in new Kafka cluster
+      in all environments. 
+
+-   Deploying applications on Servers like Tomcat and Linux, writing
+      Shell scripts and Linux commands to support different applications
+      on the server.
+
+-   Created a client-side application by consuming third party SABRE
+      SOAP Web Service. This Web Service provides us the data for
+      private fares of other carriers. Extensively used Web Services -
+      WSDL and SOAP for getting the credit card information of third
+      party.
+
+-   Created a server-side SOAP service to have multiple automation
+      machines can consume data and run at the same time.
+
+Environment: Java 1.7/1.8, J2EE 1.7/1.8, Realm for Android, Git,
+Bitbucket, IntelliJ 10.0.3, Android Studio 2.3.3, 3.0.1, Postman,
+SonarQube, Jacoco, Gradle build plugin, Moki, AWS, F5 Access.
+
+Client : Nielsen - Atlanta, GA. May 2018 - August 2021
+
+Role : Sr. Java Developer.
+
+ Responsibilities:
+
+-   Provide development work DT4_Deltaworks Android application with
+      Angular based UI and responsible for developing highly scalable
+      and high availability systems.
+
+-   Involved in SDLC of application developed using AGILE methodology.
+
+-   Involved in developing presentational and container components using
+      React and JSX.  
+
+-   Involved in the team with Senior Developers to write JVM memory
+      management code using different Object references and Garbage
+      collector methods.
+
+-   Built multiple SDK’s in. Golang to be used by multiple teams across
+      the company.
+
+-   Created Business Logic using Python to create Planning and Tracking
+      functions.
+
+-   Transform the source data using Documents Transformation, XSLT,
+      XPath and MVEL. Developed micro services using Java Spring Boot
+      and Golang with Docker deployments.
+
+-   Developed Microservices using Spring Boot and Node JS to build more
+      physically separated modular applications 
+
+-   Developed DevOps tool in java which perform build, deployment, code
+      review status, file transfer and seeing logs.
+
+-   Designed and developed the Integration, Business, and service layer
+      that meet the business requirements.
+
+-   Interacting with team members to understand the business domain and
+      helping them in solving technical problems.
+
+-   Implement microservices architecture using spring boot. Develop and
+      set up microservices for standalone systems like store services
+      and exception services.
+
+-   Developed client-server application using socket programming
+      methodologies.
+
+-   Used Git as the version control tool and Maven, Jenkins as build and
+      deployment tools.
+
+-   Develop test suites with JUnit and Mockito frameworks.
+
+-   Implemented REST service endpoints to consume the Profile Info from
+      UI.
+
+-   Involved in production support and handling various client SRC
+      tickets.
+
+-   Built APKs using Gradle and Tested across multiple environments.
+
+-   Implemented version controlling using Git, Source Tree, and
+      Bitbucket.
+
+Environment: Java1.8, SOAP, Realm for Android, Angular 2.0, MGI-ISI
+Simulator, Git, Bitbucket, IntelliJ 10.0.3, Android Studio 2.3.3, 3.0.1,
+Postman, SonarQube, Jacoco, Gradle.
+
+Client : CarMax ­– Austin, TX. October 2016 – May 2018
+
+Role : Java Developer.
+
+Responsibilities:
+
+-   Involved in the complete SDLC (software development life cycle) of
+      the application from requirement analysis to testing.
+
+-   Developed navigation flow, business flow diagrams (BPM), workflow
+      diagrams for applications, and created Activity Diagrams / State
+      Chart Diagrams using MS Visio. 
+
+-   Followed Agile Methodology in analyzing, define, and document the
+      application, which will support functional and business
+      requirements. Coordinate these efforts with Functional Architects.
+
+-   Developed the application using J2EE Design Patterns like Business
+      Delegate, Factory, Singleton, Session Facade, Service Locator, and
+      DAO.
+
+-   Used Spring MVC module to develop MVC Architecture.
+
+-   Configured Spring Container to implement IOC/DI of the Spring Beans,
+      and to manage the beans life cycle.
+
+-   Used Jersey to implement Restful Web Service and used XML form to
+      transfer the data.
+
+-   Configuration, Cache & logging Services.
+
+-   Developed front end using Struts framework, business components
+      using EJB’s.
+
+-   Designed and developed Caching and Logging service using Singleton
+      pattern, Log4j. Designed and developed front-end using struts
+      framework. Used JSP, JavaScript, JSTL, EL, Custom Tag libraries,
+      Tiles and Validations provided by struts framework.
+
+-   Developed stored procedures and complex packages extensively using
+      PL/SQL and shell programs.
+
+-   Executed bulk migration of data on AWS DynamoDB from one AWS account
+      to another corporate AWS account using Delta Migration Strategy
+      with zero downtime.
+
+-   Developed Micro Service to provide RESTful API utilizing Spring Boot
+      with Spring MVC.
+
+-   Provided Technical support for production environments resolving the
+      issues, analyzing the defects, providing and implementing the
+      solution defects.
+
+Environment: Java1.8, J2EE1.8, Spring Boot Framework, Microservices,
+Hibernate, SOAP, Restful API’s, SQL, Maven, Jenkins, WebSphere, Apache
+Tomcat, SSO, Oauth2, JWT, Elliptical curve, Junit, TestNG, Sonar Lint,
+Clover, Bit bucket, Splunk, IntelliJ 10.0.3, Postman.
+
+Client : AIG - NYC, NY January 2015 – September 2016
+
+Role : Java Software Developer.
+
+Responsibilities:
+
+-   Involved in complete SDLC management – Requirements gathering,
+      Design, Analysis, Development and Testing 
+
+-   Used AWS like EC6, SNS, SQS, S3, LAMBDA, Amazon Cloud Watch, Amazon
+      Simple DB, etc.  
+
+-   Used Struts framework along with JSP, Servlets, HTML, CSS, jQuery
+      and JavaScript to construct dynamic web pages. 
+
+-   Involved in the implementation of Stateless session beans for
+      business logic layer and Entity beans forAIG. 
+
+-   Used JPA mapping techniques such as One to One and Many to Many
+      mappings to represent relation in the project. 
+
+-   Worked Oracle database to create databases of student and faculty
+      login information and their desired areas of study.
+
+-   Performed validation for client side as well as server side with the
+      help of Struts Validation Framework. 
+
+-   Worked in an Agile process to streamline the development process
+      with iterative development.
+
+-   Worked with a variety of issues involving multi-threading, server
+      connectivity and user interface. 
+
+Environment: Java, J2EE, HTML, CSS, JavaScript, XML, JSP, Angular JS,
+React JS, Servlets, Spring, Struts, Hibernate, Web services, SQL, BPM,
+Oracle, Golang, GWT, Stash, AWS.

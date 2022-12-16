@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are funds that are given out by organizations to help people with specific needs or projects. They usually require an application and are awarded based on merit. What kind of essay are you working on?
+STUDENT: I'm writing an admissions essay for college.
+COACH: Alright, what kind of information do you want to include in your essay?
+STUDENT: I want to talk about why I'm a good fit for the school and how I can contribute to the campus community.
+COACH: That's a great starting point! To make sure your essay stands out, you'll need to think about what makes you unique and how you can demonstrate those qualities in your essay. What experiences have you had that you think would make you a great fit for this school?

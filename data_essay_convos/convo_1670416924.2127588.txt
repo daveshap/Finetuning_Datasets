@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to MIT and I'm having trouble figuring out what to write about.
+COACH: Alright, let's start by talking a bit about you. What kind of activities do you enjoy doing?
+STUDENT: Well, I'm really passionate about art and creativity. I also like volunteering in my community.
+COACH: That's great! It sounds like you have a lot of interests. What about your background? Are you a first-generation college student?
+STUDENT: Yes, I am. My parents immigrated from France when I was a child.
+COACH: Interesting! What kind of experiences have you had that have shaped your identity as a first-generation college student?
+STUDENT: Growing up, I was always aware of the fact that I was different from my peers. I was constantly reminded of the cultural differences between my family and my friends' families. But I also felt a strong sense of pride in my heritage and I wanted to make the most of the opportunities that were available to me.
+COACH: That's a powerful story. How has this experience shaped your academic goals?
+STUDENT: It has made me determined to take full advantage of my education and to strive for excellence. I want to use my knowledge and skills to make a positive impact in the world and to be an example for other first-generation college students.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: That's a great question. First, let's talk about your essay and what you're hoping to achieve with it. What type of essay are you writing?
+STUDENT: I'm writing a scholarship application essay.
+COACH: Okay, great. Do you have a topic in mind or do you need help brainstorming one?
+STUDENT: I'm not sure what to write about.
+COACH: That's okay. Let's start by thinking about why you're applying for this scholarship. What makes you an ideal candidate for this particular award? What experiences or skills do you have that make you stand out from other applicants?

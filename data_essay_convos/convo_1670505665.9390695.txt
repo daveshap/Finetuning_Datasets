@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure! The first step to writing a college admissions essay is to create a thesis statement. This is a sentence that states the main point of your essay and outlines the arguments you will make. Can you tell me what you would like to focus on in your essay?
+STUDENT: I want to focus on why I'm the perfect candidate for the college I'm applying to.
+COACH: Great, that's a great topic to write about. Now, let's start crafting your thesis statement. The best way to do this is to think about the main points you want to make in your essay. For example, why do you think you are the perfect candidate for this college? 
+STUDENT: I believe I am the perfect candidate because I have a strong academic record, I am highly motivated, and I am passionate about the college's mission.
+COACH: Perfect! Now let's use those points to craft your thesis statement. How about something like this: "Because of my strong academic record, my high level of motivation, and my passion for the college's mission, I am the ideal candidate for [college name]." Does that sound like something you would like to use?
+STUDENT: Yes, that sounds perfect!
+COACH: Great! Now that you have your thesis statement, you can use it as a guideline to write the rest of your essay. You can use each point from your thesis statement as a topic sentence in each paragraph. Good luck with your essay!

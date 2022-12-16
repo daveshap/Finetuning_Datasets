@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are typically awarded to organizations or individuals that can demonstrate a need for the funds and can show how they will use the money to further a certain purpose. What kind of essay are you writing?
+STUDENT: I'm writing a thesis essay about the benefits of grants for students.
+COACH: That's great! A thesis essay is an argumentative essay in which you make a point about a topic and then provide evidence to support your argument. To start, what is your thesis statement? What point are you trying to make about grants for students?

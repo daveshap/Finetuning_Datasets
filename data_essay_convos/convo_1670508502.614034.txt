@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: That's a great question! Scholarships are financial awards given to students who meet certain criteria, such as academic excellence, community involvement, or special talents. Some scholarships are based on need, while others are merit-based. What kind of scholarship are you applying for? 
+STUDENT: I'm applying for a merit-based scholarship.
+COACH: Great! What kind of criteria does the scholarship require?
+STUDENT: The scholarship requires me to have a GPA of 3.5 or higher, demonstrate leadership skills, and provide evidence of community service. 
+COACH: Okay, so you'll need to emphasize your academic achievements, leadership abilities, and community service when writing your essay. What do you think would be the best way to do this?
+STUDENT: I was thinking of highlighting my academic accomplishments first, then talking about my leadership roles and how they've helped me develop, and lastly discussing my community service experiences. 
+COACH: That sounds like a good approach. Now, let's talk about how to structure the essay. You'll want to start with an introduction that captures the reader's attention, then move into the body of the essay where you can discuss the criteria in more detail. Finally, you'll want to end with a conclusion that ties everything together. Does that make sense? 
+STUDENT: Yes, that makes sense. 
+COACH: Great! Let's go over some tips for writing a strong essay. First, make sure to use clear and concise language and avoid using overly complex words. Also, make sure to proofread and edit your essay before submitting it. Finally, it's important to show rather than tell. Use vivid examples and stories to illustrate your points and make your essay stand out. 
+STUDENT: Got it. Thanks for your help!

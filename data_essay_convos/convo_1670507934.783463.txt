@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the type of essay you're writing. Are you writing a research paper?
+STUDENT: Yes, I am.
+COACH: Okay, for a research paper, you should aim for around 2000 words, or 8-10 pages. Now, what kind of research are you doing? What topics are you looking into?
+STUDENT: I'm researching the effects of climate change on agriculture.
+COACH: Great! That's a very interesting and timely topic. What kind of sources are you using for your research? Are you reading journal articles, books, or websites?

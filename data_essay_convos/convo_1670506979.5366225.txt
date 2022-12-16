@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question! Let's start by talking about what you need to do to find a job after college. What have you done so far in your job search?
+STUDENT: I've been researching different job opportunities and networking with people in my field.
+COACH: That's great! Now, let's focus on crafting your thesis statement. What is the main point that you want to make in your essay?
+STUDENT: I want to show that I'm well prepared for the job market and that I have the skills and experience necessary to be successful.
+COACH: Perfect! Based on what you've said, you can craft a thesis statement that reads something like, "With my strong educational background, diverse skillset, and extensive work experience, I am well-prepared for success in the job market." Does that sound like something you'd like to use? 
+STUDENT: Yes, that sounds great!
+COACH: Great! Now, let's talk about how you can support this thesis statement in your essay. What evidence can you provide that demonstrates your readiness for the job market?

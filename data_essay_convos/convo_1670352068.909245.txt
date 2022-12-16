@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my Harvard application and I'm having trouble getting started.
+COACH: Okay, what kind of essay are you writing?
+STUDENT: It's a personal statement about why college matters to me.
+COACH: That's great! Can you tell me a bit more about yourself and why college matters to you?
+STUDENT: Sure. I'm a first-generation American of Vietnamese and Filipino descent. I grew up in a low-income household and college has always been a dream of mine. I believe college is the key to open doors and create opportunities.
+COACH: That's wonderful. What do you think makes college so important to you?
+STUDENT: College is important because it gives me the opportunity to learn from others and gain knowledge that I wouldn't be able to get anywhere else. It also gives me the chance to explore my interests and develop skills that will help me succeed in my future career. Plus, I'm passionate about advocating for neurodiversity and I think college can help me further my cause.
+COACH: That's really inspiring. What do you think sets you apart from other applicants?
+STUDENT: I think my unique background and experiences set me apart from other applicants. I've had to overcome a lot of obstacles to get to where I am today and I believe my story will resonate with the admissions committee. Additionally, I'm passionate about advocating for neurodiversity and I think that my dedication to this cause will make me stand out.

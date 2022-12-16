@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. I'm glad you're thinking ahead. Before we talk about finding a job after college, let's focus on your essay. What type of essay are you writing?
+STUDENT: I'm writing a scholarship application essay.
+COACH: Okay, great. So what kind of scholarships are you applying for?
+STUDENT: I'm applying for a few different ones, but mainly ones that focus on my academic achievements and leadership qualities.
+COACH: That makes sense. Do you have any specific goals in mind when it comes to the essay?
+STUDENT: Yes, I want to make sure I stand out and make a strong case for why I should be awarded the scholarship.
+COACH: All right, let's start by brainstorming some ideas. What would you like to focus on in your essay?

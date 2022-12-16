@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admission essay is your opportunity to tell a college admissions officer why you are the perfect fit for their school. It allows you to showcase your personality, your academic accomplishments, and any extracurricular activities you may have participated in. It's your chance to make a good impression on the admissions officers and show them why you would be a great addition to their school. 
+STUDENT: what should I include in my essay?
+COACH: You should include information about yourself that will help the admissions officers get to know you better. Talk about your passions, interests, and hobbies. If you have any unique experiences or accomplishments, make sure to include those as well. Additionally, you should make sure to include why you are interested in the school and why you feel like you would be a great fit. Finally, make sure to use clear and concise language and make sure to proofread your essay before submitting it.

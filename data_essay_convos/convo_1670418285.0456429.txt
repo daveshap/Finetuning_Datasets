@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help with my personal statement for Yale.
+COACH: Great! What kind of help do you need? Are you having trouble getting started or do you have a draft and need feedback?
+STUDENT: I'm having trouble getting started. I don't know what to write about.
+COACH: That's totally normal. A lot of students feel the same way. Let me ask you some questions to help get your creative juices flowing. What are some of your passions that you would like to discuss in your essay?
+STUDENT: Well, I'm really passionate about music and film.
+COACH: That's great! There are many ways to approach writing about those topics. Have you ever had an experience related to either of those that shaped who you are today?
+STUDENT: Yes, actually. I recently went to a film festival and it was a really inspiring experience.
+COACH: Sounds like a great experience! You could start your essay by describing your experience at the festival, and then explain how it has impacted your life and what you learned from it. You could also talk about how this experience has shaped your view of the world or your goals for the future.
+STUDENT: That's a great idea. I think I can use that as a starting point.
+COACH: Perfect! Now that you have a topic, let's talk about structure. What do you think would be the best way to organize your essay?
+STUDENT: I'm not sure.
+COACH: That's okay. Let me give you an example. You could start with an introduction that briefly explains the experience you had at the film festival and why it was meaningful to you. Then, you could discuss the impact it had on your life and how it has shaped your goals and view of the world. Finally, you could end with a conclusion that ties everything together and offers a glimpse into your future aspirations.
+STUDENT: That's really helpful. I think I can use that structure for my essay.
+COACH: Awesome! Now that you have a topic and structure, let's talk about what admissions officers are looking for in a personal statement. Have you done any research into what makes a successful essay?
+STUDENT: No, not yet.
+COACH: No problem! Admissions officers are looking for essays that show your unique personality and perspective. They want to understand who you are and why you would be a great addition to their school. You should focus on showing your strengths and how you will contribute to the school. You should also make sure to proofread your essay to ensure that it is free of errors.
+STUDENT: That's really helpful. Thank you so much for your advice.
+COACH: You're welcome! If you ever need more help or have any other questions, please don't hesitate to reach out. Good luck with your essay!

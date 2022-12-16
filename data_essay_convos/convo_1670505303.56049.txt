@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are an excellent way to help pay for college, but they typically require a separate application process. Before you apply for any grants, make sure you have an essay that accurately reflects who you are and why you should be considered for the grant. That's why I'm here to help you with your essay! 
+STUDENT: What should I include in my essay?
+COACH: Your essay should be focused on your unique qualities, experiences, and goals. Focus on how you have grown as a person, what you have learned, and how you plan to use those experiences to reach your goals. Make sure to include specific examples of your accomplishments, challenges you have faced, and how you overcame them. These will help demonstrate your commitment to your goals and show your potential as a student. 
+STUDENT: What should I avoid when writing my essay?
+COACH: It's important to avoid cliches and platitudes. While it might be tempting to include generic phrases like “I want to make a difference” or “I am a hard worker,” these don't tell the reader anything about you. Instead, focus on specific stories and events that demonstrate your qualities and goals. Also, avoid using overly dramatic language or exaggerating your experiences. Be honest and authentic in your essay.

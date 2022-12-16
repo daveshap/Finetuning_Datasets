@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: An engaging essay is one that captures the reader’s attention and keeps them interested. It should have a strong introduction that grabs the reader’s interest and a compelling conclusion that leaves them with something to think about. In between, you should use vivid language and examples to illustrate your points and keep the reader engaged.
+STUDENT: What should I focus on when writing my essay?
+COACH: You should focus on telling your story in a way that is authentic and true to who you are. Your essay should show the admissions committee who you are as a person, what you value, and what makes you unique. You should also make sure that your essay is well-structured and organized in a clear and logical manner. Finally, be sure to proofread your essay for any errors or typos.

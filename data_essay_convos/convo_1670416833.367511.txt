@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an admissions essay and I'm having trouble getting started.
+COACH: Okay, what kind of essay are you writing?
+STUDENT: It's an admissions essay for a Christian college.
+COACH: Alright, so what kind of topics are you considering for your essay?
+STUDENT: Well, I want to talk about overcoming obstacles and how my faith in Christianity has helped me get through difficult times.
+COACH: That sounds like a great topic! What kind of obstacles have you faced and how did your faith help you overcome them?
+STUDENT: Well, I was rejected from a few schools I applied to and it was really hard for me to stay positive. My faith in Christianity helped me stay strong and keep going.
+COACH: That's a great example of how your faith can be a source of strength. When writing your essay, it's important to focus on the positive aspects of your story. What do you think admissions officers are looking for in an admissions essay?
+STUDENT: I think they want to see that I'm a creative thinker and that I'm passionate about my faith. They also want to see that I'm committed to making a difference in the world.
+COACH: That's a great insight! To make sure your essay stands out, it's important to structure it in a way that will capture the attention of the admissions officers. What kind of structure do you think would work best for your essay?
+STUDENT: I was thinking of using a narrative structure, where I tell my story from beginning to end.
+COACH: That's a great idea! Narrative structure is a great way to make your essay engaging and memorable. You can start with a brief introduction about your background and why you're applying to this college. Then, you can move on to the main body of your essay and discuss the obstacles you've faced and how your faith helped you overcome them. Finally, you can end your essay with a conclusion that ties everything together.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I need help with my admission essay.
+COACH: Alright, let's start with the basics. What do you know about the essay structure?
+STUDENT: Well, I know it should have an introduction, body paragraphs, and a conclusion.
+COACH: That's right! Now, why does an admission essay matter to Princeton?
+STUDENT: I think it gives them an insight into who I am as a person and what I can bring to the school. It shows them my writing skills, my thought process, and my ability to communicate effectively.
+COACH: That's a great answer! Now, what kind of topics would you like to write about for your essay?
+STUDENT: I'm not sure. I'm interested in politics, so maybe I could write about that.
+COACH: That's a great idea! You could discuss current events or even your own views on politics. What other ideas do you have?
+STUDENT: I'm not sure. I have no idea what to write about.
+COACH: That's okay! Let's brainstorm some ideas. What are your passions or interests? Do you have any hobbies or activities you're involved in? Are there any stories from your life that you'd like to share? These are all potential topics for your essay.

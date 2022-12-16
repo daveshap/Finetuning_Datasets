@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student applying to Duke University and I'm having trouble coming up with an essay topic. 
+COACH: Great! Let's start by talking about what interests you. What topics do you feel passionate about?
+STUDENT: Well, I'm really interested in social issues and sexism. I also love art and creativity.
+COACH: That's wonderful! Those are all excellent topics for your essay. Have you thought about how you could use those topics to create a compelling essay?
+STUDENT: Not really. I'm not sure how to tie them together.
+COACH: You could explore how sexism affects social issues, or how art and creativity can be used to address social issues. You could also look at how being a first-generation college student has shaped your views on social issues and sexism. There are so many possibilities! What do you think? 
+STUDENT: That's a great idea! I think I'll focus on how being a first-generation college student has shaped my views on social issues and sexism.
+COACH: Perfect! Now that you have your topic, let's talk about how to structure your essay. What kind of evidence can you provide to support your argument?
+STUDENT: I could talk about my own experiences as a first-generation college student, and how they have shaped my views on social issues and sexism. I could also include research and statistics to back up my argument.
+COACH: That sounds like a great plan. Remember to also include some personal anecdotes to make your essay more interesting and engaging. Good luck with your essay!

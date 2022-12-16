@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing an essay about my volunteer work in the Philippines.
+COACH: Well, that sounds like a great topic! What kind of volunteer work did you do?
+STUDENT: I worked with a science program that taught local students about the environment.
+COACH: That's fantastic! So, what kind of essay are you writing?
+STUDENT: It's supposed to be a persuasive essay about why people should volunteer in the Philippines.
+COACH: Okay, so what makes this essay engaging?
+STUDENT: I think it would be interesting to talk about the impact that science education can have on the environment and how it can help the people of the Philippines.
+COACH: That's a great idea! What other elements do you think would make it engaging?
+STUDENT: I think it would be interesting to talk about the culture of the Philippines and how volunteering there can give people a unique experience.
+COACH: That's a great point! What else do you think would make the essay engaging?
+STUDENT: Maybe I could talk about the different types of volunteer work available in the Philippines and how people can make a difference by getting involved.
+COACH: That's a great idea! Now, let's talk about the structure of the essay. What do you think should go in the introduction, body, and conclusion?
+STUDENT: I think the introduction should introduce the topic and explain why it's important. The body should include all the details about the volunteer work and its impact. The conclusion should summarize the main points and leave the reader with a call to action.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. When writing your college admissions essay, you want to focus on a topic that showcases your unique talents, experiences, and perspectives. You can write about a personal experience, an event that had a profound impact on your life, or a challenge you overcame. Think of something that will make you stand out from other applicants.
+STUDENT: What should my thesis statement be?
+COACH: Your thesis statement is the main idea of your essay. It should be concise and clearly state the point you are trying to make. It should also be specific so that readers can understand your argument. For example, if you are writing about overcoming a challenge, your thesis statement could be something like, “I was able to overcome a difficult challenge by using my determination and creativity.”

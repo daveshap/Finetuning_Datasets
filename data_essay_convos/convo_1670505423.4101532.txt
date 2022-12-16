@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are usually awarded based on merit, such as academic achievement, community service, or special talents. Some scholarships may also be need-based, so the student’s financial need may be taken into consideration. When applying for a scholarship, you will likely be required to write an essay that explains why you are a good candidate for the scholarship and how it will help you achieve your goals.
+STUDENT: What should I focus on in my essay?
+COACH: You should focus on why you are a good candidate for the scholarship and how it will help you achieve your goals. Make sure to include information about your academic achievements, community service, or special talents that make you stand out as a candidate. Additionally, explain how the scholarship will help you reach your educational and career goals. Be sure to provide concrete examples to demonstrate your commitment to achieving these goals.

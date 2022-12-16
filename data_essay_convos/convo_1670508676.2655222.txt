@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start with a few questions. What type of essay are you working on?
+STUDENT: I'm writing a persuasive essay.
+COACH: Ok, great. What is the topic of your essay?
+STUDENT: The topic of my essay is about the importance of education and how it can open up opportunities for people.
+COACH: Perfect. Now, what do you want to accomplish with this essay?
+STUDENT: I want to persuade people that education is essential for success and that it should be accessible to everyone.
+COACH: Got it. So, what kind of arguments do you plan to use in order to make your point?
+STUDENT: I plan to use examples of people who have succeeded despite not having access to education, and then contrast them with those who have been able to take advantage of educational opportunities. I also want to talk about the economic benefits of education, and how it can help people break out of poverty.
+COACH: That sounds like a great plan! Now, do you have any questions about how to structure your essay or how to make your arguments more persuasive?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: An argumentative essay should have an introduction, body, and conclusion. The introduction should introduce the topic and provide some background information. The body should contain the main argument and evidence to support it. Finally, the conclusion should summarize your argument and provide a call to action.
+STUDENT: What kind of evidence should I use?
+COACH: You can use facts, statistics, and quotes from experts in the field. You can also use personal experiences or stories that illustrate your point. Whatever you choose, make sure it is relevant to your argument and supports it.
+STUDENT: How do I make my argument convincing?
+COACH: Make sure to clearly state your argument and provide evidence to back it up. Be sure to address any opposing arguments and refute them. Also, be sure to use strong language and persuasive techniques such as rhetorical questions and analogies.

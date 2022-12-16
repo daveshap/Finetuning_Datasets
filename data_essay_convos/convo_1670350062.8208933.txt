@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I have no idea what to write about.
+COACH: That's okay. Let's start by talking about your background. Tell me a bit about yourself and why you want to attend Duke.
+STUDENT: Sure. I come from a poor family and I'm really interested in attending Duke because of their excellent medical school. I want to become a doctor and I think Duke would be the perfect place for me to achieve that goal.
+COACH: Great! It sounds like you have a clear motivation for wanting to attend Duke. Now, let's talk about how you can get started on your essay. What topics do you think you could focus on?
+STUDENT: Well, I was thinking about writing about my family and how they've been a major influence on my life and my decision to pursue medicine.
+COACH: That's a great idea! You can use your family as an example to illustrate your passion and commitment to becoming a doctor. You can also talk about any challenges you've faced and how you've overcome them. Additionally, you can discuss how attending Duke would help you realize your ambitions.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Let's start by talking about what kind of scholarship you're applying for. What kind of scholarship is it?
+STUDENT: It's a scholarship for students who are interested in pursuing a career in the health care field.
+COACH: That's great! Now, what kind of experiences have you had that make you a good fit for this scholarship?
+STUDENT: Well, I've volunteered at a local hospital and shadowed a doctor for a few weeks. I've also taken several classes related to the field.
+COACH: Those are all excellent experiences! Now, let's talk about how you can use those experiences to create a compelling essay. What do you think are the most important points you need to make in your essay?
+STUDENT: I think I need to explain why I'm passionate about the health care field and why I'm a good fit for the scholarship.
+COACH: That's a great start! Now, let's talk about how you can convey those points in your essay. Have you ever written an essay before?

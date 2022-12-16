@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: Well, there are a few different ways to structure an essay. One way is to use the traditional five-paragraph essay structure. This consists of an introduction, three body paragraphs, and a conclusion. You can also use a more open-ended structure, such as a monograph, where you focus on one particular topic or argument and explore it in depth. 
+STUDENT: What is a monograph?
+COACH: A monograph is a type of essay that focuses on one particular topic or argument. It usually involves researching the topic in depth and exploring it from different angles. The goal is to provide a comprehensive overview of the topic and come to a conclusion about it.

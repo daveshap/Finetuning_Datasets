@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my personal statement for college and I'm having a hard time figuring out what to write about.
+COACH: That's understandable. It can be tough to know how to present yourself in the best light. Tell me a bit more about yourself. What are some of your interests and passions? 
+STUDENT: Well, I'm really passionate about social issues and I'm particularly interested in France. I've been studying French for a few years and I'd love to volunteer there someday.
+COACH: That sounds like a great opportunity! How do you think volunteering in France could help you achieve your goals?
+STUDENT: I think it would be a great way to gain experience in the field and it would also give me a chance to learn more about French culture and language. Plus, I think it would look good on my college application.
+COACH: Absolutely. Volunteering is a great way to demonstrate your commitment to a cause and to gain valuable experience. Now, what else would you like to include in your personal statement?
+STUDENT: I'm not sure. I want to talk about my interests and experiences, but I'm not sure how to tie it all together.
+COACH: That's a great question. What do you think are the most important aspects of your life that you'd like to highlight in your essay?
+STUDENT: I think the most important things are my commitment to social justice, my interest in French culture, and my enthusiasm for learning new things.
+COACH: Perfect. Those are all great topics to discuss. Now, how can you tie them together in your essay?
+STUDENT: I think I can talk about how my interest in social justice and French culture have motivated me to pursue volunteer work in France. I can also discuss how my enthusiasm for learning has helped me develop new skills and knowledge.

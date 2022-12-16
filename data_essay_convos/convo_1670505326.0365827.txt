@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are a great way to help pay for college, but they are not typically part of the college admissions process. However, you can include information about grants in your admissions essay if it is relevant to the prompt. For example, if the prompt is asking about how you have overcome obstacles, you could discuss any grants you have received and how those have helped you. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should be an honest reflection of yourself and your experiences. You should include details about your background, life experiences, and accomplishments that demonstrate why you are a good fit for the college or university. Additionally, you should make sure to answer the prompt and provide evidence to support your claims. 
+STUDENT: How should I structure my essay?
+COACH: A good essay should have a strong introduction, body paragraphs, and conclusion. The introduction should introduce the topic and provide a brief explanation of what you will be discussing in the essay. The body paragraphs should provide evidence and examples to support your claims. Finally, the conclusion should summarize the main points of the essay and provide a takeaway for the reader.

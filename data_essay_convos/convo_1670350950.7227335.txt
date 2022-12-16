@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm a first-generation college student applying to law school, and I'm having trouble figuring out what makes an essay engaging.
+COACH: That's a great question! It can be difficult to know how to make your essay stand out, especially when you're applying to a competitive program like law school. What topics are you considering writing about for your essay?
+STUDENT: I was thinking of writing about social issues that are important to me, like access to education and economic inequality.
+COACH: That's a great topic! To make your essay stand out, focus on the personal connection you have to the issue. You could talk about how you've seen these issues play out in your own life or in your community, and how it has shaped your goals and aspirations. This will help make your essay more engaging and personal.
+STUDENT: That's really helpful, thank you! I also wanted to ask about financing college. How does that work?
+COACH: Financing college can be complicated, but there are a few options you should consider. You may be eligible for grants, scholarships, or loans. Grants and scholarships are essentially free money that you don't have to pay back. Loans are money you borrow and must pay back with interest. You may also be able to work part-time while in school to help cover costs. It's important to research all of your options and understand the terms and conditions before taking out any loans.

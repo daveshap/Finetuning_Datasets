@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble figuring out what to write about in my college essay.
+COACH: That's understandable. Can you tell me a bit more about what you're struggling with?
+STUDENT: Well, I'm passionate about a lot of things, but I'm not sure which one would be the best topic for my essay.
+COACH: That's great! Passion is a great starting point for an essay. Can you tell me a bit more about the things you're passionate about?
+STUDENT: Sure. I'm interested in technology and computer science, and I'm also passionate about social justice and making a difference in the world.
+COACH: Those are great topics! Do you have any particular ideas for how you might want to structure your essay?
+STUDENT: Not really. I'm not sure how to go about it.
+COACH: That's ok. Let's start by discussing why college matters to you. What do you think are the benefits of attending a university like MIT or Harvard?
+STUDENT: I think college is important because it provides opportunities to learn and grow in a way that isn't possible in other settings. It's also a great way to meet people and make connections that will help you in the future. Plus, it's a chance to explore new ideas and find out what you're really passionate about.
+COACH: That's a great perspective. Now, let's talk about how you might structure your essay. Do you have any thoughts on how you could organize your thoughts?
+STUDENT: I think I'd like to focus on my passion for technology and computer science first, and then move on to how college can help me pursue my goals and make a difference in the world.
+COACH: That sounds like a great plan. Let's break it down further. How might you use specific examples to illustrate your points?
+STUDENT: Well, I could talk about my experience working on a coding project in high school and how it sparked my interest in technology. Then I could discuss how attending a school like MIT or Harvard could give me access to more resources and help me develop my skills even further. Finally, I could explain how I plan to use my knowledge and skills to make a positive impact in the world.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the prompt and the requirements of the college. Generally, a college admissions essay should be between 500-700 words. 
+STUDENT: What topics should I avoid writing about?
+COACH: It’s best to avoid topics that may be controversial, such as politics or religion. Additionally, you should avoid topics that may come across as trite or overdone, such as your favorite hobby or a summer vacation. 
+STUDENT: How do I start my essay?
+COACH: You can start by brainstorming ideas and coming up with a topic that you’re passionate about. Once you have a solid topic, you can begin by writing an introduction that will capture the reader’s attention and clearly state your argument. 
+STUDENT: What should the structure of my essay look like?
+COACH: Your essay should have an introduction, body paragraphs, and a conclusion. The introduction should introduce the topic and provide background information. The body paragraphs should provide evidence and examples to support your argument. The conclusion should summarize the main points of your essay and leave the reader with something to think about.

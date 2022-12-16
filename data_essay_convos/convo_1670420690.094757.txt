@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to college and I'm having trouble writing my personal statement.
+COACH: Alright, let's start by talking about what you want to write about in your personal statement. What are some of the topics that interest you?
+STUDENT: Well, I'm really interested in exploring themes of overcoming obstacles, especially when it comes to sexism. I also love traveling, and I'm really passionate about the culture of France.
+COACH: That's great! It sounds like you have a lot of potential topics to write about in your personal statement. Have you thought about how you could use creativity and art to explore those topics?
+STUDENT: Not really, no. That's a great idea!
+COACH: Absolutely! You could use your own experiences with sexism to create a narrative about how you overcame these obstacles. You could also use your love of French culture to explore the nuances of the country and how it has shaped your view of the world. You could even use art to express the emotions you felt during your travels.
+STUDENT: Wow, that's really inspiring. I think I can do something really special with this.
+COACH: Absolutely! Writing a personal statement is all about telling your story in a creative and compelling way. Don't be afraid to take risks and push yourself to come up with something unique. You never know what kind of impact your words could have on someone else.

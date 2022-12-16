@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to MIT and I need help with my admission essay.
+COACH: Great! What kind of help do you need?
+STUDENT: Well, I want to make sure my essay stands out and conveys why I'm a good fit for the school.
+COACH: That's a great goal! Can you tell me more about what makes you a good fit for MIT?
+STUDENT: Well, I'm really passionate about math and science and have been doing research in those fields since high school. I'm also very creative and have explored art and music as hobbies. And I'm Jewish, which I think could be a unique perspective at an engineering school like MIT.
+COACH: It sounds like you have a lot to offer MIT! What have you done to prepare for this essay?
+STUDENT: I've done some research on the school and read some essays from past applicants. I also brainstormed some ideas and wrote down some notes.
+COACH: That's great! Have you thought about how you can use your experiences to demonstrate why you're a good fit for MIT?
+STUDENT: Yes, I think I can use my research experience to show how I'm driven and passionate about learning. I can also talk about how my creativity and art have helped me think outside the box, which is important for an engineering school. And I can discuss how my Jewish background has shaped my values and how that could benefit the school.
+COACH: Excellent! Those are all great points. What do you think might be the biggest challenge for you in writing this essay?
+STUDENT: I think the biggest challenge will be overcoming my fear of rejection. I'm afraid that if I put myself out there, I won't get accepted.

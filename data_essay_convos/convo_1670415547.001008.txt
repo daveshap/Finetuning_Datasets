@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I have no idea what to write about.
+COACH: That's a great question. Let's start by talking about your passions. What topics interest you?
+STUDENT: Well, I'm really passionate about engineering and Islam.
+COACH: Fantastic! Those are two great topics to explore in your essay. Now let's think about how you can tie them together. Have you ever considered how engineering and Islam intersect?
+STUDENT: No, I haven't.
+COACH: That's an interesting topic to explore. You could discuss how the principles of engineering are inspired by Islamic values and how they can be applied to modern-day problems. You could also talk about how engineers can use their skills to help solve issues in Muslim communities.
+STUDENT: Wow, that's a great idea.
+COACH: Yes, it is. Now let's think about how you can structure your essay. Have you ever written an essay before?
+STUDENT: Yes, I have.
+COACH: Great! Let's focus on the introduction first. You could start by introducing the topics of engineering and Islam and explain why they are important to you. Then you could explain how the two subjects intersect and why that is significant. After that, you could provide a thesis statement and outline the points you will make in the essay. Does that sound like a good plan?
+STUDENT: Yes, it does.
+COACH: Perfect! Now let's move on to the body of the essay. You could start by discussing the principles of engineering and how they are inspired by Islamic values. Then you could talk about how engineers can use their skills to help solve issues in Muslim communities. Finally, you could discuss how these solutions can benefit both engineering and Islam. Does that sound like a good plan?
+STUDENT: Yes, it does.
+COACH: Wonderful! Now let's look at the conclusion. You could start by summarizing the points you made in the essay and reiterating why engineering and Islam intersect. Then you could explain how this intersection can benefit both fields and why it is important. Finally, you could end with a call to action, encouraging readers to think more deeply about the connection between engineering and Islam. Does that sound like a good plan?
+STUDENT: Yes, it does.
+COACH: Great! I think you have a solid plan for your essay. Is there anything else I can help you with?

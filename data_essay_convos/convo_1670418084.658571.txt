@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing an admission essay for a college in Germany. I'm not sure what to include or how to structure it.
+COACH: That's understandable. Writing admission essays can be challenging, especially when you're applying to a college in a foreign country. Can you tell me a bit more about why you're applying and what you hope to gain from the experience?
+STUDENT: Sure. I'm interested in studying German language and culture, and I'm hoping to gain a deeper understanding of the country and its people. I also want to learn more about the history of racism in Germany, as well as how it affects the lives of people there today.
+COACH: That sounds like a great goal. It's important to demonstrate your interest in the program and the country in your essay. Have you thought about how you might do that? 
+STUDENT: Well, I was thinking of talking about my skills and achievements, as well as my past experiences with German culture. 
+COACH: That's a great idea. Your essay should focus on the aspects of your background that make you a great candidate for the program. It's also important to explain why the program is important to you and why it would benefit you. 
+STUDENT: Right. I'm just not sure why an admission essay matters.
+COACH: An admission essay is your chance to show the admissions committee who you are and why you're the perfect fit for the program. It's your opportunity to stand out from other applicants and show that you have the skills, knowledge, and passion to succeed in the program. It's also a way for the admissions committee to get to know you better and understand why you're the right person for the program. 
+STUDENT: Okay, I see. So, what should the structure of the essay look like? 
+COACH: A good essay structure should include an introduction, body paragraphs, and a conclusion. In the introduction, you should introduce yourself and explain why you're applying to the program. In the body paragraphs, you should discuss your skills and achievements, as well as any experiences you've had with German culture. Finally, in the conclusion, you should reiterate why you're the best fit for the program and why it would benefit you. 
+STUDENT: Got it. Thanks for your help!

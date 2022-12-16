@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: The best way to pick a topic is to think about what you want to tell the admissions committee. What unique qualities do you have that make you a good fit for law school? What experiences have shaped your interest in law? Once you have identified a few ideas, you should narrow it down to one that you can focus on in your essay.
+STUDENT: What should my essay structure look like?
+COACH: A good structure for your essay would include an introduction, body paragraphs, and a conclusion. In the introduction, you should introduce your topic and explain why it is important to you. In the body paragraphs, you should provide evidence and examples to support your argument. Finally, in the conclusion, you should summarize your points and explain why you are a good fit for law school.

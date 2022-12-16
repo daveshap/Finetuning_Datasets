@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my college admission application essay.
+COACH: Sure, that sounds like a great place to start. Can you tell me a bit more about your essay? What's the topic?
+STUDENT: I'm writing about politics and how it has shaped my views on the world.
+COACH: That's a great topic! Do you have any ideas about what kind of structure you want to use for your essay?
+STUDENT: Not really. I'm not sure what the best approach would be.
+COACH: Well, let's start with the basics. A good college essay typically has an introduction, a body, and a conclusion. The introduction should grab the reader's attention and set the tone for the rest of the essay. It can be a quote, a story, or a thought-provoking question. The body is where you'll make your main points and support them with evidence. This is also where you'll discuss how your experience with politics has shaped your views. The conclusion should wrap up your essay and provide a sense of closure.
+Now, if you're applying to Princeton, you might want to keep in mind that they prefer essays that are more analytical and reflective. You can use the same structure, but focus on delving deeper into your thoughts and feelings.
+Finally, don't forget to proofread your essay and make sure it's free of errors. Good luck!

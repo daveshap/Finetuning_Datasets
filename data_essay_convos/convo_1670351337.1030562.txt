@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply for college and I'm having trouble writing my essay.
+COACH: That's understandable. What is the essay about?
+STUDENT: It's about how growing up in a poor family has shaped my worldview and how I plan to use my education to make a difference in the fight against racism.
+COACH: That's a great topic. Can you tell me more about your background and what you want to achieve with your essay?
+STUDENT: Sure. I grew up in a low-income family and had to struggle with financial issues throughout my childhood. I've seen firsthand the impact of racism on people in my community and I want to use my education to help create a more equitable society.
+COACH: That's admirable. What do you think admissions officers will be looking for when they read your essay?
+STUDENT: I think they'll be looking for evidence of my commitment to making a difference, my understanding of the issues, and my dedication to using my education to tackle these problems.
+COACH: That sounds like a great approach. How can you demonstrate those qualities in your essay?
+STUDENT: I plan to focus on my personal experiences and how they have shaped my views on racism. I also want to highlight my dedication to using my education to create a better future for everyone.
+COACH: Those are great ideas. Now, let's talk about financing your undergrad studies. How do you plan to pay for college?
+STUDENT: I'm hoping to get some financial aid, but I'm also looking into scholarships and grants. I'm also considering taking out student loans if necessary.
+COACH: That's a great approach. Make sure you research all your options thoroughly and don't forget to apply for any scholarships or grants that you may be eligible for.
+Good luck with your essay!

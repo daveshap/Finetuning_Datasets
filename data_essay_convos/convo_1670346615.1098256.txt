@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT and I'm having trouble writing my essay.
+COACH: Alright, no problem. What kind of essay are you writing?
+STUDENT: It's a personal statement about why I want to go to MIT.
+COACH: Got it. What specifically do you want to focus on in your essay?
+STUDENT: Well, I want to talk about my experience with charity work and how it has shaped my views on social issues. I also want to discuss my spiritual beliefs, which are rooted in Buddhism, and how they have impacted my goals and objectives.
+COACH: That's great. Let's start with your charity work. Tell me more about your experience and how it has influenced your views on social issues.
+STUDENT: Sure. I've been volunteering at a local homeless shelter for the past five years, and it's really opened my eyes to the struggles that so many people face. It's inspired me to become more involved in social justice initiatives and to use my voice to advocate for those who can't.
+COACH: That's wonderful. What about your spiritual beliefs? How have they impacted your goals and objectives?
+STUDENT: My Buddhist beliefs have had a profound effect on my outlook and goals. I believe in the power of compassion and kindness, and that these values should be applied to all aspects of life. This has made me more mindful of the choices I make and more aware of the consequences of my actions. It's helped me to set clear goals and objectives and to strive for success while still maintaining a sense of balance and harmony in my life.

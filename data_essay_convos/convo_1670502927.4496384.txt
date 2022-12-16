@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for a few key things in an admissions essay. They want to see that you have strong writing skills, a clear voice and perspective, and that you can effectively communicate your story and ideas. They also want to make sure that you've done your research on the school and that you understand what makes it unique and why it would be a good fit for you. 
+STUDENT: What should I include in my essay?
+COACH: The best essays provide insight into who you are as a person and how you think. Your essay should include details about your background, interests, goals, and experiences that demonstrate why you’d be a great fit for the school. You should also make sure to address the prompt directly and explain why you’re interested in the school and how it aligns with your goals. 
+STUDENT: How do I make my essay stand out?
+COACH: To make your essay stand out, try to find a unique angle or perspective on the topic. This could be something about your background, interests, or experiences that sets you apart from other applicants. Additionally, make sure to use vivid language and storytelling elements to bring your essay to life. Finally, don’t forget to proofread and edit your essay carefully before submitting it.

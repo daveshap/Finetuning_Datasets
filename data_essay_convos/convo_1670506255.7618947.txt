@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. Before we get started, can you tell me a bit more about yourself and your goals? What kind of program are you applying to and what do you hope to gain from it?
+STUDENT: I'm applying to a business program and I'm hoping to gain the skills I need to become a successful entrepreneur.
+COACH: Great! Now, before you start writing your essay, it's important to think about why you want to attend this particular program. What inspired you to pursue this field, and what do you think makes you uniquely qualified for it? Once you have a clear idea of that, you can start crafting your essay.

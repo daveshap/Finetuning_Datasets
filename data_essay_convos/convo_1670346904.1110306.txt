@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to the University of North Carolina and I need help writing my essay.
+COACH: That's great! Let's start by talking about your goals and personal objectives. What do you hope to accomplish by attending UNC?
+STUDENT: I want to use my education to make a positive impact on the world. I'm passionate about promoting gender equality, especially in the Philippines where sexism is still rampant.
+COACH: That's a wonderful goal! What other interests do you have that could be incorporated into your essay?
+STUDENT: Well, I'm also very interested in exploring the intersection between Christianity and social justice. I want to use my faith to help people who are suffering from injustice and inequality.
+COACH: That's an admirable ambition! How can you use your essay to demonstrate your commitment to these causes?
+STUDENT: I want to use my essay to illustrate how my faith has shaped my views on social justice and how it has motivated me to take action. I also want to show how my experiences in the Philippines have shaped my understanding of gender inequality and how I plan to use my education to fight against it.

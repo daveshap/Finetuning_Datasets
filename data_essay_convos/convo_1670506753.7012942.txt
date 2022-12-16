@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be a complex process, but it doesn't have to be. Let me start by asking you a few questions to get a better understanding of your situation. Do you have any savings or income that you can use to pay for college?
+STUDENT: I have some money saved but not much.
+COACH: Okay, that's a good start. What other resources do you have available to you? Are you eligible for any grants or scholarships?
+STUDENT: Yes, I am eligible for some grants and scholarships.
+COACH: Great! That's a great way to help finance your college education. Now, let's talk about the essay portion of your application. What kind of essay are you writing?
+STUDENT: It's an admissions essay with no prompt.
+COACH: Alright, so you'll need to come up with a topic that showcases your strengths, passions, and interests. What topics do you think you could write about? 
+STUDENT: I'm interested in exploring the intersection between technology and healthcare, and how technology can be used to improve healthcare access and quality.
+COACH: That's a great topic! You can start by doing some research on the topic and then use that information to craft an essay that highlights your unique perspective. When you're writing your essay, make sure to focus on how this topic is relevant to you, and how it has shaped your academic and personal goals.

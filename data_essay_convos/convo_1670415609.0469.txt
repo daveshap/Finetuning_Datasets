@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student applying to Yale and I need help with my admissions essay.
+COACH: Alright, let's start by talking about why you want to attend Yale. What makes it the right choice for you?
+STUDENT: Well, I'm really interested in studying art and creativity. I think Yale has a great program for that and I'd love to take advantage of the resources there. Plus, I'm from a poor family and I think Yale can open up a lot of opportunities for me.
+COACH: That's great. It sounds like you have a good sense of what Yale can offer you. Now, what kind of story do you want to tell in your essay?
+STUDENT: Well, I'm half French and I've always been fascinated by the culture and history of France. I'd like to use my essay to talk about how my experiences growing up in France have shaped my perspective on art and creativity.
+COACH: That's a great idea. It sounds like you have a lot of material to work with. What else can you tell me about how you want to approach your essay?
+STUDENT: I want to make sure I'm able to show the admissions committee that I'm passionate about art and creativity and that I'm ready to take advantage of the resources at Yale. I also want to make sure I'm able to explain why I'm the right person for this program.
+COACH: Sounds like you have a good plan. Let's go ahead and start working on your essay. We can start by brainstorming ideas and then move on to outlining the structure of your essay.

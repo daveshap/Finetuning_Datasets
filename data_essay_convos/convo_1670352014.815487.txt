@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student applying to college and I need help writing my admission essay.
+COACH: Sure, no problem. What kind of topics do you want to focus on?
+STUDENT: I'm interested in talking about my charity work and my spiritual beliefs.
+COACH: That sounds like a great idea! Can you tell me a bit more about your charity work?
+STUDENT: Sure! I've been involved with a few charities over the years, mostly related to animal welfare and environmental protection.
+COACH: That's wonderful! How did you get involved with these causes?
+STUDENT: Well, I've always had a passion for animals and the environment, so it was natural for me to get involved. I started volunteering with local organizations and eventually got more involved with national and international charities.
+COACH: That's really impressive. What about your spiritual beliefs?
+STUDENT: I practice Buddhism, and it has had a huge impact on my life. It has taught me the importance of compassion and understanding, and has given me a sense of peace and balance.
+COACH: That's great! How can you incorporate these experiences into your essay?
+STUDENT: I think I could talk about how my charity work has shaped my views on social justice and responsibility, and how my spiritual beliefs have helped me develop a greater sense of empathy and understanding. I could also talk about how these experiences have prepared me for success in law school.

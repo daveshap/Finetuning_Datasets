@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question! The best way to determine if an essay is good is to read it over and make sure it has all the components of a great essay. It should have a clear introduction that introduces the topic and grabs the reader's attention, well-developed body paragraphs that support the main idea of the essay, and a conclusion that ties everything together. Additionally, your essay should be free from any errors in grammar, spelling, and punctuation. 
+STUDENT: What should I talk about in my essay?
+COACH: That depends on the type of essay you're writing. For a research paper, you should focus on a specific topic that you can research and analyze. You'll need to provide evidence to back up your claims and arguments. Make sure you include facts, statistics, and quotes from reliable sources. You should also explain why this topic is important and how it relates to the larger context.

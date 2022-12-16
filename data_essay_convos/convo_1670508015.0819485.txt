@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That’s a great question. Can you tell me a bit more about the essay? What type of essay is it?
+STUDENT: It's an admissions essay for college. 
+COACH: Okay, that’s great. What kind of length do you need to reach?
+STUDENT: The essay should be no more than 500 words.
+COACH: Alright, so we need to make sure your essay is within the word limit. Do you have any ideas on how to make your essay shorter? 
+STUDENT: Not really. 
+COACH: That’s okay. Let’s start by taking a look at your essay. Can you tell me what the essay is about? 
+STUDENT: It's about my experience volunteering at a homeless shelter and how it changed my perspective on life. 
+COACH: That’s a great topic. Let’s start by taking a look at the structure of your essay. Are there any parts of your essay that can be condensed or removed? 
+STUDENT: I think I can condense some of the descriptions and remove some of the details that don't add much to the main point. 
+COACH: Perfect. That’s a great start. Another way to make your essay shorter is to focus on the main points and cut out any unnecessary information. Do you think there’s anything you can eliminate from your essay? 
+STUDENT: Yeah, I can probably cut out some of the background information and focus more on the main points. 
+COACH: Great! That should help you reach your word limit. Are there any other areas you think you can trim down in order to make your essay shorter? 
+STUDENT: I think I can shorten some of my sentences and use fewer words to get my point across. 
+COACH: That’s a great idea. You can also try to use more active verbs and avoid using too many adjectives or adverbs. This will help you express your ideas more concisely.

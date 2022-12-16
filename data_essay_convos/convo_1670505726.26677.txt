@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Rejection is a part of the process. It’s important to remember that your essay is just one part of your application and there are many factors that go into admissions decisions. Focus on crafting an essay that reflects who you are and what you have to offer. That way, no matter the outcome, you can be proud of the effort you put in. 
+STUDENT: What should I include in my essay?
+COACH: Start by writing down your accomplishments, experiences, and goals. Think about how they all relate to why you want to pursue a career in medicine. You should also consider how your personal story can help illustrate why you are a good fit for the medical school you are applying to. Additionally, make sure to include any unique qualities or skills you possess that will make you stand out as a medical student.

@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions is a process of evaluating prospective students to determine if they are a good fit for the college or university. The admissions process usually includes an online application, submission of transcripts, standardized test scores, letters of recommendation, and an essay. 
+STUDENT: What should I include in my essay?
+COACH: The essay is your chance to tell the admissions committee about yourself and why you would be a great addition to their school. You should include details about your background, experiences, and interests that have shaped you into the person you are today. Also, it's important to demonstrate how you will contribute to the college community and why you are a unique and valuable candidate. 
+STUDENT: How long should my essay be?
+COACH: The length of your essay will depend on the requirements of the college, but typically it should be between 500-700 words. 
+STUDENT: What should the structure of my essay look like?
+COACH: A college admissions essay should have an introduction, body paragraphs, and a conclusion. The introduction should provide a brief overview of who you are and why you are applying to the college. The body paragraphs should provide more details about your background, experiences, and interests, and how they have shaped you into the person you are today. The conclusion should summarize your essay and explain why you would be a great addition to the college. 
+STUDENT: What tips do you have for writing a strong essay?
+COACH: Here are some tips for writing a strong essay:
+1. Start early. Give yourself plenty of time to brainstorm, write, and edit your essay.
+2. Be genuine. Let your personality shine through in your essay.
+3. Be specific. Use concrete examples to illustrate your points.
+4. Show, don't tell. Make sure to use vivid language to paint a picture for the reader.
+5. Proofread. Make sure to check for any typos or grammar mistakes.

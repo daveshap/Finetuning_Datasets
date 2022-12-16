@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Well, admissions officers look for a few key elements in personal statements. They want to see that you have a clear goal and that you have the skills and experience to reach it. They also want to see how you can contribute to their program and what unique qualities you bring to the table. Finally, they want to know why you chose their school in particular.
+STUDENT: Okay, I think I understand. What should I focus on when writing my essay?
+COACH: You should start by brainstorming topics that demonstrate your qualifications and make you stand out from other applicants. Think about experiences you’ve had that have shaped who you are today. Consider your academic background, extracurricular activities, and any volunteer work you’ve done. You should also highlight any awards or honors you’ve received.
+STUDENT: Okay, I have a few ideas. How should I structure my essay?
+COACH: A good structure for your essay should include an introduction, body paragraphs, and a conclusion. In the introduction, you should briefly introduce yourself and explain why you’re applying to the program. The body paragraphs should focus on specific topics that demonstrate your qualifications and make you stand out. Finally, the conclusion should summarize your main points and explain why you’re the best fit for the program.

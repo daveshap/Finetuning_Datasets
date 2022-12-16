@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started. I have no idea what to write about.
+COACH: That's totally normal! Let's start by talking about your background and experiences. What kind of family do you come from?
+STUDENT: I come from a single-parent home.
+COACH: OK, that's great. What kind of values did you learn growing up in a single-parent home?
+STUDENT: Well, I think I learned to be independent and self-reliant.
+COACH: That's an excellent quality for any college applicant. Now, what kind of essay are you writing? Is it for a scholarship, admissions to a college, or something else?
+STUDENT: It's for Harvard admissions.
+COACH: Ah, Harvard! That's a great school. What kind of essay do you need to write?
+STUDENT: I need to write a personal statement.
+COACH: Alright, a personal statement. What do you think makes an essay engaging for admissions officers?
+STUDENT: I think an essay should be honest and show the writer's personality. It should also be well-written and demonstrate the writer's knowledge and understanding of the topic.
+COACH: Those are all great points. What do you think admissions officers are looking for when they read an essay?
+STUDENT: I think they're looking for a student who is passionate about their chosen field of study, has a clear and focused goal, and can articulate their thoughts and ideas in a compelling way. 
+COACH: That's a great answer. Now, let's talk about your essay. What topics do you want to cover in your essay?
+STUDENT: I want to talk about my experience growing up in a single-parent home and how it has shaped my ambition and resilience. I also want to talk about my academic achievements and why I'm a good fit for Harvard.

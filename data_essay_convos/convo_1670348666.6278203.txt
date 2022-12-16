@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm interested in writing my personal statement for Duke University and I'm not sure where to start.
+COACH: That's great! Let's start with the basics. What kind of volunteer work have you been involved in?
+STUDENT: Well, I've volunteered at a local animal shelter for the last two years.
+COACH: Fantastic! It sounds like you have a passion for helping animals. How has that experience impacted you?
+STUDENT: It's made me realize how important it is to give back to the community. I think it's really rewarding to know that I'm making a difference in the lives of animals.
+COACH: That's great! Now let's think about how you can incorporate this experience into your essay. What do you think would be an effective hook to draw readers in?
+STUDENT: Hmm...I think I could talk about the moment I realized how much of an impact I was making at the animal shelter.
+COACH: That sounds like a great hook! Now let's think about the middle of your essay. What kind of stories, experiences, or anecdotes could you include to illustrate your passion for volunteering?
+STUDENT: I could talk about how I worked with the veterinary staff to care for the animals and how I was able to help them find homes.
+COACH: That's perfect! Now let's think about the conclusion. What kind of message do you want to leave readers with?
+STUDENT: I want to leave them with a sense of hope and the feeling that everyone can make a difference in the world.

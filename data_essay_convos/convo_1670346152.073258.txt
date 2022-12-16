@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I need help with my essay.
+COACH: Great! Can you tell me a bit more about yourself? Where are you from and what do you study?
+STUDENT: I'm from the Philippines and I'm studying engineering. I come from a poor family and I'm also a Christian.
+COACH: Okay, so you're an engineer from a poor family in the Philippines who is also a Christian. That's a great starting point for your essay. What would you like to focus on in your essay?
+STUDENT: I'd like to talk about how my faith has shaped my outlook on life and how it has helped me to persevere despite my difficult circumstances.
+COACH: That sounds like a great topic for your essay! Can you tell me more about how your faith has impacted your life?
+STUDENT: Well, my faith has been a source of strength and comfort for me throughout my life. It has given me the courage to keep going even when times were tough. It has also taught me to be compassionate and understanding towards others.
+COACH: That's really inspiring. How did you learn about your faith?
+STUDENT: My parents taught me about Christianity from a young age and I've grown up attending church services and reading the Bible.
+COACH: That's great. So now that you have this strong foundation in your faith, how can you use it to help you in your studies and your future career?
+STUDENT: I believe that my faith has given me a sense of purpose and direction in life. It has taught me to be hardworking and dedicated to whatever I do, and to always strive for excellence in everything I do. This has been especially helpful in my studies, as I'm motivated to do my best and to never give up.

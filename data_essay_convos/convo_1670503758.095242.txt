@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: Great question! The best way to get started is to brainstorm ideas and topics that you want to write about. Think about experiences you've had, places you've visited, or people who have impacted your life. Once you have a few ideas, try to narrow it down to one topic that you can focus on for your essay. 
+STUDENT: How do I make sure my essay stands out?
+COACH: One way to make sure your essay stands out is to be as specific and detailed as possible. You want to make sure that you are providing vivid descriptions and illustrating your points with examples. Also, try to give your essay a unique angle or perspective that makes it stand out from other essays. Finally, make sure that you are telling a story that is reflective of your own personal experiences and values. 
+STUDENT: What should my essay structure look like?
+COACH: Your essay should have an introduction, body paragraphs, and a conclusion. The introduction should introduce the topic and provide some context. The body paragraphs should each have a main point or argument and evidence to support it. Finally, the conclusion should summarize the main points and provide a call to action or reflection. Make sure that you are connecting the paragraphs together with transitions to create a cohesive essay.

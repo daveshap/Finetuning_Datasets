@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a college admission essay and I'm not sure what to write about.
+DUKE: That's a great question! What kind of college are you applying to? 
+STUDENT: I'm applying to Duke University and UCLA.
+COACH: Okay, great. Have you traveled to either of these universities or visited them in person?
+STUDENT: No, I haven't had the chance to visit either university yet.
+COACH: That's understandable. It can be difficult to get a feel for a university without visiting it in person. Can you tell me a bit more about your interests? Do you have any particular areas of study that you're passionate about?
+STUDENT: Yes, I'm interested in studying medicine and I've been researching medical schools in Europe.
+COACH: That's great! What has drawn you to medical school in Europe?
+STUDENT: I'm really interested in the different approaches to healthcare in Europe and I think the experience would be invaluable.
+COACH: That's a great point. In your essay, you could focus on why you are interested in studying medicine and how the experience of studying in Europe could benefit you. You could also discuss how your experiences in Europe would shape your approach to medicine and how you would use those experiences to contribute to the medical field.

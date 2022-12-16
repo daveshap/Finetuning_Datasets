@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. The first step is to do some research and figure out what kind of job you're interested in. What kind of job are you looking for?
+STUDENT: I'm looking for a job in the tech industry.
+COACH: Great, that's a great place to start. Now, let's talk about how to make your dissertation stand out from the rest. What kind of topics are you interested in exploring?
+STUDENT: I'm interested in exploring the impact of technology on society.
+COACH: That's a great topic for a dissertation! Let's start by brainstorming some ideas for your dissertation. What kind of research questions do you have about this topic?

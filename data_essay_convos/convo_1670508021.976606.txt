@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question. Let's start by talking about what you've written so far. What is the prompt for your essay?
+STUDENT: The prompt is to discuss an event or experience that has had a significant impact on my life.
+COACH: Okay, so tell me a bit more about the essay. What have you written so far?
+STUDENT: I wrote about my experience of attending a summer camp when I was a teenager and how it changed my outlook on life and gave me a new perspective.
+COACH: That sounds like a great topic. Now, let's talk about how to make it shorter. What parts of your essay can you trim down? Are there any details or descriptions that are not essential to the main point of your essay? 
+STUDENT: Yeah, I think I can cut some of the descriptions of the camp and the activities that we did.
+COACH: That's a great idea. You could also look for places where you can use fewer words to express the same idea. For example, instead of writing "I felt a sense of joy and excitement", you could just write "I felt joy". That will help you save some words.

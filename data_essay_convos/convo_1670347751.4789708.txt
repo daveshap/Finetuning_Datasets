@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm trying to write my personal statement. I'm not sure what to write about.
+COACH: Okay, let's start with getting to know you a bit. What are some of your interests and passions?
+STUDENT: Well, I'm an undergrad student and I'm really interested in politics and religion. I'm a Christian and I'm also interested in the history of Vietnam, since I have family who are originally from there.
+COACH: That's great! It sounds like you have a lot of potential topics to explore in your personal statement. What do you think are the most important aspects of your life that you want to highlight in your essay?
+STUDENT: I guess I want to emphasize how my faith and my family background have shaped my worldview and my aspirations.
+COACH: That's a great starting point! If you focus on those two topics, you can use your essay to show how your Christian values have guided your life choices and how your experience with the history of Vietnam has impacted your understanding of the world. You can even draw on specific examples from your own life to illustrate your points.

@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. The best way to choose a topic is to start by brainstorming ideas that interest you and that you have some familiarity with. Once you have a list of potential topics, you can narrow them down by considering factors like time, resources, and the purpose of your essay. After that, you can begin researching the topic and developing your argument.

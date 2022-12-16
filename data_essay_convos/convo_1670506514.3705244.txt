@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers typically look for essays that demonstrate a student’s ability to think critically, express themselves clearly, and share meaningful experiences. They also consider how the essay is structured, the quality of the writing, and if it is persuasive.
+STUDENT: How do I make sure my essay is persuasive?
+COACH: To make your essay persuasive, you need to focus on making a strong argument. Start by stating your opinion and then back it up with evidence. Make sure to explain why your argument is valid and provide examples to support it. Additionally, be sure to address any potential counterarguments and explain why they are not valid. Finally, end your essay with a strong conclusion that summarizes your argument and leaves the reader with something to think about.

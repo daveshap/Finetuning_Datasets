@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing an essay about science in China and Thailand.
+COACH: Great, what kind of essay is it? Is it for an undergraduate course?
+STUDENT: Yes, it's for a college course.
+COACH: Alright, so what kind of information do you need help with? Are you having trouble with the structure of the essay or with the research?
+STUDENT: Well, I'm having trouble with the structure. I'm not sure how to organize the essay and what parts I should include.
+COACH: Sure, let's start with the basics. Every essay should have an introduction, body, and conclusion. The introduction should hook the reader and provide some context for the essay. The body should contain the main arguments and evidence that support your thesis. Finally, the conclusion should summarize your main points and provide a clear closing. Do you understand how to structure the essay now?
+STUDENT: Yes, I think so.
+COACH: Great! Now, let's talk about the research. What kind of research have you done so far?
+STUDENT: I've done some online research and read some articles about science in China and Thailand.
+COACH: That's a great start. Have you looked into any primary sources? Interviewing experts in the field or visiting local libraries can provide you with valuable information.
+STUDENT: I hadn't thought of that. That sounds like a good idea.
+COACH: Absolutely! Primary sources can give you deeper insight into the topic and provide you with more detailed information. Once you have gathered the necessary research, you can begin to organize it into your essay. 
+STUDENT: Okay, that makes sense. Thanks for the help!

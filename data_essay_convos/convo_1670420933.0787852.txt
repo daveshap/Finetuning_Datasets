@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for college admissions and I'm having trouble getting started.
+COACH: That's understandable. Can you tell me a bit more about the essay? What kind of topic are you thinking of writing about?
+STUDENT: Well, I was thinking of writing about politics in Europe, since I'm interested in that subject.
+COACH: That's great. Do you have any particular angle or point of view you want to focus on?
+STUDENT: Not really, I just want to talk about the current state of politics in Europe.
+COACH: Alright, let's start there. What do you think are the most important issues facing Europe in terms of politics?
+STUDENT: I think one of the biggest issues is the refugee crisis. There's a lot of tension between countries about how to handle the influx of refugees.
+COACH: That's a great starting point. How can you use this topic to make your essay stand out?
+STUDENT: I'm not sure. I feel like I'm not interesting as a person, so I'm not sure how I can make my essay stand out.
+COACH: That's okay. You don't need to be interesting as a person to make your essay stand out. What you can do is provide a unique perspective on the refugee crisis that will make your essay stand out. For example, you could research the different policies that different European countries have adopted in response to the crisis and compare them. This would give your essay an interesting angle that would make it stand out from other essays on the same topic.
+STUDENT: That sounds great! I'll definitely look into that. But I still have one more question: what do admissions officers look for in an essay?
+COACH: Admissions officers look for essays that show a student's thoughtfulness and critical thinking skills. They want to see that you can take a complex issue and break it down into manageable pieces, analyze it, and then draw meaningful conclusions. They also look for essays that demonstrate your ability to communicate effectively and express yourself in a clear and concise manner. Finally, they want to see that you have a genuine interest in the topic and can bring something unique and valuable to the conversation.

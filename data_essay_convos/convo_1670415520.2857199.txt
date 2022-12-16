@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble figuring out what to write about in my essay.
+COACH: That's a great question! Let's start by talking about the college admission process. How familiar are you with how it works?
+STUDENT: Not very. I know I need to submit an essay, but I don't really understand what I should be writing about.
+COACH: That's understandable. The college admissions process can be overwhelming. Generally, you'll want to focus on your experiences and accomplishments that make you stand out from other applicants. What have you done that you're proud of or that has been meaningful to you?
+STUDENT: Well, I grew up in a poor family in France, so I had to work hard to get good grades and make sure I could get into a top university.
+COACH: That sounds like a great topic for your essay! You could talk about the challenges you faced growing up in a poverty-stricken environment, and how you overcame them to get to where you are today. You could also discuss how your experiences in France have shaped your worldview and how you want to use your education to make a difference in the world. 
+STUDENT: That's a great idea! I never thought of it that way.
+COACH: Great! Now that you have a general idea of what to write about, let's focus on specific details. What do you think sets you apart from other applicants?
+STUDENT: I think my determination and resilience are what sets me apart. I've had to overcome a lot of obstacles to get where I am today, and I'm proud of myself for not giving up.
+COACH: That's an excellent point! You could focus on how your determination has helped you succeed in the face of adversity. You could also discuss how your experiences have made you a more compassionate and understanding person. These qualities will be attractive to universities like Harvard, which value diversity and inclusion.

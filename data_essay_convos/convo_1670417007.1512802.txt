@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to apply to college and I'm not sure where to start.
+COACH: That's a great question! Let's start by understanding what your goals are. What do you hope to get out of a college education?
+STUDENT: Well, I want to get a good job after graduation and I think that having a degree from a prestigious university like Princeton would really help me with that.
+COACH: Absolutely! A college degree from a top university can open a lot of doors. Now, let's talk about the personal statement. Why don't you tell me a bit about yourself and what you want to write about in your essay?
+STUDENT: I'm not sure what to write about. I feel like I have no idea what to say.
+COACH: That's ok! Everyone feels a bit overwhelmed when it comes to writing their personal statement. Let's start by talking about some of the things that make you unique. What are some of your passions or interests that you could talk about in your essay?
+STUDENT: I'm really passionate about music and I've been playing the piano for years.
+COACH: That's great! You could use your passion for music as a way to talk about your dedication and perseverance. You could also use it to illustrate how you approach challenges and how you develop and grow. It could be a great way to show the admissions committee who you are and why you would be a great addition to their school.

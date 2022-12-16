@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC for college and I'm having trouble writing my essay. 
+COACH: Alright, let's start by talking about why college matters to you. Can you tell me a bit about your background and what has motivated you to pursue higher education?
+STUDENT: Well, I'm from a single parent home and I've seen how hard my mom works to make ends meet. I want to go to college so that I can use my education to help people in similar situations, and to make a difference in the world.
+COACH: That's great. It sounds like you have a strong sense of purpose and a desire to make the world a better place. What kind of social issues are you most passionate about?
+STUDENT: I'm really interested in poverty and homelessness. I think it's unacceptable that so many people in our society are living in poverty and don't have access to basic necessities. I want to do something to help.
+COACH: That's admirable. Have you done any charity work or volunteer work related to these issues?
+STUDENT: Yes, I've volunteered at a local homeless shelter and I've helped organize fundraisers for various causes. I've also done some research on poverty and homelessness and presented my findings at a few conferences.
+COACH: That's great! It sounds like you have a lot of experience and knowledge related to social issues. So, how would you apply this knowledge to your college experience and what would you hope to get out of it?
+STUDENT: I want to use my college experience to gain a deeper understanding of poverty and homelessness, and to learn how to create sustainable solutions. I also want to be able to use my education to advocate for social justice and to help those in need. Ultimately, I want to use my college experience to become a better leader and to make a positive impact on the world.

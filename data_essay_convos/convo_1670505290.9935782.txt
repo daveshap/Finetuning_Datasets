@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are typically awarded to individuals or organizations who demonstrate financial need and have a strong plan for how they will use the funds. To apply for a grant, you must write an essay that outlines your project, explains why you need the funds, and how you plan to use them.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction that provides a brief overview of your project, followed by a body paragraph that goes into more detail about the project. You should also include a section that outlines your financial need and why you believe you are qualified to receive the grant. Finally, you should include a conclusion that summarizes your main points and expresses your gratitude for the opportunity to apply for the grant.

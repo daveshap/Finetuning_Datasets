@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for Princeton and I have no idea what to write about.
+COACH: That's okay, let's start with some questions to help you narrow down your topic. What are your passions or interests?
+STUDENT: Well, I'm really interested in science and I'm passionate about charity work.
+COACH: That's great! Have you ever thought about writing about the intersection of science and charity work? For example, how scientific research can be used to inform and improve charitable initiatives?
+STUDENT: Yeah, that's a really interesting idea.
+COACH: Great! You could also explore the concept of neurodiversity in relation to science and charity work. How do people with different neurological backgrounds interact with science and charity work? What challenges do they face?
+STUDENT: That's a really thought-provoking topic.
+COACH: Absolutely! You could also look at the impact of scientific advancements on charity work. How have advances in technology and medicine impacted the way charities operate?
+STUDENT: That's a great idea. I think I might be able to use that as the focus of my essay.
+COACH: Wonderful! Now that you have a better understanding of the topic, it's time to start brainstorming and outlining your essay. What do you think would be the best approach to take? 
+STUDENT: I think I'll start by researching the various ways science and charity work intersect and then use that information to explore the impact of scientific advancements on charity work. 
+COACH: That sounds like a great plan. Are there any specific sources you're planning on using for your research?
+STUDENT: Yes, I'm planning on using books, journal articles, and interviews with experts in the field.

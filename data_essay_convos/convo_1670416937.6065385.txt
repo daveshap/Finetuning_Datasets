@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for a medical school application and I'm having trouble getting started.
+COACH: Great, let's start with the basics. What is the topic of your essay?
+STUDENT: I want to focus on how my experiences with creativity and art have shaped me into the person I am today.
+COACH: That sounds like a great topic! Can you tell me more about your experiences with creativity and art?
+STUDENT: Sure. I grew up in a poor family and was a refugee from my home country. Growing up, I didn't have much access to resources or materials to create art, but I was always drawn to it. I found ways to express myself through drawing and painting, and it really helped me cope with the difficult situation I was in.
+COACH: That's amazing! It sounds like creativity and art have been a huge part of your life. What kind of impact do you think it has had on you?
+STUDENT: Well, it has given me a sense of purpose and direction. It has also allowed me to express my feelings and thoughts in ways that I couldn't with words. It has also helped me to appreciate the beauty in the world, even in the darkest of times. Most importantly, it has allowed me to see the world from different perspectives and to think outside the box.
+COACH: That's fantastic! It sounds like creativity and art have been a real source of strength for you. How do you think these experiences will help you in medical school and beyond?
+STUDENT: I think that my experiences with creativity and art have given me the ability to think critically and solve problems in unique ways. I believe that this will be an invaluable asset in medical school, as I will need to be able to think on my feet and come up with creative solutions to complex problems. Additionally, my experiences with art have taught me to appreciate the beauty in the world, which I think will help me to be a compassionate and empathetic doctor. Finally, my travels have given me insight into different cultures, which I think will help me to be a more understanding and open-minded doctor.

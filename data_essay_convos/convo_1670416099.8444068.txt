@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my college application and I'm having trouble figuring out what to write about.
+COACH: What kind of topics are you considering?
+STUDENT: Well, I'm interested in social issues and politics, but I'm also passionate about travel and exploring new places.
+COACH: That sounds like a great combination! Have you considered writing about how traveling has shaped your view of the world and how it has influenced your political beliefs?
+STUDENT: Yes, I think that could be a really interesting topic to explore.
+COACH: Great! What about your experience with Harvard? Do you have any particular stories or insights that you could share?
+STUDENT: Actually, I applied to Harvard last year and was rejected. It was really tough to deal with, but I learned a lot from the experience.
+COACH: That sounds like a great opportunity to discuss how you overcame that obstacle and how it has shaped your outlook on life. You can use that as a starting point to discuss your values and how they have been impacted by your experiences.
+STUDENT: That's a great idea. Thank you!

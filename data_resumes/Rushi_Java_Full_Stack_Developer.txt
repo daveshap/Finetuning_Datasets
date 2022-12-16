@@ -1,0 +1,326 @@
+Rushi Bhatt
+
+Contact- +1 (732) 659-0074
+
+Email- rushi.barot1240@gmail.com
+
+Java Full Stack Developer
+
+PROFESSIONAL SUMMARY
+
+-   Around 6+ years of extensive professional experience as a Java Full
+    Stack Developer with expertise in Web- Designing, User Interface
+    development, integrating, implementing of highly transactional and
+    scalable web applications using web technologies like Angular, Node
+    JS, React JS, HTML, CSS, Ajax.
+
+-   Excellent knowledge of all the phases of Software Development Life
+    Cycle (Requirements gathering, analysis, design, development,
+    testing and implementation) and SDLC methodologies such as
+    Agile/scrum, Waterfall model, Test Driven Development (TDD) and
+    Iterative Development.
+
+-   Extensive experience in designing professional UI web applications
+    using front-end technologies like HTML5, DHTML, CSS3, JavaScript,
+    XML, jQuery, AJAX, JSON, Angular/2/4/6/8/9, Node.js.
+
+-   Hands on experience with Java, J2EE, Web services, JSP, Servlets.
+
+-   Expertise in working with various Amazon Web Services (AWS) like
+    Elastic Container Service (ECS) & Elastic Compute Cloud (EC2),
+    Simple Storage Service (S3), Lambda implementation, AWS CLI.
+
+-   Experience in working with Javascript libraries like Angular JS,
+    JQuery, Node JS, Lodash Js, underscore JS, BackboneJS, and ExtJS.
+
+-   Experience in cloud platform technologies such as AWS Web Services,
+    Heroku, OpenShift, Cloud Foundry
+
+-   Hands on experience in developing web application using Spring
+    Framework web module and integration with Struts MVC framework,
+    Microservices.
+
+-   Expertise in client scripting language and server-side scripting
+    languages like JavaScript, jQuery and Angular.js.
+
+-   Experience in applying the latest development approaches including
+    MVC, event-driven applications using AJAX, Object Oriented
+    JavaScript, XML and Responsive Web Design.
+
+-   Extensive experience in various UI widgets using JavaScript
+    libraries (JQuery)
+
+-   Expertise in building strong websites using JQuery, HTML5, DHTML &
+    CSS3 to develop valid code and table-free sties.
+
+-   Hands on experience in AWS infrastructure on various resources IAM,
+    EBS, Security Group and Auto Scaling in Cloud Formation JSON
+    templates and some internet technologies including TCP/IP and HTTP.
+
+TECHNICAL SKILLS:
+
+-   Web development: JavaScript, ES6, Angular, ReactJS, NodeJS, Spring,
+    HTML5, CSS3, Bootstrap, Angular Material, Vue.js
+
+-   Languages/Utilities Java, PL/SQL, XML and UML.
+
+-   JAVA Technologies Core Java, Multithreading, JDBC, JNDI, Java beans,
+    J2EE, Junit, Maven,
+
+-   Mockito, Ant, Log4j.
+
+-   Frame Works Spring 4.x, Spring Boot, Spring Batch Struts 2.0/1.x,
+    JSF ,Spring Data JPA, RX Java.
+
+-   Design Patterns JSTL, Singleton, MVC, Business Delegate, DAO, DTO,
+    Session Façade.
+
+-   Web Services SOAP & REST.
+
+-   Web Technologies Applets, JSP, HTML5/4, CSS3, JavaScript, JSON, AJAX
+    and jQuery, Angular 8, React JS
+
+-   Databases MYSQL, Oracle, SQL server, MongoDB.Middleware Servlets,
+    Java Beans, RMI, EJB, JMS.
+
+-   IDEs and Tools Eclipse, IntelliJ IDEA, Maven, Gradle, UML, Log4j.
+
+-   Version Control Tools Subversion, GitHub.
+
+-   Web/Application Servers Apache Tomcat, IBM WebSphere, JBoss.
+
+-   Methodologies Waterfall, Agile.
+
+-   Operating Systems Windows 7/8/XP, Linux, UNIX.
+
+-   Cloud Technologies AWS Cloud Components S3, EC2, Lambda, Elastic
+    Bean Stalk, ECS, RDS.
+
+WORK EXPERIENCE:
+
+AIG., NYC Nov’2020-Presnt
+
+Full Stack Java Developer
+
+Responsibilities:
+
+-   Worked agile software development with Scrum methodology.
+
+-   knowledge of Angular 8/9 commonly used modules and creating reusable
+    Components, Pipes and Services.
+
+-   Worked in container-based technologies like Docker, Kubernetes and
+    Openshift.
+
+-   Developed web applications running on NodeJS using the Express
+    framework, Vue.js and Backbone.js with Mustache.js for front end
+    MVC/templating.
+
+-   Developed batch processing applications using spring batch deployed
+    on AWS.
+
+-   Worked on AWS Elastic Load Balancing, created EC2 instances, and
+    worked on autoscaling the instances.
+
+-   Used CFT templates for creating AWS stack, S3 buckets, Roles, and
+    Policies.
+
+-   Worked on CHEF scripts for automation and bootstrapping of
+    applications on EC2 instances.
+
+-   Rewrite existing applications and migrated applications and the to
+    the AWS cloud as part of the modernization project.
+
+-   Used Git branching strategy and bitbucket for inspection and version
+    control maintenance.
+
+-   Followed Agile software development practice paired programming,
+    test driven development and scrum status meetings.
+
+-   Used token-based service to authenticate and authorize for native
+    mobile application users and Single Sign On.
+
+-   Worked with OpenShift platform in managing Docker containers and
+    Kubernetes Clusters.
+
+-   Created Directives, Services, Filters using Angular 8 with
+    Typescript.
+
+-   Developed Application to assess JSON and XML from Restful web
+    service from consumer side using JavaScript and Angular
+
+-   Usage of version control repository SVN (Subversion by apache),
+    JIRA/ Quality Center for ticketing, Wiki for documentation, Jenkins
+    for nightly build.
+
+-   The application flow is designed and developed using JDBC, HTML5,
+    CSS3 and JavaScript.
+
+-   Developed the Rest APIs by using the springboot with spring tool
+    suite IDE
+
+-   Responsible for maintaining 'pom.xml' file in Maven which was shared
+    by multiple projects.
+
+-   Used JIRA tool for Issue/bug tracking, monitoring of work assignment
+    in the system.
+
+-   Created Server instances on AWS. Tomcat, Swagger and hawtio are
+    installed and used for deploying Micro-services.
+
+-   Developed RESTful web services to manipulate data in MySQL.
+
+-   Performed configuration, deployment and support of cloud services
+    including Amazon Web Services.
+
+-   Involved in maintaining the user accounts (IAM), RDS, Route 53
+    services in AWS Cloud.
+
+-   I have used the docker to deploy services in non-prod environment
+    (development environments) and Jenkins for the pre-prod management
+    environments.
+
+-   Used SpringBoot with Spring Security for all types of
+    authentication.
+
+-   Application was designed and developed using the Spring framework.
+    Used Spring Dependency Injection to inject required services.
+
+-   Consumed REST based Microservices with Rest template based on
+    RESTful APIs.
+
+Environment: Java/J2EE, HTML5, CSS3, Angular 7/9, Node.js, Responsive
+Web Design, jQuery UI, AJAX, XML, JSON, REST, Eclipse, GIT, Agile,
+Redux, AWS, ES6/ES5, GIT, Jenkins, Tomcat, Github, Log4j, Swagger,
+Postman
+
+Ally Financia, Detroit, Michigan Oct’2018-Oct’2020
+
+Java Developer
+
+Responsibilities:
+
+-   Worked with VUE.JS Forms, Validations, Modules, Components,
+    directives, controllers and HTTP Request.
+
+-   Designed GraphQL to build client applications by providing an
+    intuitive and flexible syntax and system for describing their data
+    requirements and interactions.
+
+-   Gathered and analyzed the requirements and converted them into User
+    Requirement Specifications and Functional Requirement Specifications
+    for the designers and developers to understand them as per their
+    perspective.
+
+-   Participated in Docker and AWS workshops to gain experience with
+    emerging technologies.
+
+-   Used Docker containers for eliminating a source of friction between
+    development and operations.
+
+-   Worked on analyzing Hadoop cluster using different big data analytic
+    tools including Flume, Pig, Hive, HBase, Oozie, Zookeeper, Sqoop,
+    Spark and Kafka.
+
+-   Spring Boot Microservices were developed with microservice
+    architecture using REST and Apache Kafka.
+
+-   Developing Web pages by using HTML, CSS, jQuery, JavaScript and
+    working knowledge of CSS grid system.
+
+-   Agile/SCRUM was used as the project management methodology and JIRA
+    & Confluence were the tools used to keep things in check.
+
+-   Performed Restful routing using Node.js which submits my form data
+    to the Mongo DB database.
+
+-   Defined text alignment, size, borders, and many other typographic
+    GraphQL characteristics.
+
+-   Worked in all the modules of the application which involved
+    front-end presentation logic developed using JavaScript.
+
+-   converting Hive/SQL queries into RDD transformations using Apache
+    Spark, Scala and Python.
+
+-   Designed and implemented the User Interface using JavaScript, HTML,
+    CSS, AJAX, JSON and MySQL.
+
+-   Communicated regularly with the clients and discussed the
+    impediments that could come up, and the possible solutions for it.
+
+-   Worked in Cloud computing infrastructure such as Amazon web Services
+    (AWS). Worked on EC2 and S3,
+
+-   Worked on Vue.js events distribution and parent chain for
+    parent-child component communication.
+
+-   Node JS and used a full complement of Angular JS, Node. js, and
+    Mongo DB to store and present assessments.
+
+-   Received appreciation from scrum master for being a good team player
+    and demonstrating commendable communication skills.
+
+Environment: Java, J2EE, Struts, Hibernate, Spring, JSP, Servlets, JMS,
+XML, SOAP, JDBC, JavaScript, jQuery, Ajax, HTML5, CSS3, JUnit, WebSphere
+Application Server, Oracle, MySQL, Scrum
+
+M&T Bank, Buffalo, New York Feb’2015-Aug’2018
+
+Jr. Web Developer
+
+Responsibilities:
+
+-   Implementing project using Agile SCRUM methodology, involved in
+    daily stand-up meetings and sprint showcase, and sprint
+    retrospective.
+
+-   Responsible for creating efficient design and developing User
+    Interaction screens using HTML, CSS3, Bootstrap, JavaScript, Angular
+    6 and Node JS.
+
+-   Enhanced application performance by Angular 6 Component based
+    development in view of future Angular framework transitions.
+
+-   Developed the web tier using JSP, and Spring MVC.
+
+-   Used Spring Framework for the Implementation of the Application.
+
+-   Integrated Spring Dependency Injection (IoC) among different layers
+    of an application.
+
+-   Used Hibernate for object Relational Mapping and used JPA for
+    annotations.
+
+-   Implemented REST web services using Apache-CXF framework.
+
+-   Involved in creating various Data Access Objects (DAO) for addition,
+    modification and deletion of records using various specification
+    files.
+
+-   Implemented interface sub classes using lambda expressions.
+
+-   Worked on developing the user interface for internal users with
+    Spring MVC, Ajax, jQuery, AngularJS and JSON.
+
+-   Implemented design patterns like Singleton, MVC, DAO Pattern and
+    Value Objects/Data Transfer Objects (DTO) to transfer data between
+    different tiers of the application to decrease the network traffic
+    when invoking remote objects.
+
+-   Involved in writing the web service code to interact with other
+    applications.
+
+-   Integration of spring modules with AWS modules in order to consume
+    third party services.
+
+-   Deployed the Application in WebSphere server.
+
+-   Designed and developed persistence layer using spring JDBC template.
+
+Environment: J2EE, Java, Servlets, Struts, EJB, SOAP Webservices, JSP,
+JDBC, Eclipse, WebSphere, Oracle, CSS, HTML, JavaScript, spring, HTML
+
+EDUCATION:
+
+Bachelor in computer Science, IMET University, India 2014

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: Scholarships are a great way to help pay for college, but they aren't typically used for law school admissions. You'll want to focus on writing a strong personal statement.
+STUDENT: What should I include in my personal statement?
+COACH: Your personal statement should be an honest reflection of who you are and why you want to attend law school. Make sure to include your academic accomplishments, any relevant work experience, and what sets you apart from other applicants. Also, don't forget to explain why you want to pursue a career in law.

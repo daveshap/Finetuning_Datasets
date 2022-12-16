@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some advice on my essay. I'm applying to law school and I want to write about how I overcame obstacles in my life.
+COACH: That sounds like a great topic. What kind of obstacles have you faced?
+STUDENT: Well, I'm Muslim and I've faced a lot of racism. Growing up, I was often rejected by people who didn't understand my faith or culture.
+COACH: That must have been really difficult. How did you cope with those experiences?
+STUDENT: I tried to stay positive and focus on the things I could control. I also got involved in volunteer work in my community, which helped me to see that there were people who accepted and appreciated me.
+COACH: It sounds like you found a way to rise above the racism and rejection you faced. What do you think makes you a good candidate for law school?
+STUDENT: I think my experience has given me a unique perspective on the law and how it impacts people's lives. I'm passionate about using the law to fight for justice and equality, and I believe I can make a difference in the legal system.

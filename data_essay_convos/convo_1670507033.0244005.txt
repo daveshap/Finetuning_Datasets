@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: That's a great question. An engaging essay is one that captures the reader's attention and holds it throughout the entire piece. To do this, you need to have a strong thesis statement, a well-structured argument, and interesting examples. You'll also want to make sure your language is vivid and that your writing style is engaging. 
+STUDENT: How do I structure my argument?
+COACH: A good argument is structured in a way that presents a clear and logical flow of ideas. Start by introducing your topic and then presenting your main points in a logical order. Make sure to provide evidence to support each point and explain why it matters. Finally, make sure to provide a conclusion that ties all of your points together.

@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for college admissions and I'm having trouble figuring out what to write about.
+COACH: Sure, let's start by talking about what topics you're interested in. What kind of things have you been involved in that you could write about?
+STUDENT: Well, I've done some charity work and I'm very passionate about Christianity and neurodiversity.
+COACH: That sounds like a great place to start. Let's talk a bit more about each of those topics. What kind of charity work have you done? 
+STUDENT: I've volunteered at a local food bank and I've also done some fundraising for a local shelter.
+COACH: That's wonderful! It sounds like you have a lot of experience with charity work that you could draw on for your essay. Can you tell me a bit more about how your faith influences your life?
+STUDENT: Absolutely. Christianity is a big part of my life and it has shaped the way I think about things and how I interact with others. I try to live my life according to the teachings of Jesus and use those teachings to guide my decisions.
+COACH: That's really inspiring. And how about neurodiversity?
+STUDENT: Neurodiversity is something that I'm very passionate about. I think it's important to recognize the importance of neurodiversity and the unique perspectives it brings to the table. I believe everyone should be given the opportunity to reach their full potential, regardless of their neurological differences.
+COACH: That's a great point. Now, let's talk a bit more about how college admissions works. What do you need to do to apply to college? 
+STUDENT: Generally, you need to fill out an application, submit your transcripts, and write a personal statement. Some colleges also require letters of recommendation and standardized test scores.
+COACH: Alright, so you know what you need to do to apply. Now, let's focus on your personal statement. What do you think are the most important elements to include in your essay?
+STUDENT: I think it's important to talk about my experiences, values, and goals. It's also important to be honest and authentic in my writing, so that the admissions committee can get a sense of who I am and why I want to attend their school.

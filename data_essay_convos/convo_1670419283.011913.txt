@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help writing my admission essay.
+COACH: Great! What are you hoping to convey in your essay?
+STUDENT: Well, I come from a poor family in China and I want to talk about how Buddhism has shaped my life and how it has helped me develop resilience and a strong work ethic.
+COACH: That's a great topic. Can you tell me more about why Buddhism is important to you?
+STUDENT: Yes, Buddhism has been a major part of my life since I was very young. My parents taught me the core values of Buddhism, such as compassion, kindness, and respect for others. These values have helped me stay focused on my goals, even when times were tough.
+COACH: That's wonderful. It sounds like Buddhism has been a major source of strength and guidance in your life. How do you think this will help you in college?
+STUDENT: I think that the values of Buddhism will help me stay motivated and driven in my studies. I also believe that it will help me make ethical decisions, which will be important in college. Additionally, I think that my understanding of Buddhism will help me to better understand and appreciate different cultures and perspectives.

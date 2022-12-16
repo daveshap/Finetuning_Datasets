@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about why college matters to me.
+COACH: That's a great topic. Can you tell me a little bit more about what you have in mind?
+STUDENT: Well, I'm planning on majoring in art and creativity, so I want to talk about how college can help me develop those skills. I also want to mention my volunteer work in France and my plan to join a charity organization at NCSU.
+COACH: That sounds like a really interesting essay. Let's start by talking about your plans to major in art and creativity. What kind of art do you plan on pursuing and how do you think college can help you develop those skills?
+STUDENT: I'm interested in painting and sculpting, and I'm hoping that college will provide me with the resources and guidance I need to hone my craft. I'm also looking forward to taking classes that will teach me new techniques and help me develop my own style.
+COACH: That's great! Have you had any experience with painting or sculpting before?
+STUDENT: Yeah, I've been doing it since I was a kid. I've taken some classes here and there, but I'm really looking forward to taking more in-depth classes and learning from experienced professionals.
+COACH: That's great. Now, let's talk about your volunteer work in France. Can you tell me a bit more about that?
+STUDENT: Sure. I volunteered in a small village in southern France for two months. I helped out with various projects, such as building a playground for the local children and helping out in the local community garden. It was a really rewarding experience, and it gave me a better understanding of the importance of giving back to the community.
+COACH: That sounds like a really meaningful experience. How do you think it will help you in college?
+STUDENT: I think it will help me appreciate the importance of hard work and dedication. It also taught me how to collaborate with people from different backgrounds and cultures, which is a skill I think will be very useful in college.

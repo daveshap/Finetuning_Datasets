@@ -1,0 +1,228 @@
+Induja S
+
+Python Developer | Permanent Resident
+
+Email: indujas2610@gmail.com | Ph #: 732-823-9544
+
+PROFESSIONAL SUMMARY:
+
+-   6 years of experience in Analysis, Design, Development, Management,
+    and Implementation of various standalone and client - server
+    architecture-based enterprise application software.
+
+-   Extensive Experience with Agile with SCRUM, Waterfall Model and
+    Test-driven development methodologies
+
+-   Expertise in development of web-based applications using Python,
+    Django, HTML5, Angular 10, XML, CSS3, DHTML, JSON and JQuery.
+
+-   Expertise in AWS Resources like EC2, S3, EBS, VPC, ELB, AMI, SNS,
+    RDS, IAM, Route 53, Auto scaling, Cloud Formation, Cloud Watch,
+    Security Groups.
+
+-   Experienced in developing Web Services with Python programming
+    language and good knowledge of Web Services with protocols SOAP,
+    REST.
+
+-   Mastering in implementing MVC architecture using Django for
+    web-based applications in OOP concepts like Multi-Threading,
+    Exception Handling and Collections.
+
+-   Experienced in working with various Python IDE's using PyCharm,
+    PyScripter, Spyder, PyStudio and PyDev.
+
+-   Expertise in establishing database connections for Python by
+    configuring packages like MySQL-Python.
+
+-   Proficient in using different version control systems like GIT,
+    GitHub, & SVN.
+
+-   Well versed with automation tools like Jenkins for continuous
+    integration and continuous delivery (CI/CD) and to implement the
+    End-to-End Automation.
+
+-   Experience customizing JIRA projects with various schemas, complex
+    workflows, screen schemes, permission schemes, and notification
+    schemes.
+
+-   Excellent analytical and problem-solving skills with efficient time
+    management and result oriented attitude.
+
+TECHNICAL SKILLS:
+
+  -----------------------------------------------------------------------
+  Programming       Python, SQL
+  Languages         
+  ----------------- -----------------------------------------------------
+  Python Web        Django, Flask
+
+  Web Technologies  Angular 10
+
+  Cloud             AWS, S3, EC2
+  Technologies      
+
+  DATABASES         MySQL, PostgreSQL, SQLite, MS SQL, Oracle and MongoDB
+
+  IDE’s             Visual Studio Code, PyCharm, Eclipse, Sublime text
+
+  Testing           PyTest, Junit, JTest
+  Frameworks        
+
+  Bug Tracking      JIRA, ALM
+  Tools             
+
+  Operating System  Windows, iOS, Android
+  -----------------------------------------------------------------------
+
+PROFESSIONAL EXPERIENCE:
+
+Client: Progressive Insurance, Cleveland, OH Sep 2021 – Till Date
+
+Role: Python Developer
+
+Responsibilities:
+
+-   Performed efficient delivery of code based on principles of
+    Test-Driven Development (TDD) and continuous integration to keep in
+    line with Agile Software Methodology principles.
+
+-   Developed web-based applications using Python, Django, XML, CSS3,
+    HTML5, Angular 10.
+
+-   Involved in writing Python utilities and scripts to automate tasks
+    in AWS using boto3 and AWS SDK.
+
+-   Designed and implemented Continuous Integration and Continuous
+    Deployment frameworks from code to deploy using Jenkins.
+
+-   Used Git version control system for collaborating with teammates and
+    maintaining code versions
+
+-   Wrote and executed various MYSQL database queries from python using
+    Python-MySQL connector and MySQL dB package.
+
+-   Participated in bug thrashing sessions with SQA team to discuss and
+    resolve bugs reported in JIRA.
+
+Environment: Python, Django, Boto3, HTML5, Bootstrap, Angular 10, AWS,
+Rest API, Mongo DB, Jenkins, GIT, JIRA, MYSQL, Agile, Windows.
+
+Client: Valley National Bank, Wayne, NJ Oct 2019 – Aug 2021
+
+Role: Python Developer
+
+Responsibilities:
+
+-   Followed Agile Methodology – Involved in Complete life cycle of
+    Software Development Life Cycle (SDLC).
+
+-   Automated backups using AWS SDK (boto3) to transfer data into S3
+    buckets.
+
+-   Developed GUI using Python and Django for dynamically displaying the
+    test block documentation and other features of python code using a
+    web Django browser.
+
+-   Worked on Python Open stack API's and was involved in writing Shell
+    scripts to automate Web Sphere Admin tasks and application specific
+    syncs / backups and other schedulers.
+
+-   Worked on AJAX framework to transform Datasets and Data tables into
+    HTTP-serializable JSON strings.
+
+-   Wrote and executed various MYSQL database queries from Python using
+    Python-MySQL connector and MySQL dB package.
+
+-   Worked on python modules such as requests, urllib2 for web crawling
+    and even used PyUnit, for Python unit test framework.
+
+-   Created Local Virtual repositories for the project and release
+    builds, repository management in Maven to share snapshots.
+
+-   Embedded automated build system, Jenkins to save built into
+    repository.
+
+-   Organized the configurations and versions of the code using GIT
+    version control system.
+
+-   Logged user stories and acceptance criteria in JIRA for features by
+    evaluating output requirements and formats.
+
+Environment: Python, Django, AWS, Boto3, Shell Script, XML, Angular,
+HTML5, PyUnit, Maven, Jenkins, Jira, MySQL, Agile, GIT, Windows.
+
+Client: Dollar Tree, Chesapeake, VA Feb 2018 – Sep 2019
+
+Role: Python Developer
+
+Responsibilities:
+
+-   Performed efficient delivery of code based on principles of
+    Test-Driven Development (TDD) and continuous integration to keep in
+    line with Agile Software Methodology principles.
+
+-   Developed views and templates with Python and Django view controller
+    and templating language to create a user-friendly Website interface.
+
+-   Involved in Python OOD code for Logging, Monitoring and Debugging
+    for code optimization.
+
+-   Wrote Python routines to log into the websites and fetch data for
+    selected options.
+
+-   Worked on building out, page views, templates, and CSS layouts for
+    the complete site within the Django framework.
+
+-   Designed and implemented several Maven plug-ins for simplifying
+    common configuration management tasks and Used Git as the
+    repository.
+
+-   Used JIRA for bug tracking and issue tracking and added several
+    options to the application to choose particular algorithm for data
+    and address generation.
+
+Environment: Python, Django, HTML5, CSS3, JSON, GIT, JIRA, Agile,
+Windows.
+
+Client: Selective Insurance, Branchville, NJ Aug 2016 – Jan 2018
+
+Role: Python Developer
+
+Responsibilities:
+
+-   Coded model level validation and provide guidance in making long
+    term architectural design decisions and also used Agile Methodology
+    and SCRUM process.
+
+-   Utilized the existing Python and Django modules and rewritten to
+    deliver data in required formats.
+
+-   Built database Model, APIs and Views utilizing Python, to build an
+    interactive web-based solution.
+
+-   Worked on object-oriented programming (OOP) concepts using Python.
+
+-   Designed Django REST web services using Python and Django to get and
+    post data.
+
+-   Used Python and Django creating graphics, XML processing of
+    documents, data exchange and business logic implementation between
+    servers.
+
+-   Handled exceptions and used-test cases by writing python-scripts to
+    refrain website from rendering Error codes.
+
+-   Using Gitlab for continuous integration and deployment and Git
+    version control system for collaborating with teammates and
+    maintaining code versions.
+
+-   Logged user stories and acceptance criteria in JIRA for features by
+    evaluating output requirements and formats
+
+Environment: Python, Django, HTML5, CSS3, Oracle, Git, Jira, Agile,
+Windows.
+
+Education:
+
+Bachelors in Technology from Amrita Institute of Technology India May
+2008

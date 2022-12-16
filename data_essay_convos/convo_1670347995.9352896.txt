@@ -1,0 +1,18 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm working on an essay for a college application and I'm really struggling to make it stand out.
+COACH: That's understandable. What kind of essay are you working on?
+STUDENT: It's for my application to MIT.
+COACH: Okay, great. What kind of essay is it? Is it a personal statement, a research essay, or something else?
+STUDENT: It's a personal statement.
+COACH: Got it. What do you want to focus on in your essay?
+STUDENT: I want to focus on how coming from a poor family has shaped my outlook on life and how that has driven me to pursue my dreams.
+COACH: That sounds like a great topic! What do you think the main points of your essay should be?
+STUDENT: I think I want to focus on how growing up in a poor family has made me more resilient and motivated, how it has helped me understand the importance of education, and how it has inspired me to work hard and pursue my goals.
+COACH: That's a great start! Have you thought about how you're going to structure your essay?
+STUDENT: Not really. I know it needs a hook and a conclusion, but I'm not sure what to put in the middle.
+COACH: Sure, let's tackle those one at a time. For the hook, you want to start with something that will grab the reader's attention. Think about something unique or interesting about your experience that will draw the reader in. For the conclusion, you want to tie everything together and leave the reader with a lasting impression. As for the middle, that's where you'll flesh out your main points. You can use stories, examples, and facts to illustrate your points and make your essay more compelling. Does that help?
+STUDENT: Yes, that helps a lot! Thank you so much.
+COACH: You're welcome! Is there anything else I can help you with?
+STUDENT: Actually, I'm also applying to Duke University and I need to write another essay. Do you have any advice for that one too?
+COACH: Absolutely! The same principles apply - focus on a unique topic and structure your essay with a hook, middle, and conclusion. However, since this essay is for Duke, you might want to focus on something specific to the university. Maybe you could talk about why Duke appeals to you or why you think you'd be a good fit for the school. Does that sound like something you'd be interested in?
+STUDENT: Yes, that sounds great. Thanks for your help!

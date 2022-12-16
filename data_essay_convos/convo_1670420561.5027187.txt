@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing a personal statement for college admissions and I'm having trouble getting started.
+COACH: That's understandable. Where are you from?
+STUDENT: I'm from the Philippines.
+COACH: Ah, great! What about your background do you want to emphasize in your essay?
+STUDENT: Well, I'm an LGBT person and I think that's something I'd like to highlight.
+COACH: That's a great topic to explore. Can you tell me more about why this is important to you?
+STUDENT: Sure. Growing up in the Philippines, I felt like I had to hide my identity and it was very difficult. I want to use my essay to show how I have grown and how I am now more comfortable with who I am.
+COACH: That's a powerful story. What kind of structure do you think would work best for your essay?
+STUDENT: I'm not sure. I feel like I'm kind of a boring person and I don't know what would make my essay stand out.
+COACH: No one is boring! You have a unique perspective and story to share. How about starting with a brief overview of your background and then transitioning into a more detailed exploration of how you've grown and how your identity has shaped your life? That could be a great way to structure your essay.

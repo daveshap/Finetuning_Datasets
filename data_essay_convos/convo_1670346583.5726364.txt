@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my essay. I'm hoping to get into a good university, but I don't know how to make my essay stand out.
+COACH: Sure. Can you tell me a bit more about yourself and what you're hoping to achieve with your essay?
+STUDENT: Well, I'm from a poor family in China and I want to go to university in France so that I can pursue a career in the medical field. I want to use my essay to show the admissions committee that I'm dedicated and capable of succeeding in their program.
+COACH: That's great! It sounds like you have a clear goal and personal objectives. Do you have any ideas on how to present your background, interests, and goals in your essay?
+STUDENT: Not really. I'm not sure how to structure my essay or what kind of information I should include.
+COACH: Let's start by talking about your background. What are some of the unique experiences and challenges you faced growing up in China and the Philippines? How did these experiences shape your goals and aspirations for the future? 
+STUDENT: Growing up, I faced a lot of challenges due to my family's financial situation. I had to work hard to keep up with my studies and to make ends meet. But it also taught me to be resilient and to never give up, no matter how hard things got. It made me realize that I wanted to pursue a career in medicine so that I could help others who were in similar situations as me.

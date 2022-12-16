@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I'm having trouble writing my essay.
+COACH: Alright, let's get started! Can you tell me more about the essay? What are you writing about?
+STUDENT: I want to write about overcoming obstacles and how I was able to succeed despite being rejected from a few schools.
+COACH: That's a great topic! What kind of obstacles have you faced in your life that you can use as examples in your essay?
+STUDENT: Well, I'm originally from Thailand and moved to the Philippines when I was in high school. I had a hard time adjusting to the new culture and language, but eventually I was able to make it work.
+COACH: That's an inspiring story! What did you do to overcome these obstacles and achieve success?
+STUDENT: I worked really hard to learn the language and make friends. I also took extra classes to stay ahead of my peers and get better grades.
+COACH: That's amazing! Can you tell me more about why you're applying to UCLA?
+STUDENT: I want to pursue a graduate degree in my field and I think UCLA would be the perfect place for me to do that.
+COACH: Great! What makes you think UCLA is the right choice for you?
+STUDENT: I've heard great things about the faculty and the resources they provide to students. Plus, I think the location is perfect for me since I'm looking to stay in the area.

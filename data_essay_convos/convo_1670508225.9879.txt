@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are typically awarded to individuals or organizations in order to fund a specific project or program. Typically, grant applications require a proposal outlining the project and its goals, a budget, and other supporting documents. Do you need help with an essay related to grants?
+STUDENT: No, I'm actually writing an admissions essay for college.
+COACH: Alright, can you tell me a bit more about the essay? What's the prompt?
+STUDENT: The prompt is to describe a time when I overcame a challenge.
+COACH: Okay, so it sounds like you need to write a narrative essay. Can you tell me a bit more about the challenge you faced and how you overcame it?

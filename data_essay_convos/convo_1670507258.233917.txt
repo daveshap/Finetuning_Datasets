@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question. Before we get started, can you tell me a bit more about your essay? What kind of essay are you writing and what's the topic?
+STUDENT: I'm writing a thesis essay on the environmental impact of plastic waste.
+COACH: Okay, that sounds like an interesting topic. So, when it comes to writing a thesis essay, the first step is to develop a thesis statement. This statement should be clear and concise and it should explain your position on the topic. Do you have any ideas for what your thesis statement might be?

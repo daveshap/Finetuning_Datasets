@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I'm having trouble with my personal statement.
+COACH: Great! Let's start by talking about why you want to attend Princeton. What draws you to the school?
+STUDENT: Well, I'm really interested in the academic opportunities that Princeton offers. I'm especially excited about the interdisciplinary studies program. I'm also intrigued by their commitment to neurodiversity.
+COACH: That's great! It sounds like you have a lot of interest in the school. Now, what do you think you could bring to the Princeton community if you were accepted?
+STUDENT: I think I could bring a unique perspective to the Princeton community. I was born in Vietnam and immigrated to the US when I was young. I bring the experiences of both cultures to my studies, which I think could be beneficial to other students.
+COACH: That's great! It sounds like you have a lot to offer. Now, what do you think you could gain from attending Princeton?
+STUDENT: I think I could gain a lot from attending Princeton. I'm looking forward to the rigorous academic environment, as well as the chance to learn from some of the brightest minds in the world. I'm also excited about the opportunity to explore new ideas and engage in meaningful conversations with my peers.
+COACH: That's great! It sounds like you have a lot of enthusiasm for the school. Now, what do you think you should write about in your personal statement?
+STUDENT: I think I should focus on how my unique background and experiences will contribute to the Princeton community. I want to show that I'm an engaged and passionate learner who is ready to take on the challenge of a rigorous academic environment. I also want to highlight my commitment to diversity and inclusion, and how I plan to use my knowledge and skills to make a positive impact on the campus.

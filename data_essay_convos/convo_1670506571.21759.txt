@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That’s a great question. What kind of essay are you writing?
+STUDENT: It’s an admissions essay.
+COACH: Great! An admissions essay is an opportunity to show the admissions committee why you’re a good fit for their school. It’s important to make sure your essay is well-written and organized so that it stands out from the crowd. What do you need help with specifically?
+STUDENT: I’m not sure how to start my essay.
+COACH: That’s a common issue. Let’s start by brainstorming some ideas. What do you want to focus on in your essay? 
+STUDENT: I want to talk about my academic achievements and my passion for learning.
+COACH: That’s a great place to start! Now let’s think about how to structure your essay. Do you want to start with an anecdote or jump right into your main points? 
+STUDENT: I think I want to start with an anecdote.
+COACH: Perfect! An anecdote can be a great way to draw the reader in and give them a better understanding of who you are. Let’s think of a story that illustrates your academic achievements and your passion for learning. Once you have a story in mind, we can work on crafting the perfect introduction.

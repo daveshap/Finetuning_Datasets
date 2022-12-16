@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: That's a great question. An engaging essay typically has a strong story or narrative that is interesting to read. It should have a clear structure and flow, and should be written in an engaging, vivid style. It should also be tailored to the particular audience it is intended for, whether it is an admissions board or a scholarship committee. Finally, it should have a clear purpose and message that is communicated effectively.

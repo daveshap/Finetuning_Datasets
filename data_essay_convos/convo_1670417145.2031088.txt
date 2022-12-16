@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to law school, and I need help writing my essay.
+COACH: Alright, let's start with the basics. What are your educational goals?
+STUDENT: I want to go to law school in France, and I want to use my education to help others.
+COACH: That's a great goal! What inspired you to pursue this path?
+STUDENT: I was raised in a Christian family, and I believe that my faith has guided me to pursue a career in law. I want to use my law degree to make a positive difference in the world.
+COACH: That's wonderful. What have been some of the obstacles you've faced in achieving your goal?
+STUDENT: Well, I applied to two different law schools in France, and I got rejected from both. It was really discouraging and made me doubt my abilities.
+COACH: That can be a difficult situation to overcome. How did you manage to stay motivated?
+STUDENT: I had to remind myself that rejection is part of the process. I also had to focus on my long-term goals and personal objectives, and that helped me stay motivated.
+COACH: That's great advice. Do you have any other questions about writing your essay?
+STUDENT: Yes, I'm having trouble coming up with an argument for why I should be accepted into law school.
+COACH: That's a great question. Start by outlining your experiences and qualifications. Focus on the qualities that make you stand out from other applicants. Then, explain how your background and experiences have prepared you to succeed in law school. Finally, make sure to highlight your motivation and dedication to the field.

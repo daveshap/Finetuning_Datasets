@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that demonstrate a student’s ability to think critically, express themselves clearly and concisely, and showcase their personality. They want to see that the student has done their research and can relate to the college or university they are applying to. Essays should be well-structured, with an introduction, body, and conclusion.
+STUDENT: What should I include in my introduction?
+COACH: Your introduction should provide a brief overview of your essay and its main points. It should also introduce the topic and explain why it is important. Make sure to grab the reader’s attention with an interesting hook or anecdote.
+STUDENT: What should I include in the body of my essay?
+COACH: In the body of your essay, you should include evidence to support your argument. This could be personal experiences, facts, or research. Make sure to explain why this evidence is relevant and how it supports your argument.
+STUDENT: How do I make sure my essay is well-structured?
+COACH: To ensure your essay is well-structured, create an outline before you write. This will help you organize your thoughts and ensure that your essay flows logically from one point to the next. Additionally, make sure to use transitions to connect your ideas, and to use consistent formatting throughout your essay.

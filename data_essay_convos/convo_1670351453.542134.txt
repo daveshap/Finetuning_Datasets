@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my personal statement. 
+COACH: Sure, what kind of help do you need?
+STUDENT: Well, I'm applying to college and I'm not sure how to write my personal statement.
+COACH: Okay, that's a great start. Can you tell me a bit more about yourself and your goals?
+STUDENT: Sure. I'm from the Philippines and my goal is to get into a good university in Thailand. 
+COACH: That's an ambitious goal! What do you think makes you a good candidate for this university?
+STUDENT: I'm a hard-working student and I'm passionate about learning. I'm also very dedicated to achieving my goals.
+COACH: Those are excellent qualities. What have you been doing to prepare for college?
+STUDENT: I've been taking classes to improve my language skills, studying for tests, and researching different universities. I'm also trying to figure out how to finance my education.
+COACH: Financing college can be a complex process. There are several options available, including scholarships, grants, loans, and other forms of financial aid. Have you looked into any of these?

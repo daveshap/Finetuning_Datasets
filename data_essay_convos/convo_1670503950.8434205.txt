@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: When writing a persuasive essay, it's important to have an argument that you are making. You should also provide evidence to support your argument and explain why it is important. Additionally, you should include a conclusion that ties everything together. 
+STUDENT: How do I make sure my argument is convincing?
+COACH: To make sure your argument is convincing, you need to make sure it is well-supported with evidence. Make sure your evidence is sourced from reliable sources and that it is relevant to your argument. Additionally, you should use strong language and make sure your argument is clear and concise. Finally, it's important to consider the audience you are writing for and tailor your argument to them.

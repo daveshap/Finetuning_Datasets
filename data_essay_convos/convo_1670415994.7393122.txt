@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I have no idea what to write about.
+COACH: Okay, let's start by talking about what you're passionate about. What topics or interests do you enjoy exploring?
+STUDENT: Well, I'm really interested in Buddhism and travel. I've been to Thailand and it was an amazing experience.
+COACH: That sounds like a great topic to explore in your essay. Can you tell me more about why you're interested in Buddhism and travel?
+STUDENT: Sure. I've always been fascinated by Buddhism and the idea of living a life of mindfulness and balance. I think the way of life encouraged by Buddhism is something that can be applied to our lives today, and I'm curious to explore that further. As for travel, I love learning about different cultures and exploring new places. It's an amazing feeling to see the world from a different perspective.
+COACH: Absolutely. Those are both really interesting topics. What kind of essay are you writing?
+STUDENT: It's a personal statement essay for my application to UNC.
+COACH: Okay, so you want to focus on how Buddhism and travel have influenced your life and how they could help you in college. You could talk about how your experiences in Thailand have shaped your outlook on life, and how the principles of Buddhism have helped you become a more mindful person. You could also discuss how traveling has opened your eyes to different cultures and how that could help you in college.

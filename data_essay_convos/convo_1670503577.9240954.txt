@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's ok! Let's start by brainstorming some ideas. What are some topics that you feel passionate about and could talk about in your essay?
+STUDENT: Well, I'm really interested in medicine and I want to go to medical school.
+COACH: Great! That's a great starting point. Now, let's think of a specific experience or moment that you can use to illustrate why you want to pursue medicine. Do you have any particular experiences that come to mind?
+STUDENT: Yes, I recently volunteered at a hospital and it really opened my eyes to the importance of compassionate care.
+COACH: Perfect! Now let's think of a way to structure your essay. What kind of story do you want to tell?
+STUDENT: I want to talk about how my volunteering experience made me realize that I have a passion for helping people and that I want to pursue a career in medicine.
+COACH: Great! So you could start by introducing your volunteering experience, then talk about what you learned from it, and end with how it inspired you to pursue a career in medicine. Does that sound like a plan?
+STUDENT: Yes, that sounds good.
+COACH: Wonderful! Now let's get into the nitty gritty details. What kind of language do you want to use to make your essay stand out?

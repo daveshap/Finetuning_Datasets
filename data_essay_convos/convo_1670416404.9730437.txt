@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to write an essay about my life and experiences.
+COACH: Okay, that's understandable. Can you tell me a bit more about what you're trying to say in the essay?
+STUDENT: Well, I want to talk about my background and how it has shaped my life. I grew up in China and moved to Thailand when I was a teenager. I've also traveled a lot and experienced different cultures.
+COACH: That sounds like a great topic for your essay. What kind of experiences do you want to focus on?
+STUDENT: I want to talk about how my experiences in different countries have impacted my outlook on life and how I approach challenges. I also want to discuss how my travels have helped me develop a more open-minded attitude and how that has helped me in my studies.
+COACH: That's a great angle for your essay. Can you tell me more about the challenges you've faced in your life and how you've overcome them?
+STUDENT: Sure. I've faced a lot of struggles in school, especially when it comes to math. I've had to work really hard to understand the concepts and I'm proud of the progress I've made. I also had to face a lot of cultural differences when I moved to Thailand and that was a challenge too. But I was able to learn the language and adapt to the new environment.
+COACH: That's great! It sounds like you've been able to persevere through some tough times and come out on top. What kind of advice would you give to other students who are facing similar challenges?
+STUDENT: I think the most important thing is to stay focused and keep working hard. Don't be afraid to ask for help if you need it, and don't give up even when things seem overwhelming. Also, try to stay positive and remember that there are always solutions to any problem.
+COACH: That's great advice. So, now let's talk about your future plans. What are your goals after college?
+STUDENT: I want to go to medical school and become a doctor. I know it's going to be a long and difficult journey, but I'm determined to achieve my goal. I'm also looking into some job opportunities in the healthcare field that I could pursue while I'm still in school.
+COACH: That's great to hear. Do you have any tips for other students who are looking for jobs after college?
+STUDENT: Yes, I think it's important to start looking for job opportunities early on. Networking is also key, so make sure to reach out to people in the industry and build relationships. Finally, don't be afraid to take risks and try something new. You never know what kind of opportunities might arise.

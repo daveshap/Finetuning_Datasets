@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Sure, tell me a bit more about your essay. What kind of research do you need to do?
+STUDENT: I'm trying to write an essay about the challenges of being a first-generation college student.
+COACH: That's an interesting topic. What kind of research do you need to do to support your essay?
+STUDENT: I need to look into the experiences of other first-generation college students and research statistics on college success rates for first-generation students.
+COACH: Okay, great. Let's start with the experiences of other first-generation college students. There are many resources available online that can provide you with information on this topic. You can also reach out to current and former first-generation college students and ask them about their experiences.
+Next, let's look at the statistics. You can find data from various sources, such as government agencies or educational institutions. Try to find statistics that compare the college success rates of first-generation college students to those of non-first-generation college students. This will give you an idea of how first-generation college students fare in comparison to others.
+Finally, you can also look into the programs and resources available to help first-generation college students succeed. This can provide valuable insight into the challenges that first-generation college students face and how they can be addressed.
+I hope this helps you get started with your research. Do you have any other questions or concerns?

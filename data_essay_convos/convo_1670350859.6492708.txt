@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help with my college admissions essay.
+COACH: Great! Could you tell me a bit more about what you need help with?
+STUDENT: Well, I'm applying to a college in China and I'm not sure how the admissions process works there. I'm also struggling to come up with ideas for my essay since I feel like I'm a boring person with no interesting stories to tell.
+COACH: That's understandable. The admissions process in China can be quite different from the one in other countries. But don't worry, I'm sure there are plenty of interesting stories to tell about yourself. Can you think of any goals or personal objectives you have that you could write about? 
+STUDENT: Hmm, I guess I could write about my goal of wanting to become a software engineer.
+COACH: That's great! You can focus your essay on how your interest in software engineering started, why you want to pursue it, and how it will help you achieve your long-term goals. You can also talk about the skills you have that make you a great candidate for the program.

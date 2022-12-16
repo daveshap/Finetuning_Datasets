@@ -1,0 +1,18 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started on my essay.
+COACH: Okay, what kind of essay is it? Is it for a college application, grad school, or something else?
+STUDENT: It's for a college application to Yale.
+COACH: Great! Let's start by breaking down the parts of an essay. What do you know about the hook, introduction, body, and conclusion?
+STUDENT: I know that the hook is supposed to draw the reader in, the introduction should provide background information, the body should include the main argument and evidence, and the conclusion should summarize the essay and provide a lasting impression.
+COACH: That's right! Now, let's talk about how to craft a compelling hook. What kind of story can you tell that will capture the attention of the admissions committee?
+STUDENT: Well, I was thinking about sharing a story about my experience traveling to a foreign country and how it changed my perspective on the world.
+COACH: That's a great idea. You can use that story to illustrate why you are a great fit for Yale. What other experiences have you had that could be used in your essay?
+STUDENT: I've been involved in a lot of extracurricular activities, like volunteer work and music.
+COACH: Perfect! Those experiences can help you show the admissions committee that you are well-rounded and have a variety of interests. Now, let's move on to the essay body. How can you use your experiences to support your argument?
+STUDENT: I can talk about how my volunteer work has helped me develop leadership skills, and how my music has helped me learn to think creatively.
+COACH: That sounds great. Just make sure to provide concrete examples and evidence to back up your claims. Finally, let's talk about the conclusion. How can you leave a lasting impression on the admissions committee?
+STUDENT: I was thinking I could talk about how I plan to use my experiences at Yale to pursue my goals and make a meaningful contribution to the world.
+COACH: That's a great way to end your essay. Good luck with your application!
+Before we finish, is there anything else I can help you with? Do you have any questions about finding a job after college or applying to grad school?
+STUDENT: Yes, actually. I'm wondering what steps I should take now to prepare for my future career.
+COACH: That's a great question. First, I would recommend doing some research on the job market and what employers are looking for in potential employees. You can also look into internships and other opportunities to gain experience in your field. Additionally, if you're considering grad school, make sure to look into the different programs available and start preparing your application materials.

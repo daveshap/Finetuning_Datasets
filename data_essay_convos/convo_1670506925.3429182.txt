@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. Can you tell me more about what you're looking for? What kind of job are you interested in?
+STUDENT: I'm interested in a career in finance.
+COACH: Okay, that's a great goal. Now, let's talk about your essay. What kind of essay are you writing?
+STUDENT: It's a personal statement for my college application.
+COACH: Perfect. Now, let's think about what you want to say in your essay. What do you think makes you a good candidate for this college and for the finance career you're interested in?
+STUDENT: I'm really good with numbers and I have a lot of experience with financial analysis.
+COACH: That's great! Now, let's start thinking about how you can use those experiences to craft your essay. What have you learned from your past experiences that will be useful for your future goals?

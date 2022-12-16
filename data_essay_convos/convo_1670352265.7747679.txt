@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student applying to law school and I need to write an essay about LGBT rights in politics.
+COACH: Great! Let's start by breaking down the different parts of an essay. What kind of hook do you think could be effective for this topic?
+STUDENT: Hmm, maybe something about how LGBT rights are often overlooked in politics even though they are a major issue?
+COACH: That's a great starting point. Now let's think about the body of your essay. What points do you want to make about LGBT rights in politics?
+STUDENT: Well, I want to talk about how LGBT rights have been ignored or trampled on by many governments, as well as how powerful political figures have been outspoken in their support of LGBT rights.
+COACH: That's a great start. Now, what specific examples can you use to illustrate each of those points?
+STUDENT: For example, I could talk about the recent ruling in the US Supreme Court that granted same-sex couples the right to marry, or the laws passed in some countries allowing same-sex marriage. On the other hand, I could talk about the lack of progress in other countries, such as Russia and Uganda, where LGBT rights are still not recognized.
+COACH: Those are excellent examples. Now, what kind of conclusion would you like to make?
+STUDENT: I want to end with a call to action, encouraging people to fight for the rights of the LGBT community and to recognize their contributions to society.

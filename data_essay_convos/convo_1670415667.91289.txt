@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for law school and I'm having trouble figuring out what to write about.
+COACH: Great! Can you tell me a little bit more about yourself? What topics are you most passionate about?
+STUDENT: Well, I'm really interested in social issues, especially those related to Christianity. I'm also very creative and I love art and music.
+COACH: That's awesome! It sounds like you have a lot of potential topics to choose from. Have you considered writing about one of the social issues you care about from a Christian perspective? You could explore how faith and law intersect, or how Christianity can be used as a tool to advocate for social change.
+STUDENT: That's a really good idea. I'm not sure if I'm experienced enough to write about something like that though.
+COACH: Don't worry! You don't need to be an expert in the field to write about a topic. You can draw on your own experiences and research to create a compelling argument. Think about what you already know about the topic and what you would like to learn more about. Use those ideas to craft an essay that is both informative and engaging.

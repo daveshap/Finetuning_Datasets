@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay! Writing an admissions essay is all about finding a story that you can tell that will make you stand out from the rest of the applicants. What are some of the things that make you unique?
+STUDENT: Well, I'm a first-generation college student and I come from a lower-income family.
+COACH: That's great! There's a lot of potential in that story. How has your experience as a first-generation college student and coming from a lower-income family shaped your outlook on life and your goals for the future?
+STUDENT: It's made me realize how important education is and how it can be used to break out of poverty. I want to use my education to help others in similar situations and provide them with the same opportunities I had.
+COACH: That's a powerful story and very admirable. You can focus your essay on how you plan to use your education to help others, and why it's important to you. Try to include personal experiences and anecdotes to make it more engaging. Also, think about how you can use your essay to demonstrate your resilience, determination, and passion for helping others.

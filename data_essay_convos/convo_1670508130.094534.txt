@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: Well, first let's talk about what you want to accomplish with your essay. What do you hope to achieve by writing it?
+STUDENT: I want to show the admissions committee why I'm a good fit for the school.
+COACH: That's a great goal. Now, when you think about how to make your essay engaging, start by considering the audience. Who are you writing for?
+STUDENT: The admissions committee.
+COACH: Right. So, think about what they would be looking for in an essay. What qualities or experiences do you have that would make you stand out from the other applicants?
+STUDENT: I'm passionate about the environment and I volunteer with a local conservation organization.
+COACH: Great! That's a great starting point. Now, think about how you can use this experience to create a story that will draw in your reader. Try to think of a specific moment or event that you can use as the focus of your essay. What comes to mind?
+STUDENT: I remember one time when I was out volunteering, and I saw a family of ducks swimming in a pond that had recently been cleaned up. It made me so happy to know that our efforts were making a difference.
+COACH: That's a wonderful moment. Now, think about how you can use this moment to illustrate why you're a great fit for the school. How does this experience demonstrate your commitment to environmental protection, and how does it relate to your goals for the future?

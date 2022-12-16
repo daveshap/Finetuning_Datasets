@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to figure out what to write about for my college essay. I'm interested in a lot of different things and I'm having trouble narrowing down my focus.
+COACH: Okay, that's understandable. Can you tell me a bit more about the topics you're interested in?
+STUDENT: Sure, I'm really passionate about Buddhism and I'm also very creative. I love art and I'm also interested in science.
+COACH: That's great! It sounds like you have a lot of interests. Have you thought about how you could combine some of these interests in your essay?
+STUDENT: I haven't, but I think it could be a good idea. I'm applying to Duke University, so I'm not sure if they would be interested in something like that.
+COACH: Absolutely! Duke University is known for its interdisciplinary approach, so combining some of your interests could be a great way to stand out in your essay. You could talk about how your creativity and passion for Buddhism have enabled you to explore different aspects of science and art. 
+STUDENT: Okay, that sounds like a good idea. I think it could be really interesting to explore how those different aspects of my life intersect.
+COACH: Definitely! You could use your essay to show how your different interests have shaped you as a person and how they have helped you to become the person you are today. It could be a great way to demonstrate your passion for learning and exploring new ideas.

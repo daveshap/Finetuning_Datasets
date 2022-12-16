@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: Great question! A good essay is structured in a way that tells a story. You want to start by introducing the topic and then move into the body of the essay. The body of the essay should include evidence, examples, and analysis to support your main points. Finally, you want to come to a conclusion that ties everything together. Does that make sense?
+STUDENT: Yes, that makes sense. How do I make sure my essay stands out?
+COACH: To make your essay stand out, you want to make sure that you have a clear and focused thesis statement. This is the main point of your essay and it should be concise and reflect the main idea of your essay. Additionally, you want to make sure your essay is well-written and free of errors. Lastly, you want to make sure that your essay is unique and creative. Try to use personal stories and anecdotes to make your essay more memorable.

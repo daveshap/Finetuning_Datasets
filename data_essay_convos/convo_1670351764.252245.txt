@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble writing my personal statement. I'm not sure what admissions officers are looking for.
+COACH: That's a great question! In general, admissions officers look for essays that demonstrate your academic achievements, leadership skills, and any other qualities that make you stand out from the crowd. They also want to get a sense of who you are as a person, so it's important to include some personal anecdotes or stories that show your character.
+STUDENT: Okay, that makes sense. But how should I structure my essay?
+COACH: A good structure for your essay would be to start with a brief introduction that introduces the topic and gives a brief overview of your background. Then, you can transition into the main body of your essay, which should focus on your accomplishments, skills, and experiences that make you a strong candidate. Finally, you can end with a conclusion that ties everything together and leaves the reader with a lasting impression.
+STUDENT: Got it. What else should I keep in mind when writing my essay?
+COACH: It's important to make sure your essay is well-written and free of errors. Make sure to proofread your essay multiple times and have someone else look it over as well. Additionally, make sure to avoid cliches and generic phrases, and instead focus on telling your story in a unique and compelling way. Finally, make sure your essay is tailored to the school you're applying to, so that it reflects the values and mission of the institution.

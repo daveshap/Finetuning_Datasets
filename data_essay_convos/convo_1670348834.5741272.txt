@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a college senior and I'm trying to figure out what I should do after I graduate.
+STUDENT: I come from a poor family, so money is a big factor in my decision.
+COACH: I understand. What kind of options have you been considering?
+STUDENT: Well, I'm interested in law school but I'm not sure if I can afford it. I'm also interested in Buddhism and I'm wondering if there are any grad school programs related to that.
+COACH: Absolutely! There are a number of law schools that offer financial aid for students from low-income backgrounds. As for Buddhism, there are a few universities that offer graduate programs in Buddhist studies. Have you looked into any of those yet?
+STUDENT: Not yet, no.
+COACH: Okay, let's start there. Do some research and see if any of those programs appeal to you. If you find one that matches your interests, you can look into the admission requirements and financial aid options.
+As for finding a job after college, there are a number of resources available to help you. You can use online job boards to search for positions that match your skills and interests. You can also attend career fairs and network with potential employers. Finally, don't forget to reach out to your college's career services office for additional guidance.

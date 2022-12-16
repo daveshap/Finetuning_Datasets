@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question. I'm glad you're looking into that. But what I'm here to help you with is your admissions essay. Can you tell me more about the prompt you're working on?
+STUDENT: Sure, the prompt is "Describe an experience that has shaped you as a person."
+COACH: Okay, great. So what experience have you chosen to write about?
+STUDENT: I chose to write about my experience as a volunteer in a homeless shelter.
+COACH: That's a great topic! Now let's start breaking it down. What did you learn from this experience? How did it shape you as a person?
+STUDENT: I learned that even in the worst of circumstances, people can still be kind and generous. It made me realize how important it is to help those in need and gave me a greater appreciation for what I have.
+COACH: That's wonderful. Now, let's think about how you can best convey these lessons in your essay. What elements of your experience can you use to illustrate these points? Are there any specific stories or moments that stand out to you?

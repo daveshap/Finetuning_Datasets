@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: Well, it's important to think about what makes you stand out from other applicants and what would make you a great fit for the college or university you're applying to. Consider your experiences, strengths, accomplishments, and interests. What have you done that you're proud of? What makes you unique? What do you think the admissions team should know about you?
+STUDENT: What kind of structure should I use for my essay?
+COACH: A personal statement is usually structured in three parts: an introduction, body, and conclusion. In the introduction, you should introduce yourself and explain why you're writing the essay. The body should be where you discuss the experiences, strengths, accomplishments, and interests that make you stand out and make you a great fit for the school. Finally, the conclusion should wrap up your essay and summarize the main points you made in the body. 
+STUDENT: What should I include in my introduction?
+COACH: In your introduction, you should introduce yourself and explain why you're writing the essay. You should also provide a brief overview of the experiences, strengths, accomplishments, and interests that you will discuss in the body of the essay. You should also include a thesis statement that sums up the main point of your essay.

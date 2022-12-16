@@ -1,0 +1,82 @@
+(904) -872-0408  Akeem McKenzie   
+BS Computer Science - UNF  
+ Software Engineer ( 3+ years)   
+https://akeemmckenzie.github.io  akeemmckenzie@hotmail.com  https://www.linkedin.com/in/akeem -mckenzie/  
+ https://github.com/akeemmcke nzie  
+ 
+Professional Experience  
+Software Engineer   05/2022 -Present  Full Stack Development  
+Ondefend  | Jacksonville, FL  
+• Develop Penetration Testing Commercialized software in Django and React  
+• Integrated react frontend from prior Django templates  
+• Refactor existing logic to scalable infrastructure  code in python  on Django backend   
+• Integrate d third -party API’s such as auth0  and built new models and views for new features  
+• Develop CI/CD pipeline  in azure  
+Software Engineer    01/2022 - 05/2022   Full Stack Development  
+NLP Logix  | Jacksonville, FL  
+• Integrated EMR systems using RPAs built in Python  
+• Research and Development of RPA systems using image recognition  
+• Completed bug and hotfixes throughout company platforms in Python  
+Software Engineer    01/2022 - 05/2022   Back -End Development   
+University of North Florida  | Jacksonville, FL  
+• Developed C# Backend of third -party website  
+• Completed Angular CRUD operations with REST API Endpoints  
+Software Engineer    04/2021- 12/2021   Front -End Development  
+Suddath Companies | Jacks onville, FL  
+• Completed bug and hotfixes throughout company web platforms in C# and Angular  
+• Implemented web features and completed API changes for web platforms  
+• Completed user stories through an Agile scrum methodology  for new features  
+Systems Analyst    04/2020- 12/2021  Full Stack Development  
+University of North Florida | Jacksonville, FL  
+• Created python desktop application that accepts csv, json, xlsx files to compare big data  
+• Completed automated PowerShell scripts to fetch data from API to change/remove database 
+records  
+• Developed and managed ETL packages  utilizing the University’s Database  
+• Fixed PowerApps flow issue in SharePoint site to ease access of emails to professors  
+SharePoint Developer    04/2019-04/202 0  Full Stack Devel opment  
+Regency Centers  | Jacksonville, FL  
+• Recreated the Enterprise SharePoint 2016 site to a refreshed SharePoint 2019.  
+• Completed all SharePoint sites implementation and data migration between both sites.  
+• Completed the server management system currently used for the company.  
+ 
+       
+ (904) -872-0408  Akeem McKenzie   
+BS Computer Science - UNF  
+ Software Engineer ( 3+ years)   
+https://akeemmckenzie.github.io  akeemmckenzie@hotmail.com  https://www.linkedin.com/in/akeem -mckenzie/  
+ https://github.com/akeemmcke nzie  
+ 
+Professional Experience  
+Software Engineer   05/2022 -Present  Full Stack Development  
+Ondefend  | Jacksonville, FL  
+• Develop Penetration Testing Commercialized software in Django and React  
+• Integrated react frontend from prior Django templates  
+• Refactor existing logic to scalable infrastructure  code in python  on Django backend   
+• Integrate d third -party API’s such as auth0  and built new models and views for new features  
+• Develop CI/CD pipeline  in azure  
+Software Engineer    01/2022 - 05/2022   Full Stack Development  
+NLP Logix  | Jacksonville, FL  
+• Integrated EMR systems using RPAs built in Python  
+• Research and Development of RPA systems using image recognition  
+• Completed bug and hotfixes throughout company platforms in Python  
+Software Engineer    01/2022 - 05/2022   Back -End Development   
+University of North Florida  | Jacksonville, FL  
+• Developed C# Backend of third -party website  
+• Completed Angular CRUD operations with REST API Endpoints  
+Software Engineer    04/2021- 12/2021   Front -End Development  
+Suddath Companies | Jacks onville, FL  
+• Completed bug and hotfixes throughout company web platforms in C# and Angular  
+• Implemented web features and completed API changes for web platforms  
+• Completed user stories through an Agile scrum methodology  for new features  
+Systems Analyst    04/2020- 12/2021  Full Stack Development  
+University of North Florida | Jacksonville, FL  
+• Created python desktop application that accepts csv, json, xlsx files to compare big data  
+• Completed automated PowerShell scripts to fetch data from API to change/remove database 
+records  
+• Developed and managed ETL packages  utilizing the University’s Database  
+• Fixed PowerApps flow issue in SharePoint site to ease access of emails to professors  
+SharePoint Developer    04/2019-04/202 0  Full Stack Devel opment  
+Regency Centers  | Jacksonville, FL  
+• Recreated the Enterprise SharePoint 2016 site to a refreshed SharePoint 2019.  
+• Completed all SharePoint sites implementation and data migration between both sites.  
+• Completed the server management system currently used for the company.

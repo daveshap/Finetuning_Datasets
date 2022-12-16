@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble with the creative part of my essay. I'm writing about my trip to Thailand and I'm not sure how to make it engaging.
+COACH: That sounds like a great topic! What kind of essay are you writing? Is it a narrative or a persuasive essay?
+STUDENT: It's a narrative essay.
+COACH: Ok, great! Narrative essays are all about telling a story. So, let's start by thinking about your story. What was the most interesting or exciting thing that happened during your trip to Thailand?
+STUDENT: Well, I went to a cooking class and learned how to make some traditional Thai dishes. That was really fun and I think it would make for a good story.
+COACH: Perfect! Now let's focus on the creative part. To make your story engaging, you want to use vivid language and create a vivid image in the reader's mind. For example, instead of saying "I went to a cooking class," you could say something like "I stepped into the bustling kitchen, the smell of fragrant spices filling the air. I was there to learn the secrets of traditional Thai cuisine." See how that creates a much more vivid image than just saying "I went to a cooking class"?
+STUDENT: Yes, I see what you mean.
+COACH: Great! Now let's talk about the other parts of your essay. Do you know what a hook is and how to write one?
+STUDENT: Not really, no.
+COACH: A hook is the first sentence of your essay that grabs the reader's attention. It should be short, catchy, and set the tone for the rest of your essay. For example, if you're writing about your trip to Thailand, you could start with something like "The smells of exotic spices filled the air as I stepped into the bustling kitchen, ready to learn the secrets of traditional Thai cuisine." This immediately sets the scene and makes the reader want to read more.
+STUDENT: That makes sense. What about the middle and the conclusion?
+COACH: The middle of your essay should be the main body of your story. Here you can go into detail about the cooking class, your experience learning the traditional dishes, and any other interesting things that happened. The conclusion should wrap up your story and provide a takeaway for the reader. You could end with something like "My trip to Thailand was an eye-opening experience that taught me the importance of trying new things and broadening my horizons."
+STUDENT: Got it. One last question - do you have any advice on financing college?
+COACH: Sure! Financing college can be a tricky process, but there are lots of options available. You can look into grants, scholarships, student loans, and even work-study programs. It's important to do your research and figure out which option is best for you. Good luck!

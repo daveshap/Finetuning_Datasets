@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my law school admission essay. I'm applying to UCLA and UNC.
+COACH: Great, it's great to hear you're applying to two top universities. Before we get into the specifics of your essay, can you tell me why you think an admission essay matters?
+STUDENT: Well, I think it's important because it gives the admissions committee a sense of who I am as a person, not just as a student. It allows them to get to know me on a more personal level and get a better understanding of my goals and motivations.
+COACH: That's a great point. An admission essay is an opportunity to show the admissions committee why you're the best fit for their program. Let's talk about your essay. What are you hoping to achieve with it?
+STUDENT: My primary goal is to explain why I'm passionate about law and why I want to pursue a career in it. I also want to show that I have the necessary skills and experience to be successful in law school.
+COACH: That sounds like a great plan. Have you done any research on the law schools you're applying to?
+STUDENT: Yes, I've done quite a bit of research. I've looked into the curriculum of both schools and what kind of opportunities they offer their students. I've also read through some of the faculty's research papers and articles to get a better understanding of the school's focus.
+COACH: That's great! It's always important to do your research and be informed about the school you're applying to. What about your experience outside of school? Do you have any extracurriculars or work experience that could support your application?
+STUDENT: Yes, I have a lot of experience working with different organizations in my community. I'm also a member of a few student groups on campus and I've done some volunteer work abroad in Europe.
+COACH: That's fantastic! All of these experiences can be valuable additions to your essay. You can use them to demonstrate your commitment to the field of law and your dedication to improving the world around you.

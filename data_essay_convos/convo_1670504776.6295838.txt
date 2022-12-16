@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: Generally, college admissions essays should be between 500 and 650 words. However, it’s important to read the instructions for each college application carefully to make sure you meet the requirements.
+STUDENT: What should I write about?
+COACH: When writing an argumentative essay, it’s important to choose a topic that you feel passionate about and can make a strong case for. Think about something you care deeply about and can discuss in detail.
+STUDENT: How should I structure my essay?
+COACH: An argumentative essay typically follows the five-paragraph structure: introduction, three body paragraphs, and conclusion. In the introduction, you should introduce your topic and provide a clear thesis statement. In the body paragraphs, you should present evidence to support your argument. Finally, in the conclusion, you should summarize your main points and restate your thesis.

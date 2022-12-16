@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and I'm having trouble writing my admission essay. I want to make sure it's good enough to get me accepted.
+COACH: That's a great question. An admission essay is an important part of your application because it gives the admissions team a chance to get to know you better. It's your chance to showcase who you are, your strengths, and your passions. So, what kind of topics have you been considering for your essay?
+STUDENT: Well, I've been thinking about writing about racism and how it affects my life.
+COACH: That's a very powerful and important topic. It's important to make sure that your essay is well-structured and organized, so that the admissions team can easily follow your argument. Can you tell me more about what you want to say in your essay?
+STUDENT: I want to talk about how racism has affected my life, from my experiences growing up in a diverse city to my current experiences at college. I want to talk about how racism has shaped my views on the world and how it has helped me become a better person.
+COACH: That's a great topic. It's important to make sure that your essay is focused and that you don't wander off into tangents. You should also make sure to include concrete examples from your life that illustrate your points. Do you have any other questions about writing your essay?
+STUDENT: Yes, I was wondering if it's necessary to write about my future plans after college.
+COACH: It's not necessary to include your future plans in your essay, but it can be helpful if you want to show the admissions team that you have thought about your future and have specific goals in mind. If you do decide to include this, make sure to explain why you have chosen these particular goals and how they will help you reach your dreams. Do you have any other questions?

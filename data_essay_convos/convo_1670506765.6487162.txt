@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That’s a great question! Let’s start by talking about the different types of financial aid that are available. Do you know what kinds of aid you can get? 
+STUDENT: Not really, no.
+COACH: Okay, that’s understandable. There are three main types of financial aid: grants, loans, and scholarships. Grants are typically need-based and don’t need to be repaid. Loans are borrowed money that must be repaid with interest. Scholarships are usually merit-based and don’t need to be repaid. It’s important to research all of these options to find out which one is right for you. 
+STUDENT: What kind of research should I do?
+COACH: Start by looking into the different types of grants, loans, and scholarships that are available. You can also look into federal and state aid programs, as well as private sources of funding. Make sure to read all the details of each program carefully to make sure it’s the right fit for you. Additionally, you should consider the cost of attending college and create a budget to help you manage your finances.

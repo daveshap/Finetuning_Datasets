@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essay.
+COACH: Great! What kind of help do you need?
+STUDENT: I'm having trouble coming up with a topic. I want to write about my experiences growing up in the Philippines and how it has shaped me as a person.
+COACH: That sounds like a great topic! Can you tell me a bit more about your experiences growing up in the Philippines?
+STUDENT: Sure. Growing up in the Philippines was both challenging and rewarding. I faced a lot of poverty, but I also had the opportunity to experience the beauty of the country. I was also able to learn about different cultures and traditions.
+COACH: That sounds like a very interesting experience. How do you think it has shaped you as a person?
+STUDENT: Growing up in the Philippines has made me resilient and determined. Despite the challenges I faced, I was able to stay focused on my goals and work hard to achieve them. It has also made me more open-minded and appreciative of other cultures.
+COACH: Those are wonderful qualities! Do you have any ideas on how you could structure your essay?
+STUDENT: I'm thinking I could start with a hook that captures the reader's attention and then move on to describing my experiences growing up in the Philippines. After that, I could explain how those experiences have shaped me as a person and how I've used them to overcome obstacles. Finally, I could end with a conclusion about why an admission essay matters.
+COACH: That sounds like a great structure! What kind of hook do you have in mind?
+STUDENT: I'm thinking of using a quote from my favorite author who is from France. The quote is about how life is about overcoming obstacles and finding strength in adversity.
+COACH: That sounds perfect! Do you need help with any other parts of your essay?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are a form of financial aid that can help students pay for college. They are usually awarded based on academic achievement, financial need, leadership qualities, or other criteria. Do you have any particular questions about scholarships?
+STUDENT: No, but I'm interested in writing an admissions essay for a college application.
+COACH: Okay, great! Before we get into the specifics of writing your essay, I want to ask you a few questions so I can understand what you need help with. What kind of essay are you writing? Is it for a specific college? What is the prompt or topic?
+STUDENT: It's an admissions essay with no prompt.
+COACH: Alright, that's a great starting point. Let's talk about how to approach this kind of essay. An admissions essay should give the admissions committee a sense of who you are as a person and why you would make a great addition to their school. You want to highlight your strengths and accomplishments, but also show that you have a genuine interest in the school and its values. To do this, you'll need to research the school and think about how your experiences, interests, and goals align with theirs. Once you have a good understanding of the school and what they're looking for, you can start brainstorming ideas and developing your essay.

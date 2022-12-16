@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my application to UNC and I'm having a hard time coming up with ideas. 
+COACH: Okay, let's start by talking about why an admission essay matters. What do you think admissions officers are looking for in an essay?
+STUDENT: I think they want to see that I can express myself clearly and that I have something unique to offer the university.
+COACH: That's a great start. What makes you unique? Is there something about your background or experiences that could be interesting to admissions officers?
+STUDENT: Well, I'm a refugee from Syria and I've experienced a lot of hardships in my life. I want to show admissions officers that despite my struggles, I still have a lot to offer.
+COACH: That's a great story to tell. How do you think you can use your experiences as a refugee to highlight your strengths and abilities?
+STUDENT: I think I can talk about how I've developed resilience and adaptability in the face of adversity and how those skills will help me succeed at UNC. I can also talk about how my experiences have shaped my views on politics and the world.
+COACH: That sounds like a great angle to take. You can use your essay to explain how your experiences have shaped your views and how those views can benefit the university. It's important to be honest and genuine in your essay, so make sure to write from the heart. Good luck!

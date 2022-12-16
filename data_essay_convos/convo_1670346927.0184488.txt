@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experience with charity work in Europe and how it has shaped my life. I'm having trouble organizing my thoughts into a cohesive structure.
+COACH: That sounds like a great topic to write about. Can you tell me a bit more about your experience with charity work in Europe?
+STUDENT: Sure. I was raised in a single parent home and had the opportunity to volunteer in a few different countries. It was a great experience and really opened my eyes to the needs of other people.
+COACH: That's wonderful. How did this experience shape your life?
+STUDENT: Well, it taught me the importance of giving back to my community and understanding the needs of others. It also gave me a greater appreciation for the opportunities I have been given in life.
+COACH: That's great. What kind of essay structure do you think would be best to convey your experience?
+STUDENT: I think I'd like to focus on a few key points and then use those points to illustrate how my experiences have shaped my life. I want to make sure that I include enough detail to give the reader a good understanding of my journey.

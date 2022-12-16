@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question! Can you tell me more about what you need help with? Are you having trouble coming up with ideas for your essay, or do you need help with the structure and organization?
+STUDENT: I need help coming up with ideas.
+COACH: Okay, let's start by talking about what kind of essay it is. Is this a persuasive essay?
+STUDENT: Yes, it is.
+COACH: Great, so the goal of a persuasive essay is to convince readers of your opinion on a particular topic. To do that, you will need to present evidence, such as facts, statistics, and quotes from experts. You will also need to consider the opposing view and refute it. What topic are you writing about?

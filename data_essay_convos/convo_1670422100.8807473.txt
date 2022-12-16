@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking to apply to grad school at NCSU and I'm trying to write a good essay.
+COACH: That's great! What kind of grad school are you looking to apply to?
+STUDENT: I'm looking to apply to medical school.
+COACH: Excellent! Do you have any idea what kind of essay you want to write?
+STUDENT: Well, I'm not sure where to start. I know I need a hook, conclusion, and middle, but I'm not sure how to make it stand out.
+COACH: That's understandable. Let's start with the hook. This is the part of the essay that grabs the reader's attention. You want to make it interesting, but also relevant to the topic you're writing about. What kind of topics are you thinking of writing about in your essay?
+STUDENT: I'm thinking of writing about my experiences in college and why I'm passionate about pursuing a career in medicine.
+COACH: Great! With that in mind, think of a creative way to introduce your topic that will draw the reader in. For example, you could start with a memorable experience you had in college or a story that illustrates why you're passionate about pursuing a career in medicine. 
+Once you have your hook, you can move on to the body of the essay. This is where you can provide details and evidence to support your main points. Make sure to use specific examples and anecdotes to illustrate your points.
+Next, you'll need to write a conclusion. This is the part of the essay where you wrap up your main points and explain why you are a good fit for the program you are applying to. Keep in mind that this should be a logical conclusion that summarizes your main points and ties everything together.
+Finally, you'll need to consider how college admission works. Most colleges and universities will require you to submit an application, transcripts, letters of recommendation, and other materials. Make sure to research the requirements for the schools you are applying to and submit all required materials in a timely manner.
+I hope this helps get you started on your essay. Do you have any other questions?

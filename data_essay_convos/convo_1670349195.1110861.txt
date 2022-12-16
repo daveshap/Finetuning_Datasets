@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my college essay.
+COACH: Absolutely! What kind of help do you need? 
+STUDENT: Well, I'm having trouble figuring out why college matters to me and what I should write about in my personal statement.
+COACH: That's a great question. Let's start by talking about why college matters. What do you think are the benefits of going to college?
+STUDENT: I guess I want to get a good job and make more money, but I also want to learn new skills and gain knowledge.
+COACH: Those are all great reasons to go to college. Have you thought about how college can help you explore your passions and interests?
+STUDENT: Yeah, I'm really interested in neurodiversity and I'd like to learn more about it.
+COACH: That's fantastic! So, now that you know why college matters to you, let's talk about what to write about in your personal statement. What aspects of your life would you like to highlight in your essay?
+STUDENT: I want to talk about my passion for neurodiversity and how it has shaped my life. I also want to discuss my academic achievements and my experiences in the community.
+COACH: Great! Now that we know what you want to talk about, let's talk about essay structure. How do you plan to organize your essay?
+STUDENT: I was thinking of starting with an introduction that outlines my main points, and then I'll move on to discussing my passion for neurodiversity and how it has impacted my life. After that, I'll talk about my academic achievements and my experiences in the community. Finally, I'll wrap up with a conclusion.
+COACH: That sounds like a great plan! Do you have any other questions or concerns about your undergrad essay?
+STUDENT: No, I think I'm good! Thanks for all your help.

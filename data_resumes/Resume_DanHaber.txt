@@ -1,0 +1,324 @@
+Dan Haber
+Senior Softwar e Engineer (full-stack web/web3)San Francisco Bay Area
+handaber@gmail.com
+ 
+linkedin.com/in/DanHaber
+ 
+github.com/HanDaber
+Collaborating eﬀectively with stakeholders across disciplines to
+design and build scalable and maintainable full-stack web
+solutions, from front-end and APIs to devOps and blockchain.
+EXPERIENCE
+Web3 Startup,
+Remote —
+R&D Consultant
+Jan 2022 - Jun 2022 · 6 mos
+●
+Develop and deplo y Terraform conﬁgur ations for bootstr apping a
+Polygon-edge PO A block chain, including block explor er and
+cross-chain bridge r elayer.
+⇨
+ Polygon-edge, Blockscout, Chainbridge, Dock er, Terraform,
+Kubernetes, EC2, EKS
+●
+Develop and deplo y Smar t Contr acts t o suppor t cross-chain bridging,
+token minting and cust om state for off-chain applications.
+⇨
+ Solidity , Chainbridge, Openz eppelin, F oundr y
+●
+Develop and deplo y web ser vices t o index and ser ve Smar t Contr act
+events via API t o suppor t web2 applications.
+⇨
+ Dock er, Node.js, Ethers.js, Gr aphQL, P ostgr es
+LAM Research,
+Remote —
+Software Consultant
+Nov 2020 - Dec 2021 · 1 yr 2 mos
+●
+Design and de velop a Dock erized P ython pipeline le veraging A zure
+Computer Vision APIs t o assess the risk of new mechanical designs
+based on similar hist orical par ts data.
+⇨
+ Github, P ython, Dock er, Azure Computer Vision and Cust om Vision
+●
+Collabor ate dir ectly with business stak eholders, lead QA effor ts and
+iterate quickly t o build a t ool with the desir ed functionality under
+ever-changing r equir ements.
+⇨
+ Communication, Or ganizationSKILLS
+ 
+JavaScript
+ 
+Python
+ 
+Shell
+ 
+Solidity
+ 
+TypeScript
+ 
+Terraform
+ 
+GraphQL
+ React
+ 
+NodeJS
+ 
+Docker
+ 
+Kubernetes
+ 
+AWS
+ 
+EVM
+ 
+Postgres
+ 
+MySQL
+ 
+MongoDB
+ 
+Redis
+Dan Haber
+Senior Softwar e Engineer (full-stack web/web3)San Francisco Bay Area
+handaber@gmail.com
+ 
+linkedin.com/in/DanHaber
+ 
+github.com/HanDaber
+Collaborating eﬀectively with stakeholders across disciplines to
+design and build scalable and maintainable full-stack web
+solutions, from front-end and APIs to devOps and blockchain.
+EXPERIENCE
+Web3 Startup,
+Remote —
+R&D Consultant
+Jan 2022 - Jun 2022 · 6 mos
+●
+Develop and deplo y Terraform conﬁgur ations for bootstr apping a
+Polygon-edge PO A block chain, including block explor er and
+cross-chain bridge r elayer.
+⇨
+ Polygon-edge, Blockscout, Chainbridge, Dock er, Terraform,
+Kubernetes, EC2, EKS
+●
+Develop and deplo y Smar t Contr acts t o suppor t cross-chain bridging,
+token minting and cust om state for off-chain applications.
+⇨
+ Solidity , Chainbridge, Openz eppelin, F oundr y
+●
+Develop and deplo y web ser vices t o index and ser ve Smar t Contr act
+events via API t o suppor t web2 applications.
+⇨
+ Dock er, Node.js, Ethers.js, Gr aphQL, P ostgr es
+LAM Research,
+Remote —
+Software Consultant
+Nov 2020 - Dec 2021 · 1 yr 2 mos
+●
+Design and de velop a Dock erized P ython pipeline le veraging A zure
+Computer Vision APIs t o assess the risk of new mechanical designs
+based on similar hist orical par ts data.
+⇨
+ Github, P ython, Dock er, Azure Computer Vision and Cust om Vision
+●
+Collabor ate dir ectly with business stak eholders, lead QA effor ts and
+iterate quickly t o build a t ool with the desir ed functionality under
+ever-changing r equir ements.
+⇨
+ Communication, Or ganizationSKILLS
+ 
+JavaScript
+ 
+Python
+ 
+Shell
+ 
+Solidity
+ 
+TypeScript
+ 
+Terraform
+ 
+GraphQL
+ React
+ 
+NodeJS
+ 
+Docker
+ 
+Kubernetes
+ 
+AWS
+ 
+EVM
+ 
+Postgres
+ 
+MySQL
+ 
+MongoDB
+ 
+Redis
+Dan Haber
+Senior Softwar e Engineer (full-stack web/web3)San Francisco Bay Area
+handaber@gmail.com
+ 
+linkedin.com/in/DanHaber
+ 
+github.com/HanDaber
+Collaborating eﬀectively with stakeholders across disciplines to
+design and build scalable and maintainable full-stack web
+solutions, from front-end and APIs to devOps and blockchain.
+EXPERIENCE
+Web3 Startup,
+Remote —
+R&D Consultant
+Jan 2022 - Jun 2022 · 6 mos
+●
+Develop and deplo y Terraform conﬁgur ations for bootstr apping a
+Polygon-edge PO A block chain, including block explor er and
+cross-chain bridge r elayer.
+⇨
+ Polygon-edge, Blockscout, Chainbridge, Dock er, Terraform,
+Kubernetes, EC2, EKS
+●
+Develop and deplo y Smar t Contr acts t o suppor t cross-chain bridging,
+token minting and cust om state for off-chain applications.
+⇨
+ Solidity , Chainbridge, Openz eppelin, F oundr y
+●
+Develop and deplo y web ser vices t o index and ser ve Smar t Contr act
+events via API t o suppor t web2 applications.
+⇨
+ Dock er, Node.js, Ethers.js, Gr aphQL, P ostgr es
+LAM Research,
+Remote —
+Software Consultant
+Nov 2020 - Dec 2021 · 1 yr 2 mos
+●
+Design and de velop a Dock erized P ython pipeline le veraging A zure
+Computer Vision APIs t o assess the risk of new mechanical designs
+based on similar hist orical par ts data.
+⇨
+ Github, P ython, Dock er, Azure Computer Vision and Cust om Vision
+●
+Collabor ate dir ectly with business stak eholders, lead QA effor ts and
+iterate quickly t o build a t ool with the desir ed functionality under
+ever-changing r equir ements.
+⇨
+ Communication, Or ganizationSKILLS
+ 
+JavaScript
+ 
+Python
+ 
+Shell
+ 
+Solidity
+ 
+TypeScript
+ 
+Terraform
+ 
+GraphQL
+ React
+ 
+NodeJS
+ 
+Docker
+ 
+Kubernetes
+ 
+AWS
+ 
+EVM
+ 
+Postgres
+ 
+MySQL
+ 
+MongoDB
+ 
+Redis
+Dan Haber
+Senior Softwar e Engineer (full-stack web/web3)San Francisco Bay Area
+handaber@gmail.com
+ 
+linkedin.com/in/DanHaber
+ 
+github.com/HanDaber
+Collaborating eﬀectively with stakeholders across disciplines to
+design and build scalable and maintainable full-stack web
+solutions, from front-end and APIs to devOps and blockchain.
+EXPERIENCE
+Web3 Startup,
+Remote —
+R&D Consultant
+Jan 2022 - Jun 2022 · 6 mos
+●
+Develop and deplo y Terraform conﬁgur ations for bootstr apping a
+Polygon-edge PO A block chain, including block explor er and
+cross-chain bridge r elayer.
+⇨
+ Polygon-edge, Blockscout, Chainbridge, Dock er, Terraform,
+Kubernetes, EC2, EKS
+●
+Develop and deplo y Smar t Contr acts t o suppor t cross-chain bridging,
+token minting and cust om state for off-chain applications.
+⇨
+ Solidity , Chainbridge, Openz eppelin, F oundr y
+●
+Develop and deplo y web ser vices t o index and ser ve Smar t Contr act
+events via API t o suppor t web2 applications.
+⇨
+ Dock er, Node.js, Ethers.js, Gr aphQL, P ostgr es
+LAM Research,
+Remote —
+Software Consultant
+Nov 2020 - Dec 2021 · 1 yr 2 mos
+●
+Design and de velop a Dock erized P ython pipeline le veraging A zure
+Computer Vision APIs t o assess the risk of new mechanical designs
+based on similar hist orical par ts data.
+⇨
+ Github, P ython, Dock er, Azure Computer Vision and Cust om Vision
+●
+Collabor ate dir ectly with business stak eholders, lead QA effor ts and
+iterate quickly t o build a t ool with the desir ed functionality under
+ever-changing r equir ements.
+⇨
+ Communication, Or ganizationSKILLS
+ 
+JavaScript
+ 
+Python
+ 
+Shell
+ 
+Solidity
+ 
+TypeScript
+ 
+Terraform
+ 
+GraphQL
+ React
+ 
+NodeJS
+ 
+Docker
+ 
+Kubernetes
+ 
+AWS
+ 
+EVM
+ 
+Postgres
+ 
+MySQL
+ 
+MongoDB
+ 
+Redis

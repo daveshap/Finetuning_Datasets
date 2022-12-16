@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble figuring out what to write about in my personal statement.
+COACH: That's a common challenge for many students. Can you tell me a bit more about yourself? What are your passions and interests?
+STUDENT: Well, I'm a first generation college student and I'm really passionate about Christianity and helping others. I also love reading and writing.
+COACH: That's great! It sounds like you have some strong interests and values that you could use as the basis for your essay. What makes an essay engaging for you? 
+STUDENT: I think an essay should be honest and authentic. It should also include details that make it personal and interesting.
+COACH: Absolutely! You want to make sure that your essay reflects your unique perspective and experience. What kind of topics do you think you could explore in your essay?
+STUDENT: Maybe I could talk about my faith and how it has shaped my values and goals. I could also discuss my experiences as a first-generation college student and how it has motivated me to strive for success.
+COACH: Those are both great topics for your essay. What do you think would be the best way to approach these topics?
+STUDENT: I think I could start by talking about my faith and how it has been a guiding force in my life. Then I could discuss how my experiences as a first-generation college student have impacted my outlook and ambitions.
+COACH: That sounds like a great plan! Once you have your essay outline, you can start writing and crafting your story. Remember to be honest and authentic in your writing, and don't forget to include details and examples to make it more engaging. Good luck!

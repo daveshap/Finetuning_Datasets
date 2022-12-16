@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and NCSU for law school and I'm trying to understand why my admissions essay matters.
+COACH: That's a great question. An admissions essay is an opportunity for you to tell the admissions committee about yourself and your experiences in a way that can't be conveyed through your grades and test scores. It's your chance to stand out from the crowd and demonstrate your unique qualities and interests. It's also a way for the admissions committee to get to know you better and learn more about what makes you a good fit for their school. 
+STUDENT: That makes sense. So how do I make sure my essay is effective?
+COACH: The key to writing an effective admissions essay is to make sure it is tailored to the specific school you are applying to. Research the school and their mission statement and make sure your essay reflects their values and goals. Make sure you answer the question they are asking, be concise and clear, and don't forget to proofread. Most importantly, be yourself and let your personality shine through.

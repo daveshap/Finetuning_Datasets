@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college soon and I'm having trouble with my essay.
+COACH: Okay, can you tell me a bit more about your essay? What topics are you focusing on?
+STUDENT: Well, I'm writing about my experience with charity work and how it has shaped my outlook on life.
+COACH: That's great! How did you first become involved in charity work?
+STUDENT: It was actually through my Buddhist faith. I wanted to find a way to give back to the community, so I started volunteering at a local soup kitchen.
+COACH: That's fantastic! What did you learn from your experience?
+STUDENT: I learned that there is a lot of suffering in the world, but also a lot of joy. It taught me the importance of helping others and being kind.
+COACH: That's really inspiring. What else would you like to include in your essay?
+STUDENT: I'm not sure. I feel like I'm not very interesting as a person, so I'm not sure what else to write about.
+COACH: Don't worry, everyone has something interesting to say. What are some of your hobbies or interests?
+STUDENT: I like to read and I'm interested in history. I also like to go hiking and exploring new places.
+COACH: That sounds great! You could talk about how these hobbies have shaped your outlook on life or how they've helped you develop certain skills. You could also discuss how they've helped you grow as a person.

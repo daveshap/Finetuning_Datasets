@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I need help with my essay.
+COACH: Great! Can you tell me more about the essay? What parts of it do you need help with?
+STUDENT: Well, I'm having trouble with the hook and the conclusion. I'm not sure how to make them stand out.
+COACH: Okay, let's start with the hook. It's important to think of a unique way to draw the reader in and make them interested in your essay. Have you thought of any ideas?
+STUDENT: Not really. I'm open to suggestions.
+COACH: Sure! One idea could be to start with a personal anecdote or story that relates to your essay topic. That way, you can provide context for the reader and set the tone for the rest of your essay.
+For the conclusion, you want to leave the reader with a lasting impression. Try to summarize the main points of your essay and explain why they are important. You can also use this opportunity to relate your essay back to the original prompt and reiterate why you are a good fit for the program.
+STUDENT: That's a great idea. I think I can use that. I also have some questions about financing college and grad school.
+COACH: Absolutely! How can I help?
+STUDENT: I'm not sure how to go about applying for financial aid or scholarships.
+COACH: That's a great question. The first step is to fill out the Free Application for Federal Student Aid (FAFSA). This will provide the schools with information about your family's income and assets, which they use to determine your eligibility for financial aid. 
+After you submit the FAFSA, you can start looking into scholarships and grants. Many universities and organizations offer scholarships for students with specific backgrounds or achievements. You can also look into private lenders for student loans. Make sure to research all your options and compare interest rates before making a decision.
+STUDENT: That's really helpful. I'm also trying to highlight my skills and achievements in my essay. Do you have any advice?
+COACH: Absolutely! You want to make sure to showcase your unique talents and experiences. Think about what makes you stand out and how you can demonstrate your strengths in your essay. You can also include any awards or accomplishments that you're proud of. This will help the admissions committee get a better understanding of who you are and why you're a good fit for the program.

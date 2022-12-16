@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are generally awarded based on academic achievement, community service, and other criteria. Most scholarships require an application, including an essay. What kind of essay are you looking for help with?
+STUDENT: I'm writing a personal statement for medical school.
+COACH: Great! What would you like to focus on in your personal statement? 
+STUDENT: I want to highlight my commitment to helping others and emphasize the importance of empathy in healthcare.
+COACH: That's a great focus for your essay. Let's start by brainstorming some ideas. What experiences have you had that demonstrate your commitment to helping others?

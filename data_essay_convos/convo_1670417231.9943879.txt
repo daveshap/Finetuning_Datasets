@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm applying to Duke University and I'm writing an essay about Buddhism and how it relates to social issues.
+COACH: That's a great topic! Could you tell me more about what you want to focus on in your essay? 
+STUDENT: Well, I want to talk about the teachings of Buddhism and how they can be applied to modern social issues. I want to look at how Buddhism can provide solutions to some of the world's most pressing problems.
+COACH: That sounds like a very interesting topic. Do you have any specific examples or case studies in mind that you want to include in your essay?
+STUDENT: Yes, I was thinking about looking at how Buddhist principles have been used to address poverty in India. I also wanted to compare and contrast the approaches taken by Princeton and MIT in their research on Buddhism.
+COACH: That's a great idea. Let's focus on the Indian poverty example first. What are some of the key points you want to make in your essay about Buddhism and poverty in India?
+STUDENT: I want to talk about how Buddhist teachings emphasize the importance of compassion and selflessness, which can be applied to helping people in poverty. I also want to discuss how Buddhist principles of non-attachment and mindfulness can help people in poverty to create a better life for themselves. Finally, I want to look at how Buddhist teachings can be used to create sustainable solutions to poverty.

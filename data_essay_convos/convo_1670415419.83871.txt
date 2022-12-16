@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I have no idea what to write about.
+COACH: That's okay, let's start by talking about some of your interests and strengths. What topics do you find interesting or are passionate about?
+STUDENT: Well, I recently traveled to Thailand and was really interested in Buddhism while I was there.
+COACH: That's great! It sounds like you have a lot of material to draw from for an essay. What kind of essay are you looking to write? 
+STUDENT: It's for my undergrad course and I'm not sure what the structure should be.
+COACH: Sure, let me explain the basics of essay structure. Generally, essays will start with an introduction that outlines the main points of the essay. Then, you will have a body section that provides evidence and examples to support your thesis. Finally, you will have a conclusion that summarizes your main points. Does this help?
+STUDENT: Yes, thank you.
+COACH: No problem! Now, let's talk about how you can use your experience in Thailand and knowledge of Buddhism to create an engaging essay. What do you think would be the most interesting angle to approach the topic from? 
+STUDENT: I think it would be interesting to compare and contrast Buddhism in Thailand versus other countries.
+COACH: That's a great idea! You could use this angle to discuss the differences in the way Buddhism is practiced in different countries and the impact it has on the culture. Are there any specific aspects of Buddhism that you would like to focus on? 
+STUDENT: Yes, I'd like to focus on the idea of karma and how it shapes people's lives in Thailand.
+COACH: That's a fascinating topic! You could explore how karma influences the way people view the world, their relationships, and their daily lives in Thailand. This could be a great way to draw connections between Buddhism and the culture in Thailand. 
+STUDENT: Wow, this is really helpful. Thanks!
+COACH: You're welcome! Is there anything else I can help you with?

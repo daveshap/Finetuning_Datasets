@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing my personal statement. I don't know what to write about.
+COACH: That's a great place to start. Do you have any particular topics in mind that you would like to focus on?
+STUDENT: Well, I've been thinking about my experiences in Vietnam and Germany.
+COACH: That's great. Can you tell me more about your experiences in those countries? What did you do there? What did you learn?
+STUDENT: In Vietnam, I was part of a volunteer program where I worked with disadvantaged children and taught them English. In Germany, I was part of a student exchange program. I studied German language and culture, and also got to travel around Europe. 
+COACH: That's really impressive. It sounds like you gained a lot of skills and achievements from both experiences. How do you think those experiences will help you in the future? 
+STUDENT: Well, I think the experience in Vietnam really helped me develop my communication and interpersonal skills. Working with the kids gave me an appreciation for different cultures, and I think it made me a more open-minded person. In Germany, I learned a lot about European history and culture, and I think this will give me a better understanding of the world. 
+COACH: That's fantastic. It sounds like you have a lot to offer. Why don't you focus your essay on how these experiences have shaped you and how they can help you in the future?

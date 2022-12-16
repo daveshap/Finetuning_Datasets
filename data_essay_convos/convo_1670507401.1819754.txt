@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening for a personal statement for medical school should be engaging and capture the reader's attention. You want to introduce yourself, your interests, and why you are pursuing a career in medicine. Think about what makes you unique, and how you can express that in a few sentences. Also, make sure to keep it concise and to the point.

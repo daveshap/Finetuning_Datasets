@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admissions essay for Duke University and I'm having a really hard time coming up with something interesting to write about.
+STUDENT: I feel like I'm a really boring person and I don't have anything particularly exciting or unique to talk about.
+COACH: That's okay! It's totally normal to feel like you don't have an exciting story to tell. How about we start by talking about your interests? What are some things that you're passionate about? 
+STUDENT: Well, I love to travel and I'm really passionate about social issues. 
+COACH: That's great! Have you ever traveled somewhere that had a big impact on you? Or, is there a particular social issue that you feel strongly about? 
+STUDENT: Yeah, I recently went to Peru and it was an eye-opening experience. I was able to see firsthand how poverty and lack of access to resources affects people's lives. It made me think more deeply about the role of privilege in society and how I can use my own privilege to help others. 
+COACH: That sounds like a powerful experience. What are some of the ways you've been using your privilege to help others? 
+STUDENT: I'm currently working with a local non-profit to provide resources and support to underprivileged communities in my city. I'm also planning to volunteer with a global organization this summer to help promote education and awareness about social issues. 
+COACH: That's wonderful! It sounds like you have a strong commitment to making a positive difference in the world. This could be a great topic to explore in your admissions essay. You could talk about how your travels and social activism has shaped your worldview and inspired you to pursue a college education. 
+STUDENT: Yeah, that's a good idea. Thanks for the help!

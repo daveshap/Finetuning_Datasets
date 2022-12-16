@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm applying to Harvard. I'm struggling with my admissions essay and I'm looking for some help.
+COACH: Congratulations on your college application! That's a big accomplishment. Can you tell me a bit more about what you are hoping to achieve with the essay?
+STUDENT: Well, I want to make a good impression on the admissions committee and stand out from the other applicants. I'm also interested in talking about my experiences as a first-generation college student and how I plan to use my education to make a positive impact on the world.
+COACH: That's great! It sounds like you have a clear vision for your essay. What kind of challenges have you faced as a first-generation college student?
+STUDENT: I think the biggest challenge has been navigating the college admission process without the support of my parents. They didn't go to college, so they weren't able to help me understand the process or provide guidance. I've had to figure it out on my own.
+COACH: That must have been difficult. It sounds like you have shown a lot of resilience in the face of adversity. How do you think your experiences as a first-generation college student will help you in your future career?
+STUDENT: I think it will give me a unique perspective on the job market and how to best position myself for success. I'm also passionate about helping other first-generation college students find their way and make the most of their education.
+COACH: That's a great goal. How do you plan to achieve it? 
+STUDENT: I'm planning to use my college education to gain the skills and knowledge I need to pursue a career in education. I'm also involved in several organizations that support first-generation college students and I plan to stay active in those after college.

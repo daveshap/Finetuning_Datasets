@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the requirements of the medical school you’re applying to. Generally, a personal statement for medical school should be between 500 and 800 words.
+STUDENT: What kind of topics should I write about?
+COACH: That’s a great question. Your essay should focus on why you want to pursue a career in medicine and how your past experiences have prepared you for this journey. You should also discuss any challenges you’ve faced in your life and how you overcame them. Additionally, you can talk about any extracurricular activities or volunteer work you’ve done and how they’ve shaped your worldview and your desire to pursue a career in medicine.
+STUDENT: How do I make sure my essay stands out?
+COACH: A great way to make your essay stand out is to use vivid language and powerful imagery to bring your story to life. Also, make sure to be honest and sincere in your writing. You want to be able to connect with the reader and show them why you’re the perfect candidate for the medical school you’re applying to. Finally, make sure to proofread your essay multiple times and get feedback from trusted friends and family members.

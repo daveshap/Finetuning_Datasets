@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That's a great question! What kind of essay are you working on?
+STUDENT: A dissertation.
+COACH: Okay, so you're looking for help with your dissertation on why college matters. Is there anything specific you'd like to focus on?
+STUDENT: Yes, I want to understand the economic benefits of college.
+COACH: That's a great topic! Let's start by talking about the different types of economic benefits that college can provide. For example, college graduates tend to have higher salaries than those without a degree, which can lead to greater financial stability. They also often have access to better job opportunities and can take advantage of higher-paying positions. Additionally, college graduates are more likely to be able to purchase a home or other real estate, which can lead to long-term wealth-building. Do you have any other questions about the economic benefits of college?

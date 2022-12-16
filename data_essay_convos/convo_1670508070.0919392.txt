@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question. Let's start by talking about what kind of essay you're writing. Is it an argumentative essay, a research paper, or a monograph?
+STUDENT: It's a monograph.
+COACH: Okay, great. Monographs usually focus on a single topic and are usually longer than other types of essays. So, when you're trying to make your essay shorter, the first thing you should do is determine what elements of your essay are essential to your argument. Are there any sections that can be condensed or removed altogether?
+STUDENT: Yeah, I think I can condense some sections and remove others.
+COACH: That's great! Once you've identified those sections, you can start looking for ways to make your essay shorter. For example, you can look for places where you can use fewer words to say the same thing, or you can look for opportunities to replace long phrases with shorter ones. Additionally, you can look for ways to eliminate unnecessary words and phrases. Finally, you can also look for ways to combine sections or ideas that are related.

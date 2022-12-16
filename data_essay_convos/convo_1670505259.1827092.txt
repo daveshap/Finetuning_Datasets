@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are funds that are given by organizations to help individuals or groups with a specific purpose. Depending on the type of grant, it may be used for educational expenses, housing, business start-up costs, or other needs. Generally, grants are awarded based on need and merit.
+STUDENT: How do I go about writing a persuasive essay for college admissions?
+COACH: Writing a persuasive essay for college admissions is all about making a strong argument for why you should be accepted. You'll want to make sure your essay stands out from the crowd, so focus on using strong evidence to support your points and make sure to use a logical structure. Start by introducing your topic and then move into presenting your argument. Make sure to explain why your argument is valid and provide evidence to back it up. Finally, draw your conclusion and make sure to end with a powerful statement.

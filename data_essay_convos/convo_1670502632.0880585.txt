@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: Well, college admission is a multi-step process that requires you to begin by researching and selecting colleges that best fit your educational goals. Once you have narrowed down your list of schools, you will need to complete the application process, which can include submitting transcripts, letters of recommendation, standardized test scores, and your college admissions essay.
+STUDENT: What is a college admissions essay?
+COACH: A college admissions essay is an essay written by a student as part of their application to a college or university. The purpose of the essay is to provide the admissions committee with a better understanding of the student's character, academic achievements, and potential for success in college. It is also an opportunity for the student to express their unique voice and perspective. 
+STUDENT: How do I start writing my essay?
+COACH: The first step in writing your essay is to brainstorm and come up with a topic. Think about what experiences, stories, and values are important to you and how they can be used to demonstrate why you would be a great addition to the college or university. Once you have chosen a topic, you should create an outline of your essay, which will help you organize your thoughts and ideas. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction, body paragraphs, and a conclusion. In the introduction, you should provide an overview of your topic and explain why it is important to you. The body paragraphs should provide details and evidence to support your argument and explain why you are an ideal candidate for the school. Finally, the conclusion should summarize your points and discuss why you are the best choice for the college or university.

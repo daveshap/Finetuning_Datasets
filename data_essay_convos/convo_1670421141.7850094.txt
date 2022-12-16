@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student and I'm trying to write an admissions essay for college. I'm not sure where to start.
+COACH: That's a great question! Can you tell me a bit more about yourself and what you're hoping to get out of college?
+STUDENT: Sure. I'm a Muslim and I'm interested in studying Islam. I want to use my education to help people in my community.
+COACH: That's admirable! What kind of volunteer work have you done so far that you could draw on to demonstrate your commitment to helping others?
+STUDENT: Well, I've volunteered at a local food bank, tutored younger students in math and science, and worked with a local mosque to organize community events.
+COACH: Great! Those are all excellent examples of how you’ve already been making a difference. How do you think these experiences have prepared you for college and the career you want to pursue?
+STUDENT: I think they've given me a better understanding of the needs of my community, and how I can use my knowledge and skills to help others.
+COACH: That's wonderful! It sounds like you have a strong sense of purpose and direction. When it comes to writing your admissions essay, think about how you can use your experiences to show the admissions committee that you are committed to making a positive change. Think about how you can present your experiences in a way that will make them stand out and show them why you would be a valuable addition to their college.
+STUDENT: That's really helpful. I'm starting to get a better idea of how to structure my essay. But what should I do after I finish college? How do I find a job?
+COACH: That's a great question! After college, there are many different paths you can take. It's important to research the different opportunities available to you and decide which one is the best fit. Networking is also key - make sure to reach out to people in your field and build relationships with potential employers. Additionally, look into internships or apprenticeships to gain experience and make connections.

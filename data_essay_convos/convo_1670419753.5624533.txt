@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and I'm having trouble writing my college admission essay.
+COACH: That's understandable. Can you tell me a bit more about why you're applying to NCSU?
+STUDENT: Well, I'm interested in studying engineering and I heard that NCSU has a great engineering program.
+COACH: That's right, NCSU has a great engineering program. What specifically drew you to engineering?
+STUDENT: I'm really interested in robotics and artificial intelligence, and I think engineering is the best way to explore those fields.
+COACH: That's a great reason to study engineering. So, what do you want to write about in your college admission essay?
+STUDENT: I was thinking about writing about my experience growing up in China and how it shaped my interest in engineering.
+COACH: That could be a great topic for your essay. What about your experience in China specifically made you interested in engineering?
+STUDENT: I think it was the combination of seeing the incredible technological advances that were happening in China and also the fact that I had access to some of the best engineering programs in the world.
+COACH: That makes sense. What do you think sets your experience apart from other applicants?
+STUDENT: I think what sets me apart is that I have a unique perspective on engineering and technology because I've seen how it's developed in both China and the US. I think this gives me a unique insight into the field and how it can be applied in different contexts.
+COACH: That's a great point. Do you think there are any other aspects of your experience that you could highlight in your essay?
+STUDENT: Yes, I think I could also talk about the importance of collaboration and communication in engineering, which I learned while working in teams in China.
+COACH: That's an excellent point. How do you think you can use these experiences to make your essay stand out?
+STUDENT: I think I can highlight the importance of being able to work with people from different backgrounds and cultures in order to create effective solutions. I think this is something that will be very valuable in the engineering field.

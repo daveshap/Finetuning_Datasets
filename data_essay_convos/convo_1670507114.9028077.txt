@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay, let's start with a few questions. What type of essay are you writing?
+STUDENT: It's a research essay.
+COACH: Great! What kind of research do you want to do? What topics are you interested in exploring?

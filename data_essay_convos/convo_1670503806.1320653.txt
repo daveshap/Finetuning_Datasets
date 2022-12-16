@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: A good conclusion should be a summary of the main points of your essay. It should also include a statement that ties all the points together and reinforces your thesis. Make sure to restate your thesis in the conclusion and explain why it's important.

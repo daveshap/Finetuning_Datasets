@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to come up with an essay topic. I want to apply to UNC and UCLA, but I'm not sure what to write about.
+COACH: That's understandable. Can you tell me a bit more about why you're interested in these two universities? What do they have that appeals to you?
+STUDENT: Well, I'm interested in politics and I think both universities have strong programs in that area. I'm also interested in learning more about Europe, and both schools offer great opportunities to study abroad.
+COACH: That's great! It sounds like you have a lot of interests that could be explored in your essay. What else can you tell me about yourself that might be relevant to your essay?
+STUDENT: I'm not very interesting as a person, so I'm not sure what else I can include in my essay.
+COACH: That's okay! Everyone has something unique to offer, even if it's not immediately obvious. What are some of your passions or hobbies? What topics do you find yourself drawn to, even when you don't have to be?
+STUDENT: Well, I love reading about history and culture. I also enjoy writing and exploring different points of view.
+COACH: Those are both great topics to explore in your essay. You could write about how your interest in history and culture has shaped your views on politics, or how your writing has helped you to understand different perspectives. These are just some ideas, but hopefully they will help you to get started.

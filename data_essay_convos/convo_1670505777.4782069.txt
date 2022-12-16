@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Rejection is always a possibility, but it doesn't mean you can't succeed. It's important to remember that the essay is only one part of the admissions process. Even if your essay isn't accepted, you may still be accepted for other reasons. 
+STUDENT: What should I include in my essay?
+COACH: An effective college admissions essay should have an interesting introduction that captures the reader's attention and introduces the topic you will be discussing. Your essay should also demonstrate your understanding of the subject matter and show your ability to think critically about it. Additionally, it should provide evidence of your research, as well as your own unique insights and analysis. Finally, make sure to include a strong conclusion that ties everything together. 
+STUDENT: How do I make my essay stand out?
+COACH: To make your essay stand out, you should focus on crafting a unique and engaging narrative. Think about how you can use stories, anecdotes, and other personal experiences to illustrate your points. Additionally, make sure to use vivid language and avoid cliches or overly-generic phrases. Finally, make sure to proofread your essay multiple times and get feedback from others to ensure that it is free of errors.

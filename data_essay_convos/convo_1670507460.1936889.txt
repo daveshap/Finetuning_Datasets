@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: That's a great question. Before we dive into the writing process, let me ask you a few questions. What is the topic of your essay? What is the purpose of your paper? Who is your audience? 
+STUDENT: My essay is about the effects of climate change on agriculture. The purpose of the paper is to explain the negative impacts and potential solutions. My audience is my college professor.
+COACH: Great. Now that we have a better understanding of your essay, let's talk about how to craft a strong opening. One of the best ways to start an essay is by using a hook. This could be a quote, a statistic, a story, or an interesting fact. It should grab the reader's attention and make them want to read more. After the hook, you can provide some background information about the topic and explain why it is important. That will help set up the rest of your essay.

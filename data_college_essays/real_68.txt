@@ -1,0 +1,11 @@
+In the summer after my sophomore year, I applied to the Stanford Program for Inspiring the Next Generation of Women in Physics (SPINWIP). In the application, I was told to write about why I was interested in astrophysics and quantum computing, two subjects I didn't even know existed. I answered truthfully and mentioned how I only wanted to make connections with my interest in biochemistry and other science. Surprisingly I was admitted in as one of the 83 women in the program. 
+
+Before the start of the program, students were divided into groups of around eight and assigned a group counselor to have a one-on-one introduction with. Meeting with my group's counselor, who was a physics graduate student from Stanford University, was an inspiring moment. I told her why I was attending the program and she encouraged me not only to look for connections with physics but also with computer science. 
+
+The first week of the program was spent introducing and teaching the basics of Python. Though I had difficulty completing the practice exercises, I found it rewarding when the code worked. I also enjoyed attending our group's daily meetings and solving the exercises with members, some of whom were from Brazil and China. 
+
+The second week was mainly spent on forming connections between Python, astrophysics, and cosmology. We had guest speakers from organizations such as NASA give us insightful presentations and answer student questions. This week was the most interesting to me, not only because of the introduction to physics but also because of the connection I was starting to see between coding and science. 
+
+The third and final week was spent introducing NumPy and teaching us about the college process and summer opportunities. By this week, I had an easier time grasping Python and was even able to make a connection to data science. 
+
+Though I was initially doubtful, I'm glad that I attended this program. It provided me with so many useful connections between biochemistry, astrophysics, cosmology, and science and has helped me form an interest in subjects that I never thought I would be interested in. 

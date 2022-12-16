@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and Yale and I'm having trouble coming up with a topic for my essay.
+COACH: That's understandable. Can you tell me a bit more about yourself and what you're passionate about?
+STUDENT: Well, I'm from Europe and I'm interested in Buddhism. But I don't feel like I'm very interesting as a person.
+COACH: That's okay. Everyone has something unique to offer. Maybe we can start by exploring your experiences with Buddhism and how it has impacted your life. What have you learned from it?
+STUDENT: Well, I think Buddhism has taught me to be more mindful and present in the moment. It's also given me a greater appreciation for the world around me.
+COACH: That's great! What else?
+STUDENT: It has also helped me understand the importance of living with intention and being aware of my actions and their consequences.
+COACH: Wonderful. So, how could you use these lessons to craft an essay about yourself that would be interesting to the admissions committees at Harvard and Yale?

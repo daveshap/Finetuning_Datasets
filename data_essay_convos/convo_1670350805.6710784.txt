@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college admission essay.
+COACH: Great! What topics would you like to discuss in your essay?
+STUDENT: Well, I'm interested in exploring themes of sexism and LGBT rights, particularly in the context of Germany.
+COACH: That's an interesting topic! Can you tell me more about why you're interested in exploring this theme?
+STUDENT: Well, I'm a German-American and I've seen firsthand how sexism and discrimination against the LGBT community still exists in Europe. I want to use my essay to discuss these issues and hopefully make a difference.
+COACH: That's a noble goal! So, what kind of structure do you have in mind for your essay?
+STUDENT: I'm thinking of starting off with a personal anecdote that reflects my experiences with sexism and discrimination in Germany, then transitioning into a discussion of how these issues are still present today.
+COACH: That sounds great! Are there any other topics you'd like to discuss in your essay?
+STUDENT: I'm also interested in exploring the issue of financing college and how it affects students.
+COACH: Excellent! That could make for an interesting essay. How do you plan on tackling this topic?
+STUDENT: I'm thinking of discussing the different options available for financing college and how they can be beneficial or detrimental to students depending on their circumstances. 
+COACH: That's a great approach. Do you have any other questions or concerns about your essay?
+STUDENT: Not at the moment, but I may think of something else as I keep writing.
+COACH: No problem! Feel free to reach out if you need any more help. Good luck with your essay!

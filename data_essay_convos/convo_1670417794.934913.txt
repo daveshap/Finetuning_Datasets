@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help with my admissions essay.
+COACH: Alright, what kind of college are you applying to? 
+STUDENT: I'm applying to an engineering school. 
+COACH: Got it. What kind of topics or themes do you want to focus on in your essay? 
+STUDENT: Well, I'm really passionate about creativity and art, but I'm also interested in engineering. So I'm trying to figure out how to combine the two in my essay.
+COACH: That sounds like a great idea! It's always a good idea to showcase your passions and interests in your admissions essay. Have you thought about any specific topics or areas that you'd like to focus on? 
+STUDENT: Yes, I was thinking about writing about how creativity and engineering can work together to create new solutions and innovations.
+COACH: That's a great idea! It sounds like you have a clear direction for your essay. Now, let's talk about the structure of your essay. What kind of format do you want to use? 
+STUDENT: I think I want to use a narrative format, so I can tell a story about how creativity and engineering work together.
+COACH: That's a great idea. Narrative essays are a great way to bring your story to life and make it more engaging. Now, let's talk about the content of your essay. What kind of evidence and examples do you want to include in your essay? 
+STUDENT: I want to include examples of how creativity and engineering have been used in the past to create new solutions and innovations. 
+COACH: That's a great idea. It's important to include evidence and examples in your essay to support your argument and show that you understand the topic. Now, let's talk about the conclusion of your essay. How do you want to wrap up your essay? 
+STUDENT: I want to end my essay by highlighting the importance of creativity and engineering working together to create new solutions and innovations. 
+COACH: That's a great way to end your essay. Make sure you provide a clear summary of your main points and a strong call to action. Now, let's talk about scholarships and grants. How can you get access to them and why does an admission essay matter when applying for them? 
+STUDENT: Scholarships and grants are available through a variety of sources, including universities, private organizations, and government agencies. An admission essay can be a great way to stand out from other applicants and show that you have the skills and knowledge needed to succeed in college.

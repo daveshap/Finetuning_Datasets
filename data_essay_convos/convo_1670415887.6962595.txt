@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help with my personal statement for Duke University.
+COACH: Alright, let's start by discussing why college matters to you and why you want to attend Duke in particular. 
+STUDENT: Well, I think college is important because it can open up a lot of opportunities for me in the future. I've always been interested in Duke University because of its prestigious reputation and the fact that it has a great academic program.
+COACH: That sounds like a great reason to attend Duke, but what about you personally? What makes you a good fit for the university?
+STUDENT: I'm not sure, I don't think I'm particularly interesting as a person.
+COACH: That's understandable, but I'm sure there are some things about you that make you unique. What experiences have you had that have shaped who you are today?
+STUDENT: Well, I was born and raised in Vietnam and immigrated to the US when I was fifteen. That experience has really shaped my outlook on life and how I view the world.
+COACH: That's a great experience to include in your essay! Can you tell me more about what you learned from your experience of immigrating to the US?
+STUDENT: Sure, I learned a lot of valuable lessons. I learned the importance of hard work and dedication, as well as the importance of resilience and adaptability. Moving to a new country was a huge challenge, but I was able to adjust and make the most of the opportunity.
+COACH: Those are great qualities to include in your essay. Can you think of any other experiences or qualities that make you stand out as a person?
+STUDENT: Well, I'm also very passionate about music. I've been playing the piano for over ten years, and it's something I really enjoy doing.
+COACH: That's wonderful! It sounds like you have a lot of experiences and qualities that make you a great candidate for Duke. Is there anything else you feel is important to include in your essay?
+STUDENT: Yes, I think it's important to mention my commitment to service. I'm an active volunteer in my community, and I'm passionate about giving back and helping others.

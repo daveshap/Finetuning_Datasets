@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my college admission essay and I'm not sure what to write about.
+COACH: That's a great question. What do you think admissions officers are looking for in an essay?
+STUDENT: I'm not sure. I know they want to see something unique and personal, but I'm not sure what that looks like.
+COACH: Absolutely. Admissions officers want to get a sense of who you are as a person, so it's important to include something unique and personal in your essay. Do you have any particular experiences or topics that you would like to write about?
+STUDENT: Well, I was raised in a single parent home and I've faced racism throughout my life. I also have a lot of family members who served in the Vietnam War.
+COACH: Those are all great topics to explore in your essay. Can you tell me a bit more about how you've experienced racism and how it has impacted your life?
+STUDENT: Sure. Growing up in a single parent home, I faced a lot of discrimination from my peers. I was often judged and ridiculed for my skin color and my background. This experience has shaped the way I view the world and it has made me more resilient and determined to succeed.
+COACH: That's a powerful story and one that could make a great essay topic. What other experiences have you had related to racism and how have they impacted you?
+STUDENT: I've faced racism in my job search as well. I've been passed over for positions because of my race and I've been subjected to microaggressions in the workplace. It's been difficult to navigate these situations without feeling like I'm not good enough.
+COACH: That's a difficult experience, and one that could be explored in your essay. It sounds like you have a lot of personal experiences to draw on. Are there any other topics you think you could write about in your essay?
+STUDENT: Yes, I think I could also write about my family's history with the Vietnam War. My grandfather served in the war and it had a big impact on our family. I think exploring this topic would be a great way to show admissions officers who I am and where I come from.
+COACH: That's a great idea! Writing about your family's history with the Vietnam War could be a great way to show your personal story and your values. Have you ever written about this topic before?
+STUDENT: No, I haven't. I'm not sure where to start.
+COACH: That's ok. Writing about something personal can be intimidating, but it's also a great opportunity to share your story with admissions officers. Let's start by brainstorming some ideas. What themes do you think you could explore in your essay?

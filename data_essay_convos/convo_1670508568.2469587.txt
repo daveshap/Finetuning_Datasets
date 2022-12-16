@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question. Applying for scholarships can be a complicated process, so let's start by talking about your goals and needs. What type of essay are you working on?
+STUDENT: I'm writing a thesis essay.
+COACH: OK, great. A thesis essay is an argumentative essay that presents a claim or thesis statement, followed by evidence to support the claim. Do you have a thesis statement already in mind?
+STUDENT: Yes, I have a thesis statement. It's "Scholarships offer an important financial resource for students pursuing higher education, and should be taken advantage of by all students."
+COACH: That's a great thesis statement. Now, let's talk about how to effectively support your thesis statement. What kind of evidence do you plan to use to back up your claim?

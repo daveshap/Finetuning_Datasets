@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: Generally speaking, a college admissions essay should be between 500 and 800 words. However, some schools may have different requirements, so make sure to check the specific guidelines for your school.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include information about why you are interested in the medical field, what experiences you have had that have shaped your interest, and how you believe you can contribute to the field. It should also reflect your personality, values, and goals. 
+STUDENT: How do I make my essay stand out?
+COACH: One way to make your essay stand out is to focus on one specific experience or moment in time that really shaped your interest in the medical field. This could be an interaction with a doctor, a volunteer experience, or anything else that has made an impact on you. Make sure to include vivid details and descriptions to make your essay come alive and make it memorable. Additionally, try to show your passion for the field by discussing your goals and how you plan to achieve them.

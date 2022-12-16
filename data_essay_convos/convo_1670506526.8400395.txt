@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that demonstrate your knowledge of the topic, your ability to think critically and express yourself in a clear and concise manner. They also look for essays that are well-structured, with an introduction, body, and conclusion that all tie together.
+STUDENT: How do I write a good thesis statement?
+COACH: A thesis statement is a one-sentence summary of the main point or claim of your essay. It should be clear, specific, and arguable. It should also be placed at the end of your introduction so that your reader knows what to expect from the rest of your essay. To write a good thesis statement, start by brainstorming and writing down your ideas. Then, narrow it down to one main point or claim that you want to argue in your essay. Finally, make sure that your thesis statement is clear, specific, and arguable.

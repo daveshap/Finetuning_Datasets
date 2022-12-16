@@ -1,0 +1,20 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student from Germany and I'm looking for help with my essay for MIT.
+COACH: Okay, great. Could you tell me a bit more about the essay you are writing? What is the topic?
+STUDENT: The essay is about my goals and personal objectives.
+COACH: Alright, so what kind of goals and objectives are you looking to discuss in your essay?
+STUDENT: Primarily, I want to focus on my academic goals and how I plan to pursue a career in science.
+COACH: That's great! What do you think makes you a good candidate for a career in science?
+STUDENT: Well, I have a strong background in mathematics and physics, and I'm passionate about pushing the boundaries of scientific knowledge.
+COACH: That's fantastic. What do you think would be the best approach to convey this passion in your essay?
+STUDENT: I think the best approach would be to focus on my experience in the field and the research I've done. I want to show that I'm serious about my goals and that I'm willing to put in the work to achieve them.
+COACH: That sounds like a great approach. What kind of research have you done?
+STUDENT: I've been involved in several research projects related to quantum mechanics and astrophysics. I've also published a few papers in scientific journals.
+COACH: That's impressive! I think it would be a great idea to highlight your research experience and academic achievements in your essay. Is there anything else you'd like to include in your essay?
+STUDENT: Yes, I'd also like to talk about my volunteer work and how it has shaped my goals and objectives.
+COACH: That's a great idea! Volunteering is a great way to demonstrate your commitment to a cause and show that you are an engaged member of the community. How do you think this should be included in your essay?
+STUDENT: I think it would be best to discuss how my volunteer work has helped me develop my skills and knowledge, and how it has influenced my goals and objectives.
+COACH: That sounds like a great approach. Anything else you'd like to include?
+STUDENT: Yes, I'd also like to talk about my extracurricular activities and how they have helped me develop my leadership skills.
+COACH: That's a great idea! Extracurricular activities are a great way to demonstrate your leadership qualities and show that you have the necessary skills to succeed. How do you think this should be included in your essay?
+STUDENT: I think it would be best to discuss how my extracurricular activities have helped me develop my communication, problem-solving, and organizational skills, and how these skills have helped me achieve my goals and objectives.

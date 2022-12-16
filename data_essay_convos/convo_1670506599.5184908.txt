@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That’s a great question. What type of essay are you working on?
+STUDENT: A thesis essay.
+COACH: Alright, so let’s start by talking about what a thesis essay is and how to approach it. A thesis essay is an essay that focuses on a specific argument or claim that you make in your paper. To write a successful thesis essay, you need to do research and come up with evidence to support your argument. You also need to make sure that your essay is well-structured and organized. Finally, you need to make sure that you use the right style and language to communicate your ideas effectively. Do you have any questions so far?

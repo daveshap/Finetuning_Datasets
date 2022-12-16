@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for college, but I'm having trouble figuring out what to write about.
+COACH: That's understandable. What are some topics that you're passionate about or have experience with?
+STUDENT: Well, I'm from Vietnam and I've been living in the US for the past few years. I'm interested in learning more about financing college and how to make it work for me.
+COACH: Great! Financing college can be a tricky subject, so it's important to research and understand the options available to you. You could start by looking into scholarships, grants, and student loans. You could also consider working part-time while in school.
+STUDENT: That's a lot of information to take in. How would I go about writing my personal statement?
+COACH: A personal statement is a great way to showcase your skills and achievements. It should reflect who you are, what your goals are, and why you are a great fit for the college you are applying to. Think about your experiences, your passions, and your strengths. What have you accomplished that you are proud of? What have you learned from your experiences? What makes you unique? These are all great things to consider when writing your personal statement.

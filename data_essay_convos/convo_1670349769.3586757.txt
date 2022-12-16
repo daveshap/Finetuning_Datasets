@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I need help with my personal statement.
+COACH: Great! What do you want to write about in your personal statement?
+STUDENT: Well, I come from a poor family and I'm a neurodiverse student. I want to talk about how I overcame the obstacles I faced to get to where I am today.
+COACH: That sounds like an interesting story. Tell me more about your background and how it has shaped you.
+STUDENT: Sure. Growing up, I had to work hard to make ends meet. My family didn't have much money and I had to take on odd jobs to help out. But despite the challenges, I was determined to succeed. I worked hard in school and eventually got accepted to Duke University.
+COACH: That's really impressive! What were some of the biggest challenges you faced along the way?
+STUDENT: One of the biggest challenges was dealing with rejection. I applied to a lot of colleges, but I was rejected from many of them. It was hard to stay motivated and keep trying, but I eventually found the strength to keep going.
+COACH: That's a great example of resilience and determination. How did you manage to stay motivated despite the rejections?
+STUDENT: I kept reminding myself that I was capable of achieving my goals despite the odds. I also had a lot of support from my family and friends, which helped me stay positive.
+COACH: That's really inspiring. Is there anything else you'd like to talk about in your essay?
+STUDENT: Yes, I'd also like to talk about how being neurodiverse has shaped my life. I think it's important to share my experiences so that other neurodiverse students know they're not alone.

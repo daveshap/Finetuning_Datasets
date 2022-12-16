@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admission is a competitive process. Colleges and universities typically have a set of criteria that they use to evaluate applicants. This can include grades, test scores, extracurricular activities, essays, and letters of recommendation. It's important to make sure you understand the requirements of the college or university you're applying to so you can tailor your application to meet their standards.
+STUDENT: What should I include in my essay?
+COACH: Your essay should reflect your creativity and personality while still being focused on the topic. Make sure to include relevant information about yourself, such as your accomplishments, interests, and goals. You should also include research to support your points and demonstrate your knowledge of the subject. Make sure to proofread your essay for any errors and ensure it flows well.

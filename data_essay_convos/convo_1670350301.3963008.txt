@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and I have no idea what to write about in my college admission essay.
+COACH: That's a great question. Let's start by talking about your interests. What topics do you find yourself drawn to?
+STUDENT: Well, I'm really interested in neurodiversity. I think it's an important topic that needs to be discussed more.
+COACH: That's a great topic to explore. Neurodiversity is an interesting and complex issue that could make for an excellent essay topic. Can you tell me a bit more about why this topic interests you?
+STUDENT: Sure. I think neurodiversity is important because it can help us understand how different people think and process information differently. I'm passionate about the idea that everyone should be respected and accepted for who they are, regardless of their neurological differences.
+COACH: That's a wonderful perspective. It sounds like you have a lot of passion and enthusiasm around this topic. Would you be interested in exploring it more in your essay?
+STUDENT: Yes, definitely. I think it would be a great way to show the admissions committee at Harvard that I'm passionate about understanding and celebrating diversity.
+COACH: That's a great idea. You could start by researching different aspects of neurodiversity, such as the history of the movement, current research, or personal stories. This will give you a better understanding of the topic and help you form your own opinion. From there, you can craft a compelling argument and use your research to support it.

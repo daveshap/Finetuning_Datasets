@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question. What type of essay are you writing?
+STUDENT: A personal statement for law school.
+COACH: Okay, a personal statement for law school. What do you want to include in your essay?
+STUDENT: I want to talk about my experience with the law, my interest in the legal profession, and why I think I'm a good fit for law school.
+COACH: That's great. Let's start by discussing your experience with the law. Can you tell me more about that?
+STUDENT: Sure. I've been involved in a few legal cases before, and I've also taken some classes related to the law.
+COACH: Great. What did you learn from those experiences?
+STUDENT: I learned about the importance of understanding the law and the consequences of not following it. I also learned how to think critically about legal arguments and make persuasive arguments.
+COACH: That's great. Now, what made you interested in the legal profession?
+STUDENT: I've always been interested in justice and fairness. I believe that the law is an important tool to ensure that everyone is treated equally and fairly.
+COACH: That's a wonderful sentiment. So, why do you think you're a good fit for law school?
+STUDENT: I think I have the necessary skills to be successful in law school. I'm a critical thinker, I'm great at research, and I'm passionate about justice and fairness. I think these qualities will help me to excel in law school.

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college admission essay.
+COACH: Great! Can you tell me a bit more about the essay? What are you looking to write about?
+STUDENT: Well, I'm applying to medical school and I'm a refugee from the Middle East. I want to talk about my experience as a refugee and how it's shaped who I am today.
+COACH: That sounds like a great topic! What specifically do you want to focus on?
+STUDENT: I'm not sure. I want to talk about how my experience as a refugee has impacted my view of the world and how it's influenced my decision to pursue medicine.
+COACH: That's a very powerful topic. What kind of experiences do you want to highlight?
+STUDENT: Well, I want to talk about the struggles I faced as a refugee and how I overcame them. I also want to talk about how my faith, Islam, has been a source of strength for me during difficult times.
+COACH: That's wonderful. I think it's important to emphasize how your faith has given you strength and resilience in the face of adversity. You could also talk about how your experience as a refugee has made you more compassionate and understanding towards others. How do you think these experiences have shaped your desire to become a doctor?
+STUDENT: I think they've made me realize that everyone is deserving of quality healthcare, no matter their background or beliefs. I also think they've made me more aware of the need for doctors who understand and empathize with the unique struggles that refugees face.
+COACH: That's a great point. You could also talk about how your experience has made you more aware of cultural differences and how this will make you a better doctor. How do you think your experiences as a refugee have prepared you for the rigors of medical school?
+STUDENT: I think it's given me a greater appreciation for the importance of hard work and dedication. I'm used to working hard and pushing through difficult situations, and I think that will serve me well in medical school. I'm also used to being resourceful and finding creative solutions to problems, which I think will be an asset in medical school.

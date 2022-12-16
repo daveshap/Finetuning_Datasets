@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Applying to college requires you to submit an application, which typically includes a personal essay. This essay is your chance to show the admissions committee who you are and why you would be a good fit for the college.
+STUDENT: What should I include in my essay?
+COACH: That depends on the prompt you are given. Generally, admissions essays should include information about your background, experiences, and goals. You should also explain why you are interested in the college and what makes you a good fit for it. It’s also important to tell a story about yourself that will help the admissions committee get to know you better. 
+STUDENT: What should I avoid when writing my essay?
+COACH: Avoid writing about topics that are too general or cliché. Also, try to stay away from topics that could be seen as controversial or offensive. Additionally, don’t use overly technical language or jargon. Finally, make sure to proofread your essay and check for any grammatical errors.

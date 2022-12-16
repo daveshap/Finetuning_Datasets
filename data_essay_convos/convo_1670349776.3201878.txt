@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to law school and I'm trying to figure out what to write about for my personal statement.
+COACH: Great! What about your background would you like to include in your essay? 
+STUDENT: Well, I come from a poor family and I'm the first one to go to college. I'm an engineering major.
+COACH: That's really impressive. What makes you passionate about attending law school? 
+STUDENT: I want to use my engineering background to help people in need. I believe that law is a powerful tool for social justice and I want to use it to make a difference.
+COACH: That's admirable. What do you think attending college has done for you? 
+STUDENT: College has opened up so many doors for me. It has given me the opportunity to learn and grow as a person, to challenge myself, and to meet new people. It has also made me realize how important education is and why it matters.

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question. Let's start by talking about what your essay is about and what you want to achieve with it. What is the topic of your essay?
+STUDENT: My essay is about the impact of technology on society.
+COACH: Okay, so you want to explore how technology has changed the way people live and interact with each other. That's an interesting topic. What kind of research have you done so far?
+STUDENT: I've been researching the history of technology and its effects on society. I've also been looking into current trends and how they are shaping our lives.
+COACH: That's great. Now, let's talk about your thesis statement. What is your main argument or point that you want to make in your essay?
+STUDENT: My thesis statement is that technology has had both positive and negative effects on society, but the positives outweigh the negatives.
+COACH: That's an excellent thesis statement! Now, let's discuss how you can support it. What evidence do you have that supports your argument?
+STUDENT: I have statistics and research on how technology has increased productivity and efficiency, as well as improved communication and access to information. I also have examples of how technology has caused problems such as privacy issues and cyber-bullying.
+COACH: Great. Now, let's talk about structure. How are you organizing your essay?
+STUDENT: I'm planning to start with an introduction that outlines my thesis statement, then move on to the body of the essay where I will discuss the positive and negative effects of technology in detail. I'll then provide evidence to support my argument and finish with a conclusion that summarizes my main points.

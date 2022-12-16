@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That depends on what you want to achieve with the essay. What kind of grant are you applying for?
+STUDENT: I'm applying for a scholarship to help with tuition costs.
+COACH: Great! So, the essay should focus on why you are a good candidate for the scholarship. What experiences do you have that make you a good fit for the program?
+STUDENT: Well, I've been involved in volunteer work for several years and I'm also an active member of my school's debate team.
+COACH: That's great! You should use those experiences to demonstrate your commitment to the scholarship program. Talk about the skills you've developed through volunteering and debate, and how they make you a perfect candidate for the scholarship. Show the selection committee that you are passionate about the program and have the skills to make a positive contribution.

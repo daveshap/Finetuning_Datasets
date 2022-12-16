@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there! I'm looking for help with my admissions essay. I want to make sure it's engaging and stands out from the rest.
+COACH: That's a great goal! Can you tell me a bit more about what you're hoping to accomplish with your essay?
+STUDENT: Well, I want to write about my experience in Thailand last year. It was a life-changing experience and I want to make sure I convey that in my essay.
+COACH: That sounds like a great topic! What specifically do you want to focus on in your essay?
+STUDENT: I want to talk about how living in Thailand helped me gain a new perspective on life and how it changed my personal objectives and goals.
+COACH: That sounds very interesting. Can you tell me a bit more about what those changes were?
+STUDENT: Sure! Living in Thailand made me realize that there is so much more to life than just material possessions and status. I realized that the most important thing is to be true to yourself and find happiness in the little things.
+COACH: That's a great insight! So, how do you plan to incorporate that into your essay?
+STUDENT: Well, I want to start off by talking about my experience in Thailand and then use that to explain how my perspective has changed and how it has impacted my personal objectives and goals.
+COACH: That sounds like a great plan! Do you have any other questions about your essay before we get started?
+STUDENT: Yes, actually. I was wondering how financing college works. I'm not sure if I should include that in my essay or not.
+COACH: Financing college can be a tricky subject. It's best to consult with a financial aid advisor to make sure you understand all of the options available. However, if you want to include it in your essay, it's important to make sure you discuss it in a way that shows that you understand the complexities of the system and how it affects your goals.

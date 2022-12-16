@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Great question! Scholarships are a form of financial aid that are awarded to students who demonstrate academic excellence or have certain special characteristics. Usually, scholarship applications require an essay, and that's what you need help with, right?
+STUDENT: Yes, I'm having trouble writing an argumentative essay for a scholarship application.
+COACH: Alright, let’s get started. Argumentative essays are all about presenting a strong opinion and using evidence and logic to back it up. What is the topic of your essay?
+STUDENT: The topic is why student athletes should receive additional funding from universities.
+COACH: Okay, so your goal is to convince the reader that student athletes should receive additional funding. To do this, you'll need to present evidence to support your argument. This can include statistics, quotes from experts, or examples from real life. You'll also need to anticipate and address counterarguments. Do you have any questions so far?

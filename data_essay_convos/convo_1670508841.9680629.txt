@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Rejection is a normal part of the writing process. It's important to remember that you can learn from rejection and use it as an opportunity to improve your writing. Let's talk about your essay. What kind of essay are you working on?
+STUDENT: I'm writing a term paper.
+COACH: Great! What topic have you chosen for your term paper?
+STUDENT: I'm writing about the impact of technology on the modern workplace.
+COACH: That sounds like an interesting topic. Before we start, let's discuss the purpose of your essay. What do you want your essay to accomplish?

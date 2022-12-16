@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about why college matters to me.
+COACH: That's a great topic! Can you tell me a bit more about why it's important to you?
+STUDENT: Well, I'm applying to MIT and I want to make sure that my essay really stands out. I'm also interested in exploring how college can help me embrace my neurodiversity.
+COACH: That's an interesting angle! What do you mean by neurodiversity?
+STUDENT: Neurodiversity is a concept that recognizes that neurological differences like autism, dyslexia, and ADHD are normal variations in the human population. I think it's important to recognize and celebrate these differences, and I want to explore how college can help me do that.
+COACH: Absolutely! It sounds like you have a lot of ideas about why college matters to you. Can you give me a few examples of what you're thinking of?
+STUDENT: Sure! For one, I'm interested in learning more about my faith, Islam. I think college will give me the opportunity to explore my religion and its history in a way that I wouldn't be able to do anywhere else. I'm also interested in exploring how college can help me become a better advocate for neurodiversity. Finally, I'm curious about how financing college works and how I can make it work for me.
+COACH: Great! Those are all excellent topics for your essay. Let's start with the first one, learning about your faith. What kind of research have you done so far? What sources have you consulted?

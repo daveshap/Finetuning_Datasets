@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to get into grad school and I need help with my essay.
+COACH: Great! What kind of grad school are you applying to?
+STUDENT: I'm applying to Harvard for a master's degree in Islamic studies.
+COACH: Interesting! What inspired you to pursue Islamic studies?
+STUDENT: I've always been passionate about learning about different cultures and religions, and Islam has always been particularly fascinating to me. I'm also interested in the science behind it, so I thought pursuing a master's degree in Islamic studies would be a great way to combine my love of learning and my passion for science.
+COACH: That's wonderful! What do you think makes you an ideal candidate for this program?
+STUDENT: I believe my academic background in both science and religion make me an ideal candidate for this program. I have a strong background in both fields, and I'm confident that I can bring a unique perspective to the program. Additionally, I'm a hard worker and a dedicated student who is always eager to learn and grow.

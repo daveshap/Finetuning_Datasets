@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm trying to write a personal statement for college and I'm not sure what to write about.
+COACH: Alright, let's start by talking about what you're interested in. What topics do you find yourself drawn to?
+STUDENT: Well, I'm really interested in politics, especially in Europe.
+COACH: That's great! Do you have any particular issues or topics within European politics that you're particularly passionate about?
+STUDENT: Yes, I'm really interested in the rise of populism in Europe and the effects it has on democracy.
+COACH: That's an excellent topic to focus on. What specifically do you find interesting about this issue?
+STUDENT: I think it's fascinating how populist movements can have such a profound effect on the political landscape in a relatively short amount of time.
+COACH: Absolutely. So, what do you think are the implications of these movements for the future of Europe?
+STUDENT: I think it's difficult to say for certain, but I think it could lead to either a more democratic and unified Europe, or a more divided and fractured one.
+COACH: That's a great point. How do you think your interest in this topic can be used in your personal statement?
+STUDENT: I think I could use it to demonstrate my passion for politics and my understanding of the current political climate in Europe. I could also talk about how this issue has shaped my view on the importance of democracy and the need for citizens to engage in the political process.

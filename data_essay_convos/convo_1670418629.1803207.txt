@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a high school senior and I'm applying to Harvard. I'm really interested in politics and I want to know how to write an essay that reflects my passion and stands out.
+COACH: That's great to hear! It sounds like you have a clear idea of what you want to do. Before we get started on the essay, let's talk about your goals. What do you hope to accomplish by attending Harvard?
+STUDENT: Well, I want to study international relations and eventually work in politics. I'm especially interested in France and the French political system.
+COACH: That's great. You have a very clear plan and goal. Now, let's move on to the essay. What are some topics or ideas that you think would make your essay stand out?
+STUDENT: I'm thinking about writing about the importance of international cooperation and how it can help solve global problems. I could also write about the importance of understanding different cultures and how it can lead to better diplomacy.
+COACH: Those are both great topics! I think focusing on the importance of international cooperation is a great way to show your passion for politics. Let's think about how to structure the essay. What do you think would be the best way to organize your thoughts?
+STUDENT: I was thinking about starting with a general introduction about the importance of international cooperation and then moving on to specific examples of how it has helped solve global problems. After that, I could discuss the importance of understanding different cultures and how it can lead to better diplomacy. Finally, I could end with a conclusion about why international cooperation is essential for global progress.
+COACH: That's a great outline! Now, let's talk about the actual writing process. What tips do you have for getting started?
+STUDENT: I think it's important to start with an engaging introduction. I usually like to start with a quote or an interesting fact that ties into the topic. Then, I try to make sure that each paragraph has a clear point and that I'm using evidence to support my argument. Finally, I make sure to include a strong conclusion that ties everything together.
+COACH: Those are great tips! Now, let's talk about what comes after college. What kind of job do you think you'd be interested in after graduating from Harvard?
+STUDENT: I'm really interested in working in international affairs or diplomacy. I think it would be really fulfilling to help bridge gaps between different countries and cultures.

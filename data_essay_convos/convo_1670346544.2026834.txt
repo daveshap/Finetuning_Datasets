@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my college application and I'm having trouble coming up with a topic.
+COACH: What kind of essay are you writing? Is it about yourself, your academic or professional goals, or something else?
+STUDENT: It's supposed to be about my academic goals and why I'm a good fit for the school I'm applying to.
+COACH: That's great! What school are you applying to?
+STUDENT: I'm applying to MIT.
+COACH: Wow, that's an impressive school! What do you think makes you a good fit for MIT?
+STUDENT: Well, I'm really passionate about creativity and art and I think that could be a great fit for MIT. I also have a lot of volunteer experience and I'm very dedicated to giving back to my community.
+COACH: That sounds like a wonderful combination of qualities. It sounds like you have a lot of potential to make a positive contribution to the MIT community. How can you use your essay to convey this?
+STUDENT: I think I could focus on my volunteer work and how it has shaped my values, and then talk about how those values align with what I want to study at MIT.
+COACH: That sounds like a great plan. What else do you think would make your essay stand out?
+STUDENT: I'm not sure. I want to make sure it's engaging and interesting.
+COACH: Engaging essays usually include anecdotes or stories that bring your experiences to life. You could also talk about how you've taken initiative in your volunteer work or how you've used your creativity to solve problems.
+STUDENT: That's a great idea. I think I can definitely incorporate some stories into my essay.
+COACH: Great! Is there anything else you need help with?
+STUDENT: Yeah, actually. I'm not sure how financing college works.
+COACH: Financing college can be complicated, but there are a few options available to help you pay for your education. You can apply for grants and scholarships, take out student loans, or look into work-study programs. Each of these options has its own advantages and disadvantages, so it's important to do your research and find the one that works best for you.

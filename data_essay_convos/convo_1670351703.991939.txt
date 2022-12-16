@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help writing a college essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's an essay for admission to Yale Law School.
+COACH: Okay, that's a great goal! What kind of information do you need help with?
+STUDENT: Well, I'm not sure where to start. I'm from the Philippines and I'm not sure how to make my essay stand out.
+COACH: That's a great question! First, let's talk about the parts of an essay. Every essay needs an introduction or hook, a body, and a conclusion. How can you make each section stand out?
+STUDENT: I'm not sure...
+COACH: Let's start with the introduction. What can you say in the first paragraph to make your essay stand out?
+STUDENT: Well, I could talk about my experience growing up in the Philippines and why that has shaped my desire to pursue a law degree.
+COACH: That's a great idea! You can use that as the basis for your introduction. Now, what can you include in the body of your essay?
+STUDENT: I can talk about my academic achievements, extracurricular activities, and any other experiences that have helped me develop the skills I need to be successful in law school.
+COACH: Perfect! And finally, what can you write in the conclusion to tie everything together?
+STUDENT: I can talk about how my experiences have prepared me to excel in law school and why I believe I would be a great addition to the Yale Law School community.
+COACH: That's great! Now, before you start writing, do you have any questions about scholarships or grants that you might be eligible for?
+STUDENT: Yes, I'm not sure how to go about applying for those.
+COACH: That's a great question! There are a few different ways to apply for scholarships and grants. First, you can look online for scholarships and grants that are specific to your area of study. You can also reach out to organizations or companies in your field and ask if they have any available scholarships or grants. Finally, you can contact the financial aid office at the school you're applying to and ask about any available funding opportunities.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student applying to UNC and I'm having trouble writing my essay. 
+COACH: That's great that you're applying to UNC. Can you tell me more about your essay? What is it about?
+STUDENT: Well, I want to write about my passion for Buddhism and why it matters to me.
+COACH: That sounds like a great topic for an essay. Can you tell me more about why Buddhism matters to you?
+STUDENT: Sure. Buddhism has been a part of my life since I was a child. It's given me a sense of peace and stability that has helped me through difficult times. It's also helped me to think more deeply about the world and my place in it.
+COACH: That's wonderful. So, why do you think that this passion for Buddhism should matter to the admissions officers at UNC?
+STUDENT: I think it shows that I'm open-minded and have a deep understanding of the world around me. It also demonstrates that I'm passionate about something and that I'm willing to learn and grow.
+COACH: That's a great point. It also shows that you understand why college matters. Can you tell me more about why college matters to you?
+STUDENT: College is important because it gives me the opportunity to continue learning and exploring new ideas. It's also a chance to gain new skills and knowledge that will help me in my future career. It's also a great way to meet new people and build a network of professionals who can help me in my future endeavors.

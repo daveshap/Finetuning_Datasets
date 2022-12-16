@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to UNC and UCLA and need help writing my personal statement.
+COACH: Great! Can you tell me a bit more about what you plan to write about?
+STUDENT: Well, I want to talk about my experience with sexism in France.
+COACH: That's an interesting topic. Could you tell me more about why you chose this particular topic?
+STUDENT: Well, it's something that I've experienced first-hand while living in France and I want to use it as an example of how sexism is still prevalent in many places.
+COACH: That's a great point. What do you think the admissions committee at UNC and UCLA should take away from your essay?
+STUDENT: I want them to understand that sexism is still an issue that needs to be addressed and that there are still people who are affected by it every day.
+COACH: That's a powerful message. How do you plan to convey that message in your essay?
+STUDENT: I want to focus on my own experiences and how they have shaped my views on the issue. I also want to talk about how I've seen sexism in other places and how it has impacted me.
+COACH: That's a great plan. Are there any other aspects of the topic that you would like to cover?
+STUDENT: Yes, I want to talk about what can be done to address the issue and how it can be prevented in the future.
+COACH: That's an important part of the essay. What do you think are some of the solutions that could be implemented to tackle this issue?
+STUDENT: I think education is key. People need to be made aware of the issue and taught how to recognize it when they see it. I also think that governments need to take action and create laws that protect people from discrimination.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: A college admissions essay gives the admissions committee a deeper look into who you are as a person, beyond the grades and test scores. It allows you to show your personality, values, and goals, and how you can contribute to the college's community. It is also an opportunity to demonstrate your writing skills and show that you can communicate effectively. 
+STUDENT: What topics should I avoid when writing my essay?
+COACH: You should avoid topics that are too controversial or polarizing, such as topics related to politics, religion, or social issues. You should also avoid topics that are overdone, such as talking about how you want to save the world or how you overcame a major obstacle. Instead, focus on something unique or interesting about yourself that will make you stand out from other applicants. 
+STUDENT: How should I structure my essay?
+COACH: A good structure for an argumentative essay is to start with an introduction that states your thesis statement and provides an overview of the points you will make in your essay. Then, you should have several body paragraphs that each present a different point in support of your thesis. Finally, you should end with a conclusion that summarizes your main points and reinforces your thesis. 
+STUDENT: What tips do you have for making my essay stand out?
+COACH: One way to make your essay stand out is to use vivid language and imagery to bring your story to life. You can also use personal anecdotes to illustrate your points. Also, be sure to proofread your essay carefully and make sure it is free of any grammar or spelling errors. Finally, try to make your essay unique and memorable by adding your own voice and perspective.

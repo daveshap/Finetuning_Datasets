@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admission essay is an important part of the college application process. It gives you the opportunity to showcase your personality and highlight your strengths, as well as demonstrate your writing skills. It can help you stand out from other applicants and give the admissions committee a better understanding of who you are and why you should be accepted.
+STUDENT: What kind of research should I do for my essay?
+COACH: When researching for an essay, it's important to gather reliable sources and information. You should look for articles, books, and websites that provide reliable facts and evidence that support your argument. You should also use credible sources, such as peer-reviewed journals, published books, and government websites. Additionally, you should make sure to cite any sources you use in your essay.

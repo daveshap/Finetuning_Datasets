@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to college and am having some trouble writing my personal statement.
+COACH: That's understandable. What colleges are you applying to?
+STUDENT: I'm applying to Harvard, NCSU, and a few universities in Thailand.
+COACH: Okay, great. Tell me more about your personal statement. What topics do you want to focus on?
+STUDENT: I want to focus on how my creativity and art have shaped who I am as a person.
+COACH: That's an interesting topic. How have your creativity and art impacted you?
+STUDENT: Well, I've been doing art since I was very young and it's always been a passion of mine. It's helped me express myself in ways that words can't and it's also been a great outlet for stress and anxiety.
+COACH: That's a great point. What else would you like to include in your personal statement?
+STUDENT: I'd like to include how my experiences in Thailand have shaped my perspective on life and how I approach challenges.
+COACH: That's an excellent idea. Could you tell me a bit more about your experiences in Thailand and how they've impacted you?
+STUDENT: Sure! I've traveled to Thailand multiple times and each time I go, I'm exposed to new cultures and ideas. It's really opened my eyes to different ways of thinking and has made me more open-minded. It's also given me a greater appreciation for the world around me and has taught me to be more creative in problem-solving.

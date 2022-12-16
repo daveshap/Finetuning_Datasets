@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experience of overcoming obstacles in my life.
+COACH: That sounds like a great topic! Can you tell me a bit more about your experience?
+STUDENT: Sure. I grew up in France and moved to Thailand when I was 18. When I first arrived, I faced a lot of rejection because of my race and religion. I was Christian and the majority of people in Thailand are Buddhist.
+COACH: Wow, that must have been difficult. How did you cope with the rejection?
+STUDENT: At first, it was really hard. I felt like I didn't belong and I was constantly being judged for my beliefs. But then I decided to use the situation as an opportunity to learn more about politics, culture, and religion. I started to engage in conversations with people who had different opinions and I was able to understand their perspectives. Through this process, I was able to gain a better understanding of the world and I was able to overcome the obstacles I faced.
+COACH: That's an inspiring story! What lessons did you take away from this experience?
+STUDENT: I learned that no matter how different we may seem on the surface, we all have common values and beliefs that can unite us. I also realized that it's important to be open to different perspectives and to be willing to learn from others. Lastly, I learned that it's possible to overcome any obstacle if you have the right attitude and are willing to work hard.

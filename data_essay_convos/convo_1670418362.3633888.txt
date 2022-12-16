@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to figure out how to apply to college.
+COACH: That's great! What kind of college are you looking to apply to?
+STUDENT: I'm thinking about applying to law school.
+COACH: Wonderful! Have you done any research on the admissions process for law school?
+STUDENT: Yes, I have. I know that having a strong application essay is important.
+COACH: Absolutely. An admission essay can make or break your application. It's a great way to show the admissions committee who you are and why you would be a great fit for the school. Can you tell me a bit more about your background and why you're interested in law school?
+STUDENT: Sure. I'm from a single-parent home and I've always been passionate about justice and advocacy. I think law school would be a great way to hone my skills and pursue a career in the legal field.
+COACH: That sounds like an excellent goal. Have you thought about which schools you'd like to apply to?
+STUDENT: Yes, I'm considering Harvard.
+COACH: That's a great school. Applying to Harvard is no easy feat, so we'll need to make sure your essay is top-notch. What kind of topics do you think you'd like to explore in your essay?

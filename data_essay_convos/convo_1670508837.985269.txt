@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Well, let's start by talking about what kind of essay you're writing. What kind of essay is it?
+STUDENT: It's a monograph.
+COACH: Great, a monograph. That's a type of essay that focuses on one particular topic in depth. Do you have a particular topic in mind or are you still deciding?

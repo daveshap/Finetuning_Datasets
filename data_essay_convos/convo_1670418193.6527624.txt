@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my personal statement for college applications and I'm having trouble figuring out what to write about.
+COACH: Alright, let's start with a few questions. What are some topics that interest you?
+STUDENT: Well, I'm really interested in learning more about China and its culture.
+COACH: That's great! What do you find most intriguing about China?
+STUDENT: I'm fascinated by the history and the different aspects of their culture. I think it would be really interesting to explore the culture more in-depth.
+COACH: That's a great topic to focus on! What aspects of Chinese culture would you like to explore further?
+STUDENT: I'd like to learn more about the language and the traditional art forms like calligraphy and painting.
+COACH: Those are both really great topics to focus on. How could you incorporate these topics into your essay?
+STUDENT: I think I could talk about how learning more about Chinese culture has inspired me to pursue a career in international relations. I'm also thinking of mentioning how my language and art studies have helped me develop a better understanding of the world.
+COACH: That sounds like a great idea! What universities are you applying to?
+STUDENT: I'm looking at Harvard, MIT, and NCSU.
+COACH: Good choices! How can you tailor your essay to each school's requirements?
+STUDENT: For Harvard and MIT, I think I can focus on how my knowledge of Chinese culture has shaped my academic and professional pursuits. For NCSU, I want to emphasize how my experiences with language and art have helped me become a more well-rounded individual.

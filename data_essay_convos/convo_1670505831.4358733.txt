@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: First, let's talk about what you're trying to achieve with your essay. What is the main goal you want to accomplish?
+STUDENT: I want to write an admissions essay for college.
+COACH: Great! An admissions essay typically has three parts: an introduction, body, and conclusion. The introduction should provide a brief overview of who you are and why you're applying. The body of the essay should focus on the specific reasons why you should be accepted. Finally, the conclusion should summarize your points and explain why you are an ideal fit for the program. Does that make sense?
+STUDENT: Yes, that makes sense.
+COACH: Great! Now let's talk about how to structure your essay. Start by brainstorming ideas and organizing them into an outline. Make sure to include a thesis statement that clearly states the main point of your essay. Once you have your outline, you can start writing your essay. Make sure to use strong evidence to back up your points and use transitions to move from one point to the next. Finally, edit and revise your essay until you feel it is ready to submit.

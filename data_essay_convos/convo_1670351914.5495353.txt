@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having a lot of trouble getting started with my essay. I'm writing about my experience traveling to China.
+COACH: Alright, let's get started. First, can you tell me why you chose to travel to China?
+STUDENT: I chose to travel to China because I wanted to experience a different culture and learn more about the Chinese language. I also wanted to see the sights and explore the country.
+COACH: That sounds like an exciting experience! What was your favorite thing about the trip?
+STUDENT: My favorite thing about the trip was meeting new people and learning about their way of life. Everyone was so welcoming and friendly, and it was really eye-opening to see how different life is in China compared to what I'm used to.
+COACH: That's great! So, what did you learn from this experience that you want to include in your essay?
+STUDENT: I learned that there is so much more to learn from traveling than just seeing the sights. Meeting new people and experiencing different cultures has opened my eyes to different perspectives, which has helped me to become more open-minded. I also learned that no matter where you go, people are all the same in some ways. We all have similar hopes and dreams, and we can all learn something from each other. 
+COACH: That's a great lesson to take away from your experience. It sounds like you have a strong foundation for your essay now. Is there anything else you would like to talk about before you get started?
+STUDENT: Yes, actually. I'm graduating soon and I'm wondering how I can find a job after college. Do you have any advice?
+COACH: Absolutely. Finding a job after college can be a challenge, but there are several things you can do to increase your chances. Networking is key, so make sure you reach out to people in your field and attend industry events. You should also research companies you're interested in and look for job postings. Finally, make sure your resume and cover letter are up to date and tailored to the position you're applying for. Good luck!

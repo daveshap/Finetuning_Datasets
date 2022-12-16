@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some advice on writing my admission essay.
+COACH: Sure, let's start by talking about why an admission essay matters. An essay is an opportunity for you to show the admissions committee who you are beyond your transcripts and test scores. It's also a way for you to demonstrate your writing skills and make a strong impression. What do you think about that?
+STUDENT: Yeah, that makes sense. I want to write a good essay that will stand out.
+COACH: Absolutely! Can you tell me what kind of topics you're considering for your essay?
+STUDENT: Well, I was thinking of writing about my experience volunteering in Vietnam.
+COACH: That sounds like a great topic! Can you tell me a bit more about it? What did you do while you were there?
+STUDENT: I worked with an NGO that supports people with neurodiversity. We helped them find employment and provided resources to help them live independently.
+COACH: That's amazing! It sounds like you had a really meaningful experience. Can you tell me more about how it impacted you?
+STUDENT: It really opened my eyes to a lot of issues that people with neurodiversity face, and it made me realize how important it is to be an advocate for them. It also made me appreciate the value of volunteer work and how it can make a difference.
+COACH: That's great! It sounds like you have a lot of material to work with for your essay. Can you tell me how you plan to structure your essay?
+STUDENT: I was thinking of starting off with a brief overview of my experience volunteering in Vietnam, then talking about the impact it had on me and how it changed my perspective on neurodiversity, and finally discussing the importance of volunteer work.
+COACH: That sounds like a great plan! Do you have any tips or resources that you'd like to share about getting started on your essay?
+STUDENT: Yeah, I've been doing some research online and there are some great resources out there. I also found a few helpful videos that explain the essay-writing process step-by-step.

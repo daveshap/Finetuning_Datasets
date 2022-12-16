@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admission essay matters because it gives the admissions committee a better understanding of who you are as an individual and how you would fit in their program. It also helps them decide if you are a good match for the program and if you have the skills and qualities they are looking for. By writing a well-crafted essay, you can show the admissions committee why you are the right fit for their program. 
+STUDENT: What should I include in my argumentative essay?
+COACH: To write a successful argumentative essay, you should include a clear thesis statement that outlines your main argument. You should then provide evidence to support your argument, such as facts, statistics, and quotes from experts. Additionally, you should anticipate counterarguments and refute them with logical reasoning. Finally, you should conclude your essay by summarizing your main points and reiterating your thesis statement.

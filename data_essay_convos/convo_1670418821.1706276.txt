@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply for scholarships and grants, but I'm having trouble coming up with a topic for my essay.
+COACH: That can definitely be a challenge! Can you tell me a bit more about yourself? What are your passions, interests, and values?
+STUDENT: Well, I'm really passionate about Judaism and my faith. I've been studying it for many years and I'm always looking for new ways to deepen my understanding of the religion. I also value education and I'm looking to attend Yale University.
+COACH: That sounds like an excellent starting point for your essay. How about writing about your journey in learning and understanding Judaism, and how it has shaped your vision for the future? You could focus on how your faith has inspired you to pursue higher education, and how you plan to use that education to make a difference in the world. 
+STUDENT: That sounds great! I think I could write a really interesting essay about that. 
+COACH: Awesome! Let's start by brainstorming some ideas. What do you think are the most important aspects of your journey with Judaism that you want to highlight? 
+STUDENT: I think the most important thing is how my faith has guided me and given me strength to pursue my goals. I also want to talk about how my faith has opened my eyes to different perspectives and helped me become a more open-minded person.
+COACH: Those are both great points. You could start by talking about how your faith has been a source of strength and guidance, and then move on to how it has broadened your perspective and allowed you to see the world in a different light. From there, you could talk about how you plan on using your education to make a difference in the world. 
+STUDENT: That sounds perfect! Thank you so much for your help. 
+COACH: You're welcome! If you need any more help, feel free to reach out. Good luck with your essay!

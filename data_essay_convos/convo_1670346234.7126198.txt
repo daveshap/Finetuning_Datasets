@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT and I'm struggling with my admissions essay.
+COACH: What kind of essay are you writing?
+STUDENT: It's a personal statement. I'm having trouble finding the right words to express my story.
+COACH: Could you tell me more about your story?
+STUDENT: Sure. I've had to overcome a lot of obstacles in my life. My parents were immigrants and I had to work hard to make it to college. I'm also a first-generation college student and I've had to face a lot of rejection along the way.
+COACH: That sounds like a very inspiring story. What do you think makes it unique?
+STUDENT: Well, I've had to travel a lot to pursue my education. I've lived in different countries and experienced different cultures. I think that this has given me a unique perspective on life and has helped me grow as a person.
+COACH: That sounds like a great starting point for your essay. What would you like to emphasize in your essay?
+STUDENT: I'd like to emphasize how I've been able to overcome adversity and use my experiences to become a better person. I also want to discuss how I plan to use my education to make a positive impact in the world.
+COACH: That sounds like a great focus for your essay. How do you plan to go about writing it?
+STUDENT: Well, I'm not sure how to organize my thoughts and make sure that I'm communicating my points clearly.
+COACH: That's a great question. One way to start is by brainstorming your ideas and organizing them into an outline. Once you have an outline, you can begin to fill in the details and make sure that your essay flows well. You can also use examples from your own life to illustrate your points and make your essay more engaging. Finally, don't forget to proofread and edit your essay to make sure it's free of errors. 
+STUDENT: That's really helpful. I think I have a better idea of how to approach my essay now. One last question, what kind of job opportunities can I expect after graduating from MIT?
+COACH: That's a great question. Graduating from MIT opens up a lot of doors for you. Depending on your interests, you could pursue a career in engineering, finance, research, or even entrepreneurship. There are also many internship and job opportunities available through the alumni network.

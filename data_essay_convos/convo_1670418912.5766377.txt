@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm working on an essay about how financing college works and I'm having trouble getting started.
+COACH: That's a great topic! Let's start by talking about what you already know. What do you understand about how financing college works?
+STUDENT: Well, I know that there are a lot of different options like scholarships, grants, loans, and work-study programs. But I'm not sure how they all fit together.
+COACH: That's a great starting point. Let's break it down further. Do you understand the differences between scholarships, grants, loans, and work-study programs?
+STUDENT: Not really. I know that scholarships and grants don't have to be paid back, but I'm not sure about the other two.
+COACH: Great! Let's start with scholarships. Scholarships are usually awarded based on academic performance, extracurricular activities, or community service. They don't have to be paid back, and they can come from a variety of sources such as universities, private organizations, or even employers. Grants are similar to scholarships, but they're usually awarded based on financial need. They also don't have to be paid back. Loans, on the other hand, do have to be paid back. They can come from the government, banks, or other lenders, and the terms and interest rates vary. Finally, work-study programs are a type of loan where the student works part-time in order to pay off the loan.
+STUDENT: Wow, that's really helpful! I think I have a better understanding now.
+COACH: Great! Now that you have a better understanding of the various financing options, let's talk about structuring your essay. What do you think the different parts of your essay should be?
+STUDENT: Well, I was thinking I could start with an introduction that explains the importance of financing college and why it's important to understand the different options. Then I could move into the body of the essay, which would explain each of the financing options in detail. Finally, I could end with a conclusion that summarizes the main points and provides some advice for students who are looking to finance their college education.
+COACH: That sounds like a great plan! Do you have any questions about any of the parts of the essay?
+STUDENT: Yes, I'm not sure how to make my introduction interesting. Any suggestions?
+COACH: Sure! One way to make your introduction more interesting is to draw a comparison between financing college and something else. For example, you could compare financing college to a journey. You could talk about how each financing option is like a different path on the journey, and how each one has its own advantages and disadvantages.

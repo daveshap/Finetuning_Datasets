@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing an essay about Buddhism and its influence on politics in Germany.
+COACH: That's a great topic! Let me ask you a few questions to help me understand what you need. What aspects of Buddhism do you want to focus on in your essay?
+STUDENT: Well, I want to talk about how Buddhism has impacted the political landscape in Germany. Specifically, I want to discuss how Buddhism has been used as a tool for social change and how it has shaped the country's political culture.
+COACH: Got it. That's a great angle! What sources have you found so far that can help you with your research?
+STUDENT: I've found some scholarly articles, but I'm having trouble finding primary sources.
+COACH: That's understandable. Have you tried looking on websites that specialize in Buddhism or German history? Also, you might want to look into archives and libraries to see if they have any relevant material.
+STUDENT: Okay, I'll try that. I'm also interested in exploring the role of Buddhism in Vietnam. How would I go about researching that?
+COACH: That's a great idea! You can start by looking at books and articles focusing on the history of Buddhism in Vietnam. You can also look into government documents and reports to get a better understanding of the current situation. Additionally, you might want to reach out to organizations or individuals who are actively involved in promoting Buddhist values in Vietnam.

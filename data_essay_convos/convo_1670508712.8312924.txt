@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Alright, let's start with a few questions. What type of essay are you writing?
+STUDENT: It's a thesis essay.
+COACH: Great. What is your topic and what is your opinion on it?
+STUDENT: My topic is the importance of taking risks in life. I believe that taking risks can lead to great rewards and can help an individual grow as a person.
+COACH: That's a great topic. Now, how do you plan to support your opinion?
+STUDENT: I plan to provide evidence from personal experience, research, and examples from literature.
+COACH: Perfect. Now, let's talk about the structure of your essay. What type of structure do you think would work best for your topic?
+STUDENT: I think a traditional five-paragraph structure would work best.
+COACH: That's a great idea. Let's start by brainstorming a thesis statement for your essay. How about something like this: "Taking risks in life is essential for personal growth, as it can lead to great rewards and provide valuable lessons." Does that sound like something you could work with?
+STUDENT: Yes, that sounds great.
+COACH: Wonderful. Now, let's break down the essay into its three main parts—the introduction, body, and conclusion. In the introduction, you want to introduce your topic and give a brief overview of your opinion. In the body, you'll present your evidence and explain why your opinion is valid. Finally, in the conclusion, you'll summarize your main points and restate your thesis. Does that make sense?
+STUDENT: Yes, it makes perfect sense.
+COACH: Great. Now let's get started on writing your essay.

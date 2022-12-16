@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for law school and I'm having trouble getting started.
+COACH: That's understandable, writing an essay for law school can be a daunting task. What specifically do you need help with?
+STUDENT: Well, I'm not sure what to write about. I'm not very interesting as a person and I don't have any special talents or achievements to talk about. 
+COACH: Don't worry, there are plenty of things you can write about that don't necessarily have to be related to your accomplishments or talents. What topics interest you?
+STUDENT: Well, I'm really interested in travel and Judaism.
+COACH: Great! There are so many ways you can approach this topic. You could write about the importance of travel in Judaism, the impact of Judaism on different cultures, or the history of Jewish travel. You could also explore the unique experiences of being a Jewish traveler in different parts of the world.
+Alternatively, you could focus on the spiritual aspects of travel and how it has shaped your understanding of Judaism. You could also talk about the ways in which Judaism has influenced your outlook on life and how that has impacted your approach to travel. 
+No matter which angle you choose to take, make sure to draw from your own experiences and provide specific examples to illustrate your points. Good luck!

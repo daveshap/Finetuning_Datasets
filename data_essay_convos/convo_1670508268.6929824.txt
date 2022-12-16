@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are a form of financial aid that can help you pay for college. The money is usually awarded based on need, academic performance, and other criteria. Before you apply for a grant, it's important to understand the eligibility requirements and the application process. Can you tell me a bit more about what you need help with? 
+STUDENT: I need help writing a monograph.
+COACH: A monograph is a long essay that focuses on a specific subject or topic. It requires detailed research and analysis, and often includes multiple sources. When writing a monograph, it's important to have a clear structure and argument. You should also make sure to include evidence to support your claims. Do you have any questions about the process?

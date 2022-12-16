@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a college student and I'm looking for help with my personal statement.
+COACH: Great, can you tell me more about the topic you'd like to write about? 
+STUDENT: Well, I come from a single parent home and I want to write about how that has shaped my life and my views on social issues. 
+COACH: That sounds like an interesting topic. Can you tell me more about your background and how you think it has impacted your views on social issues?
+STUDENT: Sure. Growing up in a single parent home was difficult. I had to take on more responsibility than most kids my age, and this gave me a unique perspective on the world. I think it has made me more aware of social issues and the need to address them.
+COACH: That's great. So, what kind of social issues have you been drawn to and why?
+STUDENT: I think the most pressing social issue right now is income inequality. I've seen firsthand how it can affect people's lives and limit their opportunities. I want to do something to help reduce this inequality and make a positive impact.
+COACH: That's admirable. How do you plan to use your education to help reduce income inequality?
+STUDENT: I plan to use my degree to find a job in the public sector or a non-profit organization that focuses on addressing income inequality. I'm also interested in using my education to become an advocate for social change and to raise awareness about the issue.
+COACH: That's great. What kind of skills do you think you need to be successful in this field?
+STUDENT: I think I need to have strong communication and organizational skills, as well as a deep understanding of the issue. I also need to be able to connect with people from different backgrounds and perspectives, so that I can effectively advocate for change.

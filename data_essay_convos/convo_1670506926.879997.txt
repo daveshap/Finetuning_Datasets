@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. I'm actually not an expert on finding jobs after college, but I can help you with your essay. What type of essay are you working on?
+STUDENT: I'm writing a personal statement for law school.
+COACH: Great! Let's start by talking about what you want to accomplish with this essay. What do you hope to achieve by writing it?

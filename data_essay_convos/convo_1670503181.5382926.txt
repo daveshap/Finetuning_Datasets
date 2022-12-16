@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Absolutely. First-generation college students have unique experiences that can be used to write a compelling admissions essay. What kind of essay are you writing?
+STUDENT: A dissertation.
+COACH: Okay, great. A dissertation is a long essay that presents an argument or analysis on a particular subject. When writing your dissertation for college admissions, you'll want to make sure that you present your argument in a clear and concise manner. You'll also want to make sure to include evidence to back up your claims. To start, what is the main point of your dissertation?

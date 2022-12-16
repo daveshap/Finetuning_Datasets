@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, you're a first generation college student. That means you are the first in your family to attend college. It can be a great opportunity to tell your story and explain why attending college is important to you.
+STUDENT: What topics should I avoid when writing my essay?
+COACH: Generally, it's best to stay away from topics that may be controversial or overly personal. You want to focus on the positive aspects of your life and the reasons why attending college is important to you. Additionally, try to avoid writing about topics that have already been covered in other essays. Your essay should be unique and stand out from the others. 
+STUDENT: What are some tips for making my essay stand out?
+COACH: One way to make your essay stand out is to focus on specific details and stories. Instead of writing in general terms, focus on specific moments or experiences that highlight your strengths and motivations. Additionally, use vivid language that allows the reader to connect with your story. Finally, make sure to proofread your essay to ensure that it is error-free and clear.

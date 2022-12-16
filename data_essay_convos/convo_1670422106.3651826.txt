@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my skills and achievements and how they can help me find a job after college.
+COACH: That's great! What have you achieved so far?
+STUDENT: Well, I've done a lot of charity work in Vietnam. I've also been involved in a Christian ministry for the past few years.
+COACH: That's fantastic! It sounds like you have a lot of experience with helping others. What kind of skills have you acquired through your charity work and ministry?
+STUDENT: I've learned how to be organized and manage multiple tasks at once. I've also gained a lot of communication skills, as well as knowledge of different cultures and religions.
+COACH: That's great! How have these skills helped you in other areas of your life?
+STUDENT: They've definitely helped me be a better leader. I'm more confident in my abilities and I'm able to take on more responsibilities. I'm also better at problem-solving and working with people from different backgrounds.

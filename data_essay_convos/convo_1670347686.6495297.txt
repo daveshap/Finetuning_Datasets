@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble coming up with an essay topic. I have no idea what to write about.
+COACH: That's understandable. Have you considered any particular topics that you're passionate about or interested in exploring? 
+STUDENT: Well, I'm interested in exploring racism in college admissions, especially at universities like Duke and Yale.
+COACH: That's a great topic to explore. Can you tell me a bit more about why you're interested in this particular issue?
+STUDENT: I think it's important to understand the ways in which racism plays a role in college admissions and how it can affect students' chances of getting into certain universities.
+COACH: That's a great point. So, what kind of research have you done on this topic so far?
+STUDENT: I've read a few articles and done some research online, but I'm still trying to figure out how to go about writing an essay on this topic.
+COACH: That's understandable. What kind of structure are you thinking of for your essay? Are you thinking of writing a persuasive essay or an argumentative one?
+STUDENT: I think I want to write an argumentative essay.
+COACH: Great! An argumentative essay is a great choice for this topic. You'll need to back up your argument with facts and evidence. Have you thought about where you can find reliable sources to support your argument?

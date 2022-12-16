@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Alright, let's start by figuring out what kind of essay you're writing and what kind of help you need. What type of essay are you writing?
+STUDENT: A thesis essay.
+COACH: Okay, great. What is your thesis statement?
+STUDENT: My thesis statement is that there is a lack of public understanding and education about the importance of mental health.
+COACH: That's a great thesis statement. Now, what kind of help do you need? Are you having trouble developing your argument or do you need help with the structure of the essay?

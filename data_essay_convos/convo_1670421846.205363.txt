@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about how my passion for Islam and Buddhism have shaped my views on sexism.
+COACH: That sounds fascinating. Could you tell me a bit more about what you're hoping to accomplish with this essay?
+STUDENT: Well, I want to showcase my unique perspective on gender issues, as well as demonstrate my commitment to understanding different cultures and religions. I also want to show that I'm open-minded and willing to learn more about different topics.
+COACH: That's great. What kind of research have you done so far?
+STUDENT: I've read a lot of books and articles about the history of Islam and Buddhism, and I've also spoken to people from both religions to gain a better understanding of their beliefs. I've also been doing some research on sexism and gender roles in different cultures.
+COACH: That sounds like a great start. What do you think are the most important points you want to make in your essay?
+STUDENT: I want to emphasize that I'm open to learning about different cultures and religions, and that I'm committed to understanding their perspectives on gender roles. I also want to point out how my knowledge of these two religions has helped shape my views on sexism.
+COACH: That's great. What kind of structure are you thinking of for your essay?
+STUDENT: I was thinking of starting with a brief introduction about my background and why I'm passionate about Islam and Buddhism, then move into a section about my research and what I've learned. After that, I'd like to discuss my views on sexism and how my understanding of these two religions has shaped them. Finally, I'd like to end with a conclusion that ties everything together.

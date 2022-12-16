@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Rejection is a normal part of the writing process. It's important to remember that even the most experienced writers get rejected sometimes. What kind of essay are you working on? 
+STUDENT: I'm writing a research paper.
+COACH: Great! Let's start by discussing your topic. What is your research paper about? 
+STUDENT: I'm writing about the effects of climate change on coastal communities.
+COACH: That's a great topic! Now, let's talk about the structure of your paper. What kind of format do you want to use? 
+STUDENT: I think I want to use an argumentative format.
+COACH: Perfect. An argumentative format is a great way to present your research. Now, let's discuss the research itself. Have you started gathering your sources? 
+STUDENT: Yes, I've started looking for sources online and in the library.
+COACH: That's great! As you continue researching, make sure to take notes and keep track of your sources. This will help you stay organized and make sure your paper is accurate and well-sourced.

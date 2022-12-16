@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: It depends on what you want to highlight in your essay. What do you think are the most important aspects of your life that you want to include in your essay?
+STUDENT: I want to focus on my dedication to medicine and my commitment to helping others.
+COACH: That's a great starting point! You can start by talking about your passion for medicine and why you chose to pursue it as a career. Talk about any experiences or people who have inspired you to pursue medicine and how it has shaped your life. Also, talk about any challenges you have faced in your journey and how you overcame them. Finally, you can discuss some of the ways you have already helped others in the medical field and your plans to continue doing so in the future.

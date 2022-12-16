@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble figuring out what to write about in my admission essay.
+COACH: That's a great question. Can you tell me a bit more about what kind of essay you're writing? What are the requirements for the essay? 
+STUDENT: The essay should be 500 words and it should focus on my personal experiences and how they have shaped me.
+COACH: Okay, that's a great start. What kind of experiences have you had that you think could make great fodder for your essay?
+STUDENT: Well, I've lived in Germany for the past few years and I think that has shaped my worldview in a lot of ways.
+COACH: That sounds like an interesting experience. Can you tell me a bit more about how living in Germany has impacted you?
+STUDENT: Sure. Living in Germany has made me more open-minded and tolerant of different cultures and beliefs. It's also helped me understand the importance of volunteer work and how it can help people in need.
+COACH: That's great! It sounds like you have a lot of valuable experiences that you can draw from for your essay. Can you think of any other experiences that have had an impact on you?
+STUDENT: Yes, I'm also interested in neurodiversity and I think that has shaped my understanding of the world and how different people think and process information.
+COACH: That's really interesting. How has this influenced your views on the world?
+STUDENT: It's made me more aware of the diversity of thought and how different people approach problems in unique ways. It's also made me more accepting of different perspectives and more willing to learn from others.
+COACH: That's wonderful! It sounds like you have a lot of unique experiences and perspectives that could make for a great essay. Do you think you have enough material to write about? 
+STUDENT: I think so. I'm starting to get a better idea of what I can write about and how to structure my essay.
+COACH: That's great! Why do you think an admission essay is important in the college application process? 
+STUDENT: An admission essay is important because it allows the admissions committee to get a better understanding of who you are as a person and what makes you unique. It gives them a chance to see your personality, values, and goals, and it can help them decide if you would be a good fit for their school.

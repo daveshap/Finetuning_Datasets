@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: A good way to determine if your essay is finished is to ask yourself if you have answered the prompt in a clear, concise, and organized manner. Have you included all the important points you wanted to make? Are there any areas that could be improved upon? If you can answer “yes” to these questions, then your essay is likely finished.
+STUDENT: What kind of research do I need to do for my essay?
+COACH: Depending on the prompt, you may need to do some research to fully answer the question. This could include finding relevant statistics, reading scholarly articles, or researching the topic further. Make sure to cite any sources you use in your essay to give credit to the author. You can also use personal experiences and observations to support your argument.

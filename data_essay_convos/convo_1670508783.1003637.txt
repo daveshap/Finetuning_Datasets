@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Well, let's start by talking about why you're writing this essay. What are your goals in applying to grad school?
+STUDENT: My goal is to pursue a higher education and gain more knowledge in my chosen field.
+COACH: That's great! Now, what sort of things do you think you can bring to the table that will make you stand out from other applicants?
+STUDENT: I think I have a unique perspective on certain topics and I'm able to think critically and come up with creative solutions.
+COACH: That's great! Now, let's talk about the structure of your essay. How do you plan to organize your thoughts and ideas?
+STUDENT: I was thinking of starting with a strong introduction, then going into the body of the essay which will focus on my experiences, accomplishments, and goals. Finally, I'll end with a conclusion that ties everything together.
+COACH: That sounds like a great plan! Now, let's talk about how to make your essay stand out. What kind of language and style do you want to use?
+STUDENT: I want to use language that is clear and concise, but also engaging and powerful. I want to make sure I'm conveying my message in a way that is memorable and impactful.
+COACH: Perfect! Now, let's talk about how to make sure your essay is error-free. What strategies do you have for proofreading and editing?
+STUDENT: I plan to read through my essay several times and make sure there are no spelling or grammar mistakes. I'm also going to have a few friends and family members read it over and give me their feedback.

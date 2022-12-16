@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: The best way to start an argumentative essay is by doing some research on the topic. Once you have a better understanding of the subject, you can begin to form your own opinion and create an argument. Next, you should develop an outline for your essay. This will help you organize your thoughts and create a structure for your essay. Finally, you can start writing your essay.
+STUDENT: What should my essay include?
+COACH: An argumentative essay should include an introduction, three body paragraphs, and a conclusion. In your introduction, you should introduce your topic and provide a brief overview of the main points you plan to discuss in the essay. In the body paragraphs, you should provide evidence to support your argument. Make sure to include facts and examples that are relevant to the topic. Finally, the conclusion should restate your argument and summarize the key points of your essay.

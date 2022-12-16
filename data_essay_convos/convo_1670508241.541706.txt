@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are typically awarded to individuals or organizations by a government or private organization in order to fund a specific project or program. They usually come with certain conditions that must be met in order to receive the funds. Can you tell me a bit more about what type of essay you're writing? 
+STUDENT: I'm writing a persuasive essay on why the government should provide free college tuition.
+COACH: Okay, great. Let's start by talking about the structure of your essay. A persuasive essay should have an introduction, three body paragraphs, and a conclusion. The introduction should introduce the topic, provide some background information, and present your thesis statement. The body paragraphs should each focus on one main point that supports your thesis statement and provide evidence to back it up. Finally, the conclusion should restate your thesis and summarize the main points of your argument. 
+Now let's talk about how to write a persuasive essay. You'll want to make sure that your argument is well-reasoned and supported by evidence. You should also be sure to consider opposing arguments and address them in your essay. Additionally, you should use strong, persuasive language to make your case. 
+Finally, you'll want to make sure that you edit your essay to make sure that it is clear and concise. Check for grammar and spelling mistakes, and make sure that your essay flows logically. 
+Does that help?

@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: A good essay should have a clear purpose, be well-structured, have a strong argument, and be free of errors. It should also be engaging and interesting to read. To make sure your essay is up to standard, you can read it out loud and ask yourself if it makes sense and if it flows logically. Additionally, you can ask someone else to read it over and give you their opinion.

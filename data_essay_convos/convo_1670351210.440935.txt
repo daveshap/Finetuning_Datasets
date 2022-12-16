@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essay.
+COACH: Wonderful! What kind of help are you looking for?
+STUDENT: Well, I come from a poor family and I'm applying to Duke University. I want to make sure my essay is strong enough to get me accepted.
+COACH: That's great! Before we talk about your essay, can you tell me a little bit about yourself and your goals?
+STUDENT: Sure. My name is Mark and I'm a senior in high school. My goal is to attend Duke University and pursue a degree in business. I want to use my education to help my family and give back to the community.
+COACH: That's admirable. Now, let's talk about the essay. What do you think admissions officers look for when they read an essay?
+STUDENT: I think they're looking for a narrative that shows why the student is a good fit for the university. They want to know what makes the student unique and what drives them to succeed.
+COACH: That's correct. Admissions officers want to see that you have a clear sense of purpose and that you understand what it means to be a part of the Duke community. How do you feel your essay reflects that?
+STUDENT: I think my essay does a good job of showing my commitment to my goals and personal objectives. I also talk about how I plan to use my education to help my family and give back to the community. 
+COACH: That sounds great. Do you have any other questions about how college admissions work?
+STUDENT: Yes, I was wondering if there are any tips or tricks that can help me stand out in the application process?
+COACH: Absolutely. One important tip is to make sure your essay is well-written and free of any typos or grammatical errors. Also, be sure to highlight any unique experiences or skills that make you stand out from other applicants. Finally, make sure to proofread your essay multiple times before submitting it. Good luck!

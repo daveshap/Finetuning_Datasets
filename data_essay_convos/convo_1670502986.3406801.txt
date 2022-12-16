@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that are well-written, thoughtful, and demonstrate a student’s unique qualities. They want to get to know the student through their essay and see how they think and express themselves.
+STUDENT: What should I include in my essay?
+COACH: You should include information about yourself that will help the admissions officers better understand who you are as a person. Consider including information about your background, interests, goals, and any other relevant information that will help the admissions officers gain an understanding of who you are. Additionally, be sure to include specific examples and stories that illustrate your points. 
+STUDENT: How can I make my essay stand out?
+COACH: One way to make your essay stand out is to focus on a particular moment or experience in your life that has been particularly meaningful to you. This could be a story that you tell in vivid detail or a moment that you reflect on in a more introspective way. Whatever the case, be sure to focus on a single moment or experience that you can explore in depth. Additionally, try to use language that is both creative and engaging. This will help make your essay stand out from the rest.

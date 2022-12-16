@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: Well, it depends on what you want to focus on. What topics interest you?
+STUDENT: I'm interested in exploring the effects of technology on our lives.
+COACH: Great! That's a great topic for a research paper. Let's start by breaking it down into smaller parts. What aspects of technology do you want to focus on?
+STUDENT: I'm interested in looking at how technology has changed the way we communicate, work, and learn.
+COACH: That's a great starting point! We can break this down further by looking at each of those areas in more detail. For example, let's look at communication. What kind of changes have you noticed in the way people communicate due to technology?
+STUDENT: Well, communication is much faster now with the use of email, text messaging, and social media. People are able to connect with each other in ways they weren't able to before.
+COACH: That's true! Now, let's think about how technology has impacted the way we work. What changes have you seen?

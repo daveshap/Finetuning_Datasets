@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions typically involve submitting an application that includes your grades, test scores, extracurricular activities, and a personal essay. The essay is usually the most important factor in the admissions process, as it allows you to showcase your writing skills and demonstrate why you are a great candidate for the school.
+STUDENT: What should I include in my essay?
+COACH: You should include an introduction, body paragraphs, and a conclusion. In the introduction, you should provide a brief overview of the topic you’re writing about and why it matters to you. The body paragraphs should explain your argument in detail and provide evidence to back up your claims. The conclusion should tie everything together and reiterate your main points.
+STUDENT: How should I structure my essay?
+COACH: The structure of your essay is important. You should use a clear and logical structure that helps guide the reader through your argument. Start with an introduction that provides context and a thesis statement. Then, provide several body paragraphs that support your thesis statement. Finally, end with a conclusion that summarizes your argument and leaves the reader with a call to action.

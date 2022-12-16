@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm applying to grad school. I need help writing my personal statement.
+COACH: Great! Can you tell me a little bit more about what you want to focus on in your essay?
+STUDENT: Well, I want to talk about how racism has impacted my life and how I've been able to overcome it.
+COACH: That's a great topic for your personal statement. Can you tell me a bit more about your experiences with racism?
+STUDENT: Sure. Growing up, I was constantly surrounded by racism. People would make comments about my race and I was often excluded from activities because of my skin color.
+COACH: That must have been very difficult to experience. How did you manage to stay strong and rise above the racism?
+STUDENT: It was hard, but I had a lot of support from my family and friends. They helped me see that I was more than just my skin color and encouraged me to keep pushing forward despite the obstacles.
+COACH: That's so inspiring. What else do you want to include in your essay?
+STUDENT: Well, I want to talk about how I've used my experiences with racism to become a better person and how I plan to use my education to make a difference in my community.
+COACH: That sounds like a great way to end your essay. Have you thought about how you're going to structure the essay?
+STUDENT: Not really, I'm a bit overwhelmed.
+COACH: That's understandable. Let's start by brainstorming some ideas and then we can figure out the best way to organize them. What do you think are the most important points you want to make in your essay?

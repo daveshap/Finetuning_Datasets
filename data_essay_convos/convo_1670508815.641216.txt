@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: That's a great question. Let's start by talking about what kind of essay you're writing. Is it a persuasive essay?
+STUDENT: Yes, it is.
+COACH: Okay, perfect. With a persuasive essay, the goal is to make an argument that convinces your reader to agree with your point of view. So, what kind of argument are you trying to make? What do you want your reader to think or do after reading your essay? 
+STUDENT: I want my reader to understand why my opinion is valid and why they should agree with me. 
+COACH: Great! Now that we know what the goal of your essay is, let's talk about how to make that argument. First, you'll need to come up with a strong thesis statement. This is the main point of your essay, and it should be clear and concise. Once you have your thesis statement, you'll need to support it with evidence. This could be facts, statistics, quotes, or examples. Finally, you'll need to wrap up your essay by summarizing your argument and reiterating your main points. 
+STUDENT: That makes sense. I think I understand what I need to do now. 
+COACH: Great! If you have any other questions, feel free to reach out. Good luck!

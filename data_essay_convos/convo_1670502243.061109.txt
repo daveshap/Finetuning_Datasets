@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: A good essay should have an introduction, body, and conclusion. The introduction should introduce the topic of your essay and provide a brief overview of what you will be discussing. The body should contain the main points that you are making and should provide evidence to support your claims. The conclusion should summarize the main points you made and provide a final thought on the topic.
+STUDENT: What topics should I include in my essay?
+COACH: You should focus on topics that will demonstrate your qualifications for the program you are applying to. Think about what makes you unique and why you would be a great fit for the program. You can also discuss any relevant experiences or accomplishments that make you stand out.
+STUDENT: How should I start my essay?
+COACH: Start with a strong opening sentence that will grab the reader's attention. You can use a quote, a story, or an interesting fact to draw the reader in. Then, provide a brief overview of what the essay will be about and why it is important. This will give the reader an idea of what to expect from the rest of the essay.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: Generally, graduate school admissions essays should be between 500-1000 words. It's important to keep the essay concise and focused on the main points.
+STUDENT: What are the most important things I should include in my essay?
+COACH: Your essay should focus on why you are a good fit for the particular program you are applying to. You should provide evidence of your qualifications and explain how the program will help you achieve your educational and career goals. Additionally, you should discuss any relevant experiences that demonstrate your commitment and dedication to the field you are applying for. 
+STUDENT: How can I make my essay stand out?
+COACH: You should make sure to include unique details about yourself and your experiences that show who you are as a person. This can help make your essay stand out from other applicants. You should also make sure to proofread your essay for any errors or typos and have someone else read it over for feedback. Lastly, make sure to stay true to your voice throughout the essay.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to apply for grad school and I'm having a hard time figuring out what to include in my essay.
+COACH: Great! What kind of grad school are you applying for?
+STUDENT: I'm applying for a master's degree program in international development.
+COACH: Okay, that's great. What kind of experience do you have that would be relevant to the program?
+STUDENT: Well, I've been volunteering in Thailand for the past two years, working with a local NGO on community development projects. I also have some experience in fundraising and grant writing.
+COACH: That sounds like great experience and it definitely shows your commitment to international development. What else do you think you could include in your essay?
+STUDENT: Well, I'm not sure. I come from a low-income family and I'm worried about how I'm going to finance my education.
+COACH: That's a great question. There are several options available to help you finance your education, such as scholarships, grants, loans, and work-study programs. You can research these options and see which one best fits your needs. Additionally, you could mention in your essay how you plan to manage the financial burden of grad school and how it will help you achieve your goals.

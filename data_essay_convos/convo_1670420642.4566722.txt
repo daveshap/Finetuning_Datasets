@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I need help with my admissions essay.
+COACH: Alright, let's start by talking about what you want to focus on in your essay. What topics or themes do you want to explore?
+STUDENT: Well, I want to talk about my experience growing up in a poor family in Vietnam and how that has shaped my life and my goals.
+COACH: That sounds like an interesting topic. Tell me more about your experience growing up in Vietnam. What were some of the challenges you faced?
+STUDENT: Well, growing up in a poor family was really tough. We didn't have enough money for basic necessities, so we had to make do with whatever we could find. We often had to rely on the kindness of others for food and other resources.
+COACH: That must have been difficult. How did you cope with these challenges?
+STUDENT: I think the biggest thing was having a strong sense of community. Everyone in our neighborhood was very supportive and looked out for each other. Even though we didn't have much, we always found ways to help each other out.
+COACH: That's wonderful. So, how did this experience shape your outlook on life and your goals?
+STUDENT: Well, it taught me the importance of resilience and perseverance. It also made me realize how important it is to give back and help others. My goal is to use my education to make a positive impact on the world, especially in developing countries like Vietnam and Thailand.

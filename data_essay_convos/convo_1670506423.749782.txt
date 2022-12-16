@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Well, that's a great question. What kind of essay is it? Is it an argumentative essay?
+STUDENT: Yes, it is.
+COACH: Okay, great. For an argumentative essay, you'll need to come up with a clear and concise argument. Start by brainstorming ideas and coming up with a thesis statement. Then, research your topic to find evidence to back up your argument. Finally, put together your essay using the evidence you've gathered and provide a conclusion that ties everything together. Does that sound like something you can work with?

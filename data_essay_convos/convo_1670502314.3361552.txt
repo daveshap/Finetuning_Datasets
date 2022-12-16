@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: A great way to structure your essay is to have an introduction, body, and conclusion. Your introduction should include a brief background of the topic, your thesis statement, and a preview of the main points you will discuss in the body of your essay. The body of your essay should include evidence from your research that supports your thesis statement and the main points you discussed in the introduction. The conclusion should summarize your main points and reiterate your thesis statement.
+STUDENT: What should I write about?
+COACH: You should choose a topic that is meaningful to you and that you can write about passionately. Start by brainstorming ideas and jotting down any topics that come to mind. Once you have narrowed your list down to a few topics, try to think of a unique angle or perspective that you can bring to the essay. This will help to make your essay stand out and be more memorable.
+STUDENT: How do I make my essay stand out?
+COACH: A great way to make your essay stand out is to use vivid language and imagery. Use descriptive words to paint a picture for the reader and draw them into your story. Additionally, be sure to use active verbs and avoid using cliches. Make sure your essay is well-structured and flows logically from one point to the next. Finally, ensure that your essay is free of typos and grammatical errors.

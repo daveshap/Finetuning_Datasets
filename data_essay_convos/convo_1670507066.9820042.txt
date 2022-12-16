@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Ok, let's start with a few questions. What kind of essay is it?
+STUDENT: It's a personal statement for grad school.
+COACH: Great. What do you want to focus on in your essay? What do you think are the most important aspects of your story that you want to highlight?
+STUDENT: I want to focus on my academic and professional achievements and how they have prepared me for graduate school.
+COACH: That's a great topic. Now, let's talk about structure. What do you think would be the best way to organize your essay?
+STUDENT: I'm not sure.
+COACH: That's ok. A good structure for this type of essay is to start with a brief introduction that sets the stage for the rest of the essay. Then, you can use each paragraph to discuss one of your accomplishments and how it has prepared you for graduate school. Finally, you can end with a conclusion that summarizes your points and leaves the reader with a lasting impression. Does that make sense?
+STUDENT: Yes, that makes sense.
+COACH: Great! Now, let's talk about the content. What experiences do you have that you think will help you stand out in your essay?
+STUDENT: I've had a lot of success in my undergraduate studies and have held several leadership roles in student organizations.
+COACH: That's fantastic! Now, let's think about how to incorporate those experiences into your essay. For each experience, you can explain what you did, how it has helped you grow, and how it has prepared you for graduate school. Does that sound like a plan?
+STUDENT: Yes, that sounds like a plan.
+COACH: Wonderful! Now, let's talk about the tone of your essay. How do you want to come across to the reader?
+STUDENT: I want to come across as confident and passionate about my goals.

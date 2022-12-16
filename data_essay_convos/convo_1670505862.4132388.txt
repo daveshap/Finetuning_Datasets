@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question. To structure an essay, you'll need to decide on the main points you want to make and then organize them into a logical order. You can start by brainstorming ideas, then create an outline that will map out your essay. Once you have your outline, you can begin writing your essay. 
+STUDENT: What kind of research do I need to do?
+COACH: Research is an important part of writing an essay. You'll need to find reliable sources that can provide you with the information you need. This could include books, articles, or online resources. Make sure to use credible sources, and cite them in your essay. Also, make sure you understand the material you're researching so you can accurately explain it in your essay.

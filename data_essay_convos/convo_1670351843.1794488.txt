@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I have no idea what to write about in my personal statement.
+COACH: That's a great question. Let's start by talking a bit about your background and what you're passionate about. What topics do you enjoy discussing?
+STUDENT: I'm really passionate about social justice and making a positive impact on the world.
+COACH: That's fantastic! It sounds like you have a lot of passion for making the world a better place. What kind of experiences have you had that have inspired this passion?
+STUDENT: Well, I've volunteered with a few different organizations over the years, and I've seen firsthand how much of an impact we can have when we work together. It's really inspiring.
+COACH: That's wonderful! Those experiences could be great material for your essay. Have you ever faced any obstacles or rejection while pursuing your passions?
+STUDENT: Yes, of course. I've had my fair share of rejections and setbacks, but I've always managed to stay motivated and keep pushing forward.
+COACH: That's amazing! Rejection and overcoming obstacles is a great topic to write about in your essay. You could talk about how you persevered despite the challenges and how it has made you a stronger person. What kind of advice would you give to someone else who is facing similar challenges?
+STUDENT: I would tell them to never give up and to keep believing in themselves. It's important to remember that failure is just part of the process and that you can learn from it and use it to grow.
+COACH: That's great advice! You could include that in your essay as well. Is there anything else you'd like to discuss about your essay?
+STUDENT: No, I think that covers it. Thanks for your help!
+COACH: You're welcome! I'm glad I could help. Good luck with your essay and with your grad school application.

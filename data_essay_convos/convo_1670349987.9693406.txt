@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with writing my college admissions essay. I'm applying for scholarships and grants, so I want it to be really good.
+COACH: That's great! Can you tell me a bit more about yourself? What are your interests and passions?
+STUDENT: Well, I'm passionate about neurodiversity and Judaism.
+COACH: That's wonderful! How can you use those passions to make your essay engaging?
+STUDENT: I think I could talk about how neurodiversity has shaped my experience of Judaism and how that has impacted my life and my worldview. 
+COACH: That sounds like a great idea! What kind of tone do you want to strike in your essay? Do you want to be humorous, serious, or something else?
+STUDENT: I think I want to be serious but also inspiring. I want to show that I'm resilient and determined to succeed, no matter what obstacles I may face.

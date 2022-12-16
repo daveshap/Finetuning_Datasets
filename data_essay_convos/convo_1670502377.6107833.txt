@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That’s a great question! When selecting a topic for your admissions essay, you want to make sure it is something that is unique to you and that showcases your strengths and abilities. Think about what sets you apart from other applicants and what makes you special. You can also consider any meaningful experiences or accomplishments that have shaped you as an individual.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction, body, and conclusion. In the introduction, you should provide some context for the reader and introduce the main idea of the essay. The body should expand on this main idea, providing evidence and examples to support it. Finally, the conclusion should summarize your main points and emphasize why you are a good fit for the program.
+STUDENT: How long should my essay be?
+COACH: Generally speaking, most admissions essays should be between 500-700 words. However, you should always check with the school or program to make sure they don't have specific requirements.
+STUDENT: How should I structure my essay?
+COACH: A good structure for your essay should include an introduction, body, and conclusion. In the introduction, provide some context and introduce the main idea of your essay. The body should then expand on this main idea, providing evidence and examples to support it. Finally, the conclusion should summarize your main points and emphasize why you are a good fit for the program.

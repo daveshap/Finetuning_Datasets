@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question! It's important to research scholarships and make sure you understand the requirements for each one. Have you already started researching any scholarships?
+STUDENT: Yes, I have looked into a few but I'm not sure how to write an essay that will stand out.
+COACH: That's understandable. Writing a good essay can be tricky. Let's start by discussing the prompt. What's the prompt for the essay you're writing?
+STUDENT: The prompt is “Describe a time when you overcame an obstacle in pursuit of a goal”.
+COACH: Okay, that's a great prompt! So, the first thing we need to do is brainstorm some ideas. Think about a time when you faced a challenge and had to work hard to overcome it. What comes to mind?

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student and I'm struggling to write an engaging essay for my college application.
+COACH: Alright, it sounds like you need help with creating an engaging essay for your college application. Is there anything in particular that you would like to focus on? 
+STUDENT: Well, I'm interested in exploring sexism in the college admission process.
+COACH: That's a great topic to explore! Could you tell me more about what you want to focus on specifically? 
+STUDENT: Sure. I want to explore how sexism affects college admission decisions, and I'm also curious about how neurodiversity is taken into account when making these decisions.
+COACH: Okay, that's a great topic to focus on. To start, let's think about the different ways that sexism can influence college admission decisions. For example, some admissions officers may favor male applicants over female applicants due to gender bias. They may also be less likely to take into consideration the unique experiences of female applicants. Additionally, some schools may have policies that favor certain genders over others. 
+Next, let's talk about neurodiversity. Neurodiversity refers to the range of cognitive abilities and disabilities that exist among individuals. In terms of college admissions, it's important to consider how neurodiversity is taken into account when making decisions. For example, some schools may have policies that give preference to applicants with disabilities, while others may not take neurodiversity into account at all. 
+Finally, let's look at how to make your essay engaging. You want to make sure that your essay stands out from the rest. To do this, you should focus on telling a story that reflects your unique experiences and perspectives. Additionally, make sure to use vivid language and interesting examples to illustrate your points. 
+I hope this helps! Does this answer your question about what makes an essay engaging? 
+STUDENT: Yes, that was really helpful. Thank you!

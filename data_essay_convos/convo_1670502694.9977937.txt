@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That is a great question! It is important to think carefully about what you would like to write about in your essay. You should focus on something that is unique and meaningful to you. Think about experiences or events that have shaped who you are and how you view the world. You can also talk about a challenge or obstacle you have faced and how you overcame it. 
+STUDENT: What should I avoid when writing my college admission essay?
+COACH: It is important to avoid cliches and generalizations. You want to make sure that your essay stands out from the others, so make sure to be specific and personalize your essay. Additionally, avoid using overly dramatic language or making up stories. Your essay should be honest and reflective of your true self. 
+STUDENT: How long should my college admission essay be?
+COACH: The length of your essay will depend on the school or program you are applying to. Generally, most essays should be between 500-700 words. It is important to be concise and stick to the point, so make sure to edit your essay and remove any unnecessary information.

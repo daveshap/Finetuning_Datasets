@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Well, that's a great question. I'm an essay coach, so I can help you with the essay portion of your college application. Can you tell me a bit more about what you're looking for?
+STUDENT: Sure. I'm applying to grad school and I need to write a personal statement.
+COACH: Perfect! A personal statement is a great way to showcase your unique experiences and explain why you're the best fit for the program. Let's start by talking about what experiences you have that make you a good candidate. What kind of work have you done in the past?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my college application and I have no idea what to write about.
+COACH: That's understandable. It can be hard to come up with a topic that you feel passionate and knowledgeable about. Can you tell me more about yourself and your background? What type of topics do you usually find interesting?
+STUDENT: Well, I'm applying to MIT and I come from a single parent home. I'm also interested in refugee issues and the challenges they face.
+COACH: That's great! Refugee issues are a very engaging topic, and one that you can explore in depth. You could focus on a particular refugee experience, or look at the broader challenges that refugees face. You could also look at how different countries are responding to the refugee crisis, or discuss ways in which individuals can help refugees. What do you think?
+STUDENT: That sounds like a great idea. I'm not sure how to go about writing an essay about this though. What makes an essay engaging?
+COACH: A good essay is one that is well-structured and has a clear argument. Make sure to include evidence and examples to support your points. Also, try to use creative language and vivid imagery to bring your essay to life. Finally, make sure to end your essay with a strong conclusion that ties together all the points you've made.

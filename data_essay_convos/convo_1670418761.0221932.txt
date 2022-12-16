@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm having trouble writing an essay about overcoming obstacles, specifically rejection.
+COACH: Okay, let's start by talking about the kind of rejection you are facing or have faced in the past. What kind of rejection have you experienced?
+STUDENT: Well, I've been rejected from a few universities, and I've also experienced some rejection in my personal life.
+COACH: That must have been difficult. Can you tell me more about the universities you applied to? 
+STUDENT: Sure. I applied to three universities that I really wanted to go to, but I was rejected from all three.
+COACH: I'm sorry to hear that. How did you respond to the rejection?
+STUDENT: At first I was really upset and discouraged, but then I decided to look at it as an opportunity to learn and grow. I decided to focus on what I could do differently next time and figure out a way to make my application stand out.
+COACH: That's a very positive outlook. So, now that you have this new perspective, what kind of essay are you looking to write?
+STUDENT: I want to write an essay about how to overcome rejection and the importance of resilience.
+COACH: Alright, so you want to focus on how to overcome rejection and emphasize the importance of resilience. Now, what type of essay are you writing? Is it a persuasive essay, a narrative essay, or an argumentative essay?
+STUDENT: I'm writing an argumentative essay.
+COACH: Perfect! An argumentative essay is perfect for this topic because you can make a strong case for why resilience is important in overcoming rejection. So, let's start by talking about your thesis statement. What is your main point that you want to make in your essay?
+STUDENT: My main point is that resilience is essential for overcoming rejection and achieving success.

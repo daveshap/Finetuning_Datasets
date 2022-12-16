@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college essay. I want to write about how my religious background has shaped my worldview and how I plan to use it in my future studies.
+COACH: That sounds like an interesting topic. Could you tell me a bit more about your religious background?
+STUDENT: Sure. I was raised in a Jewish household, but I've also been interested in Buddhism since I was a kid. I've studied both religions extensively and I'm fascinated by the similarities and differences between them.
+COACH: That's great! What do you think the main differences between the two religions are?
+STUDENT: Well, Judaism is much more focused on the law and regulations while Buddhism is more focused on meditation and spiritual enlightenment. Judaism is also much more structured and organized than Buddhism which is more free-form and open-ended.
+COACH: Interesting. Do you feel that your experience with both religions has influenced your academic goals?
+STUDENT: Definitely. I'm currently planning to study law at MIT, and I believe that my understanding of both religious systems will help me to think critically and analytically about legal issues. I also hope to use my knowledge of Buddhism and Judaism to gain a deeper understanding of the legal systems in Germany, where I plan to spend a semester abroad.

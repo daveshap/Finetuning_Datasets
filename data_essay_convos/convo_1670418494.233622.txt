@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to come up with a topic for my essay.
+I have no idea what to write about.
+COACH: That's understandable. Let's start by exploring some of your interests and goals. What topics do you find yourself drawn to? Is there anything in particular that you're passionate about or that you'd like to learn more about?
+STUDENT: Well, I'm interested in exploring issues related to Islam, sexism, and LGBT rights. 
+COACH: That's great! Those are all very important topics. Do you have any specific ideas in mind for how you'd like to approach the essay? Are there any particular angles or perspectives you'd like to focus on?
+STUDENT: I'm not sure yet. I'd like to explore the different ways these issues intersect and how they affect people in different contexts.
+COACH: That sounds like a great idea! You could start by doing some research into the history of each of these topics and how they've evolved over time. You could also look at how different countries and cultures have responded to them. Once you've done some background research, you can start to develop a thesis statement and argument for your essay.

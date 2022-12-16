@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for my application to MIT.
+COACH: Alright, can you tell me a bit more about the essay? What's the focus of it?
+STUDENT: Well, I want to talk about how racism affects my life and how I'm working to fight against it through charity and volunteer work.
+COACH: That sounds like a great topic for your essay. Can you tell me more about the charity and volunteer work you do?
+STUDENT: Sure. I volunteer at a local homeless shelter every weekend and I'm part of a student-run organization that provides free tutoring to disadvantaged students. I also participate in a lot of fundraisers for charities that support racial justice initiatives.
+COACH: That's wonderful. It sounds like you have a lot of experience with this issue. How do you think it will help you in college admissions?
+STUDENT: Well, I think it shows that I'm actively engaging with the issue of racism and that I'm committed to making a difference. I think it will show that I'm a well-rounded and dedicated student.
+COACH: Absolutely. Colleges are always looking for students who are passionate and engaged in their communities. How do you think you can demonstrate this in your essay?
+STUDENT: I think I can talk about specific experiences I've had while volunteering or fundraising and how they have changed my perspective on racism and motivated me to take action.
+COACH: That sounds like a great approach. It's important to be specific and provide concrete examples in your essay to make it more powerful. Anything else you wanted to ask about college admissions? 
+STUDENT: Yes, I was wondering if there are any other things that admissions officers look for when evaluating applications?
+COACH: Yes, admissions officers usually look for students who have a good academic record, demonstrate leadership qualities, and have a strong commitment to their community. They also look for students who have a clear vision for their future and are able to articulate their goals.

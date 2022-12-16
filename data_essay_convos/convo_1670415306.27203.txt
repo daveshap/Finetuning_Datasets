@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for a college application and I'm having trouble getting started.
+COACH: Great, it sounds like you need some help getting started. Can you tell me a bit more about the essay you're working on?
+STUDENT: Sure. It's for Yale and I'm writing about my experience as a member of the LGBT community in the Philippines.
+COACH: Interesting! Can you tell me a bit more about your experience as an LGBT person in the Philippines? What challenges have you faced?
+STUDENT: Well, growing up in a conservative country like the Philippines has been difficult. I've faced a lot of discrimination and prejudice because of my sexuality. It's been hard to find acceptance and understanding.
+COACH: That must have been really challenging. How did you cope with the discrimination and prejudice?
+STUDENT: I found solace in my friends and family, who were always supportive of me. I also found strength in my culture and heritage, and I was able to draw on that to help me stay strong.
+COACH: That's great that you had a supportive network around you. Can you tell me a bit more about your culture and heritage?
+STUDENT: Sure. I'm half Filipino and half Vietnamese. Growing up, I was exposed to both cultures, which gave me a unique perspective on the world. My parents taught me to be proud of my heritage and to embrace my differences.
+COACH: That's wonderful. It sounds like you have a strong sense of identity and belonging. Have you been able to use this to your advantage in any way?
+STUDENT: Yes, definitely. I think being part of two different cultures has made me more open-minded and accepting of different points of view. It has also helped me to better understand the concept of neurodiversity and appreciate the strengths that come with being different.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Sure, what kind of essay are you looking to write?
+STUDENT: An argumentative essay about the challenges of being a first-generation college student.
+COACH: Alright, let's start by talking about what you already know about the topic. What have you learned about the challenges of being a first-generation college student?
+STUDENT: I know that there are a lot of financial and academic challenges that come with being a first-generation college student. I also know that there is a lot of pressure to succeed because of the expectations of family and friends.
+COACH: That's great! Those are definitely some of the major challenges that first-generation college students face. Now, what kind of evidence do you think you need to support your argument?
+STUDENT: I think I need to provide statistics on the number of first-generation college students, their success rates, and the impact of financial aid on their ability to attend college.
+COACH: That's a great start. You can also look into research studies that have been done on the subject, as well as interviews with current first-generation college students. That way, you can get a better idea of the specific challenges they face and how they overcome them.

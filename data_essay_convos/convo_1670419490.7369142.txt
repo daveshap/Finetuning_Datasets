@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to compare and contrast the major religions of Islam, Christianity, and Judaism. I'm having trouble getting started.
+COACH: Okay, that's a great topic! Let's start by discussing each religion in turn. What do you already know about Islam?
+STUDENT: Well, I know that it is the second largest religion in the world, and it originated in the Middle East.
+COACH: That's right. It is also one of the most widely practiced religions in the world, with more than 1.6 billion followers. What about Christianity?
+STUDENT: Christianity is the largest religion in the world, and it originated in the Middle East as well.
+COACH: That's correct. Christianity is the most widely practiced religion in the world, with more than 2.4 billion followers. And what about Judaism?
+STUDENT: Judaism is the oldest of the three major monotheistic religions, and it originated in the Middle East as well.
+COACH: That's also correct. Judaism is one of the smallest of the major religions, with around 14 million followers. Now that we've discussed the basics of each religion, let's discuss some of the similarities and differences between them. How would you compare the religious beliefs of Islam, Christianity, and Judaism?

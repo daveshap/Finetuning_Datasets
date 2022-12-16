@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my life, but I'm having trouble coming up with ideas.
+COACH: That's understandable. Can you tell me a bit more about what you'd like to include in your essay?
+STUDENT: Well, I want to talk about how I grew up and the social issues I've seen in my community. I also want to talk about how I've been able to finance college and my volunteer work. I'm also interested in exploring creativity and art as part of my identity.
+COACH: That sounds like a great starting point. It sounds like you have a lot of experiences to draw from for your essay. Can you tell me a bit more about your background and the social issues you've seen?
+STUDENT: Sure. I grew up in a small town in the Midwest and I've seen a lot of poverty and inequality in my community. My family has struggled financially, so I've had to work hard to pay for college. I've also been involved in volunteer work to help those in need.
+COACH: That's admirable. It sounds like you have a lot of interesting experiences to draw from for your essay. What about creativity and art? How do those fit into your identity?
+STUDENT: Creativity and art have always been important to me. I've always enjoyed writing, painting, and playing music. I feel like these activities allow me to express myself in a way that I can't do with words.
+COACH: That's great! It sounds like you have a lot of potential topics to explore in your essay. What do you think makes your story unique? Do you think there's anything that sets you apart from other students?
+STUDENT: I'm not sure. I feel like I'm a pretty boring person. I don't have any crazy or unique experiences that make me stand out.
+COACH: That's okay! Everyone has unique experiences, even if they don't seem exciting at first. Think about the things that make you different from other people. What are your passions and interests? What motivates you and drives you to succeed? These are all great topics to explore in your essay.

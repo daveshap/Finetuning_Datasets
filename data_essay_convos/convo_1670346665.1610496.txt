@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard for grad school and I'm having trouble writing my essay.
+COACH: Fantastic! Let's get started. What kind of essay are you writing?
+STUDENT: It's a personal statement about my background, interests, and goals.
+COACH: Great. Can you tell me more about your background?
+STUDENT: Sure. I was born and raised in a Christian family and I've always been passionate about traveling and exploring new cultures.
+COACH: That sounds amazing! How have these experiences shaped your goals and ambitions?
+STUDENT: Well, I want to use my experiences to help others. I plan to volunteer with different organizations that promote cultural exchange and understanding.
+COACH: That's wonderful! Can you tell me more about your plans for volunteering?
+STUDENT: Yes, I want to work with local communities to help them understand different cultures and perspectives. I also want to use my knowledge and skills to help people in need.
+COACH: That sounds like an admirable plan. What do you think makes you a good candidate for the program?
+STUDENT: I think my background and experiences have given me a unique perspective on the world. I'm passionate about learning and helping others, and I believe I can make a positive impact through my work.

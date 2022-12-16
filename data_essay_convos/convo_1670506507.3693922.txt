@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that demonstrate your ability to think critically, articulate your ideas, and express yourself in a clear and concise manner. They also look for essays that show a strong sense of self-awareness and demonstrate why you are a good fit for the school. What type of essay are you writing?
+STUDENT: I'm writing an admissions essay with a prompt.
+COACH: Great! What is the prompt?
+STUDENT: The prompt is "Describe a challenge you have faced and how you overcame it."
+COACH: Okay, great. Let's start by thinking about what the admissions officers are looking for in this essay. They want to see that you can reflect on a challenging experience and demonstrate resilience in the face of adversity. They also want to see that you have learned something from the experience and can apply those lessons to your current situation. So, let's start by brainstorming some possible challenges you could write about.

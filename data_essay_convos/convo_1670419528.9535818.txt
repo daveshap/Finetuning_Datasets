@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm hoping to get into Duke University's law school and I need help writing my essay.
+COACH: Great! What kind of topics do you want to focus on in your essay?
+STUDENT: Well, I've been thinking about writing about sexism and how it affects women in China.
+COACH: That's an interesting topic and a great way to demonstrate your understanding of current global issues. Could you tell me more about why you chose this topic and what kind of experiences you have with it?
+STUDENT: Sure. I've been volunteering at a women's rights organization in China for the past few years, and I've seen firsthand how sexism affects women in the workplace and in society. I want to use my essay to show the admissions committee how this experience has shaped my worldview and how I can use my knowledge to make a difference in the legal field.
+COACH: That's admirable, and it sounds like you have a lot of unique insight to offer. How do you plan on structuring your essay?
+STUDENT: I was thinking of starting by talking about my experiences volunteering in China and then discussing the effects of sexism on women in the workplace. After that, I would talk about how this experience has impacted my understanding of legal issues and how I can use this knowledge to make a difference.
+COACH: That sounds like a great structure. What kind of evidence do you plan on using to support your points?
+STUDENT: I plan on using statistics to illustrate the prevalence of sexism in China, as well as stories from the women I've worked with to show the impact it has on their lives.
+COACH: That's a great idea. Do you have any other questions or concerns about your essay?
+STUDENT: No, I think I'm good. Thank you so much for your help!

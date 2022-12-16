@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I need help with my essay.
+COACH: Okay, why do you want to go to Yale?
+STUDENT: I'm passionate about international studies and I think Yale has the best program in the country.
+COACH: That's great! What kind of international studies do you want to pursue?
+STUDENT: I'm particularly interested in the Middle East and Southeast Asia, particularly Thailand and Islam.
+COACH: Interesting! What drew you to those particular areas?
+STUDENT: Well, I've always been fascinated by different cultures and religions, and I think that studying those regions could really help me understand the world better.
+COACH: That's very admirable. Do you have any personal experiences or connections to those regions that have inspired you?
+STUDENT: Yes, I spent a semester abroad in Thailand and it was an incredibly eye-opening experience. I also have family members who practice Islam, so I've had some exposure to the religion.
+COACH: That's great. So, what do you think you can bring to the table in terms of your own unique perspective and experiences?
+STUDENT: I think I can bring a lot of insight into different cultures and religions, as well as a passion for learning and understanding more about the world. I'm also a person who is not afraid to take risks and try new things.

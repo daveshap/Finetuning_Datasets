@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for a personal statement that is well-written, honest, and reflective of who you are as a person. They want to get to know you through your essay, so it's important to share your unique experiences, values, and goals. It should also demonstrate your commitment to the medical profession and how you plan to use your education to make a difference.
+STUDENT: What topics should I cover in my essay?
+COACH: Depending on your specific goals and experiences, there are a few topics that you can consider covering in your essay. For example, you could talk about why you are interested in the medical field, any previous experience you have had in the field, the challenges you have faced and how you overcame them, and your long-term goals for your medical career. Additionally, you can discuss any special skills or qualities you possess that would make you a great doctor.

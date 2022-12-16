@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question! Let's start by talking about what you want to accomplish with your essay. What kind of message are you trying to convey?
+STUDENT: I want to convey that I'm a hardworking, passionate person with a lot of potential.
+COACH: That's great! Now, let's talk about how you can achieve that goal. What kind of language and structure should you use?
+STUDENT: What do you mean?
+COACH: Well, it's important to use language that is both engaging and conveys your point clearly. You should also make sure that your essay has a clear structure, so that readers can follow your argument easily.

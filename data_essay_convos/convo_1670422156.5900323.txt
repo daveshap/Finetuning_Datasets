@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help on my college essay. I want to talk about my passion for travel and how it has shaped my goals and personal objectives.
+COACH: Great! Tell me more about your travels. Where have you gone?
+STUDENT: I've been to some amazing places! I've been to Morocco, Egypt, and Turkey. I'm really interested in learning more about Islam and its culture, so those trips were especially meaningful to me.
+COACH: That sounds fascinating! What was the most memorable part of your trips?
+STUDENT: One of the highlights was visiting the Blue Mosque in Istanbul. It was so beautiful and peaceful. I felt a connection to the religion and culture that I never expected.
+COACH: It sounds like you had a great experience! What would you say was the main takeaway from your travels?
+STUDENT: I think the main thing I learned is that there is so much beauty and diversity in the world. Seeing different cultures and religions firsthand really opened my eyes to the fact that we all have something valuable to contribute.
+COACH: That's a great lesson. How have your travels influenced your goals and personal objectives?
+STUDENT: Well, my goal is to attend Princeton University and major in International Relations. I want to use what I've learned from my travels to help bridge cultural divides and promote understanding between people from different backgrounds. I also want to use my knowledge to help create more opportunities for people to travel and experience different cultures.

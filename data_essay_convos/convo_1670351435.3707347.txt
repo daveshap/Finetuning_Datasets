@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I need help writing my essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's a personal statement about my experiences and my goals for the future.
+COACH: Okay, what experiences have been most meaningful to you?
+STUDENT: Well, I recently returned from a trip to Vietnam and it was a really eye-opening experience. It made me think about the world in a new way.
+COACH: That sounds like a really powerful experience. How did it influence your goals and objectives?
+STUDENT: It made me realize how much I value creativity and art. I want to pursue a career that allows me to use my creativity and express myself. I also want to explore more of the world, especially Europe.
+COACH: That's great! What kind of career do you think would allow you to pursue your creative interests and travel to Europe?
+STUDENT: I'm not sure yet, but I'm hoping to find something that combines my love of art and creativity with my passion for exploring different cultures.

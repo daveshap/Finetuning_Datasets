@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's ok! Let's start by talking about what makes you unique. What are some of your strengths, talents, and interests that you want to highlight in your essay?
+STUDENT: Well, I'm really passionate about music and I'm an accomplished pianist.
+COACH: That's great! Do you have any particular experiences or stories related to music that you could draw on for your essay?
+STUDENT: Yes, I've performed at a few concerts and I've won several awards for my playing.
+COACH: That's fantastic! You can use those experiences to demonstrate your passion for music and your dedication to it. How else do you think you could use these experiences to support your argument in your essay?
+STUDENT: Hmm, I guess I could talk about how music has helped me become more disciplined and organized in my life, and how it's taught me valuable lessons about hard work and perseverance.
+COACH: That's a great point! You can use your experiences with music to show how it has shaped you as a person and how it has helped you develop important skills. You can also talk about how it has shaped your outlook on life and how it has influenced your goals and aspirations.

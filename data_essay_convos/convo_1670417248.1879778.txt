@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help writing my personal statement for college applications.
+COACH: Great! What are you hoping to study?
+STUDENT: I'm interested in politics and engineering.
+COACH: Interesting combination! Can you tell me a bit more about why you're interested in those two fields?
+STUDENT: Well, I've always been passionate about politics and I believe that engineering can help create tangible solutions to some of the world's most pressing problems.
+COACH: That's fantastic! Do you have any particular school in mind?
+STUDENT: Yes, I'm thinking of applying to Yale.
+COACH: Wonderful! Have you visited Yale or done any research on their program?
+STUDENT: No, I haven't had the chance to visit yet, but I have done some research and I'm really interested in the interdisciplinary approach they take to engineering and politics.
+COACH: That sounds great! Is there anything else you'd like to share about your background and experiences that could help us craft a compelling personal statement for your application?
+STUDENT: Yes, I'm originally from the Philippines and I think my experience of living in a developing country has shaped my understanding of how technology can be used to improve people's lives.

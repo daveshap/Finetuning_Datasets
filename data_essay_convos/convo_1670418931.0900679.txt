@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my charity work with refugees in the Philippines and I'm not sure how to structure it.
+COACH: Great! Let's start by talking about the parts of an essay. What do you know about the hook, the introduction, the middle, and the conclusion?
+STUDENT: Well, I know that the hook is supposed to draw readers in and the introduction should provide some background information. I'm not sure what goes in the middle and the conclusion.
+COACH: That's a great start! The middle of the essay is where you will discuss the main points of your essay. You'll want to provide evidence and anecdotes that support your argument. The conclusion should summarize the main points of your essay and wrap up your argument.
+STUDENT: Okay, that makes sense. So how can I make my essay engaging?
+COACH: One great way to make an essay engaging is to use vivid language and imagery. Try to paint a picture with your words and use sensory details to bring your essay to life. You can also use quotes from people you interviewed or stories to add depth and interest to your essay.

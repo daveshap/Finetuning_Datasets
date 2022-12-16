@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student applying to an engineering school in Thailand, and I'm having trouble writing my personal statement.
+COACH: Great, let's start by talking about your interest in engineering. What made you decide to pursue a career in engineering?
+STUDENT: Well, I've always been fascinated with the idea of creating something that can be used to solve real-world problems. I also like the challenge of working with complex systems and figuring out how they work.
+COACH: That's great! Now, let's talk about why you want to study engineering in Thailand specifically. What makes Thailand an attractive option for you?
+STUDENT: Thailand is a very diverse country and I'm interested in learning about different cultures and how they interact with engineering. Additionally, the engineering program in Thailand is highly respected and I'd love to be part of it.
+COACH: That sounds like a great opportunity. Now, let's talk about how you plan to use your engineering skills to make a difference in the world. Do you have any specific ideas?
+STUDENT: Yes, I'm particularly interested in using my engineering skills to help address issues of inequality and racism. I believe that technology can be used to create more equitable systems and opportunities for people from all backgrounds. Additionally, I'm passionate about advocating for LGBT rights and making sure that everyone has access to the same rights and opportunities.

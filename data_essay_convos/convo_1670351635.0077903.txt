@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm writing an essay about how my background has shaped my identity.
+COACH: That's a great topic! It sounds like you have a lot to say. Could you tell me a bit more about your background?
+STUDENT: Sure. I was born and raised in a single parent home in France. My mom is Muslim, so I was raised with a strong sense of Islamic values. I also had a lot of exposure to art and creativity growing up.
+COACH: Interesting. What kind of art and creativity were you exposed to? 
+STUDENT: We had a lot of traditional Islamic art around the house, like calligraphy and geometric patterns. My mom also encouraged me to explore different types of art, like painting and music.
+COACH: That's wonderful. How did these experiences influence your identity?
+STUDENT: Well, it gave me a strong sense of my cultural identity and appreciation for the arts. It also made me realize that there are many different ways to express yourself. On top of that, I was really interested in science and technology, so I was able to combine the two in a unique way.
+COACH: That sounds like a really interesting combination. How did you manage to balance these different interests?
+STUDENT: It was definitely a challenge at times, but I was able to find a way to make them work together. I found ways to use art and creativity to explain and explore scientific concepts. It helped me to think outside the box and come up with creative solutions to problems.
+COACH: That's amazing! Do you think this combination of interests and experiences has impacted your overall identity?
+STUDENT: Absolutely. I think it's made me more open-minded and aware of different perspectives. It's also helped me to develop a unique sense of identity that combines my cultural heritage with my interests in science and art.

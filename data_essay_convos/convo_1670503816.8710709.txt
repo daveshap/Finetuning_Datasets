@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: A good conclusion should summarize the main points of your essay, but also leave the reader with something to think about. You want your conclusion to be memorable and leave a lasting impression. Consider ending with a quote or an anecdote that ties back to the main idea of your essay.

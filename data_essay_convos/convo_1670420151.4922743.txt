@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi. I'm looking for help with my admissions essay for college.
+COACH: Great! What kind of help are you looking for? 
+STUDENT: I'm not sure where to start. I'm from a single parent home and I'm not sure how to approach the essay or what to include.
+COACH: That's understandable. It can be hard to know where to begin when writing an admissions essay. Let me ask you a few questions that might help us get started. What type of school are you applying to?
+STUDENT: I'm interested in Duke University.
+COACH: Okay, great. Do you have any ideas on what you'd like to focus your essay on?
+STUDENT: I'm not sure. I was thinking about talking about my experiences growing up in a single parent household, but I'm not sure how to tie that into why I would be a good fit for Duke.
+COACH: That's a great idea. You could focus on how growing up in a single parent home has shaped your values, goals, and ambitions. You could discuss how those qualities would make you a great addition to the Duke community. Additionally, you could talk about how you plan to use the resources and opportunities at Duke to further your education and contribute to the university.
+Another thing to consider is how financing college works. You could discuss how you plan to pay for college and how you will manage financial responsibilities. That could be a great way to show how you are a responsible and motivated student.
+Finally, you could also talk about how Duke's unique academic and extracurricular programs align with your interests and goals. This could be a great way to demonstrate how you would be a great fit for the university.
+Does this help?
+STUDENT: Yes, that helps a lot. Thank you!

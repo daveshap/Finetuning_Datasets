@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's ok, let's start by talking about what you're hoping to accomplish with this essay. What are you trying to communicate to the reader?
+STUDENT: I want to show them who I am and why I'm a good fit for the program.
+COACH: Great! That's a great starting point. Now, what specific experiences or qualities can you draw on to demonstrate that? 
+STUDENT: Well, I'm very passionate about my chosen field of study and have been since I was a child. I also have a lot of experience volunteering in the community and have been involved in several projects that have made a positive impact.
+COACH: That's great. So, how can you use these experiences to show the reader who you are and why you're a good fit for the program?
+STUDENT: I guess I could talk about how my passion has driven me to volunteer and make a difference in the world, and how my experiences have shaped my views on the subject.
+COACH: Perfect! Now, let's think about how to structure your essay. What kind of narrative arc can you create that will draw the reader in and make them understand your story?

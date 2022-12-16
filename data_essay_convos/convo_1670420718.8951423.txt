@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm not sure how to get started writing my personal statement.
+COACH: Congratulations on taking the first step to go to college! That's really exciting. Before we get into the details of your essay, can you tell me what topics you're interested in exploring?
+STUDENT: Well, I'm interested in politics and how it affects people's lives.
+COACH: That's great! Politics is an interesting and timely topic. What specific aspects of politics are you interested in discussing in your essay?
+STUDENT: I'm interested in exploring how politics can be used to create positive change in our society.
+COACH: That's a great topic. You could discuss how different political systems have been used to create positive change in the past, as well as how current political systems may be used to create positive change in the future. You could also discuss how individuals can use their own political beliefs to make a difference in their communities.

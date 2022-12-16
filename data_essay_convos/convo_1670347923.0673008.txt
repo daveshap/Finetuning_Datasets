@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I need help with my essay.
+COACH: Great! What specifically do you need help with?
+STUDENT: Well, I'm having trouble coming up with a topic. I don't think I have anything interesting to write about.
+COACH: That's okay! There are many ways to approach essay topics. Can you tell me more about yourself? What are your interests and passions?
+STUDENT: Well, I'm really interested in German culture and language. I've studied it for a few years now, and I'm also passionate about neurodiversity and how it affects people's lives.
+COACH: That's great! You could use those topics as the basis of your essay. For example, you could write about your experience learning German and how it has impacted your understanding of different cultures. Or, you could write about neurodiversity and how it has shaped your worldview.
+COACH: What do you think? Does either of these topics sound interesting to you?
+STUDENT: Yes, both of them sound really interesting! I think I'd like to write about neurodiversity and how it has shaped my worldview.
+COACH: That's a great topic! Now, let's talk about structure. How do you want to organize your essay?
+STUDENT: I was thinking of starting by talking about my experience with neurodiversity, then discussing how it has affected my view of the world, and finally talking about how I plan to use this knowledge in the future. 
+COACH: That sounds like a great structure! Now, let's talk about content. What specific examples or stories can you include in your essay to illustrate your points?
+STUDENT: I can talk about my experience as a neurodiverse student at UNC and how I've used my strengths to overcome challenges. I can also discuss my volunteer work with neurodiversity organizations and how it has changed my perspective on the world.
+COACH: Perfect! Those are great examples. Do you have any other questions before you start writing?
+STUDENT: No, I think I'm ready to start. Thanks for all your help!

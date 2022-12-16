@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing an admissions essay for college and I'm having trouble getting started.
+COACH: Great, let's start by talking about your goals and personal objectives. What do you hope to achieve through attending college?
+STUDENT: Well, I want to explore my creativity and art. I'm from the Philippines and I want to use my education to help address social issues in my home country.
+COACH: That's a great goal! What kind of creative projects do you have in mind?
+STUDENT: I'd like to create a series of paintings that explore the history and culture of the Philippines. I also want to write a book about the social issues facing the country.
+COACH: That sounds like an ambitious project! How do you plan to make it happen?
+STUDENT: I'm not sure yet, but I think the best way to start is by researching the topics I'm interested in. I'm also hoping to find mentors who can provide guidance and advice.
+COACH: That sounds like an excellent plan. It's important to remember that the admissions essay is an opportunity to show the admissions committee why you are the best candidate for the program. How can you use your essay to highlight your strengths and demonstrate your commitment to your goals?
+STUDENT: I think I can use my essay to demonstrate my passion for creativity and art, and to explain how I plan to use my education to help address social issues in the Philippines. I also want to showcase my research skills and my dedication to achieving my goals.

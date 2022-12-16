@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about engineering and how it relates to my faith.
+COACH: That's a great topic! What specifically do you want to focus on in your essay?
+STUDENT: I want to explore how my Christian faith can help me become a successful engineer.
+COACH: Interesting! What have you already done in terms of research and planning for your essay?
+STUDENT: I've done some basic research into the history of engineering and its relationship to religion, but I'm having trouble connecting my faith to the engineering field.
+COACH: That makes sense. Do you have any specific questions or concerns that you'd like to address in your essay?
+STUDENT: Yes, I'm worried that my Christian faith might be seen as incompatible with engineering, since many of the principles of engineering are based on science and logic.
+COACH: That's a valid concern. It's important to remember that, while engineering is rooted in science and logic, there is still room for faith in the field. Many engineers find ways to reconcile their beliefs with the technical aspects of their work. For example, you could talk about how your faith has helped you to approach engineering problems in a creative way, or how it has given you the perseverance to overcome obstacles.
+You could also compare and contrast engineering and Christianity, exploring the similarities and differences between them. This could be a great opportunity to show how your faith can inform and enrich your engineering practice.
+STUDENT: That's really helpful, thank you! I hadn't thought of looking at the similarities and differences between engineering and Christianity.
+COACH: Sure! It's always helpful to look at a topic from different angles. Now, let's talk about getting started on your essay. Do you have any ideas for an outline or structure?
+STUDENT: I was thinking of starting with an introduction, then talking about the history of engineering and its relationship to religion, then exploring how my faith can help me become a successful engineer.
+COACH: That sounds like a great plan! You could also consider adding a section on how other religions, such as Islam, view engineering. This could be a great way to show how different faiths can inform and influence engineering practices.
+Finally, don't forget to include a section on overcoming rejection and other obstacles. It's important to remember that engineering is a challenging field, and that you'll need to be resilient and persistent in order to succeed.
+STUDENT: That's really helpful, thank you! I feel much more confident about getting started on my essay now.
+COACH: Great! I'm glad I could help. If you have any more questions or need any further guidance, don't hesitate to reach out. Good luck with your essay!

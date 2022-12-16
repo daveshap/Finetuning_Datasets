@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That's a great question! You should write about something that is meaningful to you and that you can connect to your academic goals. Think about what experiences you have had that have shaped who you are and how you think. Consider any challenges you have faced and how you overcame them, any passions you have, or any unique perspective you can bring to the essay.
+STUDENT: What kind of research do I need to do?
+COACH: Research is an important part of the essay writing process. You should research the school you are applying to, the program you are interested in, and any other relevant information related to your essay topic. Additionally, you should look into current events and news stories related to your topic to get a well-rounded view of the subject. Finally, make sure to read other successful college admissions essays to get a better idea of what makes a good essay.

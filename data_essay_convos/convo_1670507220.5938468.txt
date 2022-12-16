@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question. Before we get into the writing, let's start with a reference interview. Can you tell me a bit about the essay you're working on? What is the prompt?
+STUDENT: The prompt is "Describe a meaningful experience that has shaped your life and how it has impacted your future goals."
+COACH: Okay, great. Now that we have the prompt, let's think about what you want to accomplish with this essay. What do you want the admissions committee to know about you?
+STUDENT: I want them to know that I'm passionate about helping others and that I'm driven to make a difference in my community.
+COACH: That's a really great goal. Now, let's talk about how you can best communicate that to the admissions committee. What experience do you have that you can draw from to illustrate your passion for helping others?
+STUDENT: Well, last year I volunteered at a local homeless shelter. I was able to interact with people who were struggling and I was able to help them in small ways.
+COACH: That sounds like a great experience! Now, let's think about how you can use that experience to demonstrate your passion for helping others and how it has impacted your future goals. What did you learn from that experience? How did it shape your outlook on life and how it has impacted your future goals?
+STUDENT: I learned that everyone has a story and that everyone deserves to be treated with respect and dignity. It made me realize that I want to continue to help those in need and that I want to pursue a career in social work to make a real difference in people's lives.

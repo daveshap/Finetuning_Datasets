@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT and I need help with my personal statement.
+COACH: Sure, let's start by talking about what you want to focus on in your essay. What are some of the topics that you think would be most relevant?
+STUDENT: Well, I want to talk about my experience as a refugee and how it has shaped my life. I also want to highlight my volunteer work and travel experiences.
+COACH: That sounds like a great topic for your essay. Let's start by talking about your experience as a refugee. Can you tell me a bit more about that?
+STUDENT: Sure. I was born in a refugee camp in Africa and my family and I moved to the United States when I was two. Growing up, I experienced a lot of racism and prejudice, which made it difficult to adjust to my new home.
+COACH: It sounds like you have had a lot of challenges to overcome. Can you tell me more about how you learned to cope with these difficulties?
+STUDENT: I think the biggest thing that helped me was my volunteer work. I started volunteering at a local refugee center when I was in high school. It gave me the opportunity to connect with other people who had similar experiences, which was really empowering. I also learned a lot about advocacy and how to stand up for myself and others.
+COACH: That's great. It sounds like you have been able to use your experiences to help others. Can you tell me more about your travel experiences?
+STUDENT: Absolutely. I've had the opportunity to travel all around the world. I've seen so many different cultures and I've been able to learn about different perspectives. It has really opened my eyes to the world and I think it has made me a better person.
+COACH: That's wonderful. It sounds like you have had some amazing experiences. How do you think these experiences will help you in college?
+STUDENT: I think they will help me become a more open-minded and tolerant person. I believe that having diverse perspectives is essential in order to understand the world around us. I also think that my experiences will help me become a better leader and communicator, which are skills that I know will be valuable in college.

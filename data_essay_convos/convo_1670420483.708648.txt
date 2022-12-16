@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for my application to MIT Law School.
+COACH: That's great! What kind of information would you like to include in your statement?
+STUDENT: Well, I want to talk about my goals and personal objectives, as well as my creativity and how art has shaped me.
+COACH: Okay, that sounds like a great start. Let's start by talking about your goals. What are some of the things you would like to accomplish with a law degree from MIT?
+STUDENT: My main goal is to become a successful lawyer and use my legal knowledge to help others. I also want to use my creativity and passion for art to create innovative solutions to legal problems.
+COACH: That's a great goal. Now, let's talk about how art has shaped you. What kind of art do you enjoy creating or looking at?
+STUDENT: I love painting and photography. I find that it helps me express my emotions and ideas in a creative way. I also enjoy looking at the work of other artists, as it helps to inspire me and push me to become better.
+COACH: That's wonderful. Now, let's talk about how art has impacted your personal objectives. How has it helped you become the person you are today?
+STUDENT: Art has been an important part of my life since I was a child. It has taught me to think outside the box, be open to new ideas, and to never give up on my dreams. It has also helped me develop my problem-solving skills and think critically. These are all skills that I believe will be essential to my success as a lawyer. 
+COACH: That's great. Now, let's talk about how you can incorporate these ideas into your essay. How can you use your experiences with art to illustrate your passion for law and your potential as a lawyer?
+STUDENT: I can use my experiences with art to show how I have developed the problem-solving skills and creativity needed to succeed as a lawyer. I can also talk about how my passion for art has motivated me to pursue a career in law, and how I plan to use my legal knowledge to benefit others.

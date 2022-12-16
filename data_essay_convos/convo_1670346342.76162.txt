@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing an admissions essay. I'm applying to college and I'm not sure what to include in my essay.
+COACH: That's understandable. It can be difficult to know where to begin. Can you tell me a little bit about yourself? What are some of your interests, passions, and goals?
+STUDENT: Well, I'm interested in social issues, creativity and art, and I'm also passionate about learning more about Thailand. I want to use my essay to showcase my personality and give the admissions committee a better idea of who I am as a person.
+COACH: That's great! It sounds like you have a lot of interesting things to talk about. Let's start by talking about your interest in social issues. What kind of social issues are you passionate about?
+STUDENT: I'm particularly interested in racial inequality and economic disparities in different countries. I'm also interested in the ways that technology can be used to help address these issues.
+COACH: That's fantastic! It sounds like you have a lot of knowledge and insight into these topics. How do you think these topics relate to your overall goals and aspirations?
+STUDENT: I think that by understanding these social issues, I can become a better global citizen and make a positive impact on the world. I also believe that having a better understanding of these topics will help me become a more well-rounded individual.
+COACH: That's great! It sounds like you have a clear vision for how you want to make a difference. What about your interest in creativity and art? How do you think this could be included in your essay?
+STUDENT: I think that my interest in creativity and art could be a great way to show the admissions committee how I think outside of the box and how I approach problem-solving. I also believe it could be a great way to demonstrate my passion for learning and exploring new ideas.
+COACH: That sounds like a great idea! Finally, let's talk about your interest in Thailand. How do you think this could be incorporated into your essay?
+STUDENT: I think that by talking about my experiences in Thailand, I can show the admissions committee how I'm open to new experiences and cultures. I'd also like to talk about how my travels have helped me become more open-minded and aware of different perspectives.

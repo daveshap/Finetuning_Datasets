@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: That's a great question. Scholarships are typically awarded to students based on their academic achievements, financial need, or other criteria such as community service. It's important to research the specific scholarship you're interested in to find out what the requirements are. Now, what kind of essay are you writing?
+STUDENT: I'm writing a monograph.
+COACH: Okay, so a monograph is an essay that focuses on a single topic or argument. It usually requires a lot of research and analysis. To get started, you'll want to choose a topic that interests you and that you can adequately research. Once you have your topic, you'll need to come up with a thesis statement that will be the main argument of your essay. Then, you'll need to do research to support your thesis statement. Finally, you'll need to organize your information into an essay structure, with an introduction, body, and conclusion. Do you have any questions about the process?

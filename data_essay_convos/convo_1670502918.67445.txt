@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers are looking for a few things in an admissions essay. First, they want to see that you have a clear, focused idea that you can articulate in your essay. They want to see that you can write clearly and effectively, and that you have the ability to explain your ideas in a way that is easy to understand. They also want to see that you have done your research and can provide evidence to support your points. Finally, they want to get to know you as a person and understand why you would be a good fit for their school.
+STUDENT: What are some tips for writing a successful admissions essay?
+COACH: Writing a successful admissions essay requires careful preparation and planning. First, make sure you understand the prompt and what the admissions committee is looking for. Then, create an outline that helps you organize your thoughts and ideas. After that, you should write a first draft. Once you have a draft, read it over and revise it for clarity and conciseness. Finally, proofread your essay for any errors or typos.

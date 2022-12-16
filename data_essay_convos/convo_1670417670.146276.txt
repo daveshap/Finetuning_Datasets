@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to medical school and I'm having trouble deciding what to write about in my personal statement.
+COACH: Alright, that's understandable. Can you tell me a bit more about what you have in mind?
+STUDENT: Well, I've been rejected from med school before, and I'm trying to figure out how to talk about that experience in my essay, while still showing I'm ready to take on the challenges of medical school.
+COACH: That's a great topic! It can be difficult to talk about our failures, but it's also a great opportunity to show admissions committees how you've grown and learned from those experiences. Can you tell me a bit more about the rejection and how it affected you?
+STUDENT: Sure. I was rejected because of my race, which was really discouraging. I felt like I had worked so hard to get into medical school, only to be turned away because of something out of my control.
+COACH: That sounds incredibly difficult. It's admirable that you were able to turn such a negative experience into something positive. What did you do to overcome the obstacles you faced?
+STUDENT: I decided to pursue a degree in engineering instead, and while it wasn't my first choice, I was able to learn a lot of valuable skills that I can now apply to medical school. I also took the time to reflect on the experience and understand why I was rejected and what I could do differently in the future.
+COACH: That's great! It sounds like you've put a lot of thought into this. What do you think you can bring to medical school that other applicants may not have?
+STUDENT: I think my unique perspective as someone who has experienced racism and discrimination is something that can be valuable in medical school. I also have a strong background in engineering, which I believe can be beneficial in understanding complex medical concepts.

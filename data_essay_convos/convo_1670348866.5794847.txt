@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to figure out how to get scholarships and grants for med school.
+COACH: Great question! Let's start by discussing your academic goals and interests. What type of medical field are you interested in?
+STUDENT: I'm interested in science, specifically biochemistry. I also have a passion for politics, particularly the way they intersect with the medical field.
+COACH: That's an interesting combination. How have you been preparing for medical school?
+STUDENT: I've been taking classes in biochemistry, biology, and politics. I've also been doing volunteer work at a local hospital.
+COACH: That's great! Have you considered studying abroad? Many medical schools offer programs in France, which could be a great opportunity to learn about both science and politics.
+STUDENT: That's a really good idea! I hadn't thought of that before. Do you know of any scholarships or grants I could apply for to help fund my studies?
+COACH: Yes, there are a few options available. You can check with your school's financial aid office to see what grants and scholarships they offer. Additionally, you can look into private organizations that offer grants and scholarships specifically for medical students.

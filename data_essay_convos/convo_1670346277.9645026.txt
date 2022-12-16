@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm trying to write an essay about my passion for social issues.
+COACH: That sounds like a great topic! Can you tell me a bit more about why this is your passion?
+STUDENT: Well, I grew up in a single parent home and I saw firsthand the effects of sexism and inequality. It made me really passionate about social issues and I want to use my education to help create a better future.
+COACH: That's very admirable. What kind of specific social issues are you most interested in?
+STUDENT: I'm particularly interested in gender equality, racial justice, and poverty alleviation. I'm also passionate about advocating for mental health awareness and access to education.
+COACH: That's great! So how do you plan to address these issues in your essay?
+STUDENT: I want to talk about my personal experiences with these issues and how they've shaped my views. I also want to discuss how I plan to use my education to help create a better future.
+COACH: That sounds like a great plan. Do you have any specific examples or stories that you can draw on to illustrate your points?
+STUDENT: Yes, I have several examples that I plan to include. For example, I can talk about my experience as a volunteer at a local homeless shelter and how it showed me the importance of poverty alleviation. I can also discuss my involvement in student-led initiatives to raise awareness about mental health issues.
+COACH: Those are great examples! Do you have any other ideas or points that you want to make in your essay?
+STUDENT: Yes, I want to emphasize the importance of intersectionality in addressing social issues. I also want to discuss how I plan to use my education to work towards creating a more equitable and just society.

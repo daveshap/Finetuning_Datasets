@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: To make your essay more engaging, you can focus on making a strong argument. Make sure to include evidence that supports your point of view and explain why it matters. Also, don’t be afraid to use a variety of sentence structures and word choices to keep the reader interested. 
+STUDENT: What kind of evidence should I use?
+COACH: You should use evidence that is relevant to your argument. This could include facts, statistics, quotes from experts, or personal anecdotes. Make sure to explain why this evidence is important and how it supports your argument. 
+STUDENT: What should my conclusion include?
+COACH: Your conclusion should summarize your main points and provide a final thought that ties everything together. Make sure to leave the reader with something to think about and remember. You can also include a call to action, encouraging readers to take the next step.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student from the Philippines and I'm applying to NCSU. I'm having trouble writing my essay.
+COACH: That's great, let's get started. What kind of essay are you writing? Are you writing about yourself, or a particular topic?
+STUDENT: I'm writing about myself. I want to highlight my skills and achievements, as well as discuss some of the social issues I'm passionate about.
+COACH: Okay, that sounds like a great idea. Let's start by talking about your skills and achievements. What are some of your biggest accomplishments?
+STUDENT: Well, I'm proud of my academic achievements. I'm in the top 5% of my class and have received several awards for my grades. I'm also involved in several extracurricular activities, such as volunteering at a local animal shelter and helping out with my church's youth group.
+COACH: That's impressive! What about your passion for social issues? Can you tell me more about that?
+STUDENT: Sure! I'm passionate about advocating for social justice and equality. I'm involved in several organizations that focus on these issues, and I'm always looking for ways to make a difference. I'm also interested in exploring how technology can be used to help solve some of the world's most pressing problems.
+COACH: That's great! It sounds like you have a lot of experience and knowledge in this area. How do you think this could help you in college?
+STUDENT: I think my passion for social issues and my knowledge of technology would be a great asset to any college. I believe my experience with these issues would help me contribute positively to the campus community, and my technical skills could be used to develop innovative solutions to real-world problems.

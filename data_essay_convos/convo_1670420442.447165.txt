@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale for engineering and I'm having trouble writing my essay.
+COACH: That's great! What kind of help do you need? Are you having trouble with the structure of your essay, or coming up with content?
+STUDENT: Both, I guess. I'm not sure where to start.
+COACH: That's totally understandable. Let's start with the structure. Do you know the parts of an essay?
+STUDENT: Not really, no.
+COACH: Okay, no problem. An essay typically has three main parts: the hook, the body, and the conclusion. The hook is the first sentence or two of the essay and it's meant to grab the reader's attention. The body is the middle part of the essay and it's where you explain your argument or ideas. Finally, the conclusion wraps up the essay and summarizes your main points. Does that make sense? 
+STUDENT: Yes, that makes sense. So I should start with the hook?
+COACH: Yes, you can start by thinking of a creative way to introduce your essay. For example, if you're writing about LGBT rights, you could start with a quote from an influential figure in the movement or a powerful statistic. You could also start with an anecdote or a personal story. 
+STUDENT: That's a great idea. What about the body of the essay?
+COACH: The body of the essay is where you explain your argument and provide evidence to support it. Start by introducing your main points and then use examples to back them up. Make sure to include any relevant research or data to make your argument stronger. 
+STUDENT: Got it. What should I include in the conclusion?
+COACH: The conclusion should summarize your main points and reiterate your argument. Try to end your essay on a strong note by leaving the reader with something to think about. You can also include a call-to-action or suggest further reading on the topic. 
+STUDENT: That's great, thank you so much for your help!

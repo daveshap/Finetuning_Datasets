@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. What kind of topics are you interested in?
+STUDENT: I'm interested in exploring the effects of technology on our society.
+COACH: That's a great topic! Before we dive into writing, let's first talk about the purpose of your essay. Are you writing to gain admission to a particular college, or is this a general essay that could be used for multiple applications?
+STUDENT: I'm writing it for a specific college.
+COACH: Got it. Now, when writing your essay, it's important to understand the purpose of the essay. For example, does the college want to know more about you as a person, or do they want to know more about your academic accomplishments?
+STUDENT: I think they want to know more about me as a person.
+COACH: Perfect. Now, let's talk about structure. A dissertation essay typically follows a five-paragraph structure, with an introduction, three body paragraphs, and a conclusion. In the introduction, you should introduce your topic and explain why it's important. Then, in each body paragraph, you should discuss a different aspect of the topic, and use evidence and examples to support your points. Finally, in the conclusion, you should summarize your main points and explain how they relate to the topic. Does that make sense?
+STUDENT: Yes, that makes sense.
+COACH: Great! Now, let's talk about research. It's important to do some research on the topic before you start writing. This will help you come up with ideas, facts, and evidence to support your points. It will also help you understand the different perspectives on the topic and how they relate to your argument. Do you have any questions about research?

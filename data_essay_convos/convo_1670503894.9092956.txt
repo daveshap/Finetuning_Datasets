@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening for a college admissions essay should be engaging and draw the reader in. You want to make sure you have a strong introduction that sets the tone for the rest of the essay. Start by introducing the topic in an interesting way, then move on to a thesis statement that sums up your main point. Make sure your introduction is concise and to the point. 
+STUDENT: What should I include in my body paragraphs?
+COACH: Your body paragraphs should provide evidence and examples that support your thesis statement. Make sure each paragraph has a clear topic sentence that states the main point of the paragraph. Then, provide evidence in the form of facts, statistics, quotes, and anecdotes to back up your point. Finally, end each paragraph with a conclusion that ties back to the thesis statement and transitions into the next paragraph. 
+STUDENT: How do I conclude my essay?
+COACH: Your conclusion should wrap up the essay and provide a sense of closure. Start by restating your thesis, then summarize the main points of your essay. You can also include a call to action or suggest further research. Finally, end with a strong statement that leaves a lasting impression on the reader.

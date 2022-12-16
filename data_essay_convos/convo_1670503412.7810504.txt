@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: College matters because it can provide you with an opportunity to pursue a career, expand your knowledge, and develop important skills. It also gives you the chance to work with experts in your field, build relationships with peers, and gain valuable experience. All of these things can help you make a positive impact on the world.

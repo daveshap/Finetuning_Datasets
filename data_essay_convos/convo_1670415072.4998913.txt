@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to the University of North Carolina and I'm writing my essay. I'm struggling to find a topic that really expresses my passion and will stand out to the admissions committee.
+COACH: That's a great question! What is it about UNC that you're passionate about? 
+STUDENT: I'm passionate about the diverse culture that UNC offers. I'm particularly interested in religious studies, and I want to explore the differences between Christianity, Islam, and other religions.
+COACH: That sounds like a great topic for your essay! What do you think makes UNC the ideal place for you to learn about religious studies?
+STUDENT: UNC has some of the best religious studies programs in the country. It also has a diverse student body, which will give me the opportunity to learn from different perspectives and cultures. UNC also has a strong commitment to social justice, which aligns with my own values and beliefs.
+COACH: That's great! It sounds like you have a clear idea of why UNC is the right fit for you. Now, what steps do you need to take to make sure your essay is successful?
+STUDENT: Well, I need to make sure that my essay is well-written and organized. I also need to make sure I'm expressing my passion for religious studies in an engaging way. I want to make sure I'm conveying my enthusiasm for the subject and how it can help me make a difference in the world.

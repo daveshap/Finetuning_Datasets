@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Great question! Applying for grants can be a complex process, so let's start by talking about what type of grant you're looking for. Are you looking for a specific scholarship or grant, or are you just trying to find out what's available? 
+STUDENT: I'm looking for a specific scholarship, but I'm not sure where to start.
+COACH: Okay, that's understandable. Can you tell me a bit more about the scholarship you're looking for? What type of scholarship is it? Is it based on academic performance, financial need, or something else?
+STUDENT: It's a scholarship for students who are interested in pursuing a career in engineering.
+COACH: Got it. So, when it comes to applying for a scholarship like this, there are a few things you should keep in mind. First, make sure you read the eligibility criteria carefully. You'll need to make sure that you meet all of the requirements before you apply. Second, take your time when filling out the application. Make sure you answer all of the questions accurately and completely. Finally, make sure to proofread your application before submitting it. It's important to make sure that there are no errors or typos.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: College matters because it can open up many doors and opportunities for your future. College not only provides you with the knowledge and skills to succeed in the professional world, but it also offers a chance to explore different interests and passions. By attending college, you will gain invaluable experience that will help you in your career and in life. 
+STUDENT: What should I focus on in my essay?
+COACH: Your essay should focus on why you want to attend college, what you hope to gain from the experience, and how you plan to use your new knowledge and skills in the future. You should also discuss any unique experiences or skills that make you stand out from other applicants. Finally, be sure to highlight any extracurricular activities or accomplishments that demonstrate your dedication to achieving your goals. 
+STUDENT: How do I structure my essay?
+COACH: A good structure for your essay is the three-part introduction, body, and conclusion. The introduction should include a brief overview of your background and why you are applying to college. The body should contain three to five paragraphs discussing your goals, experiences, and accomplishments. Finally, the conclusion should summarize your main points and provide a strong closing statement.

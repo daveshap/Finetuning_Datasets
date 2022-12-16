@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: Well, the admissions process varies from school to school, but generally speaking, colleges look at things like your grades, test scores, extracurricular activities, and your essay.
+STUDENT: What kind of essay do I need to write?
+COACH: Most likely you'll be asked to write an admissions essay. This is a personal essay where you tell the admissions committee about yourself, your goals, and why you think you'd be a great fit for their school. It should be thoughtful, engaging, and honest. 
+STUDENT: What tips do you have for writing a successful admissions essay?
+COACH: First, start with a strong introduction. You want to grab the reader's attention right away and set the tone for the rest of your essay. Then, make sure to use vivid language and anecdotes to illustrate your points. Finally, end with a strong conclusion that ties all your points together and leaves the reader with a lasting impression.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to figure out how to write a personal statement for college. I'm interested in studying engineering and law, but I'm also concerned about the cost of college and racism on campus.
+COACH: That's a lot to consider. Let's start with the cost of college. How does financing college work?
+STUDENT: Well, I know that there are scholarships and grants available, as well as student loans. But I'm not sure how to apply for those or if I'd qualify.
+COACH: That's a great question. Scholarships and grants are usually awarded based on academic performance, extracurricular activities, and community service. Student loans are based on your credit history and ability to repay. It's important to research what options are available to you and apply for them early.
+STUDENT: Okay, that makes sense. What about racism on campus?
+COACH: That's an important issue to address in your essay. Admissions officers want to know that you're aware of the challenges of attending a diverse college and that you're prepared to handle them. You can talk about how you plan to engage with different cultures and perspectives, and how you'll use your education to create positive change.
+STUDENT: That's a great idea. What else do admissions officers look for in a personal statement?
+COACH: Admissions officers want to see that you have goals and ambitions that you're passionate about. They also want to understand your unique background, experiences, and values. It's important to be honest and authentic in your essay, so that they can get to know the real you.

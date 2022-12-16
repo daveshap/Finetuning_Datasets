@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That really depends on what you want to communicate in your essay. What do you want to emphasize?
+STUDENT: I want to show that I'm a hardworking and dedicated student who is passionate about learning.
+COACH: Great! You can start by describing a specific example of how you've demonstrated your hard work and dedication. What have you done that you're proud of?
+STUDENT: I recently gave a presentation at a school assembly about the importance of education.
+COACH: That's a great example! You can use this to show that you are passionate about learning and willing to put in the hard work to share your knowledge with others. Talk about how you prepared for the presentation, the research you did, and how you overcame any challenges you faced. This will help demonstrate your commitment to education.

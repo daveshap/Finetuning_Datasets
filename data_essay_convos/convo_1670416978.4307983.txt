@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and I'm having trouble writing my college admission essay.
+COACH: Alright, let's start by talking about why college matters to you. What are the reasons you want to attend college?
+STUDENT: Well, I'm interested in engineering and NCSU has a great engineering program. I think it would be a great opportunity to pursue my studies and achieve my goals.
+COACH: That's great! It sounds like you have a clear goal in mind. Now let's talk about the structure of your essay. What kind of format do you think would work best for your essay? 
+STUDENT: I was thinking of using a narrative structure, where I tell a story about my experience with engineering and why I'm passionate about it. 
+COACH: That's a great idea! Narratives can be powerful and engaging. Now let's talk about what you'll write about in your essay. What are some of the specific things you want to include?
+STUDENT: I want to talk about my experience with engineering projects and how I'm excited to continue learning and exploring the field. I also want to discuss my long-term goals and how attending NCSU will help me achieve them. 
+COACH: That sounds great! You have a lot of good ideas. Now it's time to put all these pieces together and start drafting your essay. Do you need any help getting started? 
+STUDENT: Yes, I could use some help. 
+COACH: No problem. Let's start by brainstorming some ideas and then we can go from there.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That’s a great question. Before we dive into the essay writing process, let’s figure out what you need to do to apply to college. Do you know what type of college you’re interested in?
+STUDENT: Yes, I want to apply to a four-year college. 
+COACH: Great! Now that we have that figured out, let’s talk about the essay. An admissions essay is an important part of the college application process. It allows you to showcase your strengths, interests, and goals to the admissions committee. So, what would you like to focus on in your essay?
+STUDENT: I want to focus on my academic achievements and how they have prepared me for college. 
+COACH: That’s a great idea! The admissions committee will be looking for evidence that you have the skills and knowledge necessary to succeed in college. You should use your essay to highlight your academic successes and explain why you are a good fit for the college.
+Next, let’s talk about structure. Your essay should have an introduction, body paragraphs, and a conclusion. The introduction should include your main point or thesis statement. The body paragraphs should provide evidence to support your thesis. Finally, the conclusion should summarize your main points and reiterate why you are a good fit for the college.
+Do you have any questions about the structure of the essay so far? 
+STUDENT: Yes, I’m not sure how to start my introduction. 
+COACH: That’s a great question! A strong introduction should grab the reader’s attention and provide a clear overview of your topic. You could start by introducing yourself and providing a brief overview of your academic achievements. Then, you can transition into your thesis statement.

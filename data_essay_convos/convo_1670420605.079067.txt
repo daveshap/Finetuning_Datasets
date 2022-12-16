@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experience visiting France and how it has impacted my creativity and my view of art. 
+COACH: That sounds like a great topic! Can you tell me a bit more about your experience in France?
+STUDENT: Sure. I went to France last summer with my family and visited several cities. We went to Paris, Toulouse, and Marseille. It was really eye-opening to see the different styles of art in each city, and how they were influenced by the Islamic culture. 
+COACH: Wow, that must have been an amazing experience! What did you learn from seeing these different styles of art?
+STUDENT: I learned that art can be used to express different cultures and beliefs. I also gained an appreciation for the diversity of art forms around the world, and how each culture has its own unique style.
+COACH: That's great! Now, what kind of structure do you think would work best for this essay?
+STUDENT: I was thinking of starting with an introduction talking about my experience in France, and then talking about each city we visited and the art we saw there. After that, I want to discuss how my experience influenced my views on art and creativity. Finally, I want to end with a conclusion that ties everything together. 
+COACH: That sounds like a great structure for your essay. Do you have any other questions about the essay or the structure?
+STUDENT: Yes, I'm not sure how to make sure my essay is competitive for UCLA. Do you have any advice on that?
+COACH: Absolutely! Make sure you focus on the quality of your writing, as well as the content. Make sure you use clear and concise language, and make sure you use evidence to back up your claims. Also, make sure you follow the instructions carefully and stick to the word limit. These are all important factors for making your essay competitive for UCLA.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I need help writing an essay about my Jewish identity.
+COACH: Alright, can you tell me a bit more about what you had in mind? What kind of essay do you want to write?
+STUDENT: I want to write a personal essay about how my faith and heritage have shaped my life and my values.
+COACH: That sounds like a great idea! Can you tell me a bit more about your faith and how it has impacted your life?
+STUDENT: Sure! I was born into a traditional Jewish family, and have grown up learning about our faith and its teachings. My parents always taught me to live by the values of our religion, such as respect for others, kindness, and charity. I think these values have shaped my life in many ways, from the decisions I make to the way I treat others.
+COACH: That's wonderful! So, what kind of essay structure do you have in mind? Do you know the basic parts of an essay, such as the hook, the conclusion, and the middle?
+STUDENT: Yes, I'm familiar with the basic parts of an essay. I was thinking of starting off with a hook to draw in readers, then going into the middle where I talk about my faith and how it has affected my life, and then ending with a conclusion that ties everything together.
+COACH: Great, that's a great plan. Can you tell me a bit more about yourself and what makes you unique? You don't need to be limited to just talking about your faith - you can also talk about your skills, achievements, and any other interesting aspects of your life.
+STUDENT: Well, I'm actually quite a boring person! I don't have any major achievements or skills. I'm just a regular student who is trying to get into college. I do have some interests, though. I'm really interested in science and technology, and I'm planning on applying to MIT next year.
+COACH: That's awesome! Even if you don't have any major achievements or skills, you can still write a great essay. Everyone has something unique to offer, and you can use your essay to show the admissions committee who you are and why you would be a great fit for their school.

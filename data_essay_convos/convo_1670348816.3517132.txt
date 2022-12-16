@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to medical school and I need help with my essay.
+COACH: Great! Let's start by talking about your goals for the essay. What do you want to achieve with it?
+STUDENT: I want to show the admissions committee why I'm a great fit for their program and what I can bring to the table.
+COACH: That's a great goal. Can you tell me more about yourself and why you think you'd be a great fit for the program?
+STUDENT: Sure. I'm a first-generation college student from Los Angeles and I'm passionate about medicine. I also have a strong commitment to addressing racism in healthcare and I believe I can make a difference in the lives of people of color.
+COACH: That sounds really impressive. It sounds like you have a lot to offer the program. Now, let's talk about essay structure. How do you plan on organizing your essay?
+STUDENT: I was thinking of starting with an introduction that outlines my background and why I'm interested in medicine. Then, I'll discuss my commitment to addressing racism in healthcare and how I plan on making a difference. Finally, I'll conclude by summarizing my qualifications and why I'm the best fit for the program.
+COACH: That sounds like a great outline. Now, let's talk about the specifics. What kind of examples can you use to illustrate your commitment to addressing racism in healthcare?
+STUDENT: Well, I'm currently working on a research project at UCLA that looks at the disparities in healthcare access among people of color. I've also volunteered at a local clinic that provides free healthcare services to underserved communities. Through my work there, I've seen firsthand how racism affects healthcare outcomes and I'm committed to finding solutions to these issues.

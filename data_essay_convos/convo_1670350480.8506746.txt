@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having a lot of trouble figuring out what to write. I'm applying to college and I'm feeling really overwhelmed.
+COACH: That's understandable. What kind of essay are you writing?
+STUDENT: It's a personal statement for my college application. 
+COACH: Got it. Can you tell me a bit about yourself? What are some of your skills and achievements that you want to highlight in your essay?
+STUDENT: Well, I'm a good student. I get good grades and I'm involved in a lot of extracurricular activities. I'm also a member of my school's debate team and I've won a few awards for my public speaking. I'm also involved in my community, volunteering at a local homeless shelter and helping out with a few charities.
+COACH: That's great! It sounds like you have a lot to offer. What else can you tell me about yourself that you think would be important to include in your essay?
+STUDENT: Well, I'm a Muslim and I'm originally from the Philippines. I think it's important to include those aspects of my identity in my essay because they have shaped who I am today.
+COACH: That's a great point. How do you think being a Muslim and coming from the Philippines has impacted your life and your outlook?
+STUDENT: Well, I think it's made me more aware of cultural differences and how to be respectful of other people's beliefs and backgrounds. It's also made me more open-minded and willing to accept different points of view. I think these qualities are important for any college student to have.
+COACH: Absolutely. Those are great qualities to emphasize in your essay. What else do you think admissions officers look for in an essay?
+STUDENT: I think they look for evidence of a student's dedication and commitment to their studies. They also want to see that the student is passionate about something and has a clear idea of what they want to achieve. 
+COACH: That's a great perspective. Any other qualities that you think admissions officers look for?
+STUDENT: I think they look for evidence of growth and self-reflection. They want to know that the student is someone who is constantly striving to learn and grow as a person. I think that's an important quality to highlight in an essay.

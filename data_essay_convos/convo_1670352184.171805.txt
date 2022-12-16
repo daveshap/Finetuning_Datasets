@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student applying to MIT and I'm having trouble with the essay structure.
+COACH: That's great that you're applying to MIT! What kind of help do you need with the essay structure?
+STUDENT: Well, I'm having trouble organizing my thoughts and ideas into an effective essay. I'm not sure how to make it flow and be persuasive.
+COACH: That's a common issue. Let's start by talking about your topic. What is the essay about?
+STUDENT: It's about my experience growing up as a Jewish person in a poor family.
+COACH: Ok, that's a great topic. What kind of experiences would you like to highlight?
+STUDENT: I want to focus on how my family's poverty forced me to become more independent and resourceful. I also want to talk about how my faith helped me stay positive despite the difficult circumstances.
+COACH: That's great. So, let's think about how we can structure the essay. What do you think should come first?
+STUDENT: I think I should start with a brief introduction, then talk about my family's poverty and the challenges I faced, then discuss how my faith kept me going and how it has shaped me into the person I am today.
+COACH: That sounds like a good plan. Let's break it down into smaller parts. For the introduction, you could write a few sentences about your background and why this topic is important to you. Then, in the body of the essay, you can go into more detail about your experiences growing up in poverty and how your faith helped you. Finally, you can end the essay with a reflection on what you've learned and how it has impacted your life. Does that sound like a good plan?
+STUDENT: Yes, that sounds perfect. Thank you so much for your help!

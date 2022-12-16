@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be a complex process, but there are a few basics that everyone should know. Are you looking for information about scholarships, grants, or loans? 
+STUDENT: scholarships and grants
+COACH: Okay, great. Scholarships and grants are both forms of financial aid that don't need to be repaid. Scholarships are usually awarded based on academic achievement or special talents, while grants are typically need-based. 
+STUDENT: What criteria do I need to meet to qualify for scholarships and grants?
+COACH: Generally speaking, scholarships and grants both require that you demonstrate financial need, so it's important to understand your family's financial situation and how it might affect your eligibility. Additionally, some scholarships may require a certain GPA or a certain major, so it's important to research the individual requirements of each scholarship or grant you're applying for.

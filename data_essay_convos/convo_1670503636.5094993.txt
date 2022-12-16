@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay! Let's start by brainstorming some topics. What are some things you're passionate about, or have experienced that you could write about? 
+STUDENT: I'm really passionate about music and I've had some really great experiences with it. 
+COACH: Great! Music is a great topic for an essay. Now, let's craft a thesis statement. A thesis statement is a sentence or two that summarizes your main argument. For example, if you wanted to write about how music has helped you grow as a person, you could write something like "Music has been an integral part of my life since childhood and has helped shape me into the person I am today." Does that make sense? 
+STUDENT: Yes, that makes sense.
+COACH: Perfect! Now, let's think of some points that you can use to support your thesis. What experiences have you had with music that have helped you grow?

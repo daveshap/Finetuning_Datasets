@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a high school senior and I'm writing my college admission essay. I'm having trouble coming up with a topic to write about.
+COACH: Ok, can you tell me a bit more about yourself? What are some of your interests or passions?
+STUDENT: Well, I'm really interested in international relations, specifically between China and Vietnam. I'm also passionate about social justice and inequality.
+COACH: Great, those are both great topics that could make for an engaging essay. Have you ever traveled to either country? Or have you studied the history of the region?
+STUDENT: Yes, I've been to both countries and I've studied the history extensively.
+COACH: Perfect! That gives you a lot of material to work with. What do you think sets your experience apart from other applicants?
+STUDENT: Well, I think my experience is unique because I've been to both countries and have seen firsthand how their cultures and histories have intertwined. I've also volunteered with organizations in both countries that focus on social justice and inequality.
+COACH: That's definitely an interesting angle to take with your essay. You could focus on how your experiences in both countries have shaped your understanding of international relations and social justice. You could talk about how your experiences have impacted your perspective on global issues and how you plan to use your knowledge to make a difference in the future.

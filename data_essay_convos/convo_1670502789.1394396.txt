@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: The personal statement is your opportunity to tell the admissions committee about yourself and your motivations for pursuing law school. You should focus on your unique experiences, successes, and challenges that have shaped who you are today and why you are interested in a career in law. Be sure to include any relevant academic or professional accomplishments, as well as any special interests or activities you have pursued.
+STUDENT: What should I avoid while writing my personal statement?
+COACH: It's important to be honest and authentic in your writing. Avoid exaggerating or embellishing your experiences and accomplishments. Also, try to avoid cliches or overly broad statements. Focus on telling your story in an interesting and meaningful way. Lastly, make sure that your essay is free of any grammar or spelling errors.

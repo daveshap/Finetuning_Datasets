@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about sexism in the Philippines and I'm having trouble getting started.
+COACH: Great, let's start by understanding what you want to focus on. What are your main points or ideas?
+STUDENT: I want to discuss how sexism is a prevalent issue in the Philippines and how it affects politics, education, and other social issues.
+COACH: That's a great topic. It sounds like you have a lot of material to work with. How do you plan to organize your essay?
+STUDENT: Well, I was thinking of starting with a brief introduction to the issue of sexism in the Philippines, then moving on to discuss the various ways it affects different aspects of society.
+COACH: That's a good plan. Now, let's talk about how to make your essay stand out. What unique perspective can you bring to this topic?
+STUDENT: I think I can bring a personal perspective to the essay by discussing how sexism has affected me as a Filipino woman.
+COACH: That's a great idea! Personal stories can really make an essay stand out. Do you have any other ideas for how to make your essay unique?
+STUDENT: I was also thinking of including some research about how college admissions work in the Philippines, and how sexism can affect a student's chances of getting into a good school.
+COACH: That's an interesting angle. Researching how college admissions work can be a great way to provide concrete evidence for your points. Do you have any other ideas for how to make your essay stand out?
+STUDENT: I was thinking of looking at some international organizations and their efforts to combat sexism in the Philippines.
+COACH: That's a great idea. Looking at international organizations can provide a broader perspective on the issue and show how the problem is being addressed on a global scale. Do you have any other ideas?

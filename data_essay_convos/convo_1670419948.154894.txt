@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for Duke University and I'm stuck.
+COACH: What kind of essay is it? What are you struggling with?
+STUDENT: It's a personal essay about how my experience in Vietnam has shaped my life and how I overcame obstacles to get to where I am today. I'm having trouble getting started and I don't feel like I'm interesting enough as a person to make this essay stand out.
+COACH: That sounds like a great topic! It's definitely something that can be made interesting and engaging. Let's start by thinking about the different parts of your essay. What do you think your hook should be?
+STUDENT: I'm not sure. I want to start off with something that will grab the reader's attention.
+COACH: Sure, let's think about what makes your story unique. What experiences or aspects of your life can you draw on that will make it stand out?
+STUDENT: Well, I've had to overcome a lot of adversity in my life, especially when I was in Vietnam.
+COACH: That's a great start! You could use that as your hook, and then go into how you were able to overcome those obstacles and what it taught you. That could be your introduction and then you can move into the middle part of your essay to discuss the specific events and experiences in more detail.
+STUDENT: Okay, so I have the hook and the introduction. What should I focus on in the middle of my essay?
+COACH: The middle should be where you really get into the details of your story. Talk about the specific experiences you faced in Vietnam, how you overcame them, and what you learned from them. You can use anecdotes and stories to illustrate your points and make your essay more engaging.
+STUDENT: Got it. And then how should I wrap it up?
+COACH: The conclusion should be a summary of the main points of your essay. Talk about what you learned from your experiences and how it has shaped who you are today. You can also talk about your future goals and how this experience has prepared you for them.

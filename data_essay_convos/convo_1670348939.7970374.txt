@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a high school senior and I'm looking to apply to college. I'm interested in applying to NCSU and I'm not sure how to get started on my essay.
+COACH: That's great! Let's start by talking about why you're interested in attending NCSU. What drew you to the university?
+STUDENT: I'm really interested in their engineering program, and I think it would be a great fit for me. Plus, I've heard a lot of good things about the campus and the surrounding area.
+COACH: That sounds like a great reason to apply to NCSU. Now, let's talk about what you want to write about in your essay. What topics are important to you and why?
+STUDENT: I want to write about racism in America and how it affects my life. Growing up, I've seen firsthand the effects of racism, and I want to use my essay to make a statement about the importance of fighting racism in our society.
+COACH: That's an important topic and one that could make a powerful statement. What do you think you need help with in order to craft a compelling essay?
+STUDENT: I'm not sure how to structure the essay or how to make sure my points are clear and persuasive.
+COACH: Absolutely. Let's start by talking about the overall structure of your essay. We can brainstorm ideas on how to organize your points into a cohesive argument. After that, we can work on making sure your points are persuasive and well-supported. Does that sound like a plan?
+STUDENT: Yes, that sounds great!

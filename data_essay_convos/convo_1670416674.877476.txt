@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm a high school student and I'm planning to apply to Harvard for grad school. I'm feeling a bit overwhelmed by the application process and I'm not sure where to start.
+COACH: That's understandable. It can be a daunting task to apply to such a prestigious university. What kind of grad school program are you interested in? 
+STUDENT: I'm interested in the international relations program.
+COACH: Great! Applying to Harvard is a competitive process, so it's important that you make sure your application stands out. Have you done any charity work or international travel that you could use as part of your application?
+STUDENT: Yes, I recently spent six months in Thailand working with an organization that helps provide education to underserved communities.
+COACH: That's fantastic! That kind of experience will definitely give you an edge in the admissions process. Can you tell me more about the work that you did in Thailand?
+STUDENT: Sure. I worked with the organization to develop educational materials for the local community and I also helped to organize events to raise awareness about the importance of education.
+COACH: That's great! Those experiences are invaluable and will help demonstrate your commitment to making a difference in the world. Now, how do you plan to incorporate those experiences into your essay?
+STUDENT: Well, I'm thinking of writing about how my time in Thailand helped shape my understanding of international relations and how it inspired me to pursue a career in the field.
+COACH: That's a great idea! You can use your experiences in Thailand to demonstrate your passion for international relations and show the admissions committee why you would be an asset to their program. Do you have any other questions about applying to Harvard?
+STUDENT: Yes, I was wondering if there are any tips or advice you could give me about the application process?
+COACH: Absolutely. One of the most important things to remember is to be honest and authentic in your essay. Harvard wants to get to know you, so make sure to write about your experiences and passions in a way that is unique and true to who you are. Good luck!

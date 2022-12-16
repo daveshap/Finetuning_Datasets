@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: That's a great question! An engaging essay is one that captures the reader's attention and makes them want to read more. To do this, you'll need to have a strong and captivating introduction, a well-organized body that supports your argument, and a conclusion that ties everything together. You'll also want to make sure that your writing style is clear and concise, and that you're using language that best expresses your ideas. Does that sound like something you can work with?

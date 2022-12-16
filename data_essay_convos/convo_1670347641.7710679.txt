@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to law school and I'm trying to write my admissions essay. I'm not sure how to make it stand out and I'm also wondering how I can get scholarships and grants.
+COACH: That's a great question! Let's start by talking about your background and what you hope to achieve with your law degree. What kind of engineering are you studying right now and where?
+STUDENT: I'm currently studying mechanical engineering at the University of North Carolina. I'm hoping to use my law degree to pursue a career in patent law.
+COACH: Great! It sounds like you have a clear goal in mind. Now, let's look at how you can make your essay stand out. Have you done any research on the school you're applying to, or do you have any unique experiences that might set you apart from other applicants?
+STUDENT: I've done some research on the school, but I don't think I have any unique experiences that would really make my essay stand out.
+COACH: That's okay! There are still plenty of ways to make your essay stand out. One way is to focus on the specific qualities and experiences that make you a great fit for the school. For example, if you have experience in the engineering field, you could talk about how that experience could help you succeed in law school. You could also talk about how your engineering background has prepared you to think critically and analytically, which are important skills for a lawyer.
+STUDENT: That's a great idea!
+COACH: Now, let's talk about how you can get scholarships and grants. Are you familiar with the different types of financial aid available?
+STUDENT: Not really, no.
+COACH: No problem! There are many different types of financial aid available, including grants, scholarships, loans, and work-study programs. The best way to find out what type of financial aid you qualify for is to research the different options and apply for as many as possible. Additionally, you should reach out to the school you're applying to and ask about any additional financial aid opportunities available.

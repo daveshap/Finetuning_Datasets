@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: Well, the first step is to decide on a topic that you feel passionate about. Think about something that has had a significant impact on your life and that you feel strongly about. Once you have your topic, you can start outlining your essay. Make sure to include a strong introduction, body, and conclusion.
+STUDENT: What should I include in my introduction?
+COACH: The introduction should provide some background information on your topic and explain why it is important to you. You can also mention any experiences or personal qualities that make you an ideal candidate for the program. This will help the reader understand why you are passionate about your topic and why you are a good fit for the program. 
+STUDENT: What should be included in the body of the essay?
+COACH: The body of the essay should provide details and examples that illustrate how your topic has impacted your life. Be sure to include specific examples and anecdotes that demonstrate your knowledge and understanding of the topic. Additionally, you should discuss how the program you are applying to can help you further develop your skills and knowledge related to your topic. 
+STUDENT: What should the conclusion include?
+COACH: The conclusion should summarize the main points of your essay and explain why the program you are applying to is the best fit for you. You can also include a brief statement about your future goals and how the program can help you achieve them. Finally, you can end with a call to action, expressing your excitement and enthusiasm for the program and your eagerness to learn more.

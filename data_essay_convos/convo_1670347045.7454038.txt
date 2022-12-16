@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm struggling with my essay.
+COACH: Alright, can you tell me a bit more about what you're having difficulty with?
+STUDENT: Well, I'm having trouble figuring out how to talk about the racism I've experienced while growing up in the Philippines and how it has shaped my identity.
+COACH: That sounds like a really important topic. Can you tell me more about your experience with racism in the Philippines?
+STUDENT: Sure. Growing up in a single parent home in the Philippines, I was often exposed to racism from my peers and even some adults. I was made to feel like I was less than because of my race and background. It was really difficult to navigate and I felt like I didn't belong.
+COACH: That sounds really difficult. What kind of impact has this experience had on you?
+STUDENT: It's made me much more aware of the importance of diversity and inclusion. I think it's really important for everyone to be respected regardless of their background or race. I also think it's important to stand up for yourself and others if you see someone being discriminated against.
+COACH: That's great. It sounds like you have a real passion for this issue. How could you use this experience to make your essay stand out and show the admissions committee why you'd be a great addition to Yale?
+STUDENT: I think I could use my experience to show how I'm resilient and have the ability to overcome adversity. I could also talk about how I have a unique perspective on diversity and inclusion that I would bring to the Yale community.

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about sexism in Germany and China, two countries that have very different approaches to the issue.
+COACH: That sounds like a really interesting topic! Could you tell me a bit more about what you're trying to explore in your essay?
+STUDENT: Well, I'm looking at how sexism manifests itself differently in both countries and how their respective cultures and social structures shape the way they address the issue.
+COACH: That's a great starting point. What kind of research have you done so far?
+STUDENT: I've been reading up on the history of gender roles in both countries and exploring how each nation's laws and policies address sexism. I've also been looking into the current state of gender equality in each country.
+COACH: That sounds like you have a good foundation for your paper. What kind of sources have you been using?
+STUDENT: I've been relying mostly on scholarly articles and books, but I've also been doing some online research as well.
+COACH: Great! Have you started to form any conclusions yet, or are you still in the process of gathering information?
+STUDENT: I'm still in the process of gathering information, but I'm starting to see some interesting patterns emerging. For example, I'm noticing that Germany has taken a much more proactive stance on combating sexism than China has.
+COACH: That's really interesting! What do you think has led to this difference in approach?
+STUDENT: I think it has to do with the different social and cultural norms in each country. In Germany, there's been a long history of progressive reforms that have helped to reduce gender inequality, while in China, traditional gender roles are still quite prevalent.

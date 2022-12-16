@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that demonstrate your writing ability, as well as your ability to think critically and express yourself. They also want to see your passion for the topic you are writing about. It’s important to make sure that your essay is well-structured and organized, and that it has a clear introduction, body, and conclusion. Finally, admissions officers want to get a sense of who you are as a person.
+STUDENT: What should I include in my essay?
+COACH: Start by introducing yourself and why you are applying for the grant. Make sure to explain what makes you a good candidate for the grant and how you plan to use the funds if awarded. Demonstrate your knowledge of the organization or institution you are applying to. Showcase any relevant experiences or qualifications you may have. Finally, be sure to include a conclusion that summarizes your main points and expresses your enthusiasm for the opportunity.

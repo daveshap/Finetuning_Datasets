@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question. Can you tell me a bit more about why you're interested in scholarships and grants?
+STUDENT: I'm trying to pay for college and need some financial help.
+COACH: Okay, that makes sense. Before we get into the specifics of how to apply for scholarships and grants, let's talk about what a thesis statement is and how it can help you. A thesis statement is a short sentence that summarizes the main idea of your essay. It should be clear and concise and make a claim that can be argued. Once you have a strong thesis statement, you can use it as a guide when writing the rest of your essay.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and UCLA and I'm having trouble figuring out how to write my essay.
+COACH: Alright, let's start by talking about what makes you unique. What do you think sets you apart from other applicants?
+STUDENT: Well, I come from a poor family and I'm a Christian. I don't feel like I'm particularly interesting as a person, so I'm not sure how to make my essay stand out.
+COACH: That's okay. You don't have to be the most interesting person in the world to write a great essay. What do you think makes you unique? Think about your experiences, your values, and the things that make you different from other applicants. It could be something as small as a hobby or a passion that you have.
+STUDENT: Hmm, I guess I'm passionate about helping people. I volunteer at a local food bank and I'm part of a church youth group.
+COACH: That's great! It sounds like you have a lot of experience working with people and helping them in meaningful ways. That's definitely something you can include in your essay. How have those experiences shaped your values and your outlook on life?
+STUDENT: Working with people has made me realize how important it is to be kind and compassionate. It's also shown me that everyone has something valuable to offer, no matter their background or circumstances.
+COACH: That's a great point. You can use this in your essay to demonstrate how you view the world and why you would be a great addition to the university. You can also talk about the lessons you've learned from your experiences and how they've shaped your character.

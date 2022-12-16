@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the assignment and the topic you’re writing about. What is your essay about?
+STUDENT: It's about why people should learn a second language. 
+COACH: Okay, great. Generally, for a persuasive essay, you should aim for between 500 and 800 words. That should give you enough space to make your argument and back it up with evidence. Is there anything else you need help with?

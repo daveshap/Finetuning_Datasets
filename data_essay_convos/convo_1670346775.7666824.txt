@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard, Duke University, and a few other universities in Germany and the Philippines. I'm having trouble with the essay structure.
+COACH: Okay, that's a great place to start. Could you tell me a little bit more about the essay you're writing? What is the topic?
+STUDENT: The essay is about my experience as an international student. I want to talk about how my home country, the Philippines, has shaped my worldview and how it has helped me become a better student.
+COACH: That sounds like a really interesting topic. Can you tell me a bit more about why you chose this particular topic?
+STUDENT: Well, I think it's important to show the admissions officers that I'm not just another applicant, but rather someone who has unique experiences that can add to the diversity of the university.
+COACH: That makes sense. So now that you have your topic, what kind of structure would you like to use to write your essay?
+STUDENT: I was thinking of starting with a brief introduction that explains why I chose this topic, then going into my experiences in the Philippines, followed by how those experiences have shaped my worldview, and finally, how this has helped me become a better student.
+COACH: That sounds like a great structure. You can start by introducing yourself and explaining why you chose this topic. Then, you can go into detail about your experiences in the Philippines and how they have shaped your worldview. Finally, you can conclude by talking about how those experiences have helped you become a better student. Does that sound like a plan?
+STUDENT: Yes, that sounds perfect! Thank you for your help.

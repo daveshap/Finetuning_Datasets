@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to engineering school and I'm struggling with my personal statement.
+COACH: Alright, that's a great place to start. Can you tell me a bit more about why you're applying to engineering school?
+STUDENT: Well, I've always been interested in engineering and I think it's a great way to make a difference in the world. I'm passionate about using technology to solve problems and create positive change.
+COACH: That's fantastic! What kind of problems do you think you could help solve with engineering?
+STUDENT: I'm particularly interested in using engineering to help address social and political issues. I think that by understanding how the world works, we can create better solutions for the future.
+COACH: That's a great ambition! Have you done any work in this area already?
+STUDENT: Yes, I've volunteered with a few charities that focus on using technology to help people in need. I've also done some research on how technology can be used to improve access to healthcare and education.
+COACH: That's impressive! It sounds like you have a lot of experience in this area. Can you tell me why you think an admission essay is important?
+STUDENT: Sure. I think an admission essay is important because it gives the admissions committee a chance to get to know you as a person. It's an opportunity to show them why you're passionate about engineering and how you can use your skills to make a difference in the world. It's also a chance to demonstrate that you have the commitment and dedication to succeed in engineering school.

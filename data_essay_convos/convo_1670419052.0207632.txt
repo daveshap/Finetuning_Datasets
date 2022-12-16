@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help with my essay.
+COACH: Okay, great! What kind of essay are you working on? Is it a personal statement or an essay for a specific class?
+STUDENT: It's a personal statement.
+COACH: Alright, so what kind of things would you like to discuss? What do you feel like you need help with?
+STUDENT: Well, I'm not sure what admissions officers look for in a personal statement. I'm also not sure what to write about that would make me stand out.
+COACH: Sure, that makes sense. When it comes to personal statements, admissions officers are looking for something that shows your personality and your commitment to your studies. They want to get a sense of who you are as a person. To stand out, you could focus on something unique about yourself that sets you apart from other applicants. This could be an experience you had, a skill you possess, or even a passion or hobby you have. 
+STUDENT: Okay, that's helpful. But I'm not sure I'm interesting as a person.
+COACH: Everyone is interesting in their own way! Think about the things that make you unique. Maybe you have a special talent or hobby that you're passionate about. Or maybe you have a unique perspective on life that you can share. Whatever it is, try to think of something that will make you stand out from the crowd. 
+STUDENT: Alright, I'll give it a try. But what about the structure of the essay? What should I include in the introduction, the body, and the conclusion?
+COACH: That's a great question! Generally speaking, the introduction should be engaging and introduce the main topic of the essay. The body should provide evidence and details to support your main point. Finally, the conclusion should summarize your main points and provide a call to action or a reflection on the essay topic.

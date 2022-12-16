@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help with my essay.
+COACH: Okay, great! What college are you applying to?
+STUDENT: I'm looking at Princeton and Duke University.
+COACH: That's great! What kind of essay are you working on?
+STUDENT: I'm writing about my experience as a refugee and how my faith, Islam, has shaped me. 
+COACH: That sounds like a really interesting topic. How do you plan on approaching the essay?
+STUDENT: I'm not sure. I want to focus on how my faith has impacted my life, but I'm not sure how to structure it.
+COACH: Well, before you start writing, it's important to have a clear idea of what you want to say. What message do you want to convey to the admissions committee?
+STUDENT: I want them to understand how my faith has been an important part of my life and how it has shaped me into the person I am today.
+COACH: That's a great goal! Now, let's think about how you can structure your essay to effectively communicate that message. What have you already written?

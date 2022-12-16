@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: The first step is to do some research. Look into the grant you are applying for and find out what they are looking for in an applicant. This can help you decide what kind of essay to write and how to structure it.
+STUDENT: What kind of topics should I discuss in my essay?
+COACH: It depends on the grant you are applying for, but generally you should focus on why you are a good fit for the grant and how it will help you achieve your goals. You can also discuss any unique experiences or skills you have that make you an ideal candidate.
+STUDENT: How can I make my essay stand out?
+COACH: Think about what makes you unique and try to incorporate that into your essay. Make sure you’re telling a story that will engage the reader and show them why you are the best person for the grant. Try to be creative and use vivid language to make your essay stand out.

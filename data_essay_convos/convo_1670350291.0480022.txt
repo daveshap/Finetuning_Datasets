@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help on writing my college essay.
+COACH: Wonderful! What kind of help are you looking for? 
+STUDENT: I'm not sure where to start. I'm not very interesting as a person, and I'm not sure what to write about.
+COACH: That's okay. You don't have to be interesting as a person to write a great essay. Can you tell me a bit more about yourself? What kind of things do you like to do?
+STUDENT: Well, I'm really interested in creativity and art. I've been drawing since I was a kid, and I want to pursue a career in art.
+COACH: That's great! It sounds like you have a passion for art and creativity. Do you have any experiences related to art or creativity that you could draw upon for your essay?
+STUDENT: Yes, I recently travelled to Vietnam with my family and visited some amazing art galleries there. It was really inspiring and gave me a lot of ideas for my own work.
+COACH: That sounds like a great experience to include in your essay. What else can you tell me about yourself?
+STUDENT: Well, I'm really passionate about education and I'm hoping to get into Princeton.
+COACH: That's wonderful! Have you taken any classes or done any research related to your field of study that you could use in your essay?
+STUDENT: Yes, I've been doing some research on the history of art in Vietnam and it's really interesting.
+COACH: That's great! You could definitely use that research to support your essay. Is there anything else you'd like to talk about?

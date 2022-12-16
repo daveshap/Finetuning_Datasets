@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to write an essay about myself for college applications and I'm not sure where to start.
+COACH: That's a common problem. Let's start by talking about what makes you unique. What are some of the things that make you stand out from other applicants? 
+STUDENT: Well, I volunteer a lot with charity work and I'm really passionate about science. 
+COACH: That's great! Volunteering is a great way to show your commitment to making a difference in the world, and it's also a great way to demonstrate your leadership skills. What kind of science are you interested in? 
+STUDENT: I'm particularly interested in biology and medicine. 
+COACH: That's fantastic! What have you done to explore this interest? 
+STUDENT: I did an internship at a local hospital last summer and I'm currently taking classes at UCLA to learn more about the field. 
+COACH: That's terrific! It sounds like you have a real passion for the subject. Are there any other interests or activities that make you stand out as a person? 
+STUDENT: Well, I'm also involved in a few clubs at my school and I'm on the debate team. 
+COACH: That's great! Being involved in extracurricular activities shows that you're a well-rounded individual and that you're willing to put in the effort to achieve success. What do you hope to do after college? 
+STUDENT: I'm not sure yet. I'm hoping to find a job in the medical field, but I'm not sure how to go about that. 
+COACH: That's understandable. There are many resources available to help you find a job after college. You can start by doing research on potential employers, networking with professionals in the field, and attending job fairs. You can also look into internships and volunteer opportunities that could help you gain experience and build your resume.

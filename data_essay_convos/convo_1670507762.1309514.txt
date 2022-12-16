@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question! Let's start by talking about what you want your essay to accomplish. What do you want to communicate to the admissions committee?
+STUDENT: I want to show that I'm a dedicated student who is passionate about medicine and will make an excellent doctor.
+COACH: Perfect. Now, let's talk about the structure of your essay. What do you think is the most important point you want to make?
+STUDENT: I think the most important point I want to make is that I have a strong commitment to medicine and am driven to help people.
+COACH: Alright, so now let's think about how to best organize your essay to make that point. Have you thought about using a chronological approach, starting with your earliest experience and then working up to the present?
+STUDENT: Yes, I think that would be a good way to go.
+COACH: Great! Now, let's talk about the content of your essay. What experiences have you had that demonstrate your commitment to medicine?
+STUDENT: I've volunteered at a local hospital for the past two years, shadowed doctors in various specialties, and taken advanced science classes.
+COACH: Wonderful! Now, think about how you can use these experiences to show why you're an excellent candidate for medical school. What did you learn from these experiences that makes you an ideal doctor?
+STUDENT: From volunteering, I learned the importance of compassion when treating patients. From shadowing, I gained insight into the different aspects of medicine and developed an understanding of the challenges faced by doctors. And from taking advanced science classes, I improved my knowledge of medical topics and gained a better understanding of the human body.
+COACH: Excellent! Now, let's think about how to tie all of these points together in your essay. What common theme do all of these experiences share?
+STUDENT: All of these experiences have shown me the importance of hard work, dedication, and empathy when it comes to practicing medicine. 
+COACH: Perfect! Now, let's talk about how you can use this theme to make your essay stand out. What unique perspective do you bring to medicine that makes you an ideal candidate?
+STUDENT: I think my unique perspective is that I'm passionate about learning and discovering new ways to improve patient care. I'm always looking for ways to make a difference in the lives of my patients.

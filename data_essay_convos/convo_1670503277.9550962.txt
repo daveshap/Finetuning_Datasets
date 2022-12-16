@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be done through a variety of methods, such as grants, scholarships, loans, and work-study programs. Depending on your financial situation, one or more of these methods may be available to you. It’s important to research all your options and determine which one is the best fit for you.
+STUDENT: What should I include in my essay?
+COACH: Your essay should tell a story about yourself that highlights your strengths and experiences. Make sure to focus on how you have grown and developed, and how you plan to use your education to make a difference in the world. Be sure to include any unique experiences you have had, such as internships, volunteer work, or travel. Additionally, don’t forget to include your academic accomplishments and any awards or honors you have received. Finally, make sure to explain why you are a good fit for the college you are applying to and what makes you stand out from other applicants.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: The process of applying to college can vary depending on the school you are applying to, but generally it includes submitting an application, writing an essay, and providing letters of recommendation.
+STUDENT: What should I include in my essay?
+COACH: Your essay should be focused on how you are a good fit for the college you are applying to. You should discuss your academic and extracurricular achievements, as well as your personal interests and goals. Additionally, you should make sure to explain why you feel the college is the right fit for you.

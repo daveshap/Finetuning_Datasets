@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with an essay I need to write for my college application.
+COACH: Great! What school are you applying to?
+STUDENT: I'm applying to UCLA.
+COACH: Alright, so what would you like to discuss when it comes to your essay?
+STUDENT: Well, I'm really interested in engineering and I want to show the admissions board how I can combine creativity and art with my engineering skills to make a difference in the world.
+COACH: That's a great idea! What kind of social issues do you want to focus on in your essay?
+STUDENT: I want to talk about how engineering can be used to help people in poor families.
+COACH: That's a very noble goal. What kind of specific solutions do you have in mind?
+STUDENT: I'm thinking of ways to use engineering to create more affordable housing, better access to clean water and electricity, and more efficient transportation systems.
+COACH: Those are all excellent ideas! How do you plan to tie your engineering skills into your essay?
+STUDENT: I plan to explain how my engineering skills can be used to create innovative solutions to these social issues. I also want to emphasize the importance of creativity and art in engineering and how it can help us come up with new and creative solutions.

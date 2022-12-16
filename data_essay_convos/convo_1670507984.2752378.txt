@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question! Let's start by talking about what kind of essay you're writing. Is it a personal statement?
+STUDENT: Yes, it is a personal statement.
+COACH: Okay, great. A personal statement usually has a length requirement, so it's important to make sure you're meeting that requirement. Can you tell me a bit more about the essay? What are you trying to say in it?

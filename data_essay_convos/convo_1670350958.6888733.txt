@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to college and I need help writing my personal statement.
+COACH: Alright, let's start with a few questions. What do you want to study in college?
+STUDENT: I'm interested in science and mathematics.
+COACH: Great! What specifically are you hoping to gain from a college education?
+STUDENT: Well, I'm hoping to gain a better understanding of the scientific and mathematical principles that govern our world. I also want to travel and explore different cultures and countries.
+COACH: That sounds like a great plan! What kind of financial aid are you looking for to help finance your college education?
+STUDENT: I'm looking for scholarships and grants, but I'm not sure how the process works.
+COACH: No problem! There are several options when it comes to financing college. You can apply for scholarships and grants, take out student loans, or look into work-study programs. Each option has its own advantages and disadvantages, so it's important to do your research and find the best fit for you.

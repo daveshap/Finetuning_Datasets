@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That's a great question. Financing college can be a complex process, so let's break it down. The first step is to understand what types of financial aid are available. There are several options, including grants, scholarships, loans, and work-study programs. Each of these has different requirements and benefits, so it's important to research each option before making a decision.
+Once you have a better understanding of the different types of financial aid, you can start exploring your individual options. This could include filling out the Free Application for Federal Student Aid (FAFSA) or applying for grants or scholarships. It's also important to consider other sources of funding, such as family or employer contributions.
+Once you have a clear understanding of your financial aid options, you can then start thinking about how to make the most of your money. This could include creating a budget, looking for ways to reduce costs, and exploring alternative financing options.
+STUDENT: Okay, thanks. Now, can you help me with my admissions essay?
+COACH: Absolutely! What type of essay are you writing and what is the prompt?

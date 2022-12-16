@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and MIT and I need help with my essay.
+COACH: Great! Let's get started. What kind of essay are you writing?
+STUDENT: It's an admission essay.
+COACH: Okay, what do you want to focus on in your essay?
+STUDENT: I want to focus on how I overcame the challenges of growing up in a single parent home.
+COACH: That's a great topic. Can you tell me more about the challenges you faced growing up in a single parent home?
+STUDENT: Sure. I had to take on a lot of responsibility at a young age. I had to help my mom out with household chores, help with my siblings, and work part-time jobs to help supplement our income.
+COACH: Wow, that sounds like a lot of responsibility for someone so young. How did you manage to stay focused and motivated?
+STUDENT: It was hard, but I knew that if I worked hard and stayed focused, I could make something of myself. I was also lucky enough to have supportive teachers and mentors who helped me stay on track and encouraged me to pursue my dreams.
+COACH: That's really inspiring. How did these experiences shape who you are today?
+STUDENT: They taught me the importance of resilience and hard work. I also learned how to manage my time and prioritize tasks. Those lessons have helped me become successful in my studies and in my career.

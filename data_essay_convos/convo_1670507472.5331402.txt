@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: That's a great question. Before we dive into the specifics of writing an opening, let's talk about the overall essay you're writing. What type of essay is it? 
+STUDENT: It's a grant application. 
+COACH: Great! A grant application is a persuasive essay, so your opening should be compelling and draw the reader in. The best way to do that is by introducing the topic and providing a brief overview of the main points you'll cover. This should be done in a way that is interesting, engaging, and relevant to the purpose of the essay. 
+To make sure your introduction is effective, ask yourself these questions: 
+1. Does my introduction provide a clear and concise summary of my essay? 
+2. Does my introduction grab the reader's attention? 
+3. Does my introduction establish the context and purpose of the essay?
+Answering these questions will help you create an introduction that sets the tone for the rest of your essay. 
+STUDENT: That's really helpful, thank you!

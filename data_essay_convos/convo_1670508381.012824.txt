@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Okay, so it sounds like you need help with your research paper. What kind of research paper are you writing?
+STUDENT: I'm writing a research paper about the benefits of grants for college students.
+COACH: Great! Let's start by talking about your research topic. What do you already know about grants for college students?
+STUDENT: I know that grants can help cover tuition and other expenses related to college.
+COACH: That's right. Grants are a great way to reduce the cost of attending college. Now, let's talk about your research process. What kind of sources are you planning to use for your paper? 
+STUDENT: I'm planning to use scholarly articles, government websites, and interviews with experts.
+COACH: That sounds like a great plan. Make sure to take notes as you go along so you don't forget any important information. Also, remember to cite all of your sources properly in your paper. Do you have any questions about the research process?

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college essay.
+COACH: That's great! What kind of help do you need? 
+STUDENT: I'm not sure how to start it or what kind of topics to write about.
+COACH: Okay, that's understandable. Let's start by talking about why college matters to you. Do you have any particular reasons why you want to go to college?
+STUDENT: Well, I want to get a better job and make more money. I also think college will give me the opportunity to explore new ideas and learn more about the world.
+COACH: That's a great reason to attend college. Do you have any other reasons?
+STUDENT: Yeah, I want to be able to travel and experience different cultures. I'm particularly interested in learning more about Vietnam and Islam.
+COACH: That sounds like a great goal! Have you started researching colleges yet?
+STUDENT: Not yet, I'm not sure where to start.
+COACH: That's okay! The first step is to decide what kind of school you want to attend. Do you want to stay close to home or go to a school far away? Do you want a big university or a small college? These are all important questions to consider when applying to college.

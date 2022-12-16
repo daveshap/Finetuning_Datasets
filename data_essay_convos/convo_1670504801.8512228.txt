@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: Generally, college admissions essays should be between 500 and 650 words. However, some colleges may specify a different word count. Be sure to check the requirements for the college you’re applying to.
+STUDENT: What should I include in my essay?
+COACH: Your essay should provide the admissions committee with an insight into who you are as a person. You should include details about your background, interests, and goals. Try to make sure your essay is unique and stands out from other applicants.
+STUDENT: How do I start my essay?
+COACH: A great way to start your essay is by using a hook that will draw the reader in. This could be a quote, a story, or even a joke that relates to the topic of your essay. Once you have the reader’s attention, you can move on to introducing yourself and your qualifications.
+STUDENT: What kind of tone should I use in my essay?
+COACH: Your essay should have a positive tone that reflects your enthusiasm for the college and your eagerness to learn. Avoid using negative language and focus on the positive aspects of your experience. Be sure to write in a confident, yet humble, manner.
+STUDENT: How do I end my essay?
+COACH: The conclusion of your essay should be a summary of your main points. Reiterate why you are a great fit for the college and how you can contribute to the school’s community. End your essay with a strong statement that leaves a lasting impression on the reader.

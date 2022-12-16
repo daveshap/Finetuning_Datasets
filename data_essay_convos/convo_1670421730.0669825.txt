@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm a first-generation college student and I'm applying to universities in Germany. I'm not sure what to write about in my college admission essay.
+COACH: That's great that you're applying to universities in Germany! It sounds like you have a lot of potential. First, let's talk about what you want to focus on in your essay. What are your passions? What do you think would make a good topic for your essay?
+STUDENT: Well, I'm really passionate about learning new languages, and I'm interested in exploring different cultures. I also love exploring different countries and experiencing new things.
+COACH: Those are all great topics to focus on in your essay! Can you tell me more about why you're interested in learning new languages and exploring different cultures?
+STUDENT: Sure! I think it's important to be able to communicate with people from different backgrounds and understand their perspectives. I think it opens up possibilities for collaboration, understanding, and respect.
+COACH: That's a great point! You could focus your essay on how learning new languages and exploring different cultures has shaped your view of the world and how it has impacted your life. You could also talk about how it has helped you become a better person and a more open-minded individual. 
+STUDENT: That sounds like a great idea! I think I can write an interesting essay about that.
+COACH: Great! Now, let's talk about scholarships and grants. How can you get started looking for them?
+STUDENT: Well, I've heard that there are a lot of scholarships and grants available for first-generation college students. I'm not sure where to start looking though.
+COACH: That's a great place to start! There are a lot of resources out there to help you find scholarships and grants. You can start by doing some research online. You can look up organizations that offer scholarships and grants specifically for first-generation college students. You can also look up websites that list all kinds of scholarships and grants. Additionally, you can reach out to universities and colleges to see if they offer any scholarships or grants specifically for first-generation college students.

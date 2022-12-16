@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That all depends on what you're writing about. What is the topic of your essay?
+STUDENT: I'm writing about the history of the automobile industry.
+COACH: Okay, great. Before we get started, let's talk about what kind of essay you're writing. Is this a persuasive essay, an argumentative essay, or a monograph?
+STUDENT: A monograph.
+COACH: Perfect. A monograph is an essay that provides an in-depth analysis of a single topic. So, for this essay, you'll want to focus on providing a comprehensive overview of the automobile industry, including its history, development, and current state. You'll also want to draw on research to provide evidence and support your claims. Does that make sense?
+STUDENT: Yes, it does.
+COACH: Alright. Let's start by breaking down the essay into sections. What do you think are the key points that you want to cover in your essay?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: Scholarships and grants are awarded based on academic merit, financial need, and other criteria. To maximize your chances of receiving these awards, you should research the available scholarships and grants and apply to those that match your qualifications. Additionally, you should make sure to complete your applications thoroughly and accurately, and submit all required documents and materials. 
+STUDENT: What topics should I write about in my essay?
+COACH: Your college admissions essay should be an honest reflection of who you are as a person. It should focus on your strengths, interests, and goals, and how they relate to the college or university you are applying to. You can also discuss any challenges you have faced and how you have overcome them. Be sure to use vivid language and strong examples to make your essay stand out. 
+STUDENT: How long should my essay be?
+COACH: Most college admissions essays require a minimum of 500-700 words. However, the exact length of your essay will depend on the specific instructions provided by the college or university you are applying to. Make sure to read the instructions carefully and follow them to the letter.

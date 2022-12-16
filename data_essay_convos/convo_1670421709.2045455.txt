@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I'm having a lot of trouble with my essay. I want to make sure it stands out and really shows off my skills and achievements.
+COACH: Great! Let's start by talking about what the admissions officers are looking for in an essay. Do you have any ideas?
+STUDENT: Well, I know they're looking for something that's unique and captures their attention. I also know they want to get a better understanding of who I am and what I can bring to the school.
+COACH: That's right. It's important to make sure your essay is engaging and demonstrates your personality. You should also focus on highlighting your strengths and accomplishments. What kind of skills and achievements do you have that you want to emphasize in your essay? 
+STUDENT: I'm a great problem solver and I'm very creative. I'm also very passionate about my studies and I'm not afraid to take risks. I've been involved in a lot of extracurricular activities and I've won several awards for my academic achievements.
+COACH: Those are all fantastic qualities to highlight in your essay! Now, let's talk about the structure of your essay. Do you have an idea of how you want to organize your thoughts?
+STUDENT: I was thinking of starting with a brief introduction that explains why I'm applying to UCLA and why I think I'm a good fit. Then I want to go into more detail about my skills and accomplishments and how they relate to the university. Finally, I want to end with a conclusion that sums up my thoughts and expresses my enthusiasm for the school.
+COACH: That sounds like a great plan. Just make sure your essay is clear and concise, and that you don't include too much information. Also, don't forget to address any potential obstacles or rejections you may have faced, and how you overcame them. This will show the admissions officers that you have the resilience and determination to succeed. 
+STUDENT: Okay, that makes sense. I think I have a better idea of what I need to do now. Thanks for the help!

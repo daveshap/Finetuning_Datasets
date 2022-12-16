@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: That’s a great question. Before we get into the specifics of writing your conclusion, let’s talk a bit more about your essay. What type of essay are you writing?
+STUDENT: I'm writing a scholarship application essay
+COACH: Great. What is the topic of the essay?
+STUDENT: It's about how my experiences have shaped me and why I'm the best candidate for the scholarship.
+COACH: Okay, that's a great topic. Now, when it comes to writing the conclusion, you want to make sure that it ties back to the introduction and the body of the essay. Your conclusion should be a summary of the main points you made in the essay and how they support your argument for why you should receive the scholarship. You also want to make sure that your conclusion is memorable and leaves the reader with a lasting impression.

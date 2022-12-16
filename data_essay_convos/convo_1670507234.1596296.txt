@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: Well, the first step to writing a persuasive essay is to determine your purpose. What are you trying to convince your readers of?
+STUDENT: I want to convince my readers that global warming is an urgent issue that needs to be addressed.
+COACH: Great! Now that you know what you want to argue, you can start to do some research. Look for statistics, facts, and quotes from experts to support your argument. Once you have all the evidence you need, you can start to plan out your essay. Make sure you have a clear thesis statement that states your position on the issue. Then, think about how you can structure your essay. You may want to use the classic five-paragraph structure, with an introduction, three body paragraphs, and a conclusion.

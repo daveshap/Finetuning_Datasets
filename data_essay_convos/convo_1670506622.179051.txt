@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, that's great! What kind of essay are you working on?
+STUDENT: It's a personal statement.
+COACH: OK, so let's start with the basics. What are your main points or themes that you want to discuss in your essay?
+STUDENT: I want to talk about how my parents' hard work and dedication has motivated me to pursue higher education and how I plan to use my degree to give back to my community.
+COACH: That's great! So now let's focus on how you can craft your essay to make sure that it effectively conveys your message. First, think about what experiences have shaped your life and why they have been important to you. Then, think about how you can use those experiences to show your readers why you're a good candidate for college. You can also use examples from your own life to illustrate your points. Finally, make sure to finish your essay with a strong conclusion that ties everything together.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are a form of financial aid that doesn’t have to be repaid. They’re typically awarded based on need or merit, and can come from the government, private organizations, or universities. Can I ask what type of essay you’re working on?
+STUDENT: Yes, I'm writing a personal statement for law school.
+COACH: Great! Personal statements are an important part of the admissions process, as they allow you to tell your story and demonstrate why you’d be a great fit for the program. What kind of help do you need with your essay?

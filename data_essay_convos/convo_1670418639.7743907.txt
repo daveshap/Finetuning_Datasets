@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my passion for travel and how it has shaped my ambition to attend UCLA.
+STUDENT: I'm having trouble figuring out how to structure the essay.
+COACH: That sounds like a great topic! It's always important to start with a strong structure when writing an essay. What have you done so far?
+STUDENT: Well, I've outlined my main points and ideas. I want to talk about my travels to Germany and how they have influenced my desire to go to UCLA.
+COACH: That's a great start! When you're structuring your essay, it's important to have a clear introduction, body paragraphs, and conclusion. For the introduction, you could start off by talking about why you love to travel, and how it has inspired your ambition to attend UCLA. You could also include a brief overview of the places you've traveled to, such as Germany.
+For the body paragraphs, you could focus on each place you've traveled to and how it has impacted your ambition to attend UCLA. For example, you could talk about how visiting Germany has opened your eyes to different cultures and perspectives, which has made you more eager to attend UCLA.
+Finally, for the conclusion, you could summarize the main points of your essay and reiterate why you want to attend UCLA.
+STUDENT: That's really helpful, thank you! I think I have a better idea of what to do now.

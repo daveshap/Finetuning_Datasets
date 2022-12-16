@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for grad school admissions, and I'm having trouble getting started.
+COACH: Okay, let's start by talking about your goals and personal objectives. What do you hope to achieve with your graduate degree? 
+STUDENT: Well, I want to pursue a career in medicine, so I'm applying to medical school. My ultimate goal is to become a doctor, and I'm hoping that my graduate degree will help me get there.
+COACH: That's great! Do you have any particular medical school in mind? 
+STUDENT: I'm looking at schools in Europe, specifically in Thailand.
+COACH: Okay, so why Thailand? What makes it the right choice for you?
+STUDENT: I think that the culture and environment in Thailand are a good fit for me. The medical schools there have strong reputations, and I'm hoping to take advantage of the diverse learning opportunities available there. Additionally, I think that the experience of living and studying abroad will be invaluable.
+COACH: That sounds like an excellent plan. Now, what do you think would make your application stand out? 
+STUDENT: I think my essay should focus on my commitment to pursuing a career in medicine, as well as my experiences that have prepared me for this journey. I want to demonstrate my passion for the field, and how my past experiences have shaped my goals.

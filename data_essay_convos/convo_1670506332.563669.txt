@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: Well, that depends on what you want to focus on. Can you tell me a bit more about what you're looking to write about?
+STUDENT: I want to write about how I overcame a difficult challenge in my life.
+COACH: That's a great topic! There are a few different ways you can approach it. Can you tell me more about the challenge you faced and how you overcame it?
+STUDENT: Sure. I had to move to a new city for college and it was really hard for me to adjust. I didn't know anyone and felt really lonely. I eventually found a support system of friends and mentors who helped me get through it.
+COACH: That sounds like a great story! You could start by talking about the challenge you faced and then explain how you overcame it. You could also talk about the lessons you learned from the experience and how it shaped you as a person. Once you have a clear idea of what you want to focus on, you can start to brainstorm ideas and create an outline for your essay.

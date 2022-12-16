@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing my college essay. I just don't know what to say or how to make it stand out.
+COACH: Okay, that's a common problem. Can you tell me a bit more about what you want to write about?
+STUDENT: Well, I'm interested in talking about my experiences in France and how they've shaped my outlook on life. I also want to talk about overcoming obstacles and how I got involved in volunteer work.
+COACH: That sounds like a great topic. Can you tell me a bit more about your experiences in France?
+STUDENT: Sure. I was born in France and lived there for most of my life. I moved to the United States when I was 16 and it was a difficult transition. I had to learn a new language and adapt to a new culture. But I think it made me stronger and more resilient.
+COACH: That's a great story! How did you get involved in volunteer work?
+STUDENT: I started volunteering with a local organization to help other immigrants adjust to life in the US. I also volunteered at a homeless shelter and tutored students in French. It was a great experience and I learned a lot about helping others.
+COACH: That's really inspiring. What else would you like to include in your essay?
+STUDENT: I'd like to talk about how I've dealt with rejection and how I've used my experiences to become a better person. I also want to explain how the college admissions process works and why I think I'm a good fit for the school.
+COACH: That's great! It sounds like you have a lot of great material to work with. Is there anything else you'd like to include?
+STUDENT: Yes, I'd also like to talk about neurodiversity and how I think it can be an asset in college.
+COACH: That's an interesting topic. Can you tell me more about it?
+STUDENT: Sure. Neurodiversity is the idea that neurological differences, such as autism, ADHD, and dyslexia, can be seen as strengths rather than weaknesses. I think it's important for colleges to recognize and embrace neurodiversity and I want to explain why in my essay.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Well, that's a great question. The first step is to research which colleges you're interested in and then apply to those schools. What type of essay are you writing? 
+STUDENT: A dissertation.
+COACH: Okay, great. Dissertations require a lot of research and planning. What kind of topic are you exploring?
+STUDENT: I'm exploring the effects of technology on education.
+COACH: That's an interesting topic. Before you start writing, it's important to create an outline of your dissertation. This will help you organize your thoughts and ensure that you don't miss any important points. It's also important to make sure you have enough evidence to support your argument. Have you done any research on this topic yet?

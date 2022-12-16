@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: The college admissions essay should be a reflection of who you are and what you want to bring to the university. Think about your values, experiences, and goals. What makes you unique? What challenges have you faced and how did you overcome them? What would you like to accomplish in college? These are all great topics to focus on when writing your essay.

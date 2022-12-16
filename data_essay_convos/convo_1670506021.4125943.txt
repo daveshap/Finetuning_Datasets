@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. To start, I'd like to ask you a few questions about what kind of essay you're writing and what your goals are. What type of scholarship are you applying for?
+STUDENT: I'm applying for a college scholarship.
+COACH: Great! What are the main criteria for this scholarship?
+STUDENT: The main criteria are academic excellence, leadership potential, and community involvement.
+COACH: Alright. Now that we know the criteria, it will be easier to pick an appropriate topic. What kind of experiences or activities do you have that demonstrate your academic excellence, leadership potential, and community involvement? 
+STUDENT: I'm a student leader in my school's debate team, I volunteer at a local animal shelter, and I'm in the top 5% of my class academically.
+COACH: Perfect! You have some great experiences to draw from. Let's brainstorm some essay topics that could showcase your experiences. How about writing about the impact of debate on your leadership skills? Or, you could write about how volunteering at the animal shelter has shaped your view of community involvement. 
+STUDENT: Those both sound great! I think I'll go with the first one.
+COACH: Wonderful! Now let's talk about the structure of your essay. What do you think would be the best way to organize your thoughts?

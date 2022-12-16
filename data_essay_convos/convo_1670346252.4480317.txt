@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad looking to apply to law school and I'm having trouble figuring out what to write about in my personal statement.
+COACH: That's a great question! What do you think you want to focus on in your essay? Do you have any particular interests or experiences you'd like to highlight?
+STUDENT: Well, I'm a member of the LGBT community and I think that's something I'd like to discuss in my essay.
+COACH: That sounds like an amazing topic to explore in your essay. Can you tell me more about your experience as a member of the LGBT community and how it has shaped your perspective on life?
+STUDENT: Sure, I've been a part of the LGBT community since I was a teenager and it has definitely shaped my outlook on life. Growing up, I faced a lot of discrimination and prejudice, but I also had the opportunity to be surrounded by so many inspiring people who taught me to be proud of who I am and to stand up for what I believe in.
+COACH: That sounds like a really powerful story. How do you think you can use this experience to shape your essay and make it stand out from the crowd?
+STUDENT: I think I can use it to illustrate how I've learned to be resilient in the face of adversity, and how I've used my experiences to become an advocate for social justice and equality.
+COACH: That's a great idea! It sounds like you have a lot to say about this topic. What else do you think you can include in your essay to make it even more compelling?
+STUDENT: Well, I think I can talk about how my experience has made me a more empathetic person, and how I've come to understand the importance of understanding and accepting people from all walks of life. I also think it would be interesting to discuss how being a member of the LGBT community has opened my eyes to the struggles that marginalized communities face, and how I'm using my voice to fight for change.

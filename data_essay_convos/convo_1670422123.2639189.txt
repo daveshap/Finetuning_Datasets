@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm working on an essay for my college application to MIT and I'm having trouble figuring out how to approach it.
+COACH: That's great! Could you tell me a bit more about the essay? What kind of topic are you considering?
+STUDENT: Well, I want to write about my experience as someone with neurodiversity, and how that has impacted my journey in science.
+COACH: That sounds like a really interesting topic. Could you tell me more about your experience with neurodiversity?
+STUDENT: Sure! I was diagnosed with dyslexia when I was in elementary school, and since then I've had to work hard to overcome the challenges it presents. I've also had to find ways to use my strengths to my advantage.
+COACH: That's incredible! It sounds like you've had to be very resilient and creative in order to succeed. How did you go about doing that?
+STUDENT: Well, I started by taking extra classes to help me understand the material better. I also read a lot of books about neurodiversity and how to work with it. I also found mentors who could help me make sense of the material and give me guidance.
+COACH: That's great that you had such a strong support system. How did you manage to finance your education?
+STUDENT: I was lucky enough to receive some scholarships and grants, but I also had to take out student loans to cover the rest. I also worked part-time while I was in school, which helped a lot.
+COACH: That's really impressive that you were able to manage all of that while still succeeding in your studies. Could you tell me more about your experience in science?
+STUDENT: Sure! I was always interested in science, but I wasn't sure I'd be able to make it my career. After taking some classes and doing a research project in Vietnam, I realized that I could pursue a career in science. Now I'm studying for a degree in biochemistry and I'm excited about the possibilities.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. When you're writing a persuasive essay, it's important to pick a topic that you feel passionate about and that you can make a compelling argument for. Think about the things that interest you and try to find a unique angle to approach them from. Also, make sure that the topic you pick is relevant to the college you are applying to. 
+STUDENT: What should I include in my essay?
+COACH: A good persuasive essay should have an introduction, body paragraphs, and a conclusion. In your introduction, you should introduce your topic and explain why it's important. In the body paragraphs, you should present your arguments and evidence to back them up. And in the conclusion, you should summarize your points and restate your thesis. 
+STUDENT: How do I write a strong thesis statement?
+COACH: A strong thesis statement is essential to a persuasive essay. It should be clear and concise and should state the main point of your essay. To write a strong thesis statement, you should think about the key points you want to make in your essay and then condense them into one sentence. Make sure that your thesis statement is arguable and that it can be supported by evidence.

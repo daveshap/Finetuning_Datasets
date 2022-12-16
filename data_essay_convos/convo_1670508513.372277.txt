@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question. Applying for scholarships is a great way to help pay for college and law school. First, you'll need to research the different types of scholarships available. Then, you'll need to make sure you meet the criteria for eligibility and apply for them. Can I ask what type of essay you're writing?
+STUDENT: Yes, I'm writing a personal statement for law school.
+COACH: Great! A personal statement for law school is a great opportunity to showcase your unique experiences, skills, and qualifications. It's also a chance to demonstrate why you're the best candidate for a particular program. Before we get started, can you tell me a bit more about yourself and your goals?

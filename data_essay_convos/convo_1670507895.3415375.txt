@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the program you're applying to and what they're looking for. Can you tell me more about the program?
+STUDENT: Sure, I'm applying to a Master's in Education program.
+COACH: Great. Most graduate school applications will ask for an essay or personal statement that is between 500-1000 words. That said, it's important to make sure that the essay is tailored to the specific program you're applying to. What do you want to focus on in your essay?
+STUDENT: I want to focus on how my background and experiences have prepared me for this program.
+COACH: Perfect! You can start by thinking about the unique experiences you've had that have shaped you and how they have prepared you for this program. You can also consider how the program will help you build upon these experiences and further your goals. It's important to make sure that you're connecting your experiences to this program and making a clear argument for why you would be a great fit.

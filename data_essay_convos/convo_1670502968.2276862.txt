@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that show they have a clear understanding of the topic, demonstrate thoughtfulness and creativity, and show that the student is a good fit for their college. They also want to see evidence of research, clear writing, and a compelling argument. 
+STUDENT: What's the best way to structure my essay?
+COACH: It depends on the type of essay you are writing. Generally, it’s best to start with an introduction that sets the stage for your essay and provides a brief overview of what you will be discussing. Then, you should provide evidence to support your argument or thesis statement. You can use facts, quotes, examples, or anecdotes to back up your points. Finally, you should conclude by summarizing your main points and restating your thesis. 
+STUDENT: How can I make sure my essay stands out?
+COACH: One way to stand out is to tell a unique story. Your essay should be personal and specific, so try to think of something that makes you different from other applicants. Additionally, make sure you proofread your essay and check for grammar and spelling mistakes. Also, consider asking someone else to read it over to get a second opinion.

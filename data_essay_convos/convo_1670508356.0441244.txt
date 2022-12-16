@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: That's a great question! To apply for grants, you'll need to do some research. Have you started researching yet? 
+STUDENT: Not yet, I'm not sure where to start.
+COACH: That's understandable. Researching can be overwhelming, but the key is to break it down into smaller tasks. First, you'll want to identify the grants you're interested in and make sure you meet the eligibility requirements. Then, you'll need to gather the necessary information, such as your academic record, financial information, and other relevant documents. Once you have all the information, you'll need to fill out the application forms and submit them. 
+STUDENT: Okay, that sounds manageable. What else should I consider when applying for grants?
+COACH: You'll also want to make sure you write a strong essay to accompany your application. It's important to highlight your accomplishments and explain why you're the best candidate for the grant. Additionally, you'll want to double-check that your essay is free of errors and includes any relevant information the grantor has requested.

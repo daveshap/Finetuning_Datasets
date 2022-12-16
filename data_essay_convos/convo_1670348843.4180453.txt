@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing an essay about politics.
+COACH: Alright, can you tell me a bit more about the essay? What kind of essay is it?
+STUDENT: It's an argumentative essay about the refugee crisis.
+COACH: Got it. So, what kind of argument do you want to make in your essay?
+STUDENT: I want to argue that the refugee crisis is a result of failed foreign policy and lack of international cooperation.
+COACH: Okay, that's a great starting point. Now, before we get into the details, let's talk about the structure of your essay. What parts do you think you need to include?
+STUDENT: I think I need an introduction, a hook, three body paragraphs, and a conclusion.
+COACH: That sounds like a good plan. Let's start with the introduction. How do you want to introduce your argument?
+STUDENT: I want to introduce it by talking about the current refugee crisis and how it has become a global issue.
+COACH: Great! That's a great way to start. Now, let's talk about the hook. What kind of hook do you want to use to grab your reader's attention?
+STUDENT: I'm not sure. I'm not very interesting as a person, so I'm not sure what kind of hook would be effective.
+COACH: Don't worry, you don't have to be interesting as a person to write a great hook. Think about the main idea of your essay and try to come up with something that will draw your reader in. Maybe you could focus on a specific example of the refugee crisis or a powerful quote related to the topic.

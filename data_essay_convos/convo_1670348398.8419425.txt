@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking to apply to college and I'm not sure where to start.
+COACH: That's a great question! Before we jump into the specifics of your essay, let me ask you a few questions that will help me get a better understanding of your goals and needs. What type of college are you looking to apply to? Are you looking for an undergraduate degree or a graduate program?
+STUDENT: I'm looking for an undergraduate degree.
+COACH: Great, that's a great place to start. Now, what type of degree are you looking for? Is there a particular field or area of study that interests you?
+STUDENT: Yes, I'm interested in pursuing a degree in psychology.
+COACH: That's fantastic! Pursuing a degree in psychology is a great choice. Now, what do you think makes an essay engaging?
+STUDENT: I think an engaging essay should be well-written, with vivid descriptions and clear structure. It should also be relatable and capture the reader's attention.
+COACH: Those are all great points! An engaging essay should definitely be well-written, with vivid descriptions and clear structure. Additionally, it should be relatable and capture the reader's attention. To make your essay as engaging as possible, you should focus on telling a story that captures the reader's attention and shows them why you are a great fit for the college or program you're applying to. Make sure to use strong language and vivid imagery to bring the story to life. Finally, make sure to proofread your essay and check for any mistakes or typos.

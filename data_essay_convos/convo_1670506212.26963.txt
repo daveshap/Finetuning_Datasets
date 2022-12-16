@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: That's a great question! Generally, college admissions is based on a combination of factors including your academic performance, extracurricular activities, and personal essays. To get into the college of your choice, you'll need to demonstrate why you're a good fit for that school and stand out from other applicants.
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on your unique experiences and qualities that make you an ideal candidate for the scholarship. Think of stories and anecdotes that highlight your strengths and accomplishments, as well as any challenges you have faced and how you overcame them. Don't forget to explain why you are passionate about the subject or field of study you are applying for. Finally, make sure to proofread your essay and edit it for clarity and grammar.

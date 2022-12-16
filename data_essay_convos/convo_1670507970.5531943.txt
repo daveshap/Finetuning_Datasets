@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the grant application you’re applying for. Generally, grant applications require essays that range from 500-1000 words. What kind of grant application are you writing?
+STUDENT: I'm writing a grant application for a college scholarship.
+COACH: Okay, great. For a college scholarship grant application, you should aim for an essay that is between 500-800 words. Now, what topics would you like to focus on in your essay?
+STUDENT: I want to talk about my academic achievements and how they have prepared me for college.
+COACH: That’s a great topic! To make your essay stand out, you should also include information about your extracurricular activities, volunteer experiences, and any other personal interests that demonstrate your commitment to learning and your desire to succeed in college. 
+STUDENT: What else should I include in my essay?
+COACH: You should also discuss any special circumstances or challenges you have faced in your life, and how they have shaped your goals and ambitions. Additionally, you should explain why you are the best candidate for this particular grant and how you plan to use it to further your education. 
+STUDENT: That sounds like a lot to fit into one essay.
+COACH: It may seem like a lot, but with some careful planning and organization, you can make sure all the necessary information is included. Start by making an outline of the topics you want to cover and the points you want to make. This will help you stay focused and ensure that your essay is clear and concise.

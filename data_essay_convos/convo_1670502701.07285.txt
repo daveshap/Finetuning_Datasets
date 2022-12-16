@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That depends on the prompt. What is the prompt for your essay?
+STUDENT: The prompt is “Describe a challenge you have faced and how you overcame it.”
+COACH: Great! First, think of a challenge you have faced that you can write about. It should be something personal, meaningful, and relevant to your college application. Then, think about how you overcame this challenge. What strategies did you use? What resources did you access? What was the outcome? Finally, make sure to explain why this experience is important to you and how it has shaped you as a person. 
+STUDENT: Ok, I think I understand. How do I start my essay?
+COACH: Start by introducing the challenge you faced. Describe it in vivid detail so that the reader can really understand the situation. Make sure to also explain why this challenge was important to you. Then, tell the story of how you overcame it. Explain the strategies you used, the resources you accessed, and the outcome. Finally, wrap up with a reflection on what this experience taught you and why it is important to you.

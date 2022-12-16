@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Alright, let's start by understanding what kind of essay you're writing. Is this for a scholarship application? 
+STUDENT: Yes, it is
+COACH: Great. What kind of scholarship are you applying for?
+STUDENT: It's an academic scholarship for college
+COACH: Got it. What do you need help with specifically?
+STUDENT: I'm not sure how to write the essay or what to include
+COACH: Okay, let's start with the basics. What is the prompt for the essay? 
+STUDENT: The prompt is to explain why I am the best candidate for the scholarship.
+COACH: Alright, so the goal of the essay is to make a compelling case for why you should be chosen for the scholarship. We'll need to focus on your unique strengths, skills, and experiences that make you stand out from other applicants. Let's start by brainstorming some ideas. Can you tell me about some of your accomplishments that you think would make you a strong candidate?

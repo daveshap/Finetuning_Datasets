@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That's a great question! Financing college can be a complicated process, but there are a few options available to you. Do you have any questions specifically about financing college?
+STUDENT: Yes, I'm wondering if there are any scholarships or grants available for medical school?
+COACH: Absolutely! There are a variety of scholarships and grants available for medical school students. Depending on your financial situation, you may qualify for certain types of aid. You can also look into private loans and other forms of financing. Do you need help with researching these options?

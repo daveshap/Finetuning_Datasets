@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm having trouble coming up with a topic for my college admission essay.
+COACH: I see. What kind of topics have you been considering?
+STUDENT: Well, I've been thinking about writing about overcoming obstacles, but I'm not sure how to go about it.
+COACH: That's a great topic! Can you tell me more about the obstacles you've faced and how you overcame them?
+STUDENT: Sure. I was rejected from Yale and it really knocked my confidence. I didn't think I had a chance of getting into any other university, but I decided to focus on charity work instead. I volunteered at a local homeless shelter and started helping out in my community. That eventually gave me the confidence to apply to other universities.
+COACH: That's amazing! It sounds like you learned a lot from the experience. What did you learn from volunteering and helping out in your community?
+STUDENT: I learned that no matter what life throws at you, there are always opportunities to help others and make a difference. Volunteering showed me that even if I don't get accepted into a certain school, I can still make a positive impact on the world.

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying for college and I need help with my personal statement.
+COACH: Great! What kind of things are you interested in writing about?
+STUDENT: Well, I'm really interested in social issues like immigration and refugee rights.
+COACH: That's a great topic to write about! Have you considered any specific schools or programs you'd like to apply to?
+STUDENT: Yes, I'm looking at UCLA.
+COACH: Perfect! Writing about social issues and immigration would be a great way to stand out in your application to UCLA. What other topics have you considered writing about?
+STUDENT: I'm also interested in exploring how financing college works and what resources are available.
+COACH: That's an interesting topic too! Financing college is an important issue and one that students should be aware of. Do you think you can connect it to the other topics you've mentioned, such as immigration and refugee rights?
+STUDENT: Yes, I think I can. I think there's a lot of overlap between the two topics and it could be an interesting angle to explore.
+COACH: That sounds great! You could focus on how refugees and immigrants are affected by the cost of college and the lack of financial resources available to them. It could be a powerful way to demonstrate your commitment to social justice.
+STUDENT: That's a great idea! I think I'll focus on that for my essay.
+COACH: Fantastic! Let's start by brainstorming some ideas and doing some research. We'll also look at different essay structures and see what works best for you.

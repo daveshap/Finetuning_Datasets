@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I have no idea what to write about in my admissions essay.
+COACH: Alright, let's start by discussing what topics interest you. What kind of topics do you like to read and think about?
+STUDENT: Well, I'm really interested in politics and the news.
+COACH: That's great! Politics is a great topic to write about, especially when it comes to college applications. What specifically in politics interests you the most?
+STUDENT: I'm really passionate about social justice and how the government can be used to help people.
+COACH: That's an excellent topic to write about. You could focus on how the government can be used to create positive social change, or how certain policies could be improved to benefit certain communities. You could also explore the history of social justice movements and how they've impacted our society.
+STUDENT: That's a great idea! I think I'd like to focus on the history of social justice movements.
+COACH: Perfect! To start off, you could research different social justice movements throughout history and how they've changed our society. You could also look into how current events are impacting social justice initiatives and how people are responding to them. This could be a great way to show the admissions committee that you're passionate about making a difference in the world.
+STUDENT: That sounds great, I'm really excited to start this essay now!
+COACH: Wonderful! Before you get started, I recommend making an outline of what you want to include in your essay so that you stay focused. That way, you can make sure that you're addressing all the points you want to make and that your essay is organized. Once you have your outline, you can start writing your essay. Good luck!

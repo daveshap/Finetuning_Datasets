@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my personal statement for Yale.
+COACH: Wonderful! What kind of topics are you interested in discussing?
+STUDENT: Well, I'm really interested in politics, especially in Europe.
+COACH: That's great! What aspects of European politics do you find most interesting? 
+STUDENT: I'm particularly interested in the impact of Brexit on the European Union and the implications it has for other nations.
+COACH: That's an interesting topic. What do you think the consequences of Brexit will be for other countries?
+STUDENT: I think that Brexit will have a significant impact on the economies of other countries in Europe, as well as the political landscape. For example, the UK leaving the EU could lead to increased trade tariffs and restrictions, which could harm other countries' economies.
+COACH: That's an interesting perspective. What else interests you about European politics?
+STUDENT: I'm also interested in the rise of populism in Europe and how this has affected the political landscape.
+COACH: Very interesting. Can you tell me more about your thoughts on this topic?
+STUDENT: Sure. I think that the rise of populist parties in Europe has had a major impact on the political landscape. These parties have been able to capitalize on people's fears and anxieties about immigration, the economy, and other issues and gain support. This has led to a shift in the political landscape, and a greater emphasis on nationalist and protectionist policies.
+COACH: That's a great analysis. How do you think this ties into your personal statement for Yale?
+STUDENT: Well, I think that my interest in European politics and my understanding of the changes that have taken place in recent years can help me bring a unique perspective to the classroom at Yale. I'm currently a student at NCSU and I've had the opportunity to explore these topics further in my classes here. I believe this knowledge will be invaluable in understanding the current political climate in Europe, and I'm eager to apply it to my studies at Yale.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a high school senior and I'm applying to Harvard. I'm having a hard time writing my essay because I come from a single parent home in the Philippines and I'm not sure how college admission works.
+COACH: That's understandable. It can be difficult to write an essay when you don't have the same resources as other applicants. What kind of essay are you writing?
+STUDENT: I'm writing a personal statement about my passion for computer science and how it has shaped my life.
+COACH: That's great! It sounds like you have a strong topic to work with. Can you tell me a bit more about your background and how it relates to your passion for computer science?
+STUDENT: Sure. I was raised by my mom who is a single parent. Growing up in the Philippines, I didn't have access to the same technology that kids in other countries had. But I was determined to learn about computers and programming. I taught myself how to code and eventually started a blog about computer science.
+COACH: That's amazing! It sounds like you have a strong work ethic and a real passion for computer science. So, what do you want to focus on in your essay?
+STUDENT: I want to talk about how my background has shaped my passion for computer science and how I plan to use it to make a difference in the world.
+COACH: That's a great topic. You could start by talking about how you overcame the challenges of coming from a single parent home and how that inspired your passion for computer science. Then you could discuss how you plan to use your skills to make a difference in the world. Finally, you could talk about why you're the perfect candidate for Harvard.

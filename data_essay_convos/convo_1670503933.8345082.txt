@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: The most important part of your essay is to make sure that you tell a story. You should focus on a personal experience, a moment in time, or a journey that has shaped who you are today. It should be something that is unique to you and will give the admissions committee a better understanding of who you are and why you would be a great addition to their program. 
+STUDENT: What topics should I avoid?
+COACH: You should avoid topics that could be seen as controversial or overly political. You should also avoid topics that could be seen as too personal, such as your family life or financial struggles. Additionally, you should steer clear of topics that could be seen as too generic, such as talking about your favorite books or movies. 
+STUDENT: How do I make sure my essay stands out?
+COACH: To make sure your essay stands out, you should focus on telling a unique story that reflects your personality and values. You should also make sure to use vivid language that paints a picture for the reader. This can help the admissions committee get a better understanding of who you are and why you would be a great fit for their program. Finally, make sure to proofread your essay for any grammar or spelling errors.

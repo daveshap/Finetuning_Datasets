@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for my application to UNC and I'm having trouble coming up with ideas.
+COACH: That's understandable. Can you tell me a bit more about what you're looking for? What topics have you been considering?
+STUDENT: Well, I'm Vietnamese-American and I'm interested in talking about my experience with racism growing up and how that has shaped my view of the world. I'm also interested in writing about my volunteer work in engineering.
+COACH: Those are both great topics! Let's start with your experiences with racism. How did it shape your worldview and how would you like to discuss it in your essay?
+STUDENT: Growing up, I experienced a lot of racism and discrimination. It was hard to see how unfair it was and it made me realize how important it is to stand up for what's right. I want to talk about how this experience has helped me become a more compassionate and open-minded person and how it has motivated me to use my skills to help others.
+COACH: That's a great point to make in your essay. Now let's talk about your volunteer work in engineering. What have you done and how do you think it has impacted your life?
+STUDENT: I've been volunteering at a local engineering organization for the past year. I've been teaching kids how to build projects and helping them understand the basics of engineering. It's been really rewarding to see how my knowledge can help others and it has made me realize how important it is to use my skills to make a difference in the world.

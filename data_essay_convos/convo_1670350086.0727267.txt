@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to a university and I need help writing my admissions essay.
+COACH: Alright, let's start from the beginning. What topics are you considering for your essay?
+STUDENT: Well, I'm interested in discussing my charity work, my religious beliefs as a Jew, my views on politics, and my passion for science.
+COACH: That's great! It sounds like you have a lot of material to work with. Let's start with your charity work. Can you tell me a bit about what type of charity work you do and why it is important to you?
+STUDENT: Sure. I volunteer at a local homeless shelter once a week. I think it's important to give back to the community and I enjoy helping those who are less fortunate than myself.
+COACH: That's wonderful! It sounds like you have a strong sense of social responsibility and compassion. Now, let's talk about your Jewish faith. How does Judaism inform your values and beliefs?
+STUDENT: Judaism has been a big part of my life since I was very young. It teaches me to be kind, compassionate, and to have respect for all people. It also encourages me to take action to help those in need and to strive for justice and equality.
+COACH: That's great! Now, let's move on to politics. What are your views on politics and how do they shape your worldview?
+STUDENT: I believe that politics should be used to create a more just and equitable society. I think it's important to use our voices to advocate for what we believe in and to fight for the rights of those who are marginalized or oppressed.
+COACH: That's a great perspective. Finally, let's talk about your passion for science. How has science impacted your life and why is it important to you?
+STUDENT: Science has been a huge part of my life since I was a child. It fascinates me and I love learning about the world around us. I believe that science can be used to make the world a better place and I'm passionate about using it to solve problems and make a positive impact.

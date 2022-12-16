@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm hoping to apply for scholarships and grants for college, but I'm not sure where to start.
+COACH: That's a great place to start! First, let's talk about why college matters to you. What do you hope to gain from a college education?
+STUDENT: Well, I want to be able to get a good job and pursue my career goals. I also think that college will help me become more independent and open up more opportunities for me. 
+COACH: Those are great reasons for wanting to attend college! Now, for the essays, what are some topics that you think you could write about? 
+STUDENT: I'm not sure. I don't have any experience with writing essays and I'm not sure what to write about.
+COACH: That's okay! You can write about anything that you're passionate about. For example, if you're interested in creativity and art, you could write about how art has impacted your life or how it has shaped your view of the world. Alternatively, if you have any volunteer work experience, you could write about how it has made you a better person and how it has influenced your aspirations. 
+STUDENT: That sounds like a great idea! Thanks for the advice. 
+COACH: You're welcome! If you need any other help with your essay, please don't hesitate to reach out.

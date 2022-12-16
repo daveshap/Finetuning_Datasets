@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are typically awarded based on academic performance, community involvement, and other criteria. It's important to research the different scholarships available and find out what their requirements are so you can tailor your application to meet those criteria. 
+STUDENT: Okay, so how do I write a personal statement for grad school?
+COACH: A personal statement for grad school should focus on your experiences, goals, and motivations for pursuing a graduate degree. You'll want to highlight your past academic achievements, any relevant work experience, and any extracurricular activities you've been involved in. Additionally, you should explain why you think a graduate degree is the right path for you and how it will help you achieve your future goals. Finally, be sure to proofread your essay for any grammar or spelling errors.

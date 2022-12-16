@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student looking for help on how to write a strong essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's for an application to UNC.
+COACH: Okay, what's the focus of the essay?
+STUDENT: I want to talk about my religious beliefs and how they have shaped who I am today.
+COACH: Interesting. What religion do you practice?
+STUDENT: I'm Christian and Jewish.
+COACH: Got it. What do you hope to accomplish with this essay?
+STUDENT: I want to show admissions officers that my faith has been a huge part of my life and has helped me become the person I am today.
+COACH: That's a great goal. How can I help you achieve it?
+STUDENT: Well, I'm not sure where to start.
+COACH: Let's break it down. First, what experiences have you had that have been shaped by your faith?
+STUDENT: I've been involved in a lot of church activities and youth groups, and I've also done volunteer work in my community.
+COACH: Perfect. Next, how have those experiences influenced you?
+STUDENT: They've shown me the importance of giving back and helping others, and they've also taught me the value of hard work and dedication.
+COACH: Great. Now, what about scholarships and grants? Do you know how to get them?
+STUDENT: Not really. I haven't looked into it much.
+COACH: That's okay. There are a lot of resources available to help you find scholarships and grants. You can start by searching online and exploring the websites of different organizations that offer financial aid. You should also reach out to your school counselors and ask them for advice. Finally, you can look into local churches and other religious organizations that may have scholarship programs available.

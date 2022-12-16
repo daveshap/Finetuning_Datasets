@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Before we dive into the specifics, let's start with a few questions. What kind of essay are you writing?
+STUDENT: It's an admissions essay for college.
+COACH: Great! What is the prompt for the essay?
+STUDENT: The prompt is to talk about a time when I overcame a challenge.
+COACH: Alright, so it sounds like you're looking for help on how to structure your essay. Let's start by talking about what you should include in your essay. First, you should provide some context for the challenge you faced. What was the challenge and why was it difficult? 
+STUDENT: The challenge was to get accepted into the college I wanted to attend. It was difficult because the competition was tough and there were a lot of other qualified applicants.
+COACH: Right, so now that we have some context, let's move onto the body of your essay. You should focus on describing the steps you took to overcome the challenge. What strategies did you use?
+STUDENT: I studied hard for the entrance exams, worked on my extracurricular activities, and reached out to alumni for advice.
+COACH: Perfect. Now, you need to tie everything together with a conclusion. What did you learn from this experience and how will it help you in the future?
+STUDENT: I learned that hard work and dedication can make all the difference when facing a difficult challenge. This experience has taught me to never give up and continue striving towards my goals, no matter how hard they may seem.

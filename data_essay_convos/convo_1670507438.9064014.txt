@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: That's a great question! An opening should be engaging and introduce the main points of your argument. It should also set the tone for the rest of the essay. What kind of argument are you trying to make?
+STUDENT: I'm trying to argue that standardized testing is not an accurate way to measure student knowledge.
+COACH: Okay, great. To start, you could provide some context about why this issue is important and how it affects students. Then, you could provide evidence to support your argument, such as statistics or research studies. Finally, you could explain why your argument is important and how it can make a difference. Does that sound like a good plan?

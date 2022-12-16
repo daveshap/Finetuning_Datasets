@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions is a process that involves submitting an application, taking standardized tests, writing essays, and going through an interview process. Your essay is a major factor in your college admissions process, so it's important to craft an essay that reflects your best qualities and stands out from the crowd. 
+STUDENT: What should my essay be about?
+COACH: It's important to choose a topic that is meaningful to you and that you can write about with passion. Think about something that has had a big impact on your life, such as a personal experience or a lesson you've learned. Then, use that as the basis for your essay. 
+STUDENT: How should I structure my essay?
+COACH: Generally, you should have an introduction, three body paragraphs, and a conclusion. In the introduction, introduce the topic and explain why it is important. In the body paragraphs, provide evidence and examples to back up your points. Finally, in the conclusion, summarize your main points and explain why the topic is meaningful to you. 
+STUDENT: What kind of language should I use?
+COACH: You want to use language that is clear and concise. Avoid using overly complicated words and long, winding sentences. Instead, focus on using language that is direct and easy to understand. Additionally, make sure to use active voice instead of passive voice. 
+STUDENT: What else should I keep in mind when writing my essay?
+COACH: Make sure to proofread your essay multiple times to catch any spelling or grammar errors. Additionally, have someone else read it over and give you feedback. Lastly, be sure to double-check that you are following all of the guidelines provided by the college. Good luck!

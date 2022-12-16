@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for my application to NCSU, but I have no idea what to write about.
+COACH: That's okay! Can you tell me a bit more about yourself? What are your interests and passions?
+STUDENT: Well, I'm really passionate about engineering and I've been volunteering with a local engineering organization for the past few years.
+COACH: That's great! What have you learned from your volunteer work? Have there been any experiences that have shaped your view of engineering or made you more passionate about it?
+STUDENT: Definitely! Working with the organization has given me a lot of insight into the real-world application of engineering principles and how they can be used to solve real-world problems. It's also opened up a lot of opportunities to network with other engineers and learn from their experiences.
+COACH: That sounds really interesting! How could you use this experience to make your essay stand out?
+STUDENT: I think I could talk about how my volunteer work has shaped my view of engineering and how it has helped me to develop my skills in the field. I could also discuss how I hope to use my knowledge and experience to help others in the future if I'm accepted to NCSU or Duke University.

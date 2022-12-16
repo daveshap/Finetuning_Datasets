@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question! Applying for scholarships is an important part of the college admissions process. The first step is to research the different scholarships available to you. Once you find the ones that are a good fit for you, you can start the application process. This typically includes submitting an essay or personal statement, as well as other information such as transcripts, letters of recommendation, and financial documents. 
+STUDENT: What should I include in my essay?
+COACH: When writing your essay for a scholarship or grant application, it's important to focus on the purpose and requirements of the award. Make sure to address all of the criteria the scholarship or grant outlines. You should also include specific examples from your life that illustrate how you meet the requirements of the award. Additionally, make sure to explain why you are the best candidate for the award and how it will help you achieve your goals. Finally, be sure to proofread your essay before submitting it.

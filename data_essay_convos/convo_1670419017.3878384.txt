@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essay. I'm applying to Duke University and I want to talk about how I've worked to combat sexism and LGBT discrimination in my community.
+COACH: That's a great topic! Can you tell me a bit more about what you want to focus on in your essay?
+STUDENT: Well, I want to discuss my experiences with sexism and LGBT discrimination, but I also want to talk about my skills and achievements. How can I make sure my essay stands out?
+COACH: You can make your essay stand out by focusing on specific examples of your work. For example, if you have organized any events or initiatives to combat sexism and LGBT discrimination, you can discuss those in detail. You can also talk about any awards or recognitions you have received for your work. Finally, you can discuss any skills or qualities you have developed from your experiences that could be useful for Duke University.

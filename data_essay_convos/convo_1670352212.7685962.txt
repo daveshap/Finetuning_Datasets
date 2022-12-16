@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college essay. I'm interested in studying science and I'm neurodiverse.
+COACH: That's great! Can you tell me a bit more about your goals and objectives? What do you hope to achieve by studying science?
+STUDENT: Well, I want to pursue a career in the sciences, but I'm also interested in exploring the potential of neurodiversity in the field. I'm hoping to use my studies to further my understanding of both areas.
+COACH: That's a great goal! What kind of skills and achievements do you have that would help you reach this goal?
+STUDENT: I have a strong academic background in the sciences, and I'm a creative problem-solver. I'm also an excellent communicator, which I think will be essential in my field.
+COACH: Those are all great qualities that will help you reach your goals! Now, let's talk about financing college. How does that work?
+STUDENT: Financing college can be a bit tricky. I'm looking into scholarships, grants, and student loans to help cover the costs. I'm also looking into working part-time while I'm in school to help pay for tuition.

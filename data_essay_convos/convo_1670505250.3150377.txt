@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are a form of financial aid that do not need to be repaid. They are usually awarded based on financial need, academic merit, or other criteria. To apply for grants, you will need to fill out an application and provide supporting documentation. Depending on the grant, you may also need to submit a written essay or project as part of your application.

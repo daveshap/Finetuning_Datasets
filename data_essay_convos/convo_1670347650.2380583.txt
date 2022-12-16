@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I want to write about my passion for engineering and social issues in the Muslim world.
+COACH: That's a great topic! Can you tell me more about why you're passionate about engineering and social issues in the Muslim world?
+STUDENT: Well, growing up in a Muslim family, I've seen firsthand how the lack of access to quality engineering resources can limit the potential of people in the Muslim world. I also see how social issues related to gender, poverty, and education can make it even harder for people to get ahead. I want to use engineering to help make a difference in these areas.
+COACH: That sounds like a really powerful motivation. How do you plan to use engineering to help address these issues?
+STUDENT: I'm particularly interested in developing technological solutions that can be used to improve access to education, healthcare, and other basic services. I'm also interested in exploring ways to use engineering to create economic opportunities in the Muslim world.
+COACH: That's an admirable goal. What challenges do you think you might face in achieving this goal?
+STUDENT: One of the biggest challenges is the lack of adequate funding for these projects. I also think there is a need for more awareness of the issues facing the Muslim world and how engineering can be used to help solve them. Finally, I think it's important to have a deep understanding of the culture and values of the Muslim world in order to develop effective solutions.

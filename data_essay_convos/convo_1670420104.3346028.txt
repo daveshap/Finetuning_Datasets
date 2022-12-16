@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my personal statement for college applications. I'm from the Philippines and I want to go to college in Germany.
+COACH: That's great! It sounds like you have a very clear goal in mind. Could you tell me more about why you want to study in Germany?
+STUDENT: Well, I've always been interested in learning more about German culture and history. Plus, I think studying in Germany will give me a unique perspective on the world.
+COACH: That's a great reason to pursue your studies in Germany. What kind of degree are you looking to pursue?
+STUDENT: I'm looking to get a degree in economics.
+COACH: Great! Now, what kind of job do you hope to find after college?
+STUDENT: I'd like to work in the financial sector, either in Germany or in the Philippines.
+COACH: That's a great goal. To help you reach it, you'll need to make sure your personal statement is well-crafted and compelling. Can you tell me more about what you want to focus on in your essay?
+STUDENT: I want to emphasize my interest in economics and how studying in Germany can help me gain a better understanding of international markets.
+COACH: Perfect. That provides a great focus for your essay. Have you looked into specific schools in Germany?
+STUDENT: Yes, I'm looking at universities like the University of Heidelberg and the Free University of Berlin.
+COACH: Those are both excellent schools. Have you considered looking into Princeton as well? It's a great school in the US and could provide you with a different perspective on economics.
+STUDENT: Yes, I had thought about applying to Princeton as well.
+COACH: That's great! I think it would be a great idea to include Princeton in your list of schools. Are there any other questions I can help you with?
+STUDENT: No, I think that's all. Thank you for your help!

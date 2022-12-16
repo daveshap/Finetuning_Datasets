@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help on how to apply to college.
+COACH: Sure, no problem. What type of college are you interested in applying to?
+STUDENT: I'm interested in UCLA and some other schools in California.
+COACH: Okay, great. Have you started the application process yet?
+STUDENT: Yes, I've started looking at the requirements and filling out the forms, but I'm still not sure what to write in my essay.
+COACH: That's understandable. Can you tell me a bit more about yourself? What kind of topics are you interested in and what do you think sets you apart from other applicants?
+STUDENT: Well, I'm Jewish and I'm really interested in exploring that in my essay. I've been to Thailand and I think that experience has given me a unique perspective on the world.
+COACH: That sounds like a great topic! How did your experience in Thailand shape your understanding of Judaism?
+STUDENT: Well, it gave me a better understanding of how different cultures can interact and how we can learn from each other. I think it also made me more open-minded and accepting of others.
+COACH: That's a great insight! Are you planning to pursue any other interests in college?
+STUDENT: Yes, I'm interested in grad school and I want to explore different areas of study.
+COACH: Great! What kind of topics are you interested in pursuing in grad school?
+STUDENT: I'm interested in international relations and diplomacy. I think it would be a great way to combine my knowledge of different cultures and my understanding of Judaism.
+COACH: Perfect! That sounds like a great topic to explore in your essay. Is there anything else you'd like to discuss before we wrap up?

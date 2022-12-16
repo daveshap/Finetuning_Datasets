@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm a first-generation college student and I'm trying to figure out how to finance my college education.
+COACH: That's a great question! Financing college can be a daunting task, but there are many options available. Let's start by talking about the different types of financial aid you can apply for. Are you familiar with federal grants, scholarships, and loans? 
+STUDENT: Yes, I've heard of them. I know they are all ways to help pay for college, but I'm not sure how they work.
+COACH: No problem! Federal grants are funds that you don't have to pay back, so they are a great option if you qualify. Scholarships are also a great way to pay for college, and they are based on academic achievements or special talents. And then there are loans, which you do have to pay back, but they are a great way to cover the cost of college if you don't qualify for grants or scholarships. Do any of those sound like something you might be interested in? 
+STUDENT: Yes, I think I would be interested in applying for scholarships or grants.
+COACH: Great! We can definitely look into that. Now, let's talk about your essay. What kind of essay are you writing? 
+STUDENT: I'm writing an essay about my experience as a first-generation college student and how it has shaped my life.
+COACH: That sounds like a great topic! Tell me a little bit more about yourself and your experience. Are there any particular themes or topics that you want to focus on? 
+STUDENT: Well, I'm a neurodiverse student and I'm also from France. I want to talk about how both of those factors have shaped my experience as a first-generation college student.
+COACH: That's a really interesting angle! I think it could make for a really powerful essay. Let's talk about how you can use your unique perspective to tell your story. What kind of experiences have you had that you think are worth highlighting? 
+STUDENT: I think the biggest challenge I faced was feeling like I didn't belong in either the French or American cultures. I was constantly trying to find my place and it was hard.
+COACH: That's a really relatable experience and I think it could make for a very compelling essay. You could talk about how you navigated this cultural divide and how it has helped you grow as a person. Have you had any other experiences that you think could be included in your essay? 
+STUDENT: Well, I think another challenge I faced was feeling like I wasn't interesting or talented enough to be successful in college. 
+COACH: That's a really common feeling and I'm sure a lot of people can relate to it. You could talk about how you overcame that feeling and how you found your own strengths and talents. It could be a really inspiring message for other students who are struggling with similar feelings.

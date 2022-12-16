@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I need help with my essay.
+COACH: Great! What's the prompt?
+STUDENT: The prompt is to discuss how my faith in Islam has shaped my creativity and art.
+COACH: Okay, so you want to talk about how your faith in Islam has influenced your creativity and art. Can you tell me a bit more about that? What kind of art do you make?
+STUDENT: Well, I'm an engineering student, so I don't make traditional art, but I do like to create things like websites and apps.
+COACH: Interesting! So what aspects of your faith have been influential in your creative pursuits?
+STUDENT: Well, I think the most important thing is the idea of striving for excellence. In Islam, it's important to strive for perfection in everything you do, and I think that has inspired me to push myself as an engineer and to create the best possible products.
+COACH: That's great! So now that we've established how your faith has been influential in your creative pursuits, let's talk about how you'll incorporate this into your essay. What parts of an essay are you familiar with?
+STUDENT: I know the basics - introduction, body, and conclusion.
+COACH: Perfect! Let's start with the introduction. This is where you want to introduce the topic, provide some background, and set up the main points you'll be discussing. You can also use a hook here to grab the reader's attention. Do you have any ideas for what you'd like to include in the introduction?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that show a student’s unique perspective and experiences. They want to see how you think and how you express yourself. They want to get to know you, so make sure that your essay reflects your personality and values.
+STUDENT: What should I include in my essay?
+COACH: You should include any personal experiences or stories that are relevant to the essay prompt. Think about what makes you unique and how you can best demonstrate that in your essay. Make sure to include details and vivid descriptions to help bring your story to life. Try to avoid cliches and focus on being creative and unique.
+STUDENT: How should I structure my essay?
+COACH: A good essay should have an introduction, body paragraphs, and a conclusion. Start by introducing your topic and giving some background information. Then, move into the body of your essay, where you can discuss the main points of your argument. Finally, end your essay with a conclusion that wraps up your ideas and provides a lasting impression.

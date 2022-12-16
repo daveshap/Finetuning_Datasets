@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: Okay, that's a great question. Before I can answer it, can you tell me a bit more about your essay? What kind of essay are you writing?
+STUDENT: It's a research paper.
+COACH: Alright, so you're writing a research paper. What have you done so far?
+STUDENT: I've done the research and written my body paragraphs, but I'm having trouble writing the conclusion.
+COACH: Okay, great. A conclusion is an important part of any research paper. It should summarize the main points of your paper and provide the reader with a sense of closure. It should also give the reader a sense of why this research is important. To make sure your conclusion is effective, you should avoid introducing new information and restate the thesis statement. You should also make sure to include a call to action or a suggestion for further research. Does that help? 
+STUDENT: Yes, that helps a lot. Thank you!

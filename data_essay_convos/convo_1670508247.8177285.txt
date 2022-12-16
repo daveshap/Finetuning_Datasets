@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are typically awarded to individuals or organizations to support a specific project or initiative. They are usually provided by government agencies, foundations, or corporations. To apply for a grant, you must typically submit a proposal outlining the project and its goals, along with a budget and timeline. What type of essay are you writing?
+STUDENT: an argumentative essay
+COACH: Okay, great! An argumentative essay is one in which you present a claim and then provide evidence to support your argument. What topic have you chosen for your essay? 
+STUDENT: I want to write about the importance of investing in renewable energy sources.
+COACH: That's a great topic! In order to craft an effective argument, you'll need to do some research to find evidence to support your claim. You should look for statistics, studies, and other sources that show the benefits of investing in renewable energy sources. Once you've gathered your evidence, you can start organizing it into an argument. Make sure to include a clear thesis statement, strong evidence, and logical reasoning. Good luck!

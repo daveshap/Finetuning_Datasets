@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to med school and I need help with my personal statement.
+COACH: Great! Let's start by talking about what makes an essay engaging. What do you think makes a good essay? 
+STUDENT: I think a good essay should be interesting and unique. It should also have a clear purpose and focus on something specific.
+COACH: That's a great start! What kind of topics are you considering for your essay?
+STUDENT: I'm thinking about writing about my experiences in the medical field and how they have shaped my desire to become a doctor.
+COACH: That sounds like a great topic! What specifically do you want to cover in your essay?
+STUDENT: I want to talk about the challenges I faced when I first started working in the medical field and how I overcame them. I also want to discuss how my experiences have helped me develop a passion for medicine and a dedication to helping others.
+COACH: That's a great topic! Now, let's talk about how to make your essay stand out. What do you think makes an essay engaging?
+STUDENT: I think it's important to tell a story in your essay. It should be personal and honest, and it should show your personality. It's also important to include details and vivid descriptions to make the essay come alive.

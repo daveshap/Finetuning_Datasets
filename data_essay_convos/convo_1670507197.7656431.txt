@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question. Before we get into the writing process, let's start with a reference interview. What kind of essay are you trying to write?
+STUDENT: I'm writing a personal statement for grad school.
+COACH: Perfect. Now, what are you hoping to achieve with this essay?
+STUDENT: I want to show the admissions committee why I'm a good fit for the program and how I can contribute to the school.
+COACH: Alright, so it sounds like you need to focus on highlighting your strengths and experiences that make you a strong candidate. Is there anything else you'd like to include in your essay?
+STUDENT: Yes, I'd like to talk about my passion for this field and why I'm excited to pursue it further.
+COACH: That's great! Now that we have an idea of what you want to include in your essay, let's move on to the writing process. First, you'll want to brainstorm and create an outline of your essay. Then, you'll want to write your introduction, body paragraphs, and conclusion. Once you have a draft, you can go back and edit and revise it until it's perfect. Does this sound like a plan?
+STUDENT: Yes, that sounds like a great plan. Thank you for your help!

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student applying to NCSU and Duke University. I'm looking for help with my essay.
+COACH: Great! Let's start by talking about why you want to attend NCSU or Duke. What are your goals for attending either school?
+STUDENT: My goal is to get a great education and eventually attend grad school. I come from a poor family and I want to be able to provide them with a better future.
+COACH: That's an admirable goal. It sounds like you have a strong motivation for attending college. Now, let's talk about how you can make your essay stand out. What makes you unique as an applicant?
+STUDENT: Well, I think my background sets me apart from other applicants. I grew up in a small rural town and had to work hard to get where I am today. I also have a lot of experience working in the community, which I think could be a great asset to any college.
+COACH: That's great! It sounds like you have a lot to offer both NCSU and Duke. What do you think makes you the best candidate for either school?
+STUDENT: I think my determination and hard work sets me apart from other applicants. I'm not afraid to put in the extra effort to achieve my goals, and I'm confident that I can contribute to both schools. I'm also passionate about learning and exploring new ideas, which I think will be beneficial to my studies.

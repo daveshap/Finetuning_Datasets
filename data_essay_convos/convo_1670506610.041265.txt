@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That’s a great question! I can help you with that, but first I need to know more about the type of essay you're writing. Is it a research paper?
+STUDENT: Yes, it is.
+COACH: Great, let’s start there. Research papers have specific requirements, so the first step is to understand what your assignment is asking you to do. Can you tell me more about the topic of your paper?
+STUDENT: Yes, my paper is about the history of the civil rights movement in the United States.
+COACH: That’s a great topic! To write a successful research paper, you'll need to do some research and organize your findings into an argument. First, you'll need to decide on a thesis statement—an argument that you'll be proving throughout the paper. Have you thought about what your thesis might be?

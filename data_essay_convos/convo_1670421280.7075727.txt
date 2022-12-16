@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I need help writing an essay about my volunteer work.
+COACH: Alright, let's get started. First, what kind of essay are you writing? Is it a persuasive essay or an argumentative one?
+STUDENT: It's an argumentative essay.
+COACH: Okay, great. Let's talk about the structure of your essay. What do you think the hook should be?
+STUDENT: I was thinking maybe something about how volunteering has changed my perspective on life.
+COACH: That sounds like a great hook! Now, let's talk about the middle of your essay. What do you want to focus on in the body of your essay?
+STUDENT: I want to talk about how volunteering has helped me understand the issues of racism and inequality in our society.
+COACH: That's a great topic. What specific examples can you give to illustrate your point?
+STUDENT: Well, I've been volunteering at a local food bank and I've seen how some people are denied access to basic necessities because of their race or socioeconomic status.
+COACH: That's a powerful example. What other points do you want to make in your essay?
+STUDENT: I also want to discuss how volunteering has made me more aware of the importance of giving back to the community and how it has motivated me to pursue a career in law.
+COACH: That's a great point. You could talk about how your volunteer experience has shaped your understanding of the law and how it has shaped your goals for the future.
+Finally, let's talk about the conclusion. What do you want your readers to take away from your essay?
+STUDENT: I want them to understand that volunteering is an important part of giving back to the community and that it can help shape our understanding of the law and motivate us to pursue a career in the legal field.
+COACH: That's a great way to end your essay. Now, do you have any questions about how to apply to college or law school?

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start by talking about what kind of essay you are writing. Is it a research paper?
+STUDENT: Yes, it is a research paper for college admissions.
+COACH: Great, so we know the type of essay you are writing. Now let's talk about the topic. What do you want to write about in your research paper?

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm not sure how to go about applying to college.
+COACH: That's great that you're taking the initiative to apply to college! What kind of schools are you looking into?
+STUDENT: I'm looking at a few different universities, but I'm not sure which one would be the best fit for me.
+COACH: That's a great question! Are there any particular areas of study that you're interested in?
+STUDENT: Yes, I'm interested in studying art and creativity.
+COACH: That's great! What kind of essay topics have you been considering for your application?
+STUDENT: I'm not sure what to write about. I was thinking about writing about sexism in the art world, but I'm not sure if it would be appropriate.
+COACH: Writing about sexism in the art world is an interesting topic and it could be a great way to demonstrate your knowledge and passion for the subject. However, it's important to make sure that your essay is focused on how this issue affects you personally. You want to make sure that your essay is about your own experiences and perspective, rather than just a general overview of the issue.

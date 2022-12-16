@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay! Writing a college admissions essay can be daunting, but with some guidance and preparation, you can create an essay that will make your application stand out. Let's start by thinking about why you are applying to college. What do you hope to gain from the experience?
+STUDENT: I want to gain knowledge and experience in my chosen field. 
+COACH: That's great! Now let's think about how you can express your goals in your essay. What unique qualities do you have that will help you reach your goals? Are there any experiences or accomplishments that have shaped your goals?
+STUDENT: I have a strong work ethic and I'm very passionate about my chosen field. I have also taken part in several extracurricular activities that have helped me develop my skills and knowledge.
+COACH: Perfect! Those are all great qualities that you can highlight in your essay. You can also talk about any challenges you have faced and how you overcame them. This will show the admissions committee that you are resilient and determined. Finally, be sure to explain why you are the best candidate for their college. What makes you stand out from other applicants?
+STUDENT: I think what makes me stand out is my dedication to learning. I'm always seeking out new opportunities to expand my knowledge and I'm not afraid to take risks in order to do so. I'm also very driven and I'm determined to make the most out of my college experience.
+COACH: That's great! Those are all qualities that will make you a great candidate. Remember to focus on the positive aspects of your story and be sure to convey your enthusiasm for your chosen field. With these tips in mind, you should be able to create a compelling essay that will make your application stand out. Good luck!

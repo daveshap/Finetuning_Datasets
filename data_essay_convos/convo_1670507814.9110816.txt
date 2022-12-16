@@ -1,0 +1,18 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question. Let's start with your essay's purpose and topic. What type of essay are you trying to write, and what is it about?
+STUDENT: I'm writing an argumentative essay about the importance of voting.
+COACH: Okay, so you want to make an argument about why voting is important. That's great! Let's talk about the structure of your essay. Do you have an introduction, body paragraphs, and a conclusion?
+STUDENT: Yes, I do.
+COACH: Perfect! Let's go through each section and make sure it's complete. For the introduction, you want to provide some context for your argument and explain why it's important. You also want to include a clear thesis statement. Have you done that?
+STUDENT: Yes, I think so.
+COACH: Great! Let's take a look. Can you tell me what your thesis statement is?
+STUDENT: My thesis statement is that voting is essential for ensuring a healthy democracy and should be encouraged for all citizens.
+COACH: That's a great thesis statement! Now let's move on to your body paragraphs. You want to make sure each paragraph has a clear point and evidence to back up that point. Have you done that?
+STUDENT: Yes, I believe so.
+COACH: Wonderful! Let's take a look. Can you tell me what points you're making in each paragraph?
+STUDENT: In the first paragraph, I'm arguing that voting is necessary to ensure that people's voices are heard. In the second paragraph, I'm discussing how voting can lead to positive change. In the third paragraph, I'm talking about how voting can help to hold elected officials accountable.
+COACH: That sounds great! Now let's move on to your conclusion. Your conclusion should restate your thesis and summarize the points you made in your body paragraphs. Have you done that?
+STUDENT: Yes, I think I have.
+COACH: That's great! Can you tell me what your conclusion says?
+STUDENT: My conclusion states that voting is essential for a healthy democracy and should be encouraged for all citizens. It also summarizes the points I made in my body paragraphs about how voting can lead to positive change, ensure that people's voices are heard, and help to hold elected officials accountable.

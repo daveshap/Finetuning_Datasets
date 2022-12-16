@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA for law school and I need help writing my admissions essay.
+COACH: Sure, let's start by talking about your skills and achievements. What have you accomplished that you think would be relevant for this essay?
+STUDENT: Well, I've been on the debate team for three years and I've won several awards at national competitions. I also volunteer with a local organization that provides legal assistance to underserved communities.
+COACH: That's great! It sounds like you have a lot of experience and accomplishments that you can draw on for your essay. Can you tell me more about why college and law school matter to you?
+STUDENT: College and law school are important to me because they provide the opportunity to learn and grow as a person. I believe that having a higher education will open up new doors and allow me to pursue my dreams. I also want to use my education to help others and make an impact in my community.
+COACH: That's wonderful! Those are all great reasons for wanting to attend college and law school. Now, let's talk about how to incorporate these ideas into your essay. How do you think you can best express why college and law school matter to you?
+STUDENT: I think I can talk about how my experiences in debate and volunteering have shaped my views on education and how I plan to use my education to make a difference in the world. I can also discuss how attending college and law school will give me the tools and knowledge to achieve my goals.

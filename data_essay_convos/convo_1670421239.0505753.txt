@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my law school personal statement.
+COACH: Great! Can you tell me a bit more about it? What are your goals for law school, and what do you hope to achieve by attending?
+STUDENT: I want to attend Princeton Law School and I'm hoping to use my law degree to make a positive impact on my community. I'm interested in using my education to advocate for social justice.
+COACH: That's an admirable goal. What experiences have you had that have led you to this point?
+STUDENT: I've been involved in volunteer work for the past few years, which has really helped me to understand the importance of advocating for those who need it most. I've also taken classes in political science and sociology, which have further shaped my views on social justice.
+COACH: That sounds like great preparation for law school. What else have you done that could be relevant to your personal statement?
+STUDENT: I've also volunteered at a local legal clinic, which has given me a better understanding of the legal system and how it works. Additionally, I'm currently applying to medical school and I'm hoping to combine my medical and legal backgrounds to become a public health lawyer.
+COACH: That's an ambitious plan! It sounds like you have a lot of great experiences and a clear vision for your future. I think these are all great elements to include in your personal statement. How can I help you craft a compelling essay that will stand out to admissions committees?

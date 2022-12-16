@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions are a highly competitive process. Schools look at your academic record, extracurricular activities, and essays to determine if you are a good fit for the school. Your essay is an important part of your application, so it's important to make sure it is well-written and conveys your unique story.
+STUDENT: what should I include in my essay?
+COACH: A college admissions essay should be personal and reflective. You should focus on your unique experiences and how they have shaped you as an individual. Make sure to include details that will help the reader understand who you are and why you are a good fit for the school. Also, make sure to proofread your essay multiple times to ensure there are no errors.
+STUDENT: How long should my essay be?
+COACH: Most college admissions essays range from 500-700 words. However, some schools may have specific requirements, so make sure to check with the school to determine their exact requirements. 
+STUDENT: What are some tips for writing a successful essay?
+COACH: Here are a few tips for writing a successful essay:
+1. Brainstorm: Take time to think about your essay topic and consider what you want to say.
+2. Outline: Create an outline of your essay so you can organize your thoughts and ideas.
+3. Write: Start writing your essay and focus on conveying your story in an engaging way.
+4. Revise: Once you have finished writing, read through your essay and make any necessary revisions.
+5. Proofread: Make sure to proofread your essay multiple times to ensure there are no errors.
+I hope these tips help you write a successful college admissions essay!

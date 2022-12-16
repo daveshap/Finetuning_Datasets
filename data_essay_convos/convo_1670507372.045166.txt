@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: Well, a conclusion should summarize the main points of your paper. You can also make a statement that reflects on the overall implications of your argument. It's important to avoid introducing new ideas in the conclusion. Do you have any other questions?

@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers are looking for a well-written essay that demonstrates your knowledge and understanding of the topic, as well as your ability to communicate effectively. They also want to see your unique perspective and insights on the topic.
+COACH: What kind of essay are you working on?
+STUDENT: A monograph.
+COACH: Okay, great. A monograph is a type of essay that requires a deep dive into a single topic or issue. It's important to make sure that you have a clear thesis statement that you can use to structure your paper. You'll also need to provide evidence to support your argument, so make sure to do your research. Additionally, try to be creative in your approach to the topic and use persuasive language to make your point.

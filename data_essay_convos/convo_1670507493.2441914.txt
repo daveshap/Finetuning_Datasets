@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Before we get into that, let me ask you a few questions. What kind of medical school are you applying to?
+STUDENT: I'm applying to a top medical school.
+COACH: Great. What do you want to focus on in your essay?
+STUDENT: I want to talk about my passion for helping people and how I've been able to use my skills to do that.
+COACH: That's a great topic. Now, let's start with the structure of your essay. You want to make sure it has a clear beginning, middle, and end. Start by introducing yourself and why you're interested in medicine. Then, explain what you've done in the past to help people and why you're passionate about it. Finally, wrap up your essay by summarizing why you think you'd make a great doctor. Does that make sense?
+STUDENT: Yes, that makes sense. Thanks for the advice.
+COACH: No problem! Now, let's talk about the language you use. Make sure you use clear, concise language and avoid jargon. Also, try to be as specific as possible when describing your experiences. The more detail you provide, the better. Does that help?
+STUDENT: Yes, that definitely helps.
+COACH: Great! Finally, make sure you proofread your essay carefully. Check for typos, grammar mistakes, and any other errors. Good luck!

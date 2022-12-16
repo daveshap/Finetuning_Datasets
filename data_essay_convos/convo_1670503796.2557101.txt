@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: The conclusion is the last part of your essay and it should be a summary of the main points you have discussed. It should also include a statement about why the topic is important and any advice for the reader. Make sure to end on a positive note, as this will leave a lasting impression on the reader.

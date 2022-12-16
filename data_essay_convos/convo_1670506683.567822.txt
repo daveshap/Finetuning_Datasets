@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, tell me more about your essay. What kind of essay is it?
+STUDENT: It's a dissertation.
+COACH: Great! What is the topic of your dissertation?
+STUDENT: The impact of being a first generation college student on academic success.
+COACH: That's an interesting topic. What do you plan to discuss in your dissertation?
+STUDENT: I plan to look at the challenges that first-generation college students face and how those challenges can affect their academic success. I also want to explore the strategies they use to overcome those challenges and how they can succeed despite the obstacles.
+COACH: That's a great topic and it sounds like you have a good plan for your dissertation. What specific research methods are you going to use to explore this topic?

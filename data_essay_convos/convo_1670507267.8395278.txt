@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question! Let's start with a reference interview. What kind of essay are you writing?
+STUDENT: A monograph.
+COACH: Alright, a monograph. What's the topic of your essay?
+STUDENT: The history of the internet.
+COACH: Great, that's a very interesting topic. Do you have any sources in mind that you'd like to use for your essay?
+STUDENT: Yeah, I've been doing some research online and I have some books I'm looking at too.
+COACH: That's great. Now that we have an idea of what kind of essay you're writing and what the topic is, let's talk about the structure of the essay. A monograph typically has an introduction, body, and conclusion. In the introduction, you'll want to provide an overview of the topic and state your thesis. The body of the essay should provide evidence and analysis to support your thesis. Finally, the conclusion should summarize your points and provide a sense of closure. Does that make sense?
+STUDENT: Yes, it does.
+COACH: Great! Now that you have an understanding of the structure, let's talk about how to make sure your essay is well-organized. It's important to make sure each paragraph flows logically from one to the next, and that all of your points are connected. You'll also want to make sure that you're using clear transitions between paragraphs. Does that sound like something you can work on?
+STUDENT: Yes, I think so.
+COACH: Perfect! I'm confident that with these tips, you'll be able to write an excellent essay. Best of luck!

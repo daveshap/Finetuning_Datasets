@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student applying to college and I'm writing an essay about being a refugee.
+COACH: That sounds like a really interesting topic! Can you tell me a bit more about your experience as a refugee?
+STUDENT: Sure, I was born in Vietnam and my family moved to the Philippines when I was a young child. We had to flee Vietnam due to political unrest and were not able to return.
+COACH: That must have been a difficult experience for you and your family. What kind of impact did this have on your life?
+STUDENT: It had a huge impact on my life. I grew up in a new country, with a new language and culture that I had to learn. I also had to adjust to a new school system and make new friends. It was a very challenging experience but it also made me more resilient and open-minded.
+COACH: That's an amazing story. How has it shaped your view of the world and your goals for the future?
+STUDENT: Being a refugee has made me realize how important it is to have a sense of belonging and to be able to pursue my dreams. It has also made me more aware of the struggles of other refugees and immigrants, and motivated me to help them in any way I can. My goal for the future is to use my education to make a positive difference in the world.
+COACH: That's inspiring. Now, what kind of help do you need with your essay?
+STUDENT: I'm having trouble figuring out how to structure it and how to make it stand out from other essays. I'm also not sure how to talk about my experience in a way that will make college admissions officers take notice.

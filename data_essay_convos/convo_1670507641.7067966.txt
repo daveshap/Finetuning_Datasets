@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That’s a great question. Let’s start by talking about your goals for the essay. What do you want to accomplish with your essay?
+STUDENT: I want to write a personal statement for grad school that will make me stand out from other applicants.
+COACH: That’s a great goal, and it’s definitely achievable. The first step is to figure out what makes you unique and how to best express that in your essay. What do you think sets you apart from other applicants?
+STUDENT: I think my experience in volunteer work and my passion for helping others sets me apart from other applicants.
+COACH: That’s great! Now let’s talk about how to make sure your essay reflects those qualities. First, we need to make sure you’re telling a story that conveys your passion and commitment to helping others. You can do this by focusing on specific experiences or moments that highlight your dedication.
+STUDENT: Okay, so how do I go about doing that?
+COACH: Start by brainstorming some stories or experiences that demonstrate your commitment to helping others. Think about moments when you went above and beyond to help someone or made a difference in someone’s life. Once you have a few ideas, you can start writing your essay. Make sure to include vivid details and descriptions that will draw the reader in and make them feel like they’re right there with you. This will help to convey your passion and commitment in a powerful way.

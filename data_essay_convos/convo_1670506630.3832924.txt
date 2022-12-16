@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, that's a great place to start. Can you tell me a bit more about yourself and why you're applying to law school?
+STUDENT: Sure. I'm a first-generation college student and I'm applying to law school because I want to become an advocate for underserved communities. Growing up, I saw how people without access to resources were often taken advantage of, and I want to be able to fight for them.
+COACH: That's a really admirable goal! It sounds like you have a lot of passion and drive to make a difference in the world. What do you think makes you uniquely qualified to pursue this career?
+STUDENT: I think my background gives me a unique perspective on the legal system. As a first-generation college student, I'm familiar with the struggles faced by people who don't have access to the same resources as others. I also have a strong academic background and an understanding of the law that will help me navigate the complexities of the legal system. Lastly, I'm passionate about making a difference and I'm willing to put in the hard work to make that happen. 
+COACH: That's great! Those are all excellent qualities that will serve you well in law school and beyond. Now, let's talk about what you can do to make your essay stand out. What do you think are the most important points you want to make in your essay? 
+STUDENT: I want to emphasize my passion for advocating for underserved communities, my dedication to hard work, and my unique perspective on the legal system. I also want to highlight my strong academic background, as well as my commitment to learning and growing. 
+COACH: Great! Those are all great points to make in your essay. Let's focus on how to best organize your thoughts and write a compelling essay. What do you think your essay should focus on?

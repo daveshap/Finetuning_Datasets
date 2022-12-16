@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start by talking about the purpose of your essay. What kind of grant application are you writing?
+STUDENT: I'm applying for a scholarship to help pay for college.
+COACH: Great. A scholarship essay should explain why you deserve to receive the scholarship. What can you tell me about yourself that would make you stand out from other applicants?
+STUDENT: Well, I'm a first-generation college student and I have a strong commitment to community service.
+COACH: That's great! You can definitely highlight those qualities in your essay. What else can you tell me about yourself that would make you a good candidate for this scholarship?
+STUDENT: I'm also a very hard-working student and I have a 3.8 GPA.
+COACH: Perfect! Those are excellent qualities to include in your essay. Now, what can you tell me about your goals for the future?
+STUDENT: I want to major in psychology and eventually become a counselor. I want to use my degree to help people in my community.
+COACH: Fantastic! That's a great goal to include in your essay. Now, let's talk about how you plan to achieve that goal. What steps do you plan to take to get there?
+STUDENT: I plan to take advantage of all the resources available to me at my university, such as internships and research opportunities. I also plan to volunteer in my community to gain more experience in the field.
+COACH: That's great! Those are all great steps to take towards achieving your goals. Now, let's talk about how you will use the scholarship money to help you reach those goals. What specific expenses do you plan to use the money for?
+STUDENT: I plan to use the money to help pay for tuition, books, and other school-related expenses. I also plan to use the money to attend conferences and workshops related to my field.
+COACH: Excellent! Those are all great ways to use the scholarship money. Finally, let's talk about how you will prove to the committee that you are the best candidate for the scholarship. What evidence can you provide to show that you are the most qualified applicant?
+STUDENT: I can provide letters of recommendation from my teachers and mentors, as well as transcripts and awards I have received from my high school. I can also provide examples of the work I have done in my community and the impact it has had.

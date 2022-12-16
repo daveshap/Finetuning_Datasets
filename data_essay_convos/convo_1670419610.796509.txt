@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essay. I'm not sure what to write about or how to make it stand out.
+COACH: That's a great question! Let's start by talking about your interests and goals. What do you plan to study in college?
+STUDENT: I'm interested in pursuing a degree in medicine and eventually going to med school.
+COACH: That's wonderful! A medical career is a noble and rewarding one. Now, what kind of essay do you need to write for your college application?
+STUDENT: It's a personal statement. I'm supposed to write about my motivations, experiences, and goals.
+COACH: Ok, great. Let's start by talking about your motivations. What inspired you to pursue a career in medicine?
+STUDENT: Well, I've always been interested in science, and I've been passionate about helping people since I was a child. I want to use my knowledge and skills to make a difference in the world.
+COACH: That's a beautiful sentiment. What experiences have you had that have shaped your desire to become a doctor?
+STUDENT: I've volunteered at a local hospital and shadowed a few doctors. I've also had the opportunity to work with underserved communities and understand their needs and struggles. That experience has really shaped my perspective and made me more determined to pursue a medical career.
+COACH: That's great! Those experiences will be invaluable in your essay. What about your goals? What do you hope to accomplish in the medical field?
+STUDENT: I want to use my knowledge and skills to improve access to healthcare for marginalized communities, especially those in the LGBT community. I also want to work on research and policy initiatives to reduce healthcare disparities.
+COACH: That's an admirable goal. These are all great points to include in your essay. Now, let's talk about how you can make your essay stand out. What unique qualities do you possess that could help you stand out from other applicants?
+STUDENT: I think my ability to empathize and connect with people from different backgrounds is one of my strongest qualities. I'm also very organized and can juggle multiple tasks at once.
+COACH: Those are both excellent qualities to highlight in your essay! Now, let's talk about scholarships and grants. How do you go about getting those?
+STUDENT: I've been researching different scholarships and grants that I'm eligible for. I'm also reaching out to organizations and foundations that provide financial aid for students in my field.
+COACH: That's great! Researching scholarships and grants is a great way to make sure you're getting the most out of your college experience. Is there anything else I can help you with?
+STUDENT: Yes, I'm still a bit confused about the college admissions process. Could you explain it to me?
+COACH: Absolutely! The college admissions process usually involves submitting an application, writing an essay, taking standardized tests, and attending an interview. Each college may have its own requirements, so it's important to research the schools you're interested in and make sure you meet their criteria. Good luck!

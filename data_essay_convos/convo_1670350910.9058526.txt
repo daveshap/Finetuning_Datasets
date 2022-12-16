@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I need help with my essay.
+COACH: Great! What's the prompt you're responding to?
+STUDENT: The prompt is about how I have overcome adversity in my life.
+COACH: Okay, so what kind of adversity have you faced?
+STUDENT: Well, I'm a refugee from the Middle East, and I've experienced a lot of sexism and prejudice in my life because of my religion, Judaism.
+COACH: Wow, that sounds like a really difficult situation to be in. Can you tell me more about how you've navigated this adversity?
+STUDENT: Sure. One thing I've done is to focus on my education and try to make the most of the opportunities I've been given. I've also taken part in extracurricular activities, like volunteering and participating in student clubs, to try and make a difference in my community.
+COACH: That's really impressive. It sounds like you've been able to take control of your life despite the adversity you've faced. How do you think this experience has shaped who you are as a person?
+STUDENT: Well, I think it's made me more resilient and determined. I'm more aware of the struggles of other people and I'm passionate about standing up for what I believe in. It's also made me realize how important it is to be open-minded and that everyone has something unique to offer.
+COACH: That's great. It sounds like you have a lot to offer and that your experiences have given you a unique perspective. How do you think you can use this perspective to contribute to UNC?
+STUDENT: I think I can use my experiences to help others who may be facing similar adversity. I want to be a voice for those who don't have one, and I want to show that it's possible to overcome obstacles and achieve success. I also want to help create a safe and inclusive environment at UNC where everyone feels accepted and respected.

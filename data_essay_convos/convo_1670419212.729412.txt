@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble figuring out what to write about for my college essay.
+COACH: Okay, can you tell me a bit more about the essay you are writing? What type of essay is it?
+STUDENT: It's a personal statement for Duke University.
+COACH: Got it. So, what topics have you been considering writing about?
+STUDENT: Well, I was thinking about writing about my experience with charity work, or maybe about my religious background—I was raised in a Jewish family.
+COACH: That's great! Do you feel like you have any particular experiences or stories related to either of those topics that you could draw from?
+STUDENT: I guess I could talk about how my family encouraged me to do charity work, and how my faith has shaped my values.
+COACH: That sounds like a great starting point! Have you ever discussed your faith with anyone outside of your family?
+STUDENT: Not really. I mean, I've had some conversations with friends who are Christian, but we don't really talk about it in depth.
+COACH: That's understandable. You could use your essay to explore how your faith has impacted your life and how it has helped you to form your values. You could also talk about how your experience with charity work has shaped your view of the world.
+STUDENT: That's a good idea. But I'm worried that I'm not interesting enough as a person.
+COACH: Don't worry about that! Everyone has something unique to offer and there's no such thing as being "not interesting enough". Focus on what makes you special and how your experiences have shaped who you are today. That's what admissions officers are looking for.

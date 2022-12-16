@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm applying to UNC for grad school. I want to write an essay about politics and how they affect my life, but I'm not sure how to go about it.
+COACH: That sounds like a great topic! First, let's talk a bit about your background. What have been some of the biggest political influences in your life?
+STUDENT: Growing up, my parents were very involved in local politics. They would often take me to rallies and marches, and I was exposed to a lot of different perspectives on the issues. I also read a lot of books about politics and history.
+COACH: That's great! It sounds like you have a good foundation to work from. So, what kind of essay are you looking to write? 
+STUDENT: I want to write an essay about how politics has shaped my life and how it has impacted my decisions.
+COACH: That's a great idea! To get started, why don't you start by writing down your thoughts and experiences related to politics? This will help you get your ideas organized and give you a good starting point. Once you have that done, you can start thinking about how to structure your essay.
+STUDENT: Okay, that sounds like a good plan. What else do I need to consider when writing my essay?
+COACH: You'll want to make sure that your essay is well-structured and that you include evidence to support your points. Additionally, it's important to make sure that you're using language that is clear and concise. Finally, remember to proofread your essay multiple times to make sure that you haven't missed any typos or grammatical errors.
+STUDENT: Got it. I think I'm ready to start writing. One last question though - do you have any tips on how to get scholarships and grants for grad school?
+COACH: Absolutely! There are many resources available to help students find scholarships and grants. I suggest checking out your school's financial aid office for more information. Additionally, there are many websites and organizations that provide scholarship opportunities. Finally, don't forget to look into federal and state grants as well. Good luck!

@@ -1,0 +1,18 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a high school senior applying to Princeton and I'm having trouble writing my essay.
+COACH: Alright, can you tell me a bit more about yourself? What are your passions and interests?
+STUDENT: Well, I'm passionate about engineering and have been since I was a kid. I've also been involved in a lot of charity work and I come from a single parent home.
+COACH: That's great! It sounds like you have a lot of experiences that could be used to make your essay stand out. Have you thought about how you want to approach your essay?
+STUDENT: Not really, I just know I want it to be unique and show the admissions team who I am.
+COACH: Okay, let's start by brainstorming some ideas. What do you think would be the best way to highlight your passions, charity work, and background?
+STUDENT: I think talking about how my background has shaped my passion for engineering and how I use that passion to help others through charity work would be a good angle.
+COACH: That's a great idea! Now, let's go into more detail. What have been some of your most meaningful experiences with engineering and charity work?
+STUDENT: Well, I've been involved in an engineering project for the past few years that helps provide clean water resources to developing countries. I've also volunteered at a local food pantry and raised money for a homeless shelter.
+COACH: Those are amazing accomplishments! Can you tell me more about how these experiences have shaped your passion for engineering?
+STUDENT: Absolutely. Working on the engineering project showed me the power of engineering and how it can be used to make a real difference in people's lives. Volunteering at the food pantry and raising money for the homeless shelter made me realize that engineering can also be used to help those in need.
+COACH: That's really inspiring! It sounds like you have a lot of material to work with for your essay. What do you think would be the best way to structure your essay?
+STUDENT: I think I want to focus on how my background has shaped my passion for engineering and how I use that passion to help others through charity work. 
+COACH: That's a great idea! Now, let's talk about the specifics. What stories can you tell to illustrate your points?
+STUDENT: I can talk about my experience working on the engineering project in developing countries, as well as my experience volunteering at the food pantry and raising money for the homeless shelter.
+COACH: Perfect! Now, let's talk about the tone of your essay. How do you want to come across to the admissions team?
+STUDENT: I want to come across as passionate, driven, and compassionate. I want to show them that I'm dedicated to making a difference and that I'm not afraid to use my engineering skills to help others.

@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: That's a great question! The opening of your dissertation should provide an overview of the topic, the scope of the research, and the main argument or thesis you are making. It should also be engaging and draw the reader in. Can you tell me a bit more about the topic of your dissertation?

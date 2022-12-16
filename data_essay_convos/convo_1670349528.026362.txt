@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm stuck on my essay. I'm interested in engineering, but I'm not sure what admissions officers are looking for or what to write about.
+COACH: Great! Let's start by talking about engineering and what it means to you. What do you like about engineering?
+STUDENT: I love the challenge of problem solving and the satisfaction of finding solutions. It's also a great way to make a difference in the world by creating new technologies that can help people.
+COACH: That's wonderful! Now, let's talk about what admissions officers are looking for in an essay. They want to get to know you as a person and understand your motivations and passions. So, think about what makes you unique, and how you can use engineering to make a difference in the world.
+STUDENT: Well, I'm a Christian and I believe that God has given me the skills and abilities to use engineering to help others. I want to use my talents to make a difference in the world and to serve others.
+COACH: That's a great starting point! You can use this perspective to discuss how you plan to use engineering to help others and how your faith influences your goals and ambitions.
+STUDENT: Okay, that's a great idea. What else should I include in my essay?
+COACH: Think about what else makes you unique. Do you have any hobbies or interests that could be relevant? Also, consider how you plan to finance your college education. This can be a great opportunity to demonstrate your commitment and dedication to your studies.
+STUDENT: Sure, I'm planning to use scholarships and grants to help pay for college. I'm also considering taking out student loans, but I'm not sure how that works.
+COACH: Loans can be a great way to finance your education, but it's important to understand the terms and conditions of the loan before signing any agreements. Make sure you research different loan options and calculate how much you can afford to borrow. This will help you make an informed decision about financing your college education.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question. Before we get into the specifics of structure, let me ask you a few questions so I can get a better understanding of what your essay needs to accomplish. What kind of essay is it?
+STUDENT: A personal statement for medical school.
+COACH: Okay, great. What do you want to convey in your essay?
+STUDENT: I want to show that I'm a well-rounded candidate who is passionate about medicine and has the qualities necessary to excel in medical school.
+COACH: Alright, now that I have a better understanding of what you're trying to accomplish, let's talk about structure. A personal statement for medical school should be organized in three main sections. The introduction should grab the reader's attention and provide a brief overview of your essay. The body of your essay should include specific examples of how you demonstrate the qualities necessary to excel in medical school, such as leadership, problem-solving skills, and dedication. Finally, the conclusion should sum up the main points of your essay and emphasize why you are a great fit for medical school. Does that make sense?

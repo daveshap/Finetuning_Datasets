@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I need help with my essay.
+COACH: Great! What kind of essay are you working on?
+STUDENT: It's a personal essay about my experience as a refugee and my involvement in LGBT volunteer work.
+COACH: That sounds like a really interesting topic. Can you tell me more about your experience as a refugee and what inspired you to get involved in LGBT volunteer work?
+STUDENT: Well, I was born in a refugee camp in Syria and moved to the US when I was eight. Growing up, I faced a lot of discrimination and prejudice because of my background and identity. I wanted to make a difference, so I got involved in LGBT volunteer work to help create a more inclusive and accepting environment for everyone.
+COACH: That's really inspiring. So, what kind of essay structure are you thinking of using for your essay?
+STUDENT: I was thinking of using a narrative structure, where I tell my story in chronological order, starting from my experience as a refugee and then talking about how I got involved in LGBT volunteer work.
+COACH: That sounds like a great idea. Can you tell me more about the main points you want to make in your essay?
+STUDENT: Sure. I want to talk about how my experience as a refugee has shaped my outlook on life and how it has made me more aware of the importance of acceptance and inclusion. I also want to talk about how my volunteer work has enabled me to help others and make a positive impact on the world.

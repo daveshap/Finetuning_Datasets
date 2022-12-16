@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for advice on how to get scholarships and grants for college.
+COACH: Great! It's a good idea to start by thinking about what makes you unique and special. What are your passions and interests?
+STUDENT: Well, I'm passionate about science and technology, and I've volunteered at a few tech-related events.
+COACH: That's great. Have you considered applying to MIT? They have some excellent undergraduate programs in science and technology.
+STUDENT: Yes, that's what I was thinking of. Do you think I have a good chance of getting a scholarship or grant?
+COACH: Absolutely. MIT is very generous with financial aid and scholarships. You should start by researching their scholarships and grants, and make sure you meet the requirements. You should also look into other sources of funding, such as private scholarships and grants.
+STUDENT: OK, that's helpful. What else can I do to make my application stand out?
+COACH: You should focus on highlighting your volunteer work and any extracurricular activities that show your passion for science and technology. Also, make sure your essay reflects your enthusiasm and commitment to the field. Finally, be sure to demonstrate your leadership skills and explain why you are the best candidate for the program.

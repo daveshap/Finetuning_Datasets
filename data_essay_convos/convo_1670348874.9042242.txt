@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to North Carolina State University and I need help with the personal statement essay.
+COACH: Great! Let's get started. First, can you tell me a bit about your skills and achievements?
+STUDENT: Sure. I'm an honors student and I have a 4.0 GPA. I'm also involved in several clubs and activities, such as the debate team, the newspaper and the student council. I'm also a black belt in karate and I've won several competitions.
+COACH: That's impressive! Now, what specifically do you need help with in regards to your personal statement?
+STUDENT: I'm having trouble figuring out how to structure my essay. I want to make sure I'm highlighting my best qualities and making a strong case for why I should be accepted to NCSU.
+COACH: Absolutely. The structure of your essay is very important, so let's start by talking about the main points you want to make. What are the most important things you want to emphasize?
+STUDENT: I want to emphasize my academic achievements, my involvement in extra-curricular activities, and my commitment to my faith. I'm Muslim, and I want to make sure that I'm representing my religion in a positive light.
+COACH: That's great. So your essay should focus on three main points: your academic achievements, your extra-curricular activities, and your faith. You should also make sure to include any relevant experiences or stories that illustrate these points. This will help to make your essay more personal and engaging. Does that make sense? 
+STUDENT: Yes, that makes perfect sense. Thank you for your help!

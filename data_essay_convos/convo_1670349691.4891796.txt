@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad at Yale and I'm trying to write an admission essay. I'm having trouble coming up with a topic.
+COACH: That's understandable. Writing an admission essay can be intimidating. Can you tell me a bit more about what you're looking for? Do you have any specific interests or goals in mind?
+STUDENT: Well, I'm interested in social issues and I want to make sure my essay reflects that. I also want to make sure it stands out from the other essays.
+COACH: That's great! It sounds like you want to focus on a social issue that resonates with you. What topics have you been thinking about?
+STUDENT: I've been considering topics related to poverty and inequality, but I'm not sure where to start.
+COACH: That's a great topic to explore. Have you looked into any specific angles or stories related to poverty and inequality? That could be a great starting point for your essay.
+STUDENT: I've done some research, but I'm still feeling overwhelmed.
+COACH: It's understandable to feel overwhelmed when you're starting out. It's important to remember that your essay should reflect your unique perspective and experiences. You don't have to have all the answers right away. You can start by writing down some of your thoughts and ideas and see where it takes you.
+STUDENT: That's a good idea. I'll try that.
+COACH: Great! Anything else I can help you with?
+STUDENT: Actually, I was wondering if you had any advice on how to find a job after college?
+COACH: Absolutely! Finding a job after college can be challenging, but there are a few things you can do to increase your chances. Networking is key. Make sure to attend career fairs, join professional organizations, and reach out to alumni. Also, make sure your resume and cover letter are up to date and tailored to each position you apply for. Finally, practice your interviewing skills so you're prepared when the opportunity arises.

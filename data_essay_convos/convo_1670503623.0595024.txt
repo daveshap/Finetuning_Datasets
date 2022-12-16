@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay, let's start by brainstorming some ideas. What topics interest you? Are there any particular research topics that have caught your eye?
+STUDENT: Well, I'm interested in the history of the American Revolution.
+COACH: That's a great topic! Have you thought about what specific aspects you'd like to focus on within this topic? You could look at the causes of the revolution, the key players involved, or the impact of the revolution on American society.

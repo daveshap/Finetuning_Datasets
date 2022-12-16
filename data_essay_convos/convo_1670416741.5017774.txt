@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm working on a personal statement and I'm having trouble figuring out what to write about.
+COACH: What kind of personal statement are you writing?
+STUDENT: It's for my college application.
+COACH: Okay, so what kind of topics are you considering for your personal statement?
+STUDENT: Well, I'm considering writing about my experience as a refugee and how it has shaped my life.
+COACH: That sounds like a really interesting topic. Tell me more about your experience as a refugee. 
+STUDENT: Well, I was born in a refugee camp in Thailand and my family and I had to flee our home country due to political unrest. We spent several years in the camp before finally being able to move to the United States.
+COACH: That must have been a difficult experience for you. How did it shape your life? 
+STUDENT: It definitely shaped my outlook on life. I realized that no matter how difficult things get, there is always hope and a way out. It also made me realize the importance of travel and seeing different cultures.
+COACH: That's a great insight. What else have you learned from your experience as a refugee? 
+STUDENT: I've also learned the importance of having a strong spiritual foundation. During our time in the camp, my family found solace in Buddhism and it helped us stay positive and hopeful even in difficult times.

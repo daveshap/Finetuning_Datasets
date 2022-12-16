@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That's a great question! A personal statement is an opportunity for you to tell your story, so it should focus on something that you are passionate about and that has shaped who you are. What topics or experiences have been meaningful to you?
+STUDENT: Well, I'm really passionate about music and I've been playing the violin since I was five.
+COACH: That's wonderful! How has playing the violin impacted your life? What have you learned from it?
+STUDENT: Playing the violin has taught me the value of hard work and dedication. It's also helped me develop discipline and learn how to work through difficult challenges. I've also gained a lot of confidence in my abilities and learned how to express myself creatively.
+COACH: That's great! You could use these experiences to craft a compelling personal statement. You could talk about how you overcame obstacles and how you developed as a musician and person. You could also discuss how the skills you learned through music have helped you in other aspects of your life.

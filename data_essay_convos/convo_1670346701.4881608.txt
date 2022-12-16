@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay on why college matters and I'm having a hard time coming up with ideas.
+COACH: That's a great topic! It's important to think about why college matters to you personally. What do you think is the biggest benefit of college?
+STUDENT: I think college is important because it allows me to explore my passions and find out what I'm really interested in.
+COACH: That's a great point. College gives you the freedom to explore and learn about things that interest you. Have you thought about which college you might want to attend?
+STUDENT: I'm interested in Princeton and UCLA. I'm not sure which one is the best choice for me.
+COACH: That's a tough decision. Both schools have great undergraduate programs and offer excellent opportunities for students. It's important to think about what you want out of your college experience. What do you think are the most important factors when choosing a college?
+STUDENT: I think the biggest factor is the quality of the academics. I want to make sure I'm getting a good education and learning valuable skills.
+COACH: Absolutely! It's important to look at the academic programs offered by each school and make sure they align with your goals. You should also consider the extracurricular activities available and how they could help you grow as a person. And don't forget to think about the overall atmosphere of the school and how it would fit with your personality.

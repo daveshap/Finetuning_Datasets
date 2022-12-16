@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some guidance on writing a college essay.
+COACH: Great! What specifically do you need help with?
+STUDENT: Well, I'm not sure where to start. I'm applying to undergrad and want to make sure my essay stands out.
+COACH: Okay, that's a great place to start. Let's talk about why college matters to you. Why do you want to go to college?
+STUDENT: I want to pursue my passion and get the education I need to succeed. I also want to be able to volunteer and give back to my community.
+COACH: That's fantastic! Now let's talk about how to structure your essay. Are you familiar with the parts of an essay, such as the hook, introduction, middle, and conclusion?
+STUDENT: Not really. What do those mean?
+COACH: The hook is the first sentence of your essay and should grab your reader's attention. The introduction should explain why you are writing the essay and what your main points are. The middle is the body of your essay, where you provide evidence and arguments to support your points. Finally, the conclusion should summarize your main points and explain why they are important. Does that make sense?
+STUDENT: Yes, that makes sense.
+COACH: Great! Now, let's talk about how to apply these concepts to your essay. What are some examples of evidence or arguments you can use to support your points?
+STUDENT: I could talk about my volunteer work and how it has helped me develop skills and gain knowledge.
+COACH: That's a great example! You can also talk about any internships or other experiences you have had that demonstrate your commitment to your chosen field. Is there anything else you need help with?

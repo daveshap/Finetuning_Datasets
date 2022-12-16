@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question! When you're writing your college admissions essay, the best way to approach it is to focus on your goals and how attending college can help you achieve them. You can talk about what kind of job you hope to have after college, what skills you need to develop in order to get that job, and how college can help you gain those skills. 
+STUDENT: What should I include in my essay?
+COACH: It's important to include a few key elements in your essay. First, you should introduce yourself and explain why you're interested in attending college. Then, you should discuss your goals and how college can help you reach them. Finally, you should explain why you're the perfect candidate for the college and why they should accept you. 
+STUDENT: What are some tips for writing a persuasive essay?
+COACH: When writing a persuasive essay, it's important to make sure you have a clear argument and use evidence to support it. Make sure you present your argument in a logical and organized way, and be sure to include facts, examples, and statistics to back up your claims. Also, be sure to use strong language and be persuasive in your writing. Finally, make sure to end your essay with a strong conclusion that emphasizes your main points.

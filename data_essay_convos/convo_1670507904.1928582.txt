@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the requirements of the school you are applying to. What school are you applying to? 
+STUDENT: I'm applying to Harvard. 
+COACH: Great, Harvard typically requires a 500-word essay. 
+STUDENT: Okay, what should I write about? 
+COACH: That's up to you! Think about what makes you unique and why you would be a great fit for Harvard. What experiences have shaped your life and how have they impacted you? 
+STUDENT: Well, I've done a lot of volunteer work in my community and I think that has really shaped me into the person I am today. 
+COACH: That's great! How has volunteering impacted your life? 
+STUDENT: Volunteering has taught me so much about helping others and the importance of giving back to the community. I've also developed a better sense of empathy and understanding of different cultures, which is something I value greatly. 
+COACH: Excellent! You could start by talking about your experiences with volunteering and how it has impacted you. Then, you can discuss how those experiences have helped shape your values and beliefs. Finally, you could talk about why you think you would be a great fit for Harvard and how you can contribute to the university.

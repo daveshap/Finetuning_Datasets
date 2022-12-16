@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for a college application and I'm trying to figure out what makes a good essay.
+COACH: That's a great question. What kind of essay are you writing? Is it for a specific school or program?
+STUDENT: Yes, it's for the undergraduate program at the University of North Carolina.
+COACH: Got it. What is the topic of your essay?
+STUDENT: The topic is about my skills and achievements in China.
+COACH: Okay, so you want to focus on how your skills and achievements in China can help you succeed in the UNC program. What kind of skills and achievements are you looking to highlight?
+STUDENT: Well, I've been involved in a lot of community service projects in China, and I'm also very knowledgeable about Chinese culture and history.
+COACH: Great, those are great topics to focus on. What specifically do you think would make your essay engaging?
+STUDENT: I think it would be important to focus on how my experiences in China have shaped my perspective and how I could use those skills and knowledge to contribute to the UNC community.
+COACH: That's a great idea. You could also focus on how your experiences in China have helped you grow as a person and how those skills and achievements can help you succeed in the UNC program. You could even compare and contrast the programs at UNC and MIT to show how your experiences in China have prepared you for both. That would make your essay stand out and be more engaging.

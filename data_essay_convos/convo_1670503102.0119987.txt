@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That's a great question! Applying to college can seem daunting, but it's actually quite simple. First, you'll need to research the colleges you're interested in and determine which ones are the best fit for you. Then, you'll need to create an application, fill out any necessary forms, and submit your transcripts and test scores. Finally, you'll need to write your college admissions essay. That's where I can help.
+STUDENT: What should my essay be about?
+COACH: It's important to choose a topic that reflects who you are and why you want to attend the college you're applying to. Think about your experiences, values, and goals, and how they relate to the college. You can also use the essay to explain any unique circumstances that have impacted your academic career. Once you have a topic in mind, you can start writing your essay. 
+STUDENT: What should the structure of my essay look like?
+COACH: A well-structured essay should have an introduction, several body paragraphs, and a conclusion. In the introduction, you should provide a brief overview of your topic and explain why it is important to you. In the body paragraphs, you should provide evidence to support your argument. This could include personal anecdotes, research, or statistics. In the conclusion, you should summarize your argument and explain why it is significant.

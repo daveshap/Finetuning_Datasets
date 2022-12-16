@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble coming up with an essay topic. I'm not sure what to write about.
+COACH: OK, let's start by talking about what interests you. What topics are you passionate about?
+STUDENT: Well, I'm really interested in travel. I love to explore new places and cultures.
+COACH: That's great! What kind of travel do you like to do? Do you prefer to go on adventures or stay in one place?
+STUDENT: I like to mix it up. I like to take long trips and explore, but I also like to stay in one place and really get to know the culture.
+COACH: That sounds like a great plan. What other topics interest you?
+STUDENT: I'm also passionate about LGBT rights and advocacy.
+COACH: That's wonderful. Have you ever done any work in this area?
+STUDENT: Yes, I've done some volunteer work and attended marches and rallies. I'm also involved in my school's LGBT club.
+COACH: That's great. So, based on what we've talked about, do you think you could write an essay about your experiences in travel and LGBT advocacy?
+STUDENT: Yes, I think I could. I'm not sure how to begin, though.
+COACH: Well, why don't you start by thinking about why you're passionate about these topics? What motivated you to get involved in the first place? Then, you can use those thoughts to brainstorm ideas for the essay. You could also consider applying to MIT's LGBT program. That might be a great way to further explore your passions and give your essay a unique angle.

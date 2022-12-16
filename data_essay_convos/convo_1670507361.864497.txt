@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: Well, a conclusion is the last part of your essay and it should summarize the main points you made in your essay. It's important to make sure your conclusion is strong, so that the reader leaves with a good impression of the essay. Do you have any other questions about writing a conclusion?
+STUDENT: Yes, how do I make sure my conclusion is effective?
+COACH: A good conclusion should be clear and concise. You want to make sure you restate the main points of your essay, while still leaving the reader with something to think about. You also want to make sure you avoid introducing any new ideas or arguments in your conclusion. Does that help answer your question?

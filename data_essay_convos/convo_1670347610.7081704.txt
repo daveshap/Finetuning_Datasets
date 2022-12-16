@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm having trouble writing my personal statement.
+COACH: Great! Let me start by asking you a few questions. What motivated you to apply to Duke in the first place?
+STUDENT: Well, I've always been interested in the university's global reach and its commitment to international education. I come from a poor family and I wanted to find a way to get an education that would open up opportunities for me to explore the world.
+COACH: That's wonderful! What kind of experiences have you had so far in your academic career that have prepared you for this journey?
+STUDENT: I've taken a few classes in French and I think that has really helped me understand different cultures and how to communicate with people from different backgrounds. I also recently took a course on international relations which gave me a better understanding of the global political landscape.
+COACH: That sounds great! So, what do you hope to accomplish with your studies at Duke?
+STUDENT: I hope to gain a deeper understanding of global politics and economics so that I can make an impact in my community and beyond. I also want to use my education to find a job after college that will allow me to travel and experience different cultures.

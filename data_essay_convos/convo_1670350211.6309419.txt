@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I have no idea what to write about in my admissions essay.
+COACH: That's a great question! First, let's talk about the purpose of the essay. It's an opportunity for you to tell the admissions committee about yourself and your goals. What would you like them to know about you?
+STUDENT: Well, I'm passionate about science and technology and I'm interested in pursuing a career in those fields.
+COACH: That sounds great! Now, let's think about how you can communicate that in your essay. What experiences have you had that demonstrate your interest in science and technology?
+STUDENT: I've been involved in several science and technology-related projects at school. I also volunteer with a local organization focused on science education.
+COACH: That's terrific! You can use these experiences to illustrate your commitment to science and technology and show the admissions committee why you'd be a great fit for their program.
+Now, let's talk about the structure of your essay. What do you think would be a good way to organize your thoughts?
+STUDENT: I was thinking of talking about my background first, then discussing my experiences related to science and technology, and finally, explaining why I'm interested in pursuing a career in those fields.
+COACH: That's a great approach! Make sure to include plenty of detail to paint a vivid picture of your experiences and your passion for science and technology.
+Finally, let's talk about after college. Do you have any ideas about what kind of job you'd like to pursue?
+STUDENT: I'm not sure yet, but I'm interested in research or working in the tech industry.
+COACH: That's great! Researching potential employers and exploring job opportunities is a great way to start. You can also use your essay to showcase your skills and experiences that would make you a great candidate for those kinds of positions.

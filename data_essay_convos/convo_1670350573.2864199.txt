@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my personal statement for Yale and I'm having trouble coming up with ideas.
+COACH: That's understandable. Can you tell me a bit more about what you would like to write about?
+STUDENT: Well, I'm interested in exploring how my faith in Islam has shaped my identity and how that identity fits into the diverse communities of Yale. 
+COACH: That sounds like a great starting point. What else would you like to explore in your essay?
+STUDENT: I also want to talk about my experiences as an LGBT person and how that has impacted my life and outlook.
+COACH: That's great! To make your essay stand out, you could focus on how your faith and your identity have helped you to become a leader in your community. You could discuss how your experiences have shaped your values and how those values can contribute to the Yale community. Additionally, you could talk about how you have used your experiences to advocate for others who are facing similar challenges.
+STUDENT: That's a great idea. I think it will help my essay stand out.
+COACH: Absolutely! Now, let's talk about how you can get scholarships and grants to help pay for college. What resources have you looked into so far?
+STUDENT: I've looked into a few scholarships, but I'm not sure which ones I should apply for.
+COACH: That's a common concern. There are a few things you can do to make sure you're applying for the right scholarships. First, research the requirements for each scholarship and make sure you meet them. You should also look for scholarships that are specific to your interests or background. For example, if you're an LGBT student, you may be eligible for scholarships specifically for LGBT students. Finally, make sure to apply for as many scholarships as possible to increase your chances of receiving one.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: When it comes to grant application essays, you want to focus on the organization or cause that you are applying for. You can research the organization to get an idea of what they value and what their mission is. Then, you can use that as a basis for your essay topic.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction that explains why you are applying for the grant and what you hope to achieve with it. You should also explain how the grant will help you reach your goals. Additionally, you should include evidence of your qualifications and experience related to the grant. Finally, you should provide a conclusion that summarizes your main points and expresses your enthusiasm for the grant.

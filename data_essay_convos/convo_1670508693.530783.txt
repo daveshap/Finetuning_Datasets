@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Okay, let's start by talking about your essay. What kind of essay are you writing?
+STUDENT: It's a research essay.
+COACH: Great! What research have you done so far?
+STUDENT: Well, I've done some research online, but I'm not sure if it's enough.
+COACH: That's a great start. What are you researching?
+STUDENT: I'm researching the effects of climate change on the environment.
+COACH: That's an interesting topic. What kind of sources have you found?
+STUDENT: I've found some articles and reports from scientific organizations, but I'm having trouble finding reliable sources.
+COACH: That's understandable. Have you tried looking for peer-reviewed journals? Those tend to be more reliable sources for research essays.
+STUDENT: I haven't, but I will try that.
+COACH: That's a great idea. You should also look for books and other primary sources that might give you more information. Once you've gathered all your sources, you can start writing your essay. Do you have any questions about the writing process?

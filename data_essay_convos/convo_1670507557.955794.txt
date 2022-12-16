@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Well, that depends on what kind of essay you're writing. Is this a research essay?
+STUDENT: Yes, it's a research essay.
+COACH: Okay, great. So, the first step in writing a research essay is to come up with a topic and do some preliminary research. What is the topic of your essay?
+STUDENT: My topic is the effects of climate change on the environment.
+COACH: That's a great topic! Now that you have a topic, you need to start doing some research. You should look up some reliable sources, such as scientific journals, websites, and books. Then, you can start taking notes and organizing your research into categories. Once you have a good understanding of the topic, you can start writing your essay. 
+Next, you'll want to create an outline for your essay. This will help you organize your thoughts and make sure that your essay flows logically. You'll also want to make sure to include a strong thesis statement near the beginning of your essay.
+Finally, you'll need to write your essay. This is where you'll take all of your research and notes and put them into words. Make sure to use clear and concise language, and don't forget to proofread your work.
+I hope this helps you get started on your research essay. Is there anything else I can help you with?

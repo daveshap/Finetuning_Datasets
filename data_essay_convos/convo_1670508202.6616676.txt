@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are financial awards that are given to individuals or organizations for the purpose of supporting a project or activity. Generally, grants are awarded based on specific criteria and require an application process. Can you tell me a bit more about what you need help with?
+STUDENT: I'm writing a personal statement for a college application and I'm having trouble getting started.
+COACH: That's understandable. Personal statements can be challenging because they require you to reflect on your experiences and articulate your goals. To get started, think about why you're applying to this particular college and what makes you a good fit. What do you want to emphasize in your essay?
+STUDENT: I want to emphasize my leadership skills and my passion for helping others.
+COACH: Great! Your essay should focus on how you have developed those skills and how they have helped you make a difference in the world. Think of specific examples where you have demonstrated leadership and how it has impacted others. This will help you create a compelling narrative for your essay.

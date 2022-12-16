@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. Let's start with a reference interview. Tell me more about your essay. What type of essay is it?
+STUDENT: It's an admissions essay with a prompt. 
+COACH: Perfect. What is the prompt? 
+STUDENT: The prompt is to discuss a time when I overcame an obstacle.
+COACH: Okay, great. Now that we know the prompt, let's talk about how to choose a topic. The key is to pick something that is meaningful to you and that you can write about in an engaging way. Think about a time when you faced a challenge and overcame it. What comes to mind?
+STUDENT: Well, I think about the time I had to speak in front of a large audience for a school project. I was really scared but I pushed through and ended up doing well.
+COACH: That sounds like a great topic! Now, let's think about how to structure your essay. You'll want to introduce the topic, explain why it was difficult, and then talk about how you overcame the challenge. You should also include specific examples and details to make your story come alive. Does that make sense? 
+STUDENT: Yes, that makes sense. 
+COACH: Great! Now let's talk about how to make your essay stand out. Think about some unique qualities that you can bring to the essay. Maybe you can talk about how you used a certain skill or how you learned something from the experience. Also, make sure to tie the essay back to your goals and why you would be a good fit for the school. Does that help? 
+STUDENT: Yes, that helps a lot. 
+COACH: Wonderful! Now you have a plan for writing your essay. Remember to stay focused on the prompt, use vivid language to bring your story to life, and make sure to connect it back to your goals. Good luck with your essay!

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to med school and I'm having trouble writing my personal statement. I'm not sure what to write about.
+COACH: That's a great question. Before we get started, can you tell me a bit more about yourself? What topics are you passionate about?
+STUDENT: Well, I'm really interested in religious studies. I'm particularly fascinated by the relationship between Islam and Judaism.
+COACH: That's a great topic to explore in your personal statement. It can be a great way to show your interest in religion and your understanding of the different faiths. How would you like to approach this topic?
+STUDENT: I'm not sure how to start. I want to make sure I'm representing both religions accurately and respectfully.
+COACH: That's an important point. It's important to research both religions thoroughly and to be respectful of both faiths. You could start by introducing the topic and then giving a brief overview of each religion. Then, you can discuss the similarities and differences between the two and the impact they have on the world today. Finally, you can explain why this topic is important to you and how it has shaped your worldview. Does this sound like a good plan?
+STUDENT: Yes, that sounds great. Thanks for your help!

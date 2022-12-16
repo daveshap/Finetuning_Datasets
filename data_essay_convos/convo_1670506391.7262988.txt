@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That depends on what you want to focus on in your statement. What do you think are your most important qualities or experiences that you would like to highlight?
+STUDENT: I think my leadership experience and academic achievements would be the most important to highlight. 
+COACH: Great! That's a great place to start. Let's talk about your leadership experience first. What have been some of your most meaningful leadership experiences? 
+STUDENT: Well, I was president of my high school's student council for two years. I also volunteered with a local organization that helps underprivileged children.
+COACH: That sounds like a great start! What did you learn from these experiences? How did they shape you? 
+STUDENT: Through my student council experience, I learned how to effectively lead a team and manage different personalities. With the volunteer organization, I learned how to effectively communicate with people from all different backgrounds. Both of these experiences helped me develop my communication and leadership skills. 
+COACH: Those sound like valuable lessons. Now, let's talk about your academic achievements. What kind of academic accomplishments are you most proud of? 
+STUDENT: I'm proud of my academic performance in college. I graduated with honors and was part of several honor societies. I also completed a summer research project that was published in a journal. 
+COACH: That's impressive! It sounds like you have a lot to offer. Now, let's talk about how you can organize this information into a cohesive narrative. What is the main idea or theme you want to convey in your personal statement?

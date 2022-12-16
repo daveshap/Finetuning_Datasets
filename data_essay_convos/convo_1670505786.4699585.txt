@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Don't worry, rejection is a part of the process. It's important to remember that the admissions committee is looking for the best fit for their school, and you may not be the right fit for them. What's more important is that you put your best effort into the essay, and that you take the time to craft a piece that speaks to who you are and why you would be a great addition to their campus. 
+STUDENT: How do I start my essay?
+COACH: A great place to start is to brainstorm ideas. Think about what makes you unique and why you want to attend this particular college. Once you have a few ideas, you can begin to organize them into an outline. This will help you structure your essay and ensure that it flows logically. 
+STUDENT: What should I include in my essay?
+COACH: When writing your essay, make sure to focus on how you are a good fit for the college. Talk about your goals and ambitions, and how attending this college can help you achieve them. Also, be sure to discuss any unique experiences or qualifications that you have that make you stand out from other applicants. Finally, be sure to proofread your essay multiple times to make sure that it is free of errors.

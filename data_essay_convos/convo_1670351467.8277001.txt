@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to UCLA and I have no idea what to write about.
+COACH: That's totally understandable. Can you tell me a bit more about yourself? What topics are you interested in and what do you think would be a good topic for your essay?
+STUDENT: Well, I'm really interested in neurodiversity and politics.
+COACH: That's great! Neurodiversity and politics are both very interesting topics and could make for compelling essays. Have you thought about how you could connect the two topics?
+STUDENT: Not really, no.
+COACH: That's okay. Let's start by thinking of some ideas for both topics. What are some things that you find interesting about neurodiversity?
+STUDENT: Well, I think it's really important to recognize and celebrate the unique strengths and abilities that people with different neurological conditions can bring to the world. 
+COACH: Great! That's a great starting point. Now let's think about how you could connect that to politics. How could you use this idea to talk about the importance of political representation for people with different neurological conditions?
+STUDENT: Hmm, I think it would be important to emphasize the need for more diverse representation in government and how it could benefit those with different neurological conditions.
+COACH: Perfect! That's a great way to tie those two topics together. Now that you have an idea of what you want to talk about, let's think about how to get started. Have you done any research on the topic yet?
+STUDENT: Not yet, no.
+COACH: That's okay. Research is an important part of writing an essay, but it's also important to have a strong foundation to start from. Do you have any ideas for how you could structure the essay?
+STUDENT: Not really, no.
+COACH: That's okay. Let's start by brainstorming some ideas. What do you think would be the most effective way to introduce the topic and present your argument?
+STUDENT: I think I could start by introducing the concept of neurodiversity and how it relates to politics, then move on to discussing the need for greater representation in government. 
+COACH: That sounds like a great plan! Now that you have a structure in mind, let's think about how you can support your argument with evidence. What kind of research or sources could you use to back up your points?

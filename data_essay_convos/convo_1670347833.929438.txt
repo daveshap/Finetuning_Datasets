@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to write an essay for college applications and I'm having a hard time figuring out what to write about.
+COACH: That's understandable. It can be difficult to narrow down what you want to focus on in your essay. Let's start by talking about what your passions are. What topics do you feel most passionate about? 
+STUDENT: Well, I'm really passionate about LGBT rights. I've been involved in a lot of volunteer work for LGBT organizations, and I want to make sure I'm doing my part to help the cause.
+COACH: That's great to hear! It sounds like you have a lot of passion for this topic. What do you think would be the best way to incorporate this into your essay?
+STUDENT: I'm not sure. I was thinking about writing about how my volunteer work has impacted me and how it has shaped my understanding of LGBT issues.
+COACH: That sounds like a great idea! You could talk about your experiences with the volunteer work and how it has helped you understand the importance of LGBT rights. You could also talk about what you've learned from the experience and how it has changed your perspective. 
+STUDENT: That sounds good. I think I can make it work. But what about the other parts of my essay? How do I go about applying to college, especially to places like Harvard?
+COACH: Applying to college can be a daunting process, but there are some steps you can take to make it easier. First, you should research the school and their requirements for admission. Then, you should create a list of schools that you're interested in and start preparing your application materials. Make sure you read all the instructions carefully and submit everything on time. Finally, you should practice for the admissions interviews and make sure you are prepared to answer any questions the admissions officers might have.

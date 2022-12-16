@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for college admissions. 
+COACH: Okay, what would you like to focus on in your essay?
+STUDENT: Well, I want to talk about my experience growing up in a single parent home and how it shaped my values and beliefs.
+COACH: That sounds like a great topic. Can you tell me more about your upbringing and how it has impacted you?
+STUDENT: Sure, I grew up in a Jewish household and my mom was a single parent. She worked hard to provide for me and my siblings and instilled in us the importance of education and having strong values. She also taught us about the importance of being open to different cultures and religions, so I have a deep appreciation for other faiths such as Islam and Christianity.
+COACH: That's wonderful. You have a very interesting background. How do you think this has helped you in terms of college admissions?
+STUDENT: I think it has given me a unique perspective and allowed me to develop a greater understanding of different cultures. Growing up, I was exposed to many different cultures through travel and learning about different religions. This has helped me to be more open-minded and accepting of others. It has also made me more aware of the importance of diversity and inclusion in our society. Additionally, I think it has helped me to be more creative in my approach to problem-solving, which is something that I think colleges look for in applicants. 
+COACH: That's great! It sounds like you have a lot of valuable experiences that you can draw on to make your essay stand out. Why do you think an admission essay matters?
+STUDENT: I think an admission essay is important because it allows the admissions committee to gain insight into who I am as a person and what I can bring to their school. It gives them a chance to get to know me beyond my grades and test scores and see what kind of person I am and how I think. It also gives me an opportunity to show off my writing skills and demonstrate my creativity.

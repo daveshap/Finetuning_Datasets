@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for a college application and I'm having trouble figuring out the structure.
+COACH: Absolutely, that's a common issue. What kind of essay are you writing?
+STUDENT: It's about my experience growing up in a poor family in Germany.
+COACH: Alright, so it sounds like you want to tell your story in a way that will help you stand out from other applicants. Can you tell me a bit more about your experience?
+STUDENT: Sure, I've been living in Germany since I was a young child and my family has always struggled financially. We've had to make sacrifices and work hard to make ends meet. Despite this, I've still managed to stay involved in my community through charity work and volunteer activities.
+COACH: That's great! It sounds like you have a lot of unique experiences to share. How do you think these experiences could be used to make your essay stand out?
+STUDENT: Well, I think it would be important to emphasize how my background has shaped who I am today and how it has motivated me to work hard and strive for success.
+COACH: That's a great point. What do you think admissions officers are looking for when they read an essay like this?
+STUDENT: I think they're looking for a story that shows resilience, ambition, and a commitment to helping others.
+COACH: That's a great answer. So, what kind of structure do you think would best highlight these qualities?
+STUDENT: I think I should start by introducing my background and then move on to discuss the challenges I faced growing up. After that, I could talk about how my experiences have shaped my values and goals. Finally, I could discuss how I plan to use my experiences to make a positive impact on my community.
+COACH: That's a great plan. I think that structure will really help you tell your story in a compelling way. Is there anything else I can help you with?
+STUDENT: No, I think I'm good for now. Thanks for your help!

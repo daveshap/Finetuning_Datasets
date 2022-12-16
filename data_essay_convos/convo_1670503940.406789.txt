@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That depends on the prompt you are responding to. What is the prompt you are writing about?
+STUDENT: The prompt is “Describe an experience that has changed your life and how it has affected you.”
+COACH: Okay, great. To answer this prompt, you need to think about an experience that was meaningful to you and explain how it has impacted your life. You'll want to focus on the details of the experience, the emotions you felt, and the lessons you learned. Try to be as specific as possible and avoid generalizations. Also, make sure your essay has a strong conclusion that ties everything together.

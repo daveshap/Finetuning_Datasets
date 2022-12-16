@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm applying to grad school and I need help with my essay.
+COACH: Okay, great! What kind of grad school are you applying to?
+STUDENT: I'm applying to MIT and Duke University.
+COACH: Wonderful! What's the focus of your essay?
+STUDENT: I'm writing about politics and how it affects our society.
+COACH: That's an interesting topic. How does it relate to your grad school application?
+STUDENT: I want to show the admissions committee how my knowledge and understanding of politics can help me contribute to the university.
+COACH: Got it. What kind of structure do you have in mind for the essay?
+STUDENT: I'm thinking of starting with a brief introduction about politics, then going into the specific ways it affects our society, and finally discussing how my knowledge and understanding of politics can help me contribute to the university.
+COACH: That sounds like a great structure. Let's start with the introduction. What would you like to include in the introduction?

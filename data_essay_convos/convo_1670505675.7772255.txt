@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Of course, let's start with the basics. What type of essay are you writing?
+STUDENT: I'm writing a term paper for college admissions.
+COACH: Great! First, you'll need to decide on a topic. It's important to pick something that you're passionate about and that you think will stand out to the admissions committee. What topics interest you?

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening should introduce the topic of your essay, provide some context for your story, and capture the reader’s attention. You can start your essay with a personal anecdote, a quote, or a thought-provoking question. Try to make it unique and memorable.
+STUDENT: What should I include in my essay?
+COACH: You should include your personal and academic background, your reasons for wanting to pursue a medical career, and any experiences that have shaped your decision. Additionally, you should explain why you are a good fit for the medical school you are applying to, and how you plan to contribute to the program.

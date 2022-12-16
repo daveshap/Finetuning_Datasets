@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing a college admission essay and I have no idea what to write about.
+COACH: That's okay! Let's start with some basic questions so I can get to know you better and help you brainstorm some ideas. What are your passions? What topics do you like to talk about?
+STUDENT: Well, I really love art and creativity. I also enjoy talking about my skills and achievements.
+COACH: Great! Let's focus on those topics then. What kind of art do you like to create?
+STUDENT: I like to do a lot of drawing and painting, but I also enjoy sculpting and photography.
+COACH: Wonderful! That's a great place to start. What do you like about creating art?
+STUDENT: I like how it allows me to express myself and explore new ideas. It's also a great way to relax and forget about the stress of everyday life.
+COACH: That's a great perspective. How has creating art impacted your life?
+STUDENT: It's made me more creative and open to new possibilities. It's also helped me become more confident in my abilities and pursue my goals.
+COACH: That's fantastic! How could you use this experience to craft a compelling personal statement for your college admission essay?
+STUDENT: I could talk about how creating art has helped me develop my creativity, confidence, and resilience. I could also talk about how it's helped me pursue my goals and stay focused on what I want to achieve.

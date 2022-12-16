@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to write an essay about my experience with LGBT advocacy and charity work.
+COACH: That sounds like a great topic! Can you tell me a bit more about your experience? What kind of social issues have you been involved in? 
+STUDENT: Well, I've been involved in several campaigns to raise awareness about LGBT rights. I've also taken part in charity events to support homeless shelters, soup kitchens, and other community-based organizations.
+COACH: That's fantastic! What do you think has been the most rewarding part of your experience?
+STUDENT: Knowing that I'm making a difference in people's lives. It's really satisfying to see the impact of my work and to know that I'm contributing to something bigger than myself.
+COACH: That's great! What else would you like to include in your essay?
+STUDENT: I'd like to talk about how my experiences have shaped my future goals and aspirations. I'm interested in pursuing a career in science, and I'm hoping to use my knowledge and skills to help make a difference in the world.
+COACH: That's a great goal! How do you think you can make that happen?
+STUDENT: I'm planning on applying for internships and research positions. I'm also looking into volunteer opportunities and networking with people in the field. I'm hoping that these experiences will help me gain the skills and knowledge I need to pursue a career in science.
+COACH: Those are all excellent strategies! Is there anything else you're worried about when it comes to finding a job after college?
+STUDENT: Yeah, I'm a bit worried about my resume. I don't have a lot of experience in the field and I'm not sure if my skills are up to par.
+COACH: Don't worry, you can always take classes or join professional organizations to help build up your skillset. You can also highlight your volunteer experience and any relevant projects you've worked on. That way, employers can see that you have the necessary skills and knowledge for the job.

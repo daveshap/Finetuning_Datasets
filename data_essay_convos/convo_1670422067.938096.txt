@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student at NCSU and I'm applying to law school. I want to write an engaging essay but I'm not sure where to start.
+COACH: That's great! Before we get into the specifics of your essay, can you tell me more about your goals for law school? What do you hope to achieve by attending? 
+STUDENT: I want to use my legal education to advocate for social issues that I'm passionate about. 
+COACH: Wonderful. With that in mind, what kind of essay do you think would be most effective in conveying your enthusiasm and commitment to social justice? 
+STUDENT: I think a personal narrative essay would be best. I want to share my experiences and how they have shaped my view of the world and my desire to pursue a legal education. 
+COACH: Okay, great. A personal narrative is a great way to show your passion and commitment. What experiences do you want to focus on in your essay? 
+STUDENT: I want to highlight my volunteer work in my community and how it has motivated me to pursue a legal career. 
+COACH: That sounds like a great topic. What makes you passionate about social justice and how has your volunteer work helped to shape your views? 
+STUDENT: I've seen firsthand the impact that inequality and injustice have on people's lives and I want to use my legal education to help make a difference. My volunteer work has allowed me to learn more about the issues and has given me a greater understanding of the need for change. 
+COACH: That's really powerful. So, let's get started on crafting your essay. What do you think would be the best way to structure your essay? 
+STUDENT: I think I should start with an introduction that explains why I'm passionate about social justice and then move into the body of the essay where I discuss my volunteer experience and how it has shaped my views. Finally, I'll end with a conclusion that outlines my goals for using my legal education to make a difference.

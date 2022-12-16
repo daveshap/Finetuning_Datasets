@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A great opening is the key to a successful essay. It needs to be engaging and draw the reader in. It should also give an overview of what the essay will be about. What kind of essay are you writing?
+STUDENT: I'm writing a monograph.
+COACH: Ah, a monograph. That's a great type of essay to write. A good opening for a monograph should introduce the topic, provide some background information, and set the tone for the rest of the essay. You may want to consider using a quote, statistic, or anecdote to grab the reader's attention. Once you have the opening set up, you can move on to the body of your essay.

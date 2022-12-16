@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That's a great question. Before we get into the specifics, can you tell me a bit more about why you're writing this essay? What are your goals in applying to law school?
+STUDENT: I want to pursue a career in law because I believe it will give me the opportunity to make a positive impact on society.
+COACH: That's wonderful! So, what do you think makes you a good candidate for law school?
+STUDENT: I have great communication and problem-solving skills, which I think will be beneficial for a career in law. I am also passionate about justice and fairness, so I think I could bring that to the table as well.
+COACH: Those are all wonderful qualities! Now, when you're writing your essay, you'll want to focus on how those qualities have been demonstrated in your life. Think of specific examples that show how you've used your communication and problem-solving skills, and how you've pursued justice and fairness. That's what will really make your essay stand out.

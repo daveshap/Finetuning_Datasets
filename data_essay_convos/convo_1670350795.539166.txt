@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm a recent college graduate, and I'm applying to grad school. I want to write a powerful essay about my experience as a refugee and how it's shaped my passion for science.
+COACH: That sounds like an incredible story to tell. Can you tell me more about your experience as a refugee?
+STUDENT: Sure. I was born in Syria and lived there until I was nine. The civil war forced us to flee the country and we eventually settled in the United States.
+COACH: What was that transition like for you?
+STUDENT: It was difficult. I had to learn a new language and adapt to a different culture. I also had to deal with the trauma of leaving my home and family behind.
+COACH: That must have been tough. How did you manage to stay positive in such a difficult situation?
+STUDENT: I think the thing that kept me going was my passion for science. I was always interested in biology and chemistry, and I found solace in learning about the natural world. I think that's what kept me going during a difficult time.
+COACH: That's amazing. Do you think your experience as a refugee has shaped your passion for science?
+STUDENT: Definitely. I think it's made me more aware of the fragility of life and how quickly things can change. I think it's also made me more determined to make a difference in the world and use science to help people.
+COACH: That's great. What do you think makes you stand out as a potential grad school student?
+STUDENT: I think my experience as a refugee, combined with my passion for science and my understanding of neurodiversity, makes me an ideal candidate for grad school. I'm passionate about using science to create a better world, and I'm eager to learn more and make a difference.

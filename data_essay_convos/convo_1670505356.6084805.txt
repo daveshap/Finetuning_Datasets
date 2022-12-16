@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are usually awarded based on your academic performance and financial need. You'll need to research the grants available and apply for them. 
+STUDENT: What should I include in my essay?
+COACH: A college admissions essay should be focused on you and your story. You should include elements of your background, such as your family, education, or experiences that have shaped who you are today. Additionally, you should include your goals and how the college you are applying to can help you achieve them. Lastly, you should explain why you are a good fit for the college and how you can contribute to the school’s community.

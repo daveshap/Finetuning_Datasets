@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers want to read an essay that reflects your personality and demonstrates why you are a good fit for the school. They want to see that you have a clear understanding of the school's values and mission, and that you can articulate why you would be a strong candidate for their program. Additionally, they want to see that you have a clear sense of your goals and how you plan to achieve them. 
+STUDENT: What should I focus on in my essay?
+COACH: You should focus on highlighting your unique qualities and experiences that make you stand out from other applicants. Showcase your strengths and explain why you are the best candidate for the scholarship. Demonstrate your passion for the subject you are applying for, and explain how the scholarship will help you reach your academic and professional goals. Also, don’t forget to proofread your essay for any grammar or spelling mistakes. 
+STUDENT: What structure should I use for my essay?
+COACH: A good structure for your essay is to start with an introduction that outlines the main points you plan to discuss in your essay. Then, you can move on to the body of the essay, which should include three to four paragraphs that provide evidence to support your main points. Lastly, you can end your essay with a conclusion that summarizes your main points and reinforces why you are the best candidate for the scholarship.

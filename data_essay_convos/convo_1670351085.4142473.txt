@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student from Thailand and I'm applying to Harvard. I come from a poor family and I'm really worried about finding a job after college.
+COACH: That's a great question. It's important to think ahead and plan for the future. Have you done any research on potential career paths?
+STUDENT: Not really, I'm not sure what kind of job I should be aiming for.
+COACH: That's understandable. There are a lot of options out there, so it can be overwhelming. Let's start by talking about your interests and skills. What do you like to do?
+STUDENT: I'm interested in international relations and I'm fluent in French.
+COACH: That's great! Those skills could be very useful in a variety of jobs. Have you thought about working in diplomacy or international law?
+STUDENT: I hadn't considered that, but it sounds interesting.
+COACH: That's a great idea! You could also look into jobs in international business, education, or journalism. With your language skills, you could even consider working in France.
+STUDENT: Wow, I hadn't thought of that either.
+COACH: It's always a good idea to explore all of your options. Are there any organizations or companies you're interested in working for?
+STUDENT: I'm not sure.
+COACH: That's okay. You can start by researching different industries and companies that interest you. You can also look for internships or volunteer opportunities that will give you experience and help you build your network. Finally, make sure to talk to people in your field to get their advice and insights. Good luck!

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay. Before you start writing, it's important to brainstorm some ideas. Think about a few experiences or moments in your life that have been meaningful to you. What stands out as something that has shaped who you are today?
+STUDENT: Well, I think one of the most meaningful experiences I had was when I went on a mission trip to Costa Rica.
+COACH: Great, that sounds like a great topic to write about. Now, let's start thinking about how you can shape this experience into an essay. What were some of the key takeaways from your trip?
+STUDENT: I learned a lot about different cultures, and I was able to see how people live differently than what I'm used to. It was also really eye-opening to see the poverty and lack of resources in certain areas.
+COACH: Those are all great points that you can include in your essay. You can focus on how this experience changed your perspective on the world and how it has shaped who you are today. Talk about how this experience has impacted your values and beliefs. Also, don't forget to include some details about the trip itself, such as where you went and what you did. That will help to bring your story to life.

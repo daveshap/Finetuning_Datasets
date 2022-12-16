@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Well, the first step is to research and understand the application process. That includes researching the schools you’re interested in, understanding the requirements for admission, and gathering the materials you need to complete your application. Once you’ve done that, you can start writing your essay.
+COACH: What type of essay are you writing?
+STUDENT: A scholarship application essay.
+COACH: Great! Scholarship essays have a few key elements that you should include in your essay. First, you need to explain why you are a good candidate for the scholarship. This means highlighting any awards or achievements you’ve earned, or any special skills or knowledge you possess. You should also explain how the scholarship would help you achieve your goals. Finally, you should demonstrate your commitment to the field you plan to pursue and explain how the scholarship would help you reach those goals. 
+COACH: What tips do you have for writing a successful scholarship essay?
+STUDENT: I'm not sure.
+COACH: Writing a successful scholarship essay takes time and effort. Start by brainstorming ideas and creating an outline. Use this outline to structure your essay and make sure it flows logically. Make sure to include relevant examples and evidence to support your points. Finally, proofread your essay and make sure there are no errors.

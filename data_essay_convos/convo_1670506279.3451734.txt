@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: Well, it sounds like you're looking for some guidance on how to approach this essay. Before we dive into the specifics of writing, let's start with a few questions. What do you think makes you a great candidate for the college you're applying to?
+STUDENT: I'm a hardworking student with a lot of ambition and drive. I'm also very passionate about my studies and want to do well in college.
+COACH: That's great! Those are all qualities that will make you stand out to admissions officers. Now, let's think about how you can use those qualities to craft your essay. What experiences have you had that demonstrate your hardworking nature and ambition?
+STUDENT: Well, I recently took part in a summer program at a prestigious university. During the program, I worked hard to complete assignments and projects, and I was able to work with a team of students from around the world.
+COACH: That's an impressive experience! You can use that experience to show admissions officers that you have the drive and ambition needed to succeed in college. How did you work with the team? What did you learn from the experience?
+STUDENT: Working with the team was a great experience. I learned how to collaborate with others, solve problems together, and come up with creative solutions. It was a great learning experience that taught me a lot about working with others.
+COACH: That's fantastic! Those are all skills that will be useful in college. You can use this experience to illustrate how you're a great candidate for the college you're applying to. Focus on how this experience has shaped you and why it makes you a great fit for the school. Good luck!

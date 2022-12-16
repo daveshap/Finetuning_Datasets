@@ -1,0 +1,20 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help writing an essay for my engineering program application.
+COACH: Great, let's start by getting to know you a bit. What inspired you to pursue engineering?
+STUDENT: I've always been interested in mathematics and science, and I love the idea of being able to use those skills to create something that can help people.
+COACH: That's wonderful! What are your long-term plans after engineering school?
+STUDENT: I would like to go to medical school and become a doctor.
+COACH: That's an admirable goal. What do you think will be the biggest challenge in achieving it?
+STUDENT: Financially, it will be challenging. I come from a single parent home and don't have a lot of money saved up.
+COACH: That's understandable. Have you looked into any scholarships or grants that could help you with tuition?
+STUDENT: Yes, I've done some research and applied for a few. I'm hoping to get some financial aid.
+COACH: That's great! Are there any other challenges you anticipate when it comes to achieving your dream of becoming a doctor?
+STUDENT: Well, I'm also neurodiverse, so I'm worried about how that might affect my performance in medical school.
+COACH: That's a valid concern. How do you think you can overcome this challenge?
+STUDENT: I'm planning on finding a mentor or coach who can help me develop strategies to manage my neurodiversity and maximize my potential.
+COACH: That sounds like a great plan. What else do you need help with in terms of your essay?
+STUDENT: I'm having trouble figuring out how to explain my long-term goals and how I plan to achieve them.
+COACH: That's understandable. Let's talk about your goals and how you plan to achieve them. What kind of job do you plan to get after college? 
+STUDENT: I'm hoping to find a job in the medical field that will allow me to gain experience and knowledge that I can use in medical school.
+COACH: That's a great plan. What steps have you taken to make sure you can find the right job?
+STUDENT: I've been doing research on different companies and organizations in the medical field and reaching out to contacts I have in the industry to learn more about potential opportunities.

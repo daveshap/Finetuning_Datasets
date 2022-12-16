@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I'm having trouble writing my admissions essay. I'm not sure how to make it stand out.
+COACH: That's a great question! Before we get into the details of how to make your essay stand out, let me ask you a few questions to get a better understanding of your goals. What are you passionate about?
+STUDENT: Well, I'm really interested in music and I've been playing the piano since I was a kid. I also love exploring different cultures and learning about different languages.
+COACH: That's great! It sounds like you have some really interesting passions. Now, why does college matter to you?
+STUDENT: College is important to me because it will give me the opportunity to further explore my passions and gain more knowledge. I'm also looking forward to meeting new people and having new experiences.
+COACH: That's wonderful! College is a great place to explore your passions and meet new people. Now, let's talk about how to make your admissions essay stand out. How much do you know about how college admissions work?
+STUDENT: Not much. I know that the admissions process is competitive, but I'm not sure what else I need to do to make my application stand out.
+COACH: That's understandable. The admissions process can be intimidating. First, you want to make sure that your essay is well written and showcases your unique skills and experiences. You should also think about how you can demonstrate your commitment to your passions and your potential to succeed in college. Finally, make sure to proofread your essay multiple times and get feedback from others to ensure that it is polished and error-free.

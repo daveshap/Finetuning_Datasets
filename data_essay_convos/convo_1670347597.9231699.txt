@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm hoping to get into NCSU and Yale. I'm from the Philippines and I'm writing my essay about overcoming obstacles and achieving my goals and personal objectives.
+COACH: That sounds like a great topic for your essay! Can you tell me a bit more about the obstacles you've faced and how you overcame them?
+STUDENT: Sure. Growing up in the Philippines, I faced a lot of rejection and discrimination from my peers because of my race. I had to work hard to prove myself and build relationships with people who accepted me for who I am.
+COACH: That must have been difficult, but it sounds like you persevered and succeeded. What did you do to overcome these obstacles?
+STUDENT: I focused on my studies and worked hard to prove that I was capable of achieving my goals. I also sought out mentors who could help me and provide guidance. I made sure to stay positive and stay focused on my goals.
+COACH: That's great! It sounds like you have a lot of determination and drive to succeed. What are your goals and personal objectives that you want to achieve?
+STUDENT: My main goal is to get accepted into a top university and pursue a degree in computer science. I want to use my knowledge and skills to help make a difference in the world. I also want to set a good example for other people from my home country and show them that anything is possible if you put in the effort.

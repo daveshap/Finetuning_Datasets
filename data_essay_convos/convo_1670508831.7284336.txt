@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Rejection is a natural part of the writing process. It doesn't mean that your essay isn't good. What can I help you with specifically?
+STUDENT: I'm having trouble getting started on my dissertation.
+COACH: That's a common issue. Let's start by breaking down the task into manageable pieces. What is the topic of your dissertation?

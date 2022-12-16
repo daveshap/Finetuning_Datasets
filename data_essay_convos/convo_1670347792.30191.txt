@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for help with my college essay and I'm trying to figure out how to get scholarships and grants.
+COACH: That's a great question! It's important to understand why college matters and what skills and achievements you can bring to the table. Can you tell me a bit more about your background? 
+STUDENT: Sure! I come from a poor family in Germany and I don't have much experience or money.
+COACH: I understand. It can be difficult to get financial aid without the right resources and support. However, there are still ways to make it happen. Have you looked into any government programs or grants specifically for students from Germany?
+STUDENT: No, I haven't. Is there anything like that available?
+COACH: Absolutely! There are many programs available that provide financial assistance to students from Germany. You should also look into private scholarships and grants, as well as corporate sponsorships. These can be very helpful in getting the financial aid you need.

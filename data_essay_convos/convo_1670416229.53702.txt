@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I need help writing my personal statement.
+COACH: Great! What specifically would you like help with?
+STUDENT: I'm not sure how to talk about my volunteer work and skills and achievements in a way that will make me stand out to the admissions committee.
+COACH: That's a great question. Let's start by talking about your volunteer work. What kind of volunteer work have you done and how did it shape your personal development?
+STUDENT: Well, I've been volunteering at a local animal shelter for the past two years. It's been a great experience because I've had the opportunity to work with animals and learn about responsible pet ownership. It's also helped me develop my leadership skills since I was in charge of organizing volunteer shifts and training new volunteers.
+COACH: That sounds like a great experience. How do you think it has prepared you for law school?
+STUDENT: I think it's helped me understand the importance of responsibility and accountability. Working with animals requires a lot of patience and understanding, and I think these skills will be very useful in law school. Additionally, the leadership experience I gained from managing volunteer shifts has taught me how to effectively communicate and collaborate with others, which are essential skills for any lawyer.

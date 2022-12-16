@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question! To determine when your essay is finished, you need to make sure that it has a clear thesis statement and that all of your supporting points are logically connected to that thesis. Does that help?
+STUDENT: Yes, it does. Could you explain what a thesis statement is?
+COACH: Absolutely! A thesis statement is the main idea of your essay. It’s a sentence or two that expresses the main point, argument, or idea of your paper. It should be concise and clear so that the reader knows exactly what you’re trying to say. The rest of your essay should support and elaborate on your thesis statement. Does that make sense? 
+STUDENT: Yes, that makes a lot of sense. How do I go about writing a strong thesis statement?
+COACH: A strong thesis statement should be specific and clearly state the main point of your essay. You should also make sure that it’s arguable, meaning readers can disagree with it. Additionally, it should be well-supported with evidence from reliable sources. Does that help? 
+STUDENT: Yes, that helps a lot. Thank you!

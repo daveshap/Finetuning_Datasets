@@ -1,0 +1,18 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I need help with my essay.
+COACH: Great! What kind of help do you need?
+STUDENT: I'm having trouble getting started. I'm not sure what to write about or how to structure it.
+COACH: That's a common problem. Let's start by talking about your background and experiences. Can you tell me a bit about yourself?
+STUDENT: Sure. I come from a poor family and I have a lot of experience with charity work. I'm also neurodiverse and have had to overcome a lot of challenges in my life.
+COACH: That sounds like a great starting point for your essay. What do you think you could focus on in terms of your background and experiences?
+STUDENT: I'm not sure. Maybe some of the challenges I've faced and how I overcame them?
+COACH: That's a great idea! What kind of challenges have you faced and how did you overcome them?
+STUDENT: Well, I've had to deal with a lot of discrimination because of my neurodiversity. But I've been able to find ways to work around it and still succeed.
+COACH: That's an inspiring story. How do you think you could use it to craft your essay?
+STUDENT: I guess I could use it as a hook to draw the reader in, then talk about how I was able to overcome these challenges and how it has shaped me.
+COACH: That's a great idea! You could start with a powerful anecdote, then move on to discuss the lessons you've learned, and how they have helped you become the person you are today. What do you think you could use for the conclusion?
+STUDENT: I think I could end by talking about how my experiences have made me more compassionate and understanding of people who face similar challenges.
+COACH: That's perfect! Now that you have a structure for your essay, let's talk about the middle section. What do you think you could include there?
+STUDENT: I could talk about the specific strategies I used to overcome my challenges, and how they have helped me develop my skills and abilities. I could also talk about how my charity work has helped me gain a better understanding of the world and the people in it.
+COACH: That sounds great! Now that you have a plan for your essay, let's go over the parts one more time. You'll start with a hook to draw the reader in, then move on to discussing the challenges you faced, the strategies you used to overcome them, and how your charity work has helped you gain a better understanding of the world. Finally, you'll end with a conclusion that talks about how your experiences have made you more compassionate and understanding. Does that sound like a plan?
+STUDENT: Yes, that sounds great. Thank you so much for your help!

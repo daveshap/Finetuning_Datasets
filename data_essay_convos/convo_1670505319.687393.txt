@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are typically awarded based on a student's academic performance, extracurricular activities, and financial need. You can apply for grants through your school or online. It's important to research the different types of grants available and make sure you meet the criteria for each one. Additionally, you should make sure you submit your application in a timely manner. 
+STUDENT: What should I include in my admissions essay?
+COACH: Your admissions essay should be an honest reflection of yourself and your experiences. It should also showcase your strengths and highlight why you would be a great fit for the college or university you're applying to. Make sure to include a personal story that showcases your character and any challenges you have faced in life. Additionally, it's important to demonstrate why you are passionate about the subject you are applying for and how it will help you achieve your goals. Lastly, make sure to proofread and edit your essay for any grammar or spelling errors.

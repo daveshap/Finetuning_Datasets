@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: The best way to begin your essay is to brainstorm ideas. Think about what you want to highlight in your essay, such as your strengths, experiences, and goals. Once you have a few ideas, you can start to develop an outline for your essay.
+STUDENT: What topics should I include in my essay?
+COACH: Your essay should focus on why you want to pursue a medical degree and how you will use it to help others. Talk about your personal experiences that have inspired you to pursue a career in medicine, such as volunteering at a hospital or shadowing a doctor. Additionally, mention any research or extracurricular activities that have been meaningful to you and how they have prepared you for a medical career.
+STUDENT: How should I structure my essay?
+COACH: Start with an introduction that outlines your main points and sets the tone for the rest of the essay. Then, move into the body of your essay where you can discuss each of your points in more detail. Finally, wrap up your essay with a conclusion that summarizes your main points and reiterates why you are the best candidate for medical school. Be sure to proofread your essay and make any necessary revisions before submitting it.

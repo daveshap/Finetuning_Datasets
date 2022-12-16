@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I have no idea what to write about in my personal statement.
+COACH: Alright, let's start by thinking about your experiences that have shaped you and what you want to highlight in your essay. What have been some of your most impactful experiences?
+STUDENT: Well, I recently went on a trip to Thailand and France and it was really eye-opening. I think it was a great experience that has changed my perspective on the world.
+COACH: That sounds like an amazing experience! What did you learn from it that you could share in your essay?
+STUDENT: I think it helped me understand the importance of cultural diversity and how different cultures can interact and thrive together.
+COACH: That's a great point to focus on. Can you tell me a bit more about what you experienced in Thailand and France? How did it shape your view of cultural diversity?
+STUDENT: In Thailand, I had the opportunity to visit a variety of different temples and learn about the culture and religion. I also had the chance to meet people from all over the world. In France, I was able to explore the history and art of the country. It was really amazing to see how different cultures can come together and create something beautiful.
+COACH: That sounds like a wonderful experience. How do you think this experience has shaped your view of cultural diversity?
+STUDENT: It taught me that different cultures can come together and create something amazing. I learned that we should celebrate our differences rather than fear them. It also showed me that we can learn a lot from each other and that understanding and respecting different cultures is essential for a peaceful and prosperous future.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for Duke University and I'm having trouble getting started.
+COACH: That's understandable. Before we dive into the essay, can you tell me a bit about yourself? What are your goals and personal objectives?
+STUDENT: My goal is to go to Duke University and study abroad in Europe. I want to be able to use my knowledge to help people and make a difference in the world.
+COACH: That's great! It sounds like you have a clear vision for your future. Now, what makes you an interesting person? What sets you apart from other applicants?
+STUDENT: I'm not sure. I don't think I'm that interesting as a person.
+COACH: That's okay. Everyone has something unique to offer. What are your passions? What do you love to do?
+STUDENT: I love to travel and explore new cultures. I also love learning new languages and reading about different countries and their histories.
+COACH: That sounds really exciting! Why do you think those activities are important to you?
+STUDENT: I think they're important because they help me understand different perspectives and gain a deeper understanding of the world. I think it's important to have an open mind and be willing to learn from others.

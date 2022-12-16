@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and Duke University for undergrad and med school and I'm having trouble figuring out what to write about in my personal statement.
+COACH: That's a great question. Before we dive into what you should write about, can you tell me a bit more about why you're interested in these two schools?
+STUDENT: Sure! UCLA is close to home and has a great reputation. I'm also interested in Duke because of their strong medical program and their focus on interdisciplinary research.
+COACH: Got it. It sounds like you're really passionate about both of these schools and their programs. I think the best way to approach your personal statement is to focus on what makes each school unique and how it aligns with your academic and career goals. For example, you could talk about how UCLA's proximity to home would make it easier for you to stay connected to your family, or how Duke's medical program could help you reach your goal of becoming a doctor.
+STUDENT: That makes sense. What other topics should I consider writing about?
+COACH: You could also talk about what inspired you to pursue a career in medicine in the first place, or discuss any unique experiences or challenges that have shaped your outlook on life. You could also mention any extracurricular activities or volunteer work you've done that have helped you develop your skills and interests. Whatever you choose to write about, make sure it reflects your passion and enthusiasm for the field.

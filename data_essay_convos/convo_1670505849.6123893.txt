@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That’s a great question. Let’s start with a few basics. An essay typically follows a basic structure, which includes an introduction, body paragraphs, and conclusion. The introduction should introduce the topic and provide some background information. The body paragraphs should each have a main point, evidence to support that point, and a transition to the next paragraph. The conclusion should summarize the main points and explain why they are important. Does that make sense?
+STUDENT: Yes, that makes sense.
+COACH: Great! Now let’s talk about how to craft a compelling admissions essay. First, you want to make sure you have a clear goal for your essay. What do you want the admissions committee to know about you?
+STUDENT: I want to show that I am a hard worker and have the skills and motivation to succeed in college.
+COACH: Perfect. Now you need to think about how to demonstrate that in your essay. You can start by brainstorming examples of times when you’ve shown hard work and dedication. Think about any projects or activities that you’ve done that demonstrate your skills and motivation.
+STUDENT: I’ve been involved in my school’s robotics team for the past three years, and I’ve been the team captain for the past two.
+COACH: That’s great! You can use that experience to illustrate your hard work and dedication. Describe the challenges you faced and how your leadership helped the team succeed. This will help the admissions committee understand your commitment and dedication.
+STUDENT: Okay, I see.
+COACH: Good! Once you have your examples, you can start writing your essay. Make sure to include an engaging introduction, strong body paragraphs, and a powerful conclusion. Don’t forget to proofread your essay for any errors or typos.
+STUDENT: Got it. Thanks for the advice!

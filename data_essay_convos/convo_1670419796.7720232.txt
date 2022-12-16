@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to medical school and I'm having trouble figuring out how to write my essay.
+COACH: Sure, I can help you with that. What is the main focus of your essay?
+STUDENT: Well, I'm interested in exploring my identity as an LGBT Filipino Muslim in relation to my aspirations of becoming a doctor.
+COACH: That's great! It sounds like you have a lot of interesting perspectives to bring to your essay. Can you tell me more about your experience as an LGBT Filipino Muslim?
+STUDENT: Sure. Growing up, I felt like I didn't fit into either my Muslim or Filipino communities because of my sexual orientation. I was constantly questioning my place in both worlds, but at the same time feeling like I belonged in neither.
+COACH: That must have been difficult. How did you cope with feeling like an outsider?
+STUDENT: It wasn't easy, but I found solace in my studies and my dream of becoming a doctor. I started to see my experiences as a strength, not a weakness, and I wanted to use my story to help others who were going through similar struggles.
+COACH: That's amazing. So how do you plan to incorporate this into your essay?
+STUDENT: I want to focus on how my experiences as an LGBT Filipino Muslim have shaped my ambition to become a doctor and how it has made me a more compassionate and understanding person. I also want to discuss how I plan to use my platform as a doctor to advocate for the rights of the LGBT community.
+COACH: That sounds like a great starting point for your essay. Do you have any other questions I can help you with?
+STUDENT: Yes, actually. I'm also wondering how I can get scholarships and grants to help fund my medical school education.
+COACH: Definitely. There are a number of resources available to help you find scholarships and grants. You can start by researching local and national organizations that offer scholarships specifically for LGBT students. Additionally, there are many private foundations and government programs that provide financial assistance for medical school. You can also look into loan forgiveness programs and student loan repayment assistance programs.

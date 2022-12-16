@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble getting started on my admissions essay.
+COACH: That's understandable. Writing an admissions essay can be very intimidating and overwhelming. Can you tell me a little bit more about why you're having difficulty getting started?
+STUDENT: Well, I'm from the Philippines and I'm afraid that my background won't be enough to get me accepted into the college of my choice.
+COACH: That's a valid concern. But it's important to remember that college admissions officers are looking for students who have unique experiences and backgrounds. Your background can be an asset when it comes to writing your admissions essay. Can you tell me more about what makes your experience and background unique?
+STUDENT: I think my biggest challenge is overcoming the fear of rejection. I'm worried that if I don't write a good essay, I won't get accepted.
+COACH: It's natural to feel nervous and anxious about the admissions process. But it's important to remember that the admissions essay is an opportunity for you to show the admissions committee who you are and what makes you unique. It's also an opportunity for you to demonstrate your ability to write clearly and effectively. So, why do you think an admissions essay matters in the college admissions process?
+STUDENT: I think an admissions essay is important because it gives the admissions committee an insight into who I am as a person and what I can bring to the college community. It also helps them get to know me better and understand my potential as a student.
+COACH: That's a great answer! An admissions essay can be a powerful tool to showcase your personality and your strengths. With that in mind, let's start brainstorming some ideas for your essay. What experiences or stories can you tell that would make your essay stand out?

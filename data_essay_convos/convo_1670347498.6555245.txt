@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about racism and politics in Germany.
+COACH: Great topic! Can you tell me a little bit more about what you'd like to focus on?
+STUDENT: Sure. I'm interested in exploring how racism and politics have impacted the lives of people in Germany and how it has changed over time.
+COACH: That's an interesting angle. What kind of research have you done so far?
+STUDENT: Well, I've done some reading online and I've also been talking to people who have traveled to Germany or lived there to get their perspectives.
+COACH: That's great! It sounds like you've got a good foundation for your essay. Can you tell me a bit more about what kind of structure you're thinking of using?
+STUDENT: I was thinking of starting with an introduction that outlines the main points I'll be discussing and then going into more detail in the body of the essay. I'm not sure how to end it though.
+COACH: That's a good start. For the conclusion, you could summarize the main points you made and provide some insight into the implications of your findings. You could also offer some suggestions for further research or action. Is there anything else you need help with?

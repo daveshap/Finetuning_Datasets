@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question. Before we dive into writing, let me ask you a few questions to get a better understanding of what you're looking to accomplish with your essay. What is the purpose of this essay? Are you trying to apply for a college or university, or are you writing it for another purpose?
+STUDENT: I am applying to college
+COACH: Great! What is the overall goal of this essay? Are you trying to showcase a specific skill or experience, or are you looking to make a personal statement about who you are and how you would fit in at the college?
+STUDENT: I want to make a personal statement about who I am and how I would fit in at the college.
+COACH: Perfect. That's a great starting point. Now, let's talk about the structure of your essay. How long do you think it should be?
+STUDENT: I think it should be around 500 words.
+COACH: That's a good length. Now, let's talk about the content. What experiences or stories do you think would be important to include in your essay? What qualities do you think you could highlight that would make you a good fit for the college?

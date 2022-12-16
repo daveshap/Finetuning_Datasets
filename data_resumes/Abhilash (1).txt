@@ -1,0 +1,275 @@
+Abhilash Reddy
+
+Python Developer
+
+abhilashr1408@gmail.com |
+
+Summary:
+
+-   Over 5 years of experience as a Python Developer with a deep
+    understanding of technology trends with expertise in the core of
+    complex technologies.
+
+-   Experienced with Django, a high-level Python Web framework.
+
+-   Proficient in Front end development experience using HTML, XML, CSS,
+    and jQuery, JSON, JavaScript, CSS and Bootstrap.
+
+-   Experience in developing web-based applications using Python, Django
+    Angular.js, VB, XML, CSS, HTML, DHTML, JavaScript and jQuery.
+
+-   Experienced with full Software Development Life Cycle (SDLC),
+    architecting scalable platforms, object-oriented programming,
+    database design and agile methodologies.
+
+-   Experience in project deployment using Jenkins and using web
+    services like Amazon Web Services (AWS) EC2 and AWS S3.
+
+-   Experience configuring and developing with different Database
+    servers including MySQL, MSSQL, Oracle and Mongo DB.
+
+-   Experience in working on Application Servers like WebSphere,
+    WebLogic, Tomcat, Web Servers like Apache Server, NGINX and
+    Integrated Development Environments like PyCharm, Eclipse,
+    MyEclipse, JDeveloper and RAD.
+
+-   Strong Knowledge of web application security and access control.
+
+-   Experience with Web Development, Web Services, Python and the Django
+    framework.
+
+-   Excellent written and oral communication skills with
+    results-oriented attitude.
+
+-   Highly motivated, dedicated, quick learner and have proven ability
+    to build and manage a team and work individually.
+
+-   Experienced in working with various Python Integrated Development
+    Environments like PyCharm, PyScripter, Spyder and Sublime Text.
+
+-   Excellent debugging, problem solving, optimization and testing
+    skills.
+
+Technical Skills:
+
+  -----------------------------------------------------------------------
+  Programming Languages  Python, Java, Shell Scripting, Django
+  ---------------------- ------------------------------------------------
+  Web Technologies       HTML, CSS, XML, DOM, AJAX, jQuery, JSON and CSS
+                         Bootstrap.
+
+  Python Libraries       Python, Django, Flask, Beautiful Soup, HTML/CSS,
+                         Bootstrap, jQuery, NumPy
+
+  Webserver              Apache HTTP webserver, WebLogic, WebSphere,
+                         JBoss and Apache Tomcat
+
+  IDE                    Eclipse, Webstorm, Sublime Text, Brackets,
+                         PyCharm, Pystudio, Pyscripter.
+
+  Cloud Computing        AWS EC2, S3, RDS (MY SQL), SQS
+
+  J2EE                   JDBC, JNDI, JSP and servlets
+
+  Databases              MySQL, SQLite, Cassandra, Redis and mongo DB
+
+  Operating Systems      Windows, Red Hat Linux, Mac OS
+  -----------------------------------------------------------------------
+
+Education:
+
+-   Masters in Computer Science from Silicon Valley University.
+
+Professional Experience:
+
+Redwood Credit Union, Santa Rosa, CA
+
+Python Developer | April 2022 – Present
+
+-   Developed and tested many features for dashboard using Python,
+    Bootstrap, CSS, and JavaScript.
+
+-   Worked in development of applications especially in UNIX environment
+    and familiar with all of its commands.
+
+-   Utilized Python libraries such as NumPy, pandas and matplotlib to
+    read data from csv files aggregate and update data.
+
+-   Implemented REST API's in Python using micro-framework like Flask
+    with SQL Alchemy in the backend for management of data center
+    resources on which OpenStack deployed.
+
+-   Analyzed and Designed application and created UI using JavaScript
+    and HTML. Implemented business logic using Python/Django.
+
+-   Created most important Business Rules, which are useful for the
+    scope of project, and needs of customers.
+
+-   Fetched twitter feeds for certain important keyword using
+    python-twitter library.
+
+-   Used Python and Django for creating graphics, XML processing, data
+    exchange and business logic implementation.
+
+-   Designed the architecture of the hardware environments and
+    methodology of the code
+
+-   Worked on Jenkins continuous integration tool for deployment of
+    project.
+
+-   Wrote and executed various MYSQL database queries from Python using
+    Python-MySQL connector and MySQL dB package.
+
+-   Design and maintain databases using Python and
+    developed Python-based API (RESTful Web Service) using Flask and
+    Postgre SQL.
+
+-   Created backend database T-SQL stored procedures and Jasper Reports.
+
+-   Used Python IDE PyCharm for developing the code and performing unit
+    test.
+
+-   Develop entire frontend and backend modules using Python on Django
+    Web Framework.
+
+-   Used Pandas library for statistics Analysis and added support for
+    open stock.
+
+Environment: Python, Django, Flask, HTML, NumPy, PyCharm, SVN, UNIX,
+T-SQL, JavaScript, Eclipse, Linux, Shell Scripting, RESTful, Amazon
+BotoPil, AWS S3, PostgreSQL, Windows
+
+OpenXcell, Las Vegas, NV
+
+Python Developer | December 2020 – March 2022
+
+-   Used REST based Microservices with REST template based on RESTful
+    APIs and designed, developed the UI for the client websites by using
+    HTML, CSS, and jQuery.
+
+-   Representation of the system in hierarchy form by defining the
+    components, subcomponents using Python and developing a set of
+    library functions over the system based on the user needs.
+
+-   Development of XMLs for several components which maintains data for
+    several registers
+
+-   Development of data structures, XML parsing using Python.
+
+-   Wrote and executed various MYSQL database queries from python using
+    Python-MySQL connector and MySQL dB package.
+
+-   Worked on Jenkins continuous integration tool for deployment of
+    projects.
+
+-   Creating Python based micro services and refactoring/enhancing
+    existing services.
+
+-   Rewrite existing Java application in Python module to deliver a
+    certain format of data.
+
+-   Performed troubleshooting, fixed and deployed many Python bug fixes
+    of the two main applications that were a main source of data for
+    both customers and internal customer service team.
+
+-   For the manipulation of data from the database, various queries
+    using SQL were written and created a database using MySQL.
+
+-   Worked on developing internal testing tools, which were written in
+    Python. Worked on Libraries like Pandas for data manipulation and
+    analysis.
+
+-   Used Django framework for application development. Excellent
+    knowledge with distributed storages (HDFS) and distributed
+    processing.
+
+Environment: Python, Django Web Framework, Linux, HTML, XML, JavaScript,
+jQuery, MySQL, Jenkins
+
+Chetu, Inc., Sunrise, FL
+
+Python Developer | January 2019 - November 2020
+
+-   Responsible for gathering requirements, system analysis, design,
+    development, testing and deployment.
+
+-   Involved in developing web applications and implementing Model View
+    Control (MVC) architecture using server-side applications
+    like Django.
+
+-   Developed multi-threaded standalone app in Python to view
+    performance.
+
+-   Developed and evaluated technology alternatives for resolving
+    customer business problems.
+
+-   Used Amazon Web Services (AWS) for improved efficiency of storage
+    and fast access.
+
+-   Developed entire frontend and backend modules using Python on Django
+    Web Framework.
+
+-   Used Python libraries and SQL queries/subqueries to create several
+    datasets, which produced statistics, tables, charts and graphs.
+
+-   Drafted detailed design objectives and developed architectural and
+    system design documents.
+
+-   Developed user interface of the web application using HTML, CSS.
+    Wrote custom user defined functions in JavaScript to validate
+    application functionalities/features.
+
+-   Involved in building database Model, APIs, and Views
+    utilizing Python technologies to build web-based applications.
+
+-   Developed user interface solutions using a Django web framework.
+    Used Python scripts to update content in the database and manipulate
+    files.
+
+-   Designed UNIX Scripts to automate the verification of the
+    information inserted in the database.
+
+Environment: Python, Django, Pandas, HTML, CSS, JavaScript, AWS, jQuery,
+AJAX, SQL, UNIX and Windows
+
+Appinventiv Technology Pvt. Ltd., New York, NY
+
+Software Developer (Python) | September 2016 - December 2018
+
+-   Generated Python Django Forms to record data of online users. Used
+    Python and Django creating graphics, XML processing, data exchange
+    and business logic implementation.
+
+-   Organized Python code including documentation of scripts.
+
+-   Used Django configuration to manage URLs and application parameters.
+
+-   Wrote Automation test cases using Selenium WebDriver using Python
+    API.
+
+-   Used the Django Framework to develop the application.
+
+-   Implemented web applications in Flask and spring frameworks.
+
+-   Used the latest Video Conference Applications and worked extensively
+    on them. Data mapping, logical data modelling, created class
+    diagrams and ER diagrams and used SQL queries to filter data within
+    the Oracle database.
+
+-   Updated and manipulated content and files by using Python scripts.
+
+-   Used Python and Django to interface with the jQuery UI and manage
+    the storage and deletion of content.
+
+-   Performed Unit testing, Integration Testing, GUI and web application
+    testing using Spec.
+
+-   Worked on Amazon Web Services (AWS) infrastructure with automation
+    and configuration management. 
+
+-   Responsible for search engine optimization to improve the visibility
+    of the website. Developed Merge jobs in Python to extract and load
+    data into MySQL database.
+
+Environment: Python, Django, AWS, Flask, API, SQL, Selenium WebDriver,
+Oracle, XML, SQL

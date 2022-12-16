@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to UNC and NCSU and I need help writing my admissions essays.
+COACH: Alright, can you tell me a bit more about yourself? What kind of topics are you interested in exploring in your essays?
+STUDENT: Well, I'm really interested in exploring neurodiversity. I'm currently living in France, so I want to talk about my experience of living abroad and how it has impacted my understanding of the world.
+COACH: That sounds like a great topic for your essay. Can you tell me a bit more about why you're passionate about neurodiversity and how living abroad has shaped your worldview?
+STUDENT: Sure! Growing up in France, I was exposed to a lot of different cultures and perspectives that have broadened my understanding of neurodiversity. It's made me realize that everyone has their own unique way of looking at the world, and that we can learn a lot from each other if we embrace our differences. Living abroad has also given me a greater appreciation for cultural diversity and helped me understand the importance of being open-minded.
+COACH: That's really insightful. It sounds like you have a lot of interesting experiences to draw upon when writing your essay. Do you have any specific ideas on how you want to approach this topic?
+STUDENT: I think I want to focus on how my experience of living abroad has changed my perspective on neurodiversity. I want to talk about how I've become more aware of different cultures and how that has influenced my understanding of the world.
+COACH: That's a great idea. How do you think you can best convey this message in your essay?
+STUDENT: I think I can use stories and examples from my time living in France to illustrate how my experience has shaped my understanding of neurodiversity. I also want to emphasize the importance of being open-minded and embracing different perspectives.

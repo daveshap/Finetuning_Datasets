@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to law school and I need help with my college admission essay.
+COACH: Great, let's get started. Can you tell me a bit about yourself? What topics do you like to discuss?
+STUDENT: Sure. I'm really passionate about politics and I'm also interested in Buddhism.
+COACH: Interesting. What do you like about politics?
+STUDENT: I think it's important to stay informed and engaged with the current political climate. I also like to debate and analyze different policies and their implications.
+COACH: That's great. So, what do you think you could write about in your college admission essay?
+STUDENT: Well, I was thinking of writing about how my interest in politics has shaped my perspective on life and how it has influenced my decision to pursue a career in law. 
+COACH: That sounds like a great topic. What elements do you think you should include in your essay?
+STUDENT: I think I should include some personal anecdotes that illustrate how my interest in politics has impacted me. I should also talk about how my understanding of Buddhism has helped me develop a more nuanced view of the world and how this has given me a unique perspective when it comes to solving legal issues.
+COACH: That's a great idea. You could also talk about how your experience with politics and Buddhism has helped you become a better problem-solver and leader. Have you thought about any specific examples or stories you could use to illustrate these points?
+STUDENT: Yes, I have some ideas. For example, I could talk about how my involvement in student government has given me the opportunity to work on several projects that have helped our school become more politically engaged. I could also talk about how my understanding of Buddhist teachings has helped me become more open-minded and understanding of different perspectives.
+COACH: That's great! It sounds like you have a good foundation for your essay. Is there anything else you would like to discuss before we wrap up?
+STUDENT: No, I think I have a good idea of where to start. Thank you for your help!

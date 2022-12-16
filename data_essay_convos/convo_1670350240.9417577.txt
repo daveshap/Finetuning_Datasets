@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for my college admission application, and I'm not sure where to start.
+COACH: That's a great question! It can be intimidating to write an essay for college admissions, so it's best to start by understanding what makes an essay engaging. Do you have any ideas on what that could be?
+STUDENT: Not really. I'm not sure what I should focus on or how to structure it.
+COACH: That's understandable. Let's start by talking about what you want to include in your essay. What do you think would make it stand out?
+STUDENT: Well, I'm applying to MIT and I want to show them why I'm a good fit for the school.
+COACH: Perfect! You can start by talking about what drew you to the school and why you think you'd be a great addition to the student body. You can also include any unique experiences or skills that you possess that would make you a valuable asset to the university. 
+From there, you can think about how to structure your essay. Most college essays are broken down into three parts: an introduction, body paragraphs, and a conclusion. In the introduction, you can introduce yourself and explain why you're applying to the school. The body paragraphs can be dedicated to discussing your experiences, skills, and achievements that make you a great fit for the school. Finally, in the conclusion, you can talk about why you think you'd be a great addition to the school and how you plan to use your education to make an impact. 
+Once you have the structure down, you can start writing! Make sure to proofread your essay and have someone else review it as well. Good luck!

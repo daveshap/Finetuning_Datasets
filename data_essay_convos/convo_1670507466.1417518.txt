@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: That's a great question. Before we get into the specifics of writing an opening, can you tell me a bit more about your essay? What kind of research paper are you writing? What is the topic? What type of audience are you trying to reach?
+STUDENT: I'm writing a research paper about the environmental impacts of single-use plastic. My audience is mainly people in my community who may not be aware of the issue.
+COACH: That's great. Now that we know more about your essay, let's talk about how to craft a good opening. The opening of your essay is like the first impression you make when you meet someone. You want to make sure it's engaging and sets the tone for the rest of your essay. Start by introducing the topic and why it's important. Then, provide a brief overview of the main points you plan to cover in the essay. Finally, end with a thought-provoking statement that will draw your reader in.

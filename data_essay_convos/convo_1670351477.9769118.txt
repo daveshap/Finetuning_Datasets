@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi. I'm writing my college admission essay and I'm not sure what to write about.
+COACH: That's a great question! An admission essay is important because it helps admissions officers get to know who you are as a person, rather than just looking at your test scores and grades. What kind of topics do you think would be a good fit for your essay?
+STUDENT: Well, I'm really passionate about travel and exploring new cultures. I think that would make a great topic.
+COACH: That's an excellent idea! You can use your essay to talk about the ways in which traveling has impacted your life and how it has shaped who you are today. You could also discuss how travel has helped you become more open-minded and tolerant of different cultures and perspectives. 
+STUDENT: That sounds great! But what about my personal statement? What should I write about in that?
+COACH: Your personal statement is a great opportunity to share more about yourself and your experiences. You can use it to explain why you're interested in the college or university you're applying to, why you're a good fit for their program, and how you plan to use the knowledge and skills you gain from the program to pursue your goals. You can also use it to explain any challenges you've faced and how you've overcome them.

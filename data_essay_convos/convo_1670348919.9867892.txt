@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to get started on an essay about social issues.
+COACH: What kind of social issues are you interested in writing about?
+STUDENT: Well, I'm particularly interested in writing about single parent homes and refugee experiences.
+COACH: That's a great topic! What have you done so far to start your essay?
+STUDENT: I've done some research on the topics but I'm having trouble putting my ideas together into a coherent essay.
+COACH: Okay, let's start by brainstorming some ideas. What are the main points you want to make about single parent homes and refugee experiences?
+STUDENT: For single parent homes, I want to talk about the challenges faced by single parents and how they can be supported. For refugee experiences, I want to discuss the difficulties of resettlement and the importance of support networks.
+COACH: Great, those are excellent topics. Now, let's think about how you can structure your essay. What do you think would be the best way to organize your thoughts?
+STUDENT: I think I could start with an introduction that explains the topics and why they're important, then move on to discussing the challenges faced by single parents, followed by the difficulties of resettlement for refugees, and finally discuss the importance of support networks for both.
+COACH: That sounds like an effective structure. What else do you need help with?
+STUDENT: I'm also wondering how to get scholarships and grants for college.
+COACH: That's a great question! There are many resources available for students looking for financial aid. I'd recommend starting by researching scholarships and grants specific to your field of study. You can also look into government grants, private organizations, and other sources of funding. Additionally, many colleges have financial aid offices that can provide more information and assistance.

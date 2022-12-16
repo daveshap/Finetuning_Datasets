@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the type of essay you are writing, the topic, and the assignment guidelines. What type of essay are you writing?
+STUDENT: A thesis essay.
+COACH: Great! The length of a thesis essay can vary depending on the topic and the assignment, but typically it should be at least three to five pages long. Now, let's talk about the structure of your essay. A thesis essay should include an introduction, a body section with several paragraphs, and a conclusion. In the introduction, you should present your thesis statement, which is the main point of your essay. Then, in the body section, you should provide evidence and arguments to support your thesis statement. Finally, in the conclusion, you should summarize your main points and restate your thesis statement. Does that make sense?

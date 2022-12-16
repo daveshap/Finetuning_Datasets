@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Okay, let's start with a few questions. What type of essay are you writing?
+STUDENT: A scholarship application essay
+COACH: Alright, so what kind of scholarship are you applying for?
+STUDENT: A college scholarship.
+COACH: Great, now what do you think the essay should focus on?
+STUDENT: I'm not sure...
+COACH: That's okay. Think about why you're applying for this scholarship. What makes you a great candidate? What have you achieved or done that makes you stand out from other applicants?

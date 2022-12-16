@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started. I'm not sure what to write about, and I don't think I'm interesting enough to make a good essay.
+COACH: That's ok! It's completely normal to feel overwhelmed when it comes to writing an essay. Let's start by talking about your skills and achievements. What have you done that you are proud of?
+STUDENT: Well, I've been studying engineering for the past four years and I'm currently in my final year. I've done some research projects and I'm part of a student organization.
+COACH: That's great! It sounds like you have a lot of experience and knowledge in the field of engineering. Do you have any specific topics or ideas you'd like to explore in your essay?
+STUDENT: Not really, I'm just not sure how to get started.
+COACH: That's ok. Let's start by breaking down the parts of an essay. A good essay usually has an introduction, a body, and a conclusion. The introduction is usually a hook, something that grabs the reader's attention. The body is where you develop your ideas and arguments, and the conclusion wraps up the essay. Do you have any ideas for a hook or an argument you'd like to make?
+STUDENT: Hmm, maybe I could talk about how engineering can help solve some of the world's most pressing problems?
+COACH: That's a great idea! You could use your experience and knowledge to explain how engineering can be applied to solve these problems. You could also discuss the challenges and opportunities that come with using engineering to solve these problems. Once you have your hook and argument, you can start writing the body of your essay.

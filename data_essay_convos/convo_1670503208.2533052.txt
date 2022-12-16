@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, that's a great topic to explore in your essay. First, let's start by discussing the purpose of your essay. What do you hope to accomplish with this essay?
+STUDENT: I want to show admissions officers that I am a unique and capable student who is ready for the challenges of college.
+COACH: That's great! Now, let's talk about how you'll go about writing the essay. What kind of research will you need to do to make your essay stand out?
+STUDENT: I was thinking of researching the experiences of other first-generation college students, as well as looking into statistics about college success rates for first-generation students.
+COACH: Perfect. Researching the experiences of other first-generation college students can be a great way to demonstrate your understanding of the challenges they faced and how they overcame them. It can also be a great way to illustrate how you plan to use the same strategies to succeed in college. Additionally, looking into statistics about college success rates for first-generation students can help demonstrate the importance of your essay topic. 
+STUDENT: What other techniques can I use to make my essay stand out?
+COACH: You can also use personal anecdotes to illustrate your points and make your essay more engaging. Additionally, you can use vivid language and detail to create imagery that will draw in the reader and make your essay more memorable. Finally, make sure to use an organized structure to keep your essay focused and on track.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: Applying for scholarships is a great way to help fund your college education. The first step is researching which scholarships you may be eligible for. You can find this information on the websites of the colleges and universities you are interested in attending, as well as scholarship search engines, such as Fastweb. Once you have identified potential scholarships, you will need to fill out an application and submit any required documents.
+STUDENT: What should I include in my essay?
+COACH: Your essay should be focused on telling your story. You want to make sure that your essay is clear and concise. Make sure to include your academic goals, any special talents or interests that set you apart from other applicants, and any experiences that have shaped who you are today. Try to keep it to 500-700 words and make sure to proofread it for any errors or typos. 
+STUDENT: What is the best way to start my essay?
+COACH: The best way to start your essay is to draw the reader in with an interesting introduction. You can do this by providing a unique anecdote or starting with a thought-provoking quote. Make sure to explain why you chose the quote or anecdote and how it relates to the rest of your essay. This will help you to capture the reader’s attention and give them an idea of what your essay will be about. 
+STUDENT: What should I avoid when writing my essay?
+COACH: The most important thing to avoid when writing your essay is clichés. Clichés are overused phrases that have been said so many times that they no longer have any impact. Instead, try to be creative and come up with something that is unique to you. Also, avoid using overly flowery language or long, complicated sentences. Keep it simple and to the point.

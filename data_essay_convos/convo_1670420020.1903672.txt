@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I need help with my essay.
+COACH: Sure, what specifically would you like help with?
+STUDENT: Well, I'm having trouble figuring out how to make my essay stand out. I'm a Muslim, and I'm applying to law school in Germany, but I feel like I'm not interesting enough as a person to write an essay that will be memorable.
+COACH: That's a great question. First off, it's important to remember that the essay is an opportunity to showcase your unique personality and perspective. You don't have to be a particularly interesting person to write an essay that stands out. Instead, focus on what makes you unique and how your experiences have shaped you into the person you are today. What aspects of your life or identity do you think would be most interesting and relevant to share in your essay?
+STUDENT: Hmm, I guess I could talk about my experience as a Muslim in Germany. I've had to navigate a lot of cultural differences and challenges, and I think it's given me a unique perspective on life.
+COACH: That sounds like a great topic to explore in your essay! Think about specific examples that illustrate how your experiences have shaped your views and outlook. How has being a Muslim in Germany impacted your understanding of the world? What have been some of the most meaningful lessons you've learned from this experience? These are the kinds of questions you should explore in your essay.

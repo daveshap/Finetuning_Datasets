@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question! Scholarships and grants are a great way to help fund your college education. To get them, you'll need to research what's available, and then apply for the ones that you're eligible for. You may also need to write an essay or complete an application to be considered for certain scholarships and grants. It's important to make sure you meet all of the requirements for each one you apply for. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on why you are a good fit for the college or university you are applying to. It should emphasize your strengths, interests, and goals. Be sure to include any relevant experiences or accomplishments that demonstrate your qualifications. Make sure your essay is well-written and free of errors. Finally, make sure you answer the prompt or question that the college has provided.

@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are a form of financial aid that doesn't require repayment. Generally, grants are awarded based on financial need, academic merit, or a combination of the two. To be eligible for a grant, you usually need to fill out a FAFSA form and submit it to the school you are applying to. Depending on the grant, there may also be additional requirements such as writing an essay, providing letters of recommendation, or submitting a portfolio.

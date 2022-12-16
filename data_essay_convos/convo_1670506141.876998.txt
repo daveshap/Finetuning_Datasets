@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: That's a great question! College admissions is a complex process that can vary from school to school. Generally, it involves submitting an application, writing an essay, and providing letters of recommendation.
+STUDENT: What advice can you give me for writing an admissions essay?
+COACH: The most important thing is to make sure that your essay is tailored to the prompt. You want to make sure that you answer the prompt in a clear and concise way, while also making sure that your essay stands out from the crowd. Additionally, make sure that you proofread your essay and have someone else review it as well. Finally, be sure to follow the instructions for formatting and keep your essay within the word limit.

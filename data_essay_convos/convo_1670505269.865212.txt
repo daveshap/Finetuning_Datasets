@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are financial aid that you don't have to pay back. They are typically awarded based on financial need or academic merit. You can find grants from the federal government, state governments, colleges, and even private organizations. To apply for a grant, you will need to fill out an application, provide proof of financial need, and write an essay. 
+STUDENT: What kind of information should I include in my essay?
+COACH: When writing your essay, you should focus on why you are a good candidate for the grant and why you need the money. You should include details about your current financial situation, your academic achievements, and any extracurricular activities you have participated in. Additionally, you should explain how the grant money will help you reach your goals and how you plan to use it. Lastly, make sure to proofread your essay and ensure that it is free of any errors.

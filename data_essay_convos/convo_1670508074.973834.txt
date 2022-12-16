@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That depends on what kind of essay you’re writing. What type of essay are you working on?
+STUDENT: A term paper.
+COACH: Okay, great. There are a few things you can do to make your term paper shorter. First, you can focus on the main points of your paper and eliminate any unnecessary details. You can also use shorter words and sentences to make your paper more concise. Finally, you can look for ways to combine related ideas into one paragraph. Do you have any other questions?

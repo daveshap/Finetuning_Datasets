@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: That's a great question. It's normal to feel some anxiety when applying to medical school, but it's important to focus on the things you can control. Let's start by talking about your essay and how you can make it the best it can be. What kind of essay are you writing? 
+STUDENT: I'm writing a personal statement for medical school.
+COACH: Great! A personal statement is a great way to show admissions officers who you are as a person and why you would make a great doctor. What kind of topics are you considering for your essay? 
+STUDENT: I'm thinking about talking about my experience volunteering in a hospital and how it has shaped my desire to pursue a career in medicine.
+COACH: That sounds like a great topic! When you write your essay, make sure to include specific examples and anecdotes that illustrate the impact that your volunteering experience had on you. Focus on how it shaped your desire to become a doctor and how it has informed your understanding of the medical field. Also, be sure to highlight any leadership roles or special projects you took on while volunteering. This will demonstrate to the admissions committee that you have the skills and drive necessary to excel in medical school.

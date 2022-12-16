@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: The best way to make an essay shorter is to focus on the main point or argument that you are trying to make. Try to eliminate any unnecessary details or examples that don’t directly support your argument. You can also try to use more concise language and sentence structure to make your essay as concise as possible.

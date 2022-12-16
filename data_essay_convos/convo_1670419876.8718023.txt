@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am looking for help with my college essay. I want to focus on my volunteer work in France and Europe and how it has helped me develop new skills and achieve success.
+COACH: That sounds like a great topic! Can you tell me a bit more about your volunteer work? What kind of activities did you do and what was your role?
+STUDENT: Sure! I volunteered with an organization called NCSU, which works to improve the lives of people in developing countries. My role was to provide educational support in the form of teaching English and helping out with various projects. I also worked on projects related to health, nutrition, and environmental conservation.
+COACH: Sounds like you had a very meaningful experience! Can you tell me more about the skills and achievements you developed during your time volunteering?
+STUDENT: Absolutely! I learned a lot about working with diverse cultures and adapting to different situations. I also developed strong communication and problem-solving skills that have been incredibly helpful in my academic and professional life. Additionally, I was able to develop a better understanding of global issues and how to address them.

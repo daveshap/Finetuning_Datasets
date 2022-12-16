@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college essay. I'm applying to UCLA and Duke University, and I want to write about my experience as a refugee and how it has shaped my interest in engineering and politics.
+COACH: That sounds like a really interesting topic. What would you like to focus on in your essay?
+STUDENT: I want to discuss how my experience as a refugee has impacted my view of the world and how it has influenced my desire to pursue engineering and politics.
+COACH: That's great! Could you tell me more about your experience as a refugee? How did it shape your views and interests?
+STUDENT: Well, growing up as a refugee gave me a unique perspective on the world. I was exposed to different cultures, religions, and ways of life that I may not have been exposed to if I had grown up in the same place. This helped me to develop an appreciation for diversity and tolerance. It also made me realize the importance of having a voice in politics and the power of engineering to make a difference in people's lives.
+COACH: That's a powerful story. How do you think these experiences will help you as a student at UCLA or Duke University?
+STUDENT: I think my experience as a refugee has given me a unique perspective on the world and how it works. I believe this will help me to be a more open-minded and understanding student at both universities. I also think my passion for engineering and politics will help me to make a positive contribution to the universities' communities.

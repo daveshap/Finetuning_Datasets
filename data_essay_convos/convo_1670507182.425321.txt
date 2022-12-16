@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question. A good place to start is by doing a reference interview. I'll ask you some questions to get an idea of what you want to accomplish with your essay and what you need to focus on. What are your goals for this essay?
+STUDENT: I want to show the admissions committee that I have the qualities and experience to be successful in law school.
+COACH: That's an excellent goal. What qualities or experiences do you think are important for a successful law student?
+STUDENT: Critical thinking, strong communication skills, and the ability to work independently.
+COACH: Great, those are all important qualities for law school. Now, how can you demonstrate those qualities in your essay?
+STUDENT: I think I could talk about specific examples from my past experiences where I've used those skills.
+COACH: That's a great idea. Let's talk about how you can structure your essay to make sure you get your point across. First, you should start with an introduction that outlines your main points. Then, you can go into more detail in the body of the essay, using those specific examples to illustrate your points. Finally, you can wrap up with a conclusion that summarizes your main points. Does that sound like a plan?

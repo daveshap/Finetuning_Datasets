@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my personal statement for my application to Yale.
+COACH: Great! What specifically do you need help with?
+STUDENT: Well, I'm not sure how to approach writing my essay. I want to make sure I put my best foot forward and really stand out from the other applicants.
+COACH: Absolutely! Writing a personal statement is a great way to make your application shine. Can you tell me a bit more about what you want to accomplish with your essay?
+STUDENT: Sure. I'm a Muslim student and I want to highlight my unique perspective on life and how it has shaped my academic and personal growth. I also want to explain why I think an admission essay matters and how it can help me get accepted into Yale.
+COACH: That sounds like a great approach! You're right that an admission essay can be a powerful tool to show an admissions team who you are and why you'd be a great fit for the school. Let's start by talking about how your faith has shaped your life. Can you tell me more about that?
+STUDENT: Sure. I grew up in a Muslim household and have always been taught to respect different religions and cultures. I think this has helped me develop an open-mindedness and empathy for people of different backgrounds. I also try to use my faith as a source of strength and guidance in my life.
+COACH: That's wonderful! It sounds like you have a strong sense of your faith and how it has shaped you. Now, let's talk about why an admission essay matters. What do you think makes an essay stand out?
+STUDENT: I think what makes an essay stand out is when it's honest and authentic. It's important to write about your experiences and beliefs in a way that's true to who you are. It's also important to make sure your essay is well-written and structured. A good essay should be engaging and thoughtful.

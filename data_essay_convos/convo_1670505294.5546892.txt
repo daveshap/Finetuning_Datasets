@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are a form of financial aid that you don't have to pay back. They are usually awarded based on your academic performance, financial need, or other criteria. 
+STUDENT: What should I include in my essay for a scholarship application?
+COACH: Your essay should explain why you are the best candidate for the scholarship. You should focus on your academic and professional accomplishments, as well as any extracurricular activities you have been involved in. You should also explain why you need the funds and how you plan to use them. Finally, make sure to include any personal qualities or experiences that make you stand out from other applicants.

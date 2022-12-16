@@ -1,0 +1,21 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some guidance on writing my college application essay.
+COACH: Great! What type of college are you applying to?
+STUDENT: I'm applying to medical school.
+COACH: Okay, that's great. What have you been thinking about writing about in your essay?
+STUDENT: Well, I'm not sure. I feel like I'm not an interesting person, so I'm not sure what to write about.
+COACH: Don't worry, everyone has something interesting to say. Tell me a bit about yourself. Where are you from?
+STUDENT: I'm from Thailand.
+COACH: Interesting! What do you like to do in your free time?
+STUDENT: I like to read, watch movies, and hang out with friends.
+COACH: Okay, so you're a person who enjoys learning and connecting with people. That's a great starting point for your essay. What about your experiences have made you who you are today?
+STUDENT: Well, I've had a lot of opportunities to travel and explore different cultures, which has really helped me to become more open-minded and tolerant of different perspectives.
+COACH: That sounds like a great topic for your essay. What else have you done that has shaped your identity?
+STUDENT: I've also had the opportunity to volunteer at a local hospital, which has given me a better understanding of the medical field and how I can make a difference in people's lives.
+COACH: That's wonderful! It sounds like you have a lot of interesting experiences that you can draw from when writing your essay. Now, let's talk about the practicalities of applying to college. How do you plan on financing your education?
+STUDENT: I plan on applying for scholarships and grants, as well as taking out student loans.
+COACH: That's a great plan. Do you know which scholarships and grants you want to apply for?
+STUDENT: Not yet, but I'm researching them now.
+COACH: That's a good idea. Make sure to start your applications early so that you have enough time to complete them. Is there anything else I can help you with?
+STUDENT: Yes, I'm still a bit unsure about how to structure my essay.
+COACH: That's understandable. Let's start by brainstorming some ideas. What are the main points you want to make in your essay?

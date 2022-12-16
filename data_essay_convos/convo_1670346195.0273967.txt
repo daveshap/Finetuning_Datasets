@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student looking for help with an admissions essay. I want to discuss my creative and artistic talents and how they relate to why college matters to me.
+COACH: That sounds like a great topic! Can you tell me more about your creative and artistic talents?
+STUDENT: Well, I'm really passionate about art and have been creating pieces since I was a kid. I'm also interested in Islamic art and the ways it has influenced modern art.
+COACH: That's fascinating! What specifically do you want to focus on in your admissions essay? 
+STUDENT: I want to explore how my interest in Islamic art has shaped my understanding of why college matters. I think it can help me get into the college of my dreams.
+COACH: That's a great idea! How do you plan to structure your essay?
+STUDENT: I was thinking of starting with an introduction that explains my interest in Islamic art and how it has shaped my views on why college matters. Then, I'll go into detail about how my creative and artistic talents have grown over the years and how they have helped me achieve my goals. Finally, I'll wrap up with a conclusion that summarizes my thoughts on why college is important to me.

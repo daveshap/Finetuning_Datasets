@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I need to write an essay about myself.
+COACH: Alright, so what would you like to talk about?
+STUDENT: Well, I'm not sure what to focus on. I'm not very interesting as a person and don't have any special skills or achievements.
+COACH: That's okay. Everyone has something unique and interesting to share. What do you think makes you stand out? 
+STUDENT: I'm really passionate about science and I want to use my education to make a difference in the world.
+COACH: That's great! Have you ever taken any steps to pursue this passion?
+STUDENT: Yes, I've done some volunteer work for a non-profit organization that focuses on promoting gender equality in STEM fields.
+COACH: That's amazing! What was that experience like?
+STUDENT: It was really eye-opening. I got to see firsthand how sexism still exists in the sciences, and it made me realize how important it is to fight for equal opportunities for everyone.
+COACH: That's a great point to include in your essay. How did this experience shape your view of yourself and your goals?
+STUDENT: It made me realize that I have the power to make a difference in the world, and that I can use my skills and knowledge to help others. It also made me more confident in myself and my abilities.

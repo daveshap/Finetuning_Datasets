@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers are looking for a few things in an essay. They want to see that you have a clear and focused idea, that you can express yourself in a thoughtful and articulate way, and that you have a unique perspective on the topic. 
+STUDENT: What is the best way to start my essay?
+COACH: The best way to start your essay is to introduce your topic and explain why it is important to you. You should also provide some background information to give the reader context. Then, you can move into your main point or argument and state it clearly. 
+STUDENT: How do I make sure my essay is persuasive?
+COACH: To make sure your essay is persuasive, you need to make sure that you are presenting a strong argument and providing supporting evidence. You should also be aware of any potential counterarguments and be prepared to address them. Additionally, make sure to use strong language and persuasive techniques throughout the essay.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: That's a great question. Scholarships are typically awarded to students who demonstrate academic excellence, leadership qualities, or community involvement. Generally, you must meet certain criteria and submit an application with your essay, academic transcripts, and other supporting documents. 
+STUDENT: What should I include in a term paper?
+COACH: A term paper usually involves researching a specific topic, developing an argument or thesis statement, and then writing and formatting the paper according to the guidelines of your professor. When writing a term paper, it is important to include an introduction that provides background information about the topic, an analysis of the sources, an argument or thesis statement, and a conclusion that summarizes your main points and offers a final thought. Additionally, you should include citations and references for any sources used throughout the paper.

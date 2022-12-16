@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student at UNC and I'm trying to write an essay that is engaging and stands out.
+COACH: Great, what kind of essay are you writing?
+STUDENT: It's a personal statement for a job application.
+COACH: Okay, so what do you want the essay to accomplish?
+STUDENT: I want to show the employer why I'm the best candidate for the job and how my skills and experience will help them achieve their goals.
+COACH: That's great. What kind of skills and experience do you have that would make you a great candidate for the job?
+STUDENT: Well, I have a degree in economics from UNC and I'm currently working as a research assistant in the department. I'm also fluent in Vietnamese, which I learned while studying abroad in Vietnam.
+COACH: Those are all great qualifications. How do you think they would help the employer achieve their goals? 
+STUDENT: I think my economics degree and research experience would be beneficial in helping the employer understand market trends and make informed decisions. My fluency in Vietnamese would also be an asset as the company may have customers or business partners in the region.
+COACH: That sounds like a great way to demonstrate your value to the employer. What else do you think makes you stand out?
+STUDENT: I'm very passionate about my work and I'm always looking for ways to improve myself and contribute to the team. I'm also a quick learner and I'm not afraid to take on new challenges.

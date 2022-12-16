@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's an interesting question, but it's not really relevant to writing a college admissions essay. What kind of essay are you trying to write?
+STUDENT: I'm trying to write a personal statement for medical school.
+COACH: Great! A personal statement for medical school is a great opportunity to share your story and demonstrate why you would be a great fit for the program. Start by thinking about what experiences have shaped you and how they relate to your goals for medical school. Then, focus on how you can use those experiences to show that you have the skills and qualities that make a great doctor. Make sure to include details and examples to illustrate your points. Finally, make sure to proofread your essay carefully and make sure it reflects your voice and personality. Good luck!

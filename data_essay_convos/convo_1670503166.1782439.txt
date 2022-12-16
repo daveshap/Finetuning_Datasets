@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, you can certainly write about being a first generation college student in your essay. What kind of essay are you writing? 
+STUDENT: A persuasive essay.
+COACH: Excellent! When it comes to persuasive essays, the goal is to convince the reader of your viewpoint. You need to present your argument in a clear and logical way. To do this, you'll need to provide evidence to support your argument.
+First, you should establish your argument. What is your main point?
+STUDENT: My main point is that first-generation college students should be given more resources and support in order to succeed.
+COACH: That's a great argument! Now, you'll need to provide evidence to support your argument. Think about personal experiences or stories that illustrate why first-generation college students should be given more resources and support. You could also cite statistics or research to back up your argument.
+Once you have your evidence, you'll need to organize it into an effective essay structure. Start with an introduction that states your argument and provides some background information. Then, move on to the body of your essay, where you'll present your evidence and explain how it supports your argument. Finally, wrap up your essay with a conclusion that reiterates your main points and leaves your reader with something to think about.
+STUDENT: Got it! Thanks for the advice.

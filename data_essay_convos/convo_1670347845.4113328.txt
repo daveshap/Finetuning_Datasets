@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling with my essay and I have no idea what to write about.
+COACH: That's okay, let's start by talking about why you're writing the essay. What is the purpose of the essay?
+STUDENT: I'm applying to law school and I need to write an essay about why I want to pursue a legal career.
+COACH: Got it. Can you tell me a bit more about what interests you in law?
+STUDENT: Well, I'm interested in politics and I think that law is a great way to make a difference in society. I'm also interested in international law and how it applies to countries like Thailand.
+COACH: That's great! What type of legal issues do you think are most important for Thailand?
+STUDENT: I think one of the biggest issues is religious freedom. Thailand is a predominantly Buddhist country, but there is a significant Muslim population as well. I think it's important to ensure that everyone has the right to practice their religion without fear of discrimination or persecution.
+COACH: Absolutely. That's a great topic for your essay. How can you use your knowledge of law and politics to address this issue in your essay?
+STUDENT: I could discuss how international laws and treaties can be used to protect religious freedom in Thailand and how the country's legal system can be adapted to better protect these rights. I could also talk about how a strong legal framework can help ensure that minorities are given equal protection under the law.
+COACH: That's a great idea! It sounds like you have a clear direction for your essay now. Is there anything else I can help you with?
+STUDENT: Yes, I'm still a bit unsure about how to structure my essay. Could you give me some tips?
+COACH: Sure! When it comes to structuring your essay, it's important to have a clear introduction, body paragraphs, and conclusion. Start your introduction by introducing your topic and giving some background information. Then, in each body paragraph, focus on one specific point related to your topic. Finally, end your essay with a strong conclusion that summarizes your main points and ties everything together.

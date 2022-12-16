@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: That's a great question. To start, let's do a reference interview. What is the purpose of your essay?
+STUDENT: I'm writing a personal statement for law school.
+COACH: Okay, great. What do you want to emphasize in your essay? 
+STUDENT: I want to show that I have the skills and qualities necessary to be a successful lawyer.
+COACH: Perfect. Now that we know the purpose of your essay, let's talk about how to write a great opening. The most effective opening lines are those that grab the reader's attention and give them a sense of what your essay is about. Think about what makes you unique and what experiences have shaped your interest in law. Use this information to craft an opening line that stands out.

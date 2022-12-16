@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking to apply to grad school for engineering and I need help writing my essay.
+COACH: Great! What specifically do you feel you need help with?
+STUDENT: Well, I'm not sure how to structure the essay or what topics to include.
+COACH: Okay, let's start by discussing your background. Could you tell me a bit about yourself and your experiences?
+STUDENT: Sure. I grew up in a single parent home and had to work hard to make ends meet. I was able to get scholarships and grants to go to college, where I majored in engineering. During my time there, I was involved in a lot of volunteer work, particularly around issues of racism in my community.
+COACH: That's really impressive! It sounds like you have a lot of experience that could be helpful in your essay. What do you think are the most important points you want to make in your essay?
+STUDENT: I think I want to emphasize my commitment to social justice, my passion for engineering, and my hard work and dedication to achieving my goals.
+COACH: That sounds like an excellent focus for your essay. What would you like to focus on first?
+STUDENT: I think I'd like to start by talking about my commitment to social justice and how I've been involved in volunteer work related to racism in my community.
+COACH: That's a great idea. Let's talk about how you can structure your essay to make sure those points come across. How do you think you can best organize your essay to make sure those points come across?

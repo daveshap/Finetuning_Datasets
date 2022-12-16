@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, no problem. Let's start by talking about what kind of essay you're writing. Is it a persuasive essay?
+STUDENT: Yes, it is.
+COACH: Great! Now that we know what type of essay you are writing, let's talk about the purpose of this essay. What do you want to accomplish with your essay?
+STUDENT: I want to show the admissions committee why I am a great fit for their college.
+COACH: Perfect. Now that we have established the purpose of the essay, let's discuss how to structure it. You should start the essay by introducing yourself and giving a brief overview of your background and accomplishments. Then, you can transition into your main argument. Be sure to include evidence and examples to support your argument. 
+STUDENT: Okay, so I should start with a strong introduction and then use evidence to back up my points?
+COACH: Exactly! It's important to remember to keep your arguments clear and concise. Also, make sure to end your essay with a powerful conclusion that ties all of your points together. 
+STUDENT: Got it. Anything else I should keep in mind?
+COACH: Yes, be sure to proofread and edit your essay multiple times. It's also a good idea to get feedback from someone else who can provide an objective opinion on your essay. Good luck!

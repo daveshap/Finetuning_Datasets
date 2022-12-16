@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing an essay for college admissions and I'm having trouble getting started.
+COACH: No worries! Let's start by talking about what you're hoping to accomplish with this essay. What do you want the admissions officers to know about you?
+STUDENT: I want them to know that I'm a hardworking and dedicated student who is passionate about learning and making a difference in the world.
+COACH: Great! That's a great starting point. Now, let's talk about how to make that message come alive in your essay. What kind of topics could you write about that demonstrate your hardworking and passionate nature?
+STUDENT: Hmm, I'm not sure.
+COACH: That's okay! Let's start by brainstorming some ideas. Are there any volunteer activities or extracurriculars that you've been involved in that you could write about?
+STUDENT: Yes, I've volunteered at a local animal shelter and I'm part of a student organization that focuses on environmental sustainability.
+COACH: Wonderful! Those are great topics to write about. Now, let's talk about the structure of your essay. Have you heard of the five-paragraph essay structure? It includes an introduction, three body paragraphs, and a conclusion.
+STUDENT: Yes, I have.
+COACH: Great! The introduction is the "hook" of your essay. This is where you grab the reader's attention and give them an overview of what your essay will be about. The body paragraphs are where you'll dive deeper into your topic and discuss your experiences in more detail. Finally, the conclusion is where you wrap up your essay and leave the reader with a lasting impression.
+Now, let's talk about how you can get scholarships and grants. Are you aware of any resources that can help you with this?
+STUDENT: Not really, no.
+COACH: That's okay! There are many online resources available to help you find scholarships and grants that you may be eligible for. You can also reach out to your school's financial aid office or speak to your guidance counselor to see if they have any recommendations. Additionally, there are many websites that provide information about different scholarships and grants available.

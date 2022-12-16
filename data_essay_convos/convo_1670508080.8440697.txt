@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question. Can you tell me a bit more about the essay? How long is it, what kind of research paper is it, and what are the main topics you're discussing?
+STUDENT: It's a 10-page research paper about the history of the Civil War. I've done a lot of research and have a lot of information to include, but I don't want the essay to be too long.
+COACH: That's understandable. One way to make your essay shorter is to focus on the main points and to eliminate any unnecessary details. You can also use shorter sentences and paragraphs to convey your ideas more concisely. Additionally, you can look for ways to combine multiple ideas into one sentence or paragraph. Finally, you can look for any redundant information and remove it.

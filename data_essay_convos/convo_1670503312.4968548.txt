@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: Scholarships and grants are awarded based on a variety of criteria. Generally, they are awarded based on academic performance, extracurricular activities, financial need, and community service. It is important to research the different scholarships and grants available to you and make sure that you meet their criteria. You can also speak to your school counselor or college admissions office for more information.
+STUDENT: How do I start my essay?
+COACH: A great way to start your essay is to introduce yourself and explain why you are applying to the program. Give a brief overview of your background, interests, and goals. Then, explain why you believe this program is the best fit for you and how it will help you reach your goals. Make sure to include specific examples and stories to support your points. Finally, end your essay with a strong conclusion that reiterates why you are the perfect candidate for the program.

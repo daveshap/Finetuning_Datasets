@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply to college but I'm having trouble writing my essay. I'm not sure what to include or how to make it stand out. 
+COACH: Alright, let's start by understanding your background and what makes you unique. Can you tell me a bit about yourself and your skills and achievements?
+STUDENT: Sure. I'm an undergrad student and I've been involved in a few clubs and extracurricular activities. I'm also a volunteer at a local animal shelter. I'm proud of my achievements in school and of the work I've done in the community.
+COACH: That's great! What kind of challenges have you faced in the past and how did you overcome them?
+STUDENT: I've faced a lot of racism growing up and it's been hard to stay positive and motivated. But I've managed to stay focused on my goals and surround myself with people who believe in me.
+COACH: That's admirable. Are there any other obstacles that you've had to face?
+STUDENT: Well, I've had to deal with rejection a few times. It's always difficult to be told that I'm not good enough, but I've learned to take those experiences as learning opportunities and keep pushing forward.
+COACH: That's a great attitude to have. So, what would you like to focus on in your essay?
+STUDENT: I think I'd like to talk about how I've overcome adversity and how I've used my skills and experiences to become a better person. I want to show the admissions committee that I'm resilient and determined.

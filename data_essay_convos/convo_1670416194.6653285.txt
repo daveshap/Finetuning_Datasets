@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm trying to figure out what to write about in my admissions essay.
+COACH: That's a great question! What has been on your mind when you think about college?
+STUDENT: Well, I've been thinking a lot about why college matters, and how I could use my education to make a difference in the world.
+COACH: That's an excellent topic to explore. What are some of the specific ways you think you could use your education to make a difference?
+STUDENT: Well, I'm a Christian, so I'd like to use my education to help spread the message of Christianity. I'm also interested in going to medical school and becoming a doctor, so I'd like to use my education to help people in need.
+COACH: Those are wonderful goals! It sounds like you have a lot of passion for helping others. What else have you been considering when you think about college?
+STUDENT: I've also been thinking about studying abroad in France, and how that could help me become more culturally aware and experienced.
+COACH: That's an excellent idea! Studying abroad can be a great way to learn about different cultures and expand your worldview. What do you think you could gain from studying abroad in France?
+STUDENT: I think it would be really interesting to learn about French culture and history, and to experience a different way of life. I think it would also help me become more independent and self-reliant.

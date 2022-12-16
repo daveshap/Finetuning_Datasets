@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Before we get into the specifics of your essay, can you tell me a bit about yourself? What do you think is unique about you that you'd like to highlight in your essay?
+STUDENT: I'm a hardworking student who loves to learn. I have a passion for helping others and I'm always looking for ways to make a difference in the world.
+COACH: That's great! Now, let's talk about what kind of persuasive essay you'd like to write. What are some topics that interest you or that you feel passionate about?
+STUDENT: I'm passionate about environmental sustainability and the need to reduce our carbon footprint.
+COACH: Excellent! That's a great topic to write about. Now, let's start thinking about how to structure your essay. What kind of argument would you like to make? Are there any particular points or evidence you want to focus on?
+STUDENT: I want to make the case that we need to take immediate action to reduce our carbon footprint, and that this can be done through increased education and awareness, as well as investment in renewable energy sources.
+COACH: Great! Now let's think about how to structure your essay. You'll want to start with an introduction that outlines your argument and sets the stage for the rest of the essay. Then, you'll want to provide evidence to support your argument. This could include facts, statistics, and examples. Finally, you'll want to conclude your essay by summarizing your argument and offering potential solutions. Does that sound like a plan?
+STUDENT: Yes, that sounds like a great plan. Thanks for your help!

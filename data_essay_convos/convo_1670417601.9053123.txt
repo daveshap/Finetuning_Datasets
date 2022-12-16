@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing a personal statement for college and I'm having trouble making it engaging.
+COACH: That's a great question. What kind of essay are you writing?
+STUDENT: It's a personal statement about my experience growing up in China as a refugee.
+COACH: Interesting. Can you tell me more about your experience?
+STUDENT: Sure. I immigrated to China with my family when I was very young. We lived in a small village and faced a lot of discrimination because of our refugee status.
+COACH: I see. What kind of challenges did you face growing up in China?
+STUDENT: Well, we had very limited access to resources like education and healthcare. We also didn't have many job opportunities.
+COACH: That must have been difficult. How did you manage to overcome these challenges?
+STUDENT: We worked hard and had a lot of support from our community. My parents were especially supportive and they encouraged me to pursue my dreams.
+COACH: That's amazing. So, how can you make your personal statement more engaging?
+STUDENT: I'm not sure.
+COACH: Think about the main elements of a good essay. What makes an essay engaging?
+STUDENT: I guess it depends on the topic, but I think an engaging essay should have a strong narrative, vivid details, and interesting insights.
+COACH: That's a great start! When you write your essay, make sure to include stories and anecdotes that illustrate your experiences. Try to use vivid language to paint a picture for the reader. Also, be sure to include any lessons or insights you've gained from your experience. That will make your essay more engaging.

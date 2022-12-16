@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That’s a great question. Let’s start by talking about what kind of essay you’re writing. Is it for a school assignment, a job application, or something else?
+STUDENT: It’s for a grant application.
+COACH: Okay, so you’re writing an essay for a grant application. That’s a bit different from other kinds of essays. The structure of an essay for a grant application should be focused on the purpose of the grant and how you plan to use it. You should start by introducing yourself and why you’re applying for the grant, then provide evidence to support your claims. Make sure to include any relevant research or statistics that back up your points. Finally, wrap up by summarizing your main points and expressing your enthusiasm for the grant. Do you have any other questions?

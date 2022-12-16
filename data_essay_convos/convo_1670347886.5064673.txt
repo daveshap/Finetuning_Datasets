@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for help with an essay I'm writing for grad school. I'm applying to law school and I want to write an essay that really stands out.
+COACH: That's great! Can you tell me a bit more about what you're hoping to include in the essay?
+STUDENT: Sure! I want to focus on my experience growing up in a single parent home, and how it has shaped my perspective on social issues. I also want to talk about my faith, Islam, and how that has impacted my worldview.
+COACH: Interesting! What kind of social issues are you interested in discussing?
+STUDENT: Well, I'm particularly passionate about issues related to immigration, poverty, and racial injustice. I think it's important to bring attention to these issues and discuss how we can work together to create a better society.
+COACH: That's great! Do you have any particular examples of how your experience growing up in a single parent home has helped shape your views on these topics?
+STUDENT: Yes, absolutely. Growing up, I saw firsthand how difficult it was for my mother to make ends meet. It made me realize that not everyone has access to the same resources and opportunities, and that this inequality is one of the main drivers of social injustice. I also understand how important it is to have a strong support system, which is something my mother provided for me despite our financial struggles. This is why I believe it's so important to advocate for policies that ensure everyone has access to basic needs and resources.

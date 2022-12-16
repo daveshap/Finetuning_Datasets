@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Great question! Applying to college can be a daunting task, but it doesn't have to be. Start by researching the colleges you are interested in and make sure they are a good fit for you. Then you'll need to fill out the application, write your essay, and submit your transcripts.
+STUDENT: What should I focus on when writing my essay?
+COACH: When writing an argumentative essay for college admissions, you want to make sure you focus on presenting a strong argument. You'll want to research the topic thoroughly and make sure you have evidence to back up your claims. You'll also need to make sure your essay is well-written and organized so that your argument is clear and concise.

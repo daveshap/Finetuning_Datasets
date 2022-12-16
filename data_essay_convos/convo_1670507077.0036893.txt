@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Sure, let's start with a reference interview. Can you tell me what kind of essay you are writing?
+STUDENT: It’s an admissions essay.
+COACH: Great! What do you want to focus on in your essay?
+STUDENT: I want to focus on why I am the best fit for this college.
+COACH: Perfect. Now, what have you done that makes you the best fit for this college?
+STUDENT: I have a strong academic background and have been involved in several extracurricular activities that have helped me develop my leadership and communication skills.
+COACH: That's great! Now, how can you use your experiences to demonstrate why you are the best fit for this college?
+STUDENT: I can highlight my academic achievements and how they have prepared me for success in college. I can also discuss my extracurricular activities, such as leading a student organization, and how these experiences have taught me important skills, such as collaboration and problem-solving.
+COACH: That's a great start. Now, let's focus on how you can make your essay stand out. What unique perspective or insight can you bring to the essay?
+STUDENT: I think I can emphasize how my diverse experiences have shaped my worldview and enabled me to think critically about different issues. I can also talk about how my experiences have given me a unique insight into the college and how I can contribute to its mission.

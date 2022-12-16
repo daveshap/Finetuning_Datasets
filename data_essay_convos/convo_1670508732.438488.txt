@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start with a few questions. What type of essay are you writing?
+STUDENT: It's a research paper.
+COACH: Excellent. What is the topic you're researching?
+STUDENT: The impact of technology on the environment.
+COACH: That's an interesting topic. What kind of sources have you found so far?
+STUDENT: I have a few books and some online articles.
+COACH: Great! Have you started to look into how to organize your research?
+STUDENT: Not yet, I'm still trying to figure out what information to include.
+COACH: That's a great place to start. Let's talk about how to structure your paper. First, you should create an outline of your main points and sub-points. That will help you stay organized and make sure you don't miss any important information. Then, you'll want to start doing your research and writing. Make sure to cite all of your sources properly and include a bibliography at the end of your paper. Finally, you'll need to write a conclusion that ties everything together.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That's a great question. A personal statement for a grant application is an opportunity for you to tell the selection committee about yourself, why you are applying for the grant, and what makes you a good candidate. It should include information about your academic background, professional experience, and any other accomplishments or activities that make you stand out. What do you think you want to focus on in your statement? 
+STUDENT: I want to talk about my academic background and how it has prepared me for this grant.
+COACH: That's a great place to start. Let's start by talking about your academic background. What courses have you taken that are relevant to the grant you are applying for? 
+STUDENT: I've taken courses in computer science, mathematics, and finance.
+COACH: Excellent. Now, how have these courses helped you prepare for this grant? 
+STUDENT: They've given me a strong foundation in the technical skills required for the grant, as well as a solid understanding of the financial aspects of the project.
+COACH: That's great. Now, let's start writing. What would be a good way to start your personal statement? 
+STUDENT: I could start by talking about why I'm passionate about this project and how my academic background has prepared me for it.
+COACH: Perfect. Let's get started then.

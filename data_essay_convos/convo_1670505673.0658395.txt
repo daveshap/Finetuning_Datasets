@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start with the basics. What is the purpose of your essay? 
+STUDENT: I'm writing an essay for college admissions.
+COACH: Great! Now that we know the purpose, let's think about what you want to communicate in your essay. What do you think makes you stand out from other applicants?
+STUDENT: I think my dedication and leadership qualities make me stand out.
+COACH: Perfect! Now you have the basis for your essay. Let's start drafting the essay. What do you think should be the main focus of your essay?
+STUDENT: I think I should focus on how my dedication and leadership qualities have helped me become successful in my academics, extracurricular activities, and community service.
+COACH: That's a great idea. Now let's start writing! How do you think you should structure your essay?
+STUDENT: I think I should start by introducing myself and then explain how my dedication and leadership qualities have made me successful in each of the areas I mentioned. Then I could include examples of how I have used these qualities to achieve success. Finally, I could talk about how I plan to use these qualities in the future.
+COACH: That sounds like a great structure. Now let's start writing!

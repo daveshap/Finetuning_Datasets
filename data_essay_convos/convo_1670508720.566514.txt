@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start with a few questions. What kind of essay are you working on?
+STUDENT: A monograph.
+COACH: Okay, what is the topic of your monograph?
+STUDENT: The impact of social media on modern society.
+COACH: Great, so what kind of research have you done so far?
+STUDENT: I've read some articles and watched some videos about it.
+COACH: Alright, have you started writing your monograph yet?
+STUDENT: Not yet, I'm still trying to figure out what to include in it.
+COACH: Okay, let's start by discussing the structure of a monograph. It should include an introduction, body, and conclusion. The introduction should provide background information about your topic and introduce your argument. The body should include evidence to support your argument and should be organized into separate sections. Finally, the conclusion should summarize your main points and provide a conclusion to your argument. Does that help?
+STUDENT: Yes, thank you. That's really helpful.

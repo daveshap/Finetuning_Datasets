@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm really stuck on what to write about.
+COACH: Okay, let's start by talking about your background. What topics are you interested in or passionate about? 
+STUDENT: Well, I'm a refugee from Thailand and my family practices Judaism, so I guess those two topics.
+COACH: Great! Those are both excellent topics that can be explored in an essay. What about them interests you the most? 
+STUDENT: I'm interested in exploring how my faith has shaped my identity and how my experience as a refugee has impacted my life.
+COACH: That sounds like an interesting and powerful topic. Have you ever written about it before? 
+STUDENT: No, I haven't. I'm not sure where to start.
+COACH: That's alright! Let's break it down into smaller steps. What do you think are the most important elements of your identity that have been shaped by your faith and refugee experience? 
+STUDENT: I think my values, my sense of community, and my view of the world have all been affected by my faith and my experience as a refugee.
+COACH: Those are great points to focus on. What questions do you have about those topics?
+STUDENT: How do I make sure I'm focusing on the right elements? 
+COACH: A great way to make sure you're focusing on the right elements is to ask yourself what you want to convey to the reader. What message do you want to get across? That should help you narrow down your focus and make sure you're on the right track.

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for help with an essay I'm writing for a college application.
+COACH: That's great! What kind of essay are you writing?
+STUDENT: It's a personal statement essay for Princeton University. 
+COACH: Okay, can you tell me more about what you want to write about?
+STUDENT: Well, I'm not sure exactly what I want to write about yet. I'm interested in engineering and have some experience with LGBT activism. I also have family members who served in the Vietnam War.
+COACH: That's a lot of great material to work with! How do you think these topics might be relevant to your essay?
+STUDENT: Well, I think the engineering aspect might be relevant because I want to go into that field. I think the LGBT activism could be relevant because I'm passionate about social justice and equality. And I think the Vietnam War could be relevant because it's an important part of my family history. 
+COACH: Absolutely! Those are all great topics to explore. Have you thought about how you might tie them together in your essay?
+STUDENT: Not really, I'm still trying to figure out how to approach it.
+COACH: That's understandable. It can be difficult to know where to start. Let's start by thinking about why you're applying to Princeton. What do you think makes them the right school for you?
+STUDENT: I think Princeton is the right school for me because they have a great engineering program and I'm passionate about the research they do. I also feel like their commitment to social justice and diversity aligns with my values.

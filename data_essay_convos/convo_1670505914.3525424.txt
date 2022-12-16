@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. The best way to pick a topic is to start by thinking about what you want to achieve with your essay. What is it that you want to communicate to the admissions committee?
+STUDENT: I want to show them that I am a strong candidate for law school and that I am driven and passionate about the field.
+COACH: Okay, great. What experiences or qualities do you have that could illustrate that?
+STUDENT: Well, I'm a very dedicated student and I've been involved in several extracurricular activities that relate to law.
+COACH: Perfect! So, think about which of those experiences you want to focus on in your essay. What stands out to you as something that really shows your passion for the field?
+STUDENT: I think my involvement in a mock trial team really demonstrates my interest in law.
+COACH: That sounds like a great topic! Now, let's talk about how to structure your essay. First, you'll want to introduce the topic and provide some context. Then, you'll want to dive into the details of the experience and explain why it's meaningful to you. Finally, you'll want to wrap up by emphasizing the impact it had on you and how it relates to your goals for law school. Does that make sense?
+STUDENT: Yes, that makes a lot of sense. Thank you!

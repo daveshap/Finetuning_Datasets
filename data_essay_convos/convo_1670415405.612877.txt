@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to MIT and NCSU, and I'm having trouble figuring out what I should write about in my college admission essay.
+COACH: That's a great question. First, let me ask you a few questions to get a better understanding of your needs. What kind of skills or achievements do you have that you would like to highlight in your essay?
+STUDENT: Well, I have been a leader in my school's robotics club for the past three years, and I'm also an active member of the debate team. I'm really passionate about engineering and technology, so I think those are two areas I could focus on in my essay.
+COACH: That sounds like a great start! It sounds like you have some impressive accomplishments that you can showcase in your essay. What else would you like to include in your essay?
+STUDENT: Well, I've also faced some challenges in my life, such as rejection from some of the colleges I applied to and overcoming obstacles in my personal life. I think it would be important to talk about how I overcame these challenges and how they have shaped me into the person I am today.
+COACH: Absolutely! This is a great opportunity to demonstrate your resilience and show the admissions committee how you have grown and developed over time. 
+It's also important to make sure your essay is well-structured and organized. Make sure to include a clear introduction, body, and conclusion. Additionally, make sure to include specific examples and anecdotes to illustrate your points and make your essay more engaging. 
+Finally, make sure to edit and proofread your essay multiple times. It's important to double-check for any errors or typos before submitting your application.
+STUDENT: Thank you so much for your advice! I feel much more confident about my essay now.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for Duke University's medical school.
+COACH: That's a great school and a very competitive program. What are your strengths and passions that you want to highlight in your essay?
+STUDENT: Well, I'm really passionate about creativity and art. I think it can be a powerful tool to help people heal and cope with difficult situations.
+COACH: That's a great point! Have you ever used creativity or art to help yourself or others in any way?
+STUDENT: Yes, actually. I volunteer at a local hospital and I often use art to help the patients express their feelings and emotions. I also do some painting and drawing myself, which helps me relax and stay focused.
+COACH: That's wonderful! It sounds like you have a lot of experience with art and creativity that you can draw on for your essay. What other topics do you think you should include in your essay?
+STUDENT: I'd like to talk about some of the sexism I've experienced in the medical field. It's something that I think needs to be addressed more openly and honestly.
+COACH: Absolutely. It's important to talk about these issues in order to create a more inclusive and equitable environment. Have you encountered any specific instances of sexism that you could share in your essay?
+STUDENT: Yes, I have a few examples that I could talk about. For instance, the other day I was in a meeting with a group of doctors and they were discussing a patient's case. One of the doctors made a comment about how women are too emotional to make sound medical decisions. It was really disheartening to hear.
+COACH: That's terrible. It's important to use your essay to draw attention to this kind of behavior and how it impacts the medical field. You could also talk about what you would do to help create a more inclusive and equitable environment in the medical field.

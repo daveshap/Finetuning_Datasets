@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: That's a great question. What kind of essay are you writing?
+STUDENT: It's a research essay.
+COACH: Okay, great. When it comes to research essays, the key is to make sure you have a clear focus and that your research is well organized. Have you already done your research?
+STUDENT: Yes, I have.
+COACH: Perfect. Now the next step is to make sure that your essay is engaging. You can do this by using strong language, vivid imagery, and interesting facts or stories. Also, make sure to use transitions between paragraphs to keep the reader engaged and make the essay flow. Finally, make sure to include a conclusion that ties together all your points. Does that make sense?
+STUDENT: Yes, that makes sense. Thank you!

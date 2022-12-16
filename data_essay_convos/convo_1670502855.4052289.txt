@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: The personal statement is an opportunity for you to tell the college admissions committee about yourself. It should be a story that reflects your values, passions, and goals. Think of it as an opportunity to explain why you are a great fit for the school and why you would be a valuable addition to their student body.
+STUDENT: What should my essay focus on?
+COACH: Your essay should focus on a single topic or theme, such as a particular challenge or experience you have faced, a particular achievement or accomplishment, or a particular passion or interest you have. It should be personal and unique to you, so you should make sure to draw on your own experiences and perspectives.
+STUDENT: How do I create a thesis statement for my essay?
+COACH: A thesis statement is a sentence or two that summarizes the main point of your essay. It should be specific and concise, and it should state what you plan to prove or argue in your essay. To create a thesis statement, think about the main point you want to make in your essay and then write a statement that expresses that point. For example, if you were writing an essay about the importance of education, you might write a thesis statement like “Education is essential for achieving success in life.”

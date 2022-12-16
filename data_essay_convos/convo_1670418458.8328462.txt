@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I'm trying to write an essay about my experience with refugees.
+COACH: That's a great topic. Can you tell me more about your experience with refugees?
+STUDENT: Sure. I've been doing charity work in refugee camps for the past few years. I've been working with people from all kinds of backgrounds, but mainly Muslims who have had to flee their homes due to war or persecution.
+COACH: Wow, that's really admirable. What has been the most meaningful part of your experience?
+STUDENT: Well, it's been really eye-opening to see how resilient people can be in the face of adversity. Despite all the hardships they've faced, I've seen people come together and help each other out. It's been really inspiring.
+COACH: That's really amazing. So, what do you think makes your experience with refugees unique and special?
+STUDENT: I think what makes it special is that I've had the opportunity to travel to different countries and meet people from different cultures. I've seen firsthand how people from different backgrounds can come together and help each other out, regardless of religion or nationality. It's really made me appreciate the power of compassion and understanding.

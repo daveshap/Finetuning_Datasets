@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I'm trying to figure out why an admission essay matters so much.
+COACH: Great question! An admission essay is your chance to show who you are as a person and to demonstrate your writing ability. It's important because it gives the admissions committee a chance to get to know you beyond your grades, test scores, and extracurriculars. It's also an opportunity to show that you have the skills and qualities they're looking for in a student.
+STUDENT: That makes sense. I'm also applying to med school and I'm not sure what to write about for my personal statement.
+COACH: For a medical school personal statement, you'll want to focus on why you're interested in pursuing a career in medicine, how your experiences have shaped your interest, and any unique qualities you have that make you an ideal candidate. You should also discuss any challenges you've faced and how you've overcome them. Finally, you should explain why you think you'd be a great doctor and how you plan to contribute to the field of medicine.

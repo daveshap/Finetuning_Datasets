@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay on my experience as a refugee and I'm having trouble making it engaging.
+COACH: That sounds like a really interesting topic! Can you tell me more about your experience? 
+STUDENT: Sure. I was born in a small village in Ethiopia and my family and I were forced to flee when I was five years old due to political unrest. We eventually ended up in the United States, where we've been living ever since.
+COACH: Wow, that's a really powerful story. Have you thought about how you want to structure the essay?
+STUDENT: Not really, I'm not sure what makes an essay engaging.
+COACH: Well, there are a few things that can make an essay engaging. First, make sure to draw on vivid details from your experience. For example, if you can recall any specific sights, sounds, or smells from your journey, those can be powerful tools for creating a vivid image for your readers. Second, think about how your story relates to larger themes. What does your experience say about the human condition, or about Christianity, or about life in general? Finally, think about how you can make connections between your experience and other topics. For example, what does your experience have to say about immigration policy, or about the refugee crisis?
+STUDENT: That's really helpful. I think I understand what I need to do now.
+COACH: Great! Is there anything else I can help you with?
+STUDENT: Actually, I'm also applying to MIT and I'm worried that I'm too boring of a person to get accepted.
+COACH: That's a common concern, but don't worry - there's no such thing as a "boring" person. What makes a person stand out is their unique perspective and experiences, so focus on highlighting those in your application. Talk about the things that make you unique, the challenges you've faced and how you overcame them, and any special skills or talents you have. This will help the admissions committee get to know you better and see why you would be a great addition to their school.

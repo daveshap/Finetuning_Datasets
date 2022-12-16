@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for my college admissions essay and I'm not sure what to write about.
+COACH: That's a great question! What topics are you interested in discussing in your essay? 
+STUDENT: Well, I'm from the Philippines and I want to discuss what makes me unique as a Filipino, and how I can contribute to the college community.
+COACH: That sounds like a great idea! Do you have any specific ideas about how you can present this topic in your essay?
+STUDENT: Not really, I'm kind of stuck on what to include and what admissions officers look for in an essay.
+COACH: Sure, let's start with the basics. An essay typically has three parts: the hook, the middle, and the conclusion. The hook is the first sentence or two that grabs the reader's attention and introduces the main idea of the essay. The middle is the body of the essay, where you expand on the main idea and provide evidence or examples to support it. The conclusion is the last part of the essay, where you summarize the main point and leave the reader with a lasting impression. 
+Now, let's talk about what admissions officers look for. They want to see that you have a clear understanding of the topic and can articulate it in a compelling way. They also want to see that you can think critically and express your thoughts in a well-organized manner. Finally, they want to see that you have a unique perspective and can bring something new to the college community. 
+So, in your essay, make sure to focus on how your experiences and values make you unique and how you can contribute to the college community.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Sure, tell me more about your background and why you're interested in medical school.
+STUDENT: Well, I'm a first generation college student and I've always been interested in medicine. Growing up, I saw how difficult it was for my parents to access healthcare, and I wanted to be part of the solution. I want to use my education to make sure that everyone has access to quality healthcare.
+COACH: That's great! It sounds like you have a strong motivation for pursuing a career in medicine. Now, let's talk about how to communicate that in your essay. What do you think are the most important elements of a successful personal statement?
+STUDENT: I think it's important to show that I understand the challenges facing healthcare today, and to demonstrate how my experiences have made me passionate about helping others. I also want to make sure that I stand out from other applicants by highlighting my unique perspective and experiences.
+COACH: Absolutely. Those are all great points. Let's start by brainstorming some ideas for your essay. What do you think are the most compelling stories or experiences that you can share to illustrate your commitment to a career in medicine?

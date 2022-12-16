@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT for their engineering program and I need help with my admissions essay.
+COACH: Alright, let's start with the basics. What is your main idea?
+STUDENT: I want to talk about my experiences doing volunteer work in Thailand.
+COACH: Great! What did you do while in Thailand?
+STUDENT: I worked with a local charity to build a school in a rural village.
+COACH: That sounds like an amazing experience. Tell me more about it. What was the most rewarding part of the project?
+STUDENT: Seeing the smiles on the children's faces when we finished the project. It was really gratifying to know that our hard work had made such a positive difference in their lives.
+COACH: That's wonderful! How did this experience shape your outlook on life?
+STUDENT: It made me realize how much of a privilege it is to have access to education and other basic necessities that some people don't have. I also learned a lot about the importance of giving back and how even small acts of kindness can make a big difference.
+COACH: That's a great lesson to take away from the experience. How do you think this experience will help you in your engineering studies at MIT?
+STUDENT: This experience has taught me the value of hard work and perseverance. I know that I'll need these qualities to succeed in the demanding engineering program at MIT. I also think that this experience has given me a greater appreciation for how engineering can be used to improve people's lives.

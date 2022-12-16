@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking to apply to Princeton and Harvard for grad school and I'm not sure where to get started.
+COACH: Great! Let's start by talking about why you want to go to grad school. What makes these two universities a good fit for you?
+STUDENT: Well, I'm interested in a particular field of study and both Princeton and Harvard have strong programs in that area. Plus, I'm also interested in traveling and both schools have great opportunities for international study.
+COACH: That's great! So, what kind of research have you already done on the universities?
+STUDENT: I've done some research online, but I'm still trying to figure out what sets each school apart from the other.
+COACH: That's understandable. It can be hard to make an informed decision without doing some in-depth research. Have you looked into the admissions process for each school?
+STUDENT: Yes, I have. I'm aware of the application requirements for each school, but I'm not sure how to make my essay stand out.
+COACH: That's a great question. The best way to make your essay stand out is to focus on what makes you unique. Think about your experiences and what you bring to the table that makes you a great candidate. Then, use those ideas to craft a compelling narrative in your essay.

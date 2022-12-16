@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm trying to figure out how to get scholarships and grants to help pay for my college education.
+COACH: That's great! It sounds like you have some clear goals and personal objectives. Can you tell me a little bit more about what you're looking for?
+STUDENT: Well, I'm interested in learning more about politics and international affairs, so I'm hoping to find some scholarships or grants that will help me travel abroad and gain more knowledge in those areas.
+COACH: That's an excellent goal! Have you done any research into the kind of scholarships and grants available to you?
+STUDENT: Yes, I've done some research, but I'm still not sure which ones are best for me.
+COACH: That's understandable. There are a lot of different types of scholarships and grants available, so it can be difficult to know which ones are right for your situation. Let's start by looking into some of the most common types of scholarships and grants. For example, there are merit-based scholarships, need-based scholarships, and grants that are specifically designed for students with certain backgrounds or interests. Have you looked into any of these?
+STUDENT: Yes, I've looked into some of them, but I'm still not sure which ones are best for me.
+COACH: That's okay. Let's start by looking into some of the specific scholarships and grants that are available for students with your background and interests. For example, there are scholarships specifically for first-generation college students, as well as grants for students interested in politics and international affairs. We can also look into other opportunities, such as internships and fellowships, that might be available to you. Do any of these sound like something you'd be interested in?

@@ -1,0 +1,178 @@
+Bhavitha
+
+Python Developer
+
+Email: bhavitha0747@gmail.com
+
+Ph #: ‪256-684-8375‬
+
+Professional Summary:
+
+-   3 years of experience in Analysis, Design, Development, Management,
+    and Implementation of various standalone and client - server
+    architecture-based enterprise application software.
+
+-   Experienced with full software development life-cycle, architecting
+    scalable platforms, object-oriented programming, database design and
+    agile methodologies.
+
+-   Expertise in development of web - based applications using Python,
+    Django, Flask, HTML, XML, Angular, Angular.JS, CSS, DHTML, JSON and
+    jQuery.
+
+-   Well versed with design and development of presentation layer for
+    web applications using technologies like HTML, CSS, and JavaScript.
+
+-   Experience with cloud infrastructure of AWS (Amazon Web Services)
+    and computing AMI virtual machines on Elastic Compute Cloud (EC2).
+
+-   Experience configuring and developing with different Database
+    servers including MySQL, MSSQL, Oracle and Mongo Db.
+
+-   Expertise in test automation and continuous delivery of web
+    applications, client server applications, web services/REST APIs
+    Testing, with Python.
+
+-   Experience in developing web services (WSDL, SOAP and REST) and
+    consuming web services with python programming language.
+
+-   Expertise to interact with databases using ORM frameworks like
+    Django, SQLAlchemy frameworks.
+
+-   Utilized various integrated development environments like Visual
+    Studio Code and PyCharm.
+
+-   Experience in using defect tracking/issue tracking/ Bug tracking
+    tool like Atlassian Jira.
+
+-   Possess good interpersonal, analytical presentation skills, ability
+    to work in self-managed and Team environments.
+
+Technical Skills:
+
+  -----------------------------------------------------------------------
+  Languages          Python 3.X/2.7, SQL, Shell Scripting
+  ------------------ ----------------------------------------------------
+  Web Technologies   AJAX, JSON, jQuery, HTML, XML, CSS, Bootstrap
+
+  Framework          Django, Flask, Web2py, Pyramid, Angular
+
+  Web Services       SOAP, RESTful
+
+  Cloud Platforms    Amazon web services
+
+  IDES/Tools         PyCharm, Sublime Text, Spyder, NetBeans, Eclipse
+
+  Application/Web    Apache Tomcat, IBM WebSphere, BEA WebLogic, Nginix
+  Servers            
+
+  Database           Oracle, DB2, MYSQL, MongoDB
+
+  Version Control    Git, GitHub
+  Systems            
+
+  Project Management Jira, HP ALM
+  Tools              
+
+  Operating Systems  Windows, iOS, Android
+  -----------------------------------------------------------------------
+
+Professional Experience:
+
+Client: Lands' End, Dodgeville, WI Jan 2021 – Till Date
+
+Role: Python Developer
+
+Responsibilities:
+
+-   Involved in analysis, specification, design, and implementation and
+    testing phases of Software Development Life Cycle (SDLC) and used
+    agile methodology for developing application.
+
+-   Designed and managed API system deployment using fast HTTP server
+    and Amazon AWS architecture. Utilized Python Libraries like Boto3,
+    NumPy for AWS.
+
+-   Responsible for developing impressive UI using HTML, jQuery, CSS,
+    Angular and Bootstrap.
+
+-   Developed views and templates with Python and Django view controller
+    and templating language to create a user-friendly website interface.
+
+-   Used Python Library Beautiful Soup 4 for Web Scraping to extract
+    data for building graphs.
+
+-   Used Python based GUI components for the front-end functionality
+    such as selection criteria, created test harness to enable
+    comprehensive testing utilizing Python.
+
+-   Used Python-distributions like PyMySQL to connect with the databases
+    and manipulate data in python language.
+
+-   Involved in Continuous Integration (CI) and Continuous Delivery (CD)
+    process implementation using Jenkins along with Shell script.
+
+-   Used GitHub for Python source code version control, Jenkins for
+    automating the build Docker containers.
+
+-   Utilized PyUnit, the Python Unit test framework, for all Python
+    applications and used Django Database API's to access database
+    objects.
+
+-   Improved code reuse and performance by making effective use of
+    various design patterns.
+
+-   Involved in debugging the applications monitored on JIRA using agile
+    methodology.
+
+Environment: Python, Django, Angular, TypeScript, Angular CLI, NPM, Node
+JS, AWS, Boto 3, Beautiful Soup 4, HTTP, PyQT, XML, MySQL, Jenkins, GIT,
+Jira, Agile, Windows.
+
+Company: TechDimension IT Solutions, Hyderabad, India Jun 2019 – Nov
+2020
+
+Role: Python Developer
+
+Responsibilities:
+
+-   Involved in all phases of software development life cycle for the
+    case assignment and case management modules.
+
+-   Developed frontend and backend modules using Python on Django
+    including TastyPie Web Framework using Git.
+
+-   Implemented various functions in NumPy and Pandas for mathematical
+    operations and arrays.
+
+-   Configured AWS Identity and Access Management (IAM) Groups and Users
+    for improved login authentication.
+
+-   Designed the application using Python, Django, HTML, CSS, AJAX, JSON
+    and jQuery. Worked on backend of the application.
+
+-   Developing the Python automated scripting using Boto3 library for
+    AWS Security audit and reporting using AWS Lambda for multiple AWS
+    Accounts.
+
+-   Used Python to write data into JSON files for testing Django
+    Websites. Created scripts for data modelling and data import and
+    export.
+
+-   Involved in development of Web Services using SOAP for sending and
+    getting data from the external interface in the XML format.
+
+-   Created Data tables utilizing PyQt to display customer information
+    and add, delete, update customer records and PyQuery for selecting
+    particular DOM elements when parsing HTML.
+
+-   Used Jenkins for continuous integration and deployment. Managed
+    continuous maintenance and troubleshooting of the Project.
+
+-   Used JIRA for bug tracking and issue tracking and used Agile
+    Methodology and SCRUM Process.
+
+-   Responsible for debugging and troubleshooting the web application.
+
+Environment: Python, Django, HTML5, CSS3, Bootstrap, AWS, Boto3, XML,
+JSON, PyQt, PyQuery, Jenkins, Jira, GIT, Agile, Windows.

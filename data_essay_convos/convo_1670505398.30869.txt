@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are a form of financial aid that don't need to be paid back. They are usually awarded based on merit, such as academic performance, athletic ability, or other special talents. Some scholarships are also based on financial need.
+STUDENT: What should I include in my essay?
+COACH: A personal statement for grad school should include your academic and professional background, your goals for the future, and why you think you would be a good fit for the program you are applying to. It should also explain how the program will help you reach your goals. Make sure to include any relevant experiences or achievements that can demonstrate your commitment to the field you are applying to.

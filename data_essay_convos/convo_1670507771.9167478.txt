@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question. Before you can know when your essay is finished, it's important to understand what the purpose of the essay is. What kind of admissions essay are you writing? 
+STUDENT: I'm writing an admissions essay for college.
+COACH: Perfect. An admissions essay should be an honest representation of who you are and why you're a good fit for the school. It should demonstrate your enthusiasm for the school and your ability to think critically about the topics you're discussing. When your essay is finished, it should be clear that you've put thought and effort into it, and that you've taken the time to make sure it accurately reflects your personality and goals.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for a college application and I'm not sure where to start.
+COACH: That's a great question. Before we get into the specifics of writing a personal statement, can you tell me a bit about yourself and why you're applying to college?
+STUDENT: Sure. I'm a high school student from China and I'm interested in studying abroad. I want to gain a better understanding of the world and expand my horizons.
+COACH: That's great! It sounds like you have some clear goals for your college experience. So, let's start with the basics. How does college admission work?
+STUDENT: Well, I know that most colleges require a completed application with all of the necessary documents, such as transcripts and letters of recommendation. But, I'm not sure what else I need to do.
+COACH: Yes, those are the basic requirements. But, to really stand out in the college admissions process, it's important to have a strong personal statement. This is your chance to show the admissions committee who you are and why you would be a great fit for their institution.
+STUDENT: Okay, that makes sense. So, what should I include in my personal statement?
+COACH: Well, you should focus on highlighting your unique qualities, experiences, and goals. Think about what sets you apart from other applicants and what makes you passionate about your chosen field of study. You should also include any relevant extracurricular activities, internships, or volunteer work that you have done. Finally, you should make sure to explain why you think the college you are applying to is the right fit for you.
+STUDENT: Alright, that sounds like a lot of information to include. What kind of structure should I use?
+COACH: Generally, it's best to start with an introduction that captures the reader's attention and briefly outlines your main points. Then, you can move into a body section that goes into more detail about your experiences, goals, and qualifications. Finally, you should end with a conclusion that ties everything together and reiterates why you are the perfect candidate for the college.

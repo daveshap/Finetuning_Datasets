@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Personal statements are a great way to showcase your personality, experiences, and goals. You should focus on why you want to pursue a career in medicine, what you have done to prepare for it, and how you believe you can contribute to the field. Think about the unique qualities that make you stand out and how you can use those qualities to make a positive impact. 
+STUDENT: What kind of structure should I use?
+COACH: A good structure for a personal statement is to provide an introduction, body, and conclusion. Your introduction should give the reader an overview of what you will be discussing in the essay. The body should be focused on the main points you want to make and should include stories or examples that illustrate these points. Finally, your conclusion should bring the essay to a close by summarizing your main points and expressing your enthusiasm for the field.

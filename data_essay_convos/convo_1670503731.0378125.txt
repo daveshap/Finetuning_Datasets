@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: Well, the first step is to choose a topic for your essay. Think about what you want to write about and research it. Once you have a topic, you can start brainstorming ideas and developing an outline for your essay.
+STUDENT: What kind of research should I do?
+COACH: Depending on the topic of your essay, you may need to do different types of research. For example, if you are writing about a certain historical event, you will need to research primary sources such as newspaper articles, books, and other documents. If you are writing about a personal experience, you may need to conduct interviews or surveys to gain information.
+STUDENT: What should my essay include?
+COACH: Your essay should include an introduction, body paragraphs, and a conclusion. In your introduction, you should introduce the topic of your essay and provide some background information. In the body paragraphs, you should develop your ideas and provide evidence to support your argument. In the conclusion, you should summarize your main points and explain why they are important.

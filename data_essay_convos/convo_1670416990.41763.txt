@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I have no idea what to write about.
+COACH: Alright, let's start by thinking about what you are passionate about. What topics interest you?
+STUDENT: Well, I recently went to Thailand and it was really interesting. 
+COACH: That sounds like a great topic! What specifically interested you about your trip to Thailand?
+STUDENT: I really enjoyed learning about the culture and the food. I also liked seeing all the different temples.
+COACH: Great! What about these topics makes them interesting to you?
+STUDENT: I think it's fascinating how different cultures have different customs and beliefs. It's also interesting to see how different foods are prepared and eaten in different countries.
+COACH: That's definitely true. What else do you think makes an essay engaging?
+STUDENT: I think it's important to include personal experiences and stories that make the essay more relatable to the reader.
+COACH: Absolutely! Personal experiences can be a great way to draw readers in and make them feel connected to your essay. Is there anything else you think would make an essay engaging?
+STUDENT: I think it's important to use vivid language and imagery to make the essay come alive.
+COACH: That's a great point! Using vivid language and imagery can help the reader visualize the story you are telling and make it more interesting. Now, what kind of essay are you writing?
+STUDENT: I'm writing an essay for grad school.
+COACH: Okay, what is your goal with this essay? What do you want to communicate to the admissions committee?
+STUDENT: I want to show them that I'm a well-rounded person with diverse interests and experiences. I also want to highlight my academic achievements and demonstrate my commitment to my chosen field.
+COACH: That's a great goal! To make your essay stand out, you should focus on the unique aspects of your life and experiences that make you different from other applicants. What do you think makes you unique?
+STUDENT: I think I'm a pretty boring person, so I don't know how to make myself stand out.
+COACH: Everyone has something unique to offer, even if they don't realize it! Think about your experiences, skills, and passions that make you different from other applicants. Once you identify those qualities, you can use your essay to showcase them.

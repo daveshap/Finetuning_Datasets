@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my application to UCLA Law School and I'm struggling to make it engaging.
+COACH: That's a great question! It's important to make your essay stand out from the rest of the competition. What do you think makes an essay engaging?
+STUDENT: Well, I think having a unique perspective and compelling story can make an essay really stand out.
+COACH: That's true! It's also important to keep the reader in mind when you're writing. Think about what the admissions committee is looking for and how you can best present yourself in your essay. Are there any topics or themes that you think would be particularly interesting to explore in your essay?
+STUDENT: I'm thinking about writing about why college matters to me and how my experience with Judaism has shaped my view of the world.
+COACH: That sounds like a great idea! College is an important part of life and exploring your relationship with Judaism could be a great way to give your essay a unique perspective. Can you tell me a bit more about why you think college matters and how Judaism has influenced your view of the world?
+STUDENT: Sure. I think college is important because it provides an opportunity to grow and learn in a new environment. It can also open up new opportunities that may not have been available before. As for Judaism, it has taught me the importance of community and service. It has also given me a sense of purpose and direction in life.
+COACH: Great! Those are all wonderful points to include in your essay. How can you use these points to make your essay engaging?
+STUDENT: I think I can focus on how college has given me the opportunity to explore my Jewish identity and how it has shaped my worldview. I can also talk about how I'm using my education to help others and make a difference in the world.
+COACH: That's a great approach! You can really use your essay to show the admissions committee how college has made an impact on your life and how you plan to use your education to make a difference. Do you have any other questions or ideas you'd like to discuss?

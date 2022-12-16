@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be a complex process, so let's start by breaking it down. First, are you looking to apply for grants or scholarships? 
+STUDENT: Grants.
+COACH: Okay, great. Grants are typically need-based, meaning that you need to demonstrate financial need in order to qualify. To do this, you will likely need to fill out the Free Application for Federal Student Aid, or FAFSA. This will allow you to see what types of grants you may qualify for. You should also look into state and local grants, as well as grants offered by your college or university. 
+Once you have identified the grants you are eligible for, you will need to start the application process. You will likely need to provide information about your academic background, financial need, and other relevant information. You will also need to write an essay explaining why you are a good candidate for the grant. 
+The essay is an important part of the application, so it's important to make sure you craft a compelling essay. To do this, you should start by researching the organization offering the grant, as well as the specific requirements of the grant. This will help you understand what the organization is looking for in a successful applicant. 
+You should also think about how you can demonstrate your qualifications in your essay. Make sure to highlight your academic achievements, volunteer experience, and any other qualifications that make you stand out from other applicants. 
+Finally, make sure to proofread your essay carefully before submitting it. This will help ensure that your essay is free of errors and ready to make a great impression on the grant committee.
+Does that answer your question?

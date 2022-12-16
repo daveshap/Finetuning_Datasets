@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: The structure of an essay depends on the type of essay you are writing. For a scholarship application essay, it is best to start with an introduction that introduces yourself and your background. This should be followed by a few body paragraphs which discuss your qualifications and why you are a good fit for the scholarship. Finally, you should end with a conclusion that summarizes your main points and reiterates why you should be chosen for the scholarship.
+STUDENT: What should I include in my introduction?
+COACH: Your introduction should include a brief overview of who you are and why you are applying for the scholarship. You should also explain why you are a good fit for the scholarship and what you hope to gain from it. Additionally, you should provide a brief overview of the experiences and skills that make you a qualified candidate. 
+STUDENT: How do I make my essay stand out?
+COACH: One way to make your essay stand out is to focus on personal stories and experiences. Instead of simply stating facts, share stories that illustrate why you are the best fit for the scholarship. Additionally, try to use vivid language and imagery to paint a picture for the reader. Finally, make sure to proofread your essay multiple times and have someone else review it to make sure there are no mistakes.

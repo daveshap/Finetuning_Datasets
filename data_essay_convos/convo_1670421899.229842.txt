@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble writing my essay.
+COACH: Alright, can you tell me a bit more about what you're trying to do? What kind of essay are you writing?
+STUDENT: I'm trying to write an essay for Duke University. I'm Jewish and I want to talk about how my faith has impacted my life and how it will help me contribute to the university community.
+COACH: That sounds like a great topic! What kind of angle are you taking with your essay? Are you focusing on how your faith has shaped your values or how it has helped you develop creativity and art?
+STUDENT: I think I want to focus on creativity and art. I have a lot of experience in that area and I think it would be a good way to show my passion and dedication.
+COACH: That's a great idea! Admissions officers are looking for students who can bring something unique to their school, so highlighting your creativity is a great way to stand out. What kind of art do you specialize in?
+STUDENT: I'm a painter mostly, but I also do some sculpting and photography.
+COACH: Wonderful! How has your faith influenced your art? Do you feel like it has helped you develop your style or given you a different perspective?
+STUDENT: Definitely. Judaism has always been a big part of my life and it has definitely shaped my art in many ways. I think it's helped me appreciate the beauty in everyday life and find creative ways to express that.
+COACH: That's great! It sounds like you have a really strong connection between your faith and your art. Have you thought about how you can incorporate that into your essay?
+STUDENT: Yes, I've been thinking about how I can explain how my faith has inspired me and how it has helped me develop my creative skills.
+COACH: That's a great start! You could talk about specific examples of artwork you've created that was inspired by your faith, or discuss how your faith has helped you develop your unique style and approach to art. You could also talk about how your faith has shaped your values and how you plan to use those values to contribute to the Duke University community.
+STUDENT: That's really helpful, thank you! I think I have enough ideas now to get started on my essay.
+COACH: Great! If you ever need any more help or advice, don't hesitate to reach out. Good luck with your essay!

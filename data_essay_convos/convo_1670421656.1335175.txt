@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to write my college admission essay, but I'm not sure what to write about.
+COACH: That's a great question. Before we get into what you should write about, let me ask you a few questions. What college are you applying to?
+STUDENT: Harvard and MIT.
+COACH: Okay, great! Being accepted into either of those schools is quite an accomplishment. Do you have any particular interests that you want to focus on in your essay?
+STUDENT: Well, I'm a first-generation college student, so I'd like to talk about that experience and how it has shaped my goals and ambitions.
+COACH: That sounds like a great topic for your essay. Admissions officers want to see that you have a clear understanding of what you want to accomplish in college and how your background will help you reach those goals. You can use your essay to explain how being a first-generation college student has influenced your motivation and ambition.
+You could also use your essay to discuss any challenges you've faced as a first-generation college student and how you overcame them. This will show admissions officers that you are resilient and have the drive and determination to succeed.
+Finally, you could use your essay to discuss how your background has shaped your perspective and how you plan to use that perspective to contribute to the college community. This will demonstrate that you understand the importance of diversity on campus and are committed to making a positive impact.
+I hope this gives you some ideas for your essay. If you have any other questions, please don't hesitate to ask. Good luck with your essay!

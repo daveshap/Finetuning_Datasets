@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student from a poor family and I'm trying to figure out how to write a college admission essay.
+COACH: That's great! First off, let me ask, why do you want to go to college? 
+STUDENT: Well, I'm interested in engineering and I think that college is the best way to get the knowledge and skills I need to pursue a career in that field.
+COACH: Okay, so you want to go to college to study engineering. What else do you want to get out of college? 
+STUDENT: I also want to be able to make a difference in the world. I'm passionate about politics and I think that college would give me the opportunity to learn more about it and how I can make a difference.
+COACH: That's great! Now, when it comes to writing a college admission essay, what are some of your biggest challenges? 
+STUDENT: I'm not sure how to write an essay that will really stand out and make an impression on the admissions officers. I also don't know what they're looking for in an essay or how to structure it properly.
+COACH: That's understandable. Writing an essay for college admissions can be daunting, but it's definitely doable. Let's start by talking about what the admissions officers are looking for in an essay. Generally, they want to see that you have strong academic skills, that you're creative, and that you have a unique perspective on the world. They also want to see that you have the motivation and drive to succeed in college. 
+From there, you'll want to structure your essay in a way that shows off your strengths and tells a story about who you are. Start by introducing yourself and then provide some background information about your experiences and why you want to go to college. Then, explain why you think college is the best way for you to achieve your goals. Finally, wrap up your essay with a conclusion that ties everything together and leaves a lasting impression.
+STUDENT: That's really helpful, thank you! I think I have a better idea of how to approach my essay now.
+COACH: You're welcome! If you need any more help or have any other questions, don't hesitate to reach out. Good luck with your essay!

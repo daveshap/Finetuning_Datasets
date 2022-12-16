@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help writing my essay for med school.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's an essay about my skills and achievements.
+COACH: Okay, do you have any ideas of what you want to include in the essay?
+STUDENT: Not really, I have no idea what to write about.
+COACH: That's okay. Let's start by talking about your skills and achievements. What are some of the things that you feel proud of achieving?
+STUDENT: Well, I'm proud of my academic achievements. I've been on the Dean's List for the past three years and I'm currently working towards a degree in molecular biology.
+COACH: That's impressive! What else have you achieved in your life?
+STUDENT: Well, I'm also active in my local Jewish community. I volunteer at a soup kitchen every week and I'm involved in several charities.
+COACH: That's great! Those are all wonderful achievements. Now let's think about how you can incorporate these into your essay. What do admissions officers look for in an essay about skills and achievements?
+STUDENT: I think they're looking for evidence of hard work and dedication.
+COACH: Exactly. They want to see that you have the drive and determination to succeed. So, when you write your essay, focus on how your achievements demonstrate those qualities. Show how you've worked hard to get to where you are and how you plan to use your skills and achievements to reach your goals.

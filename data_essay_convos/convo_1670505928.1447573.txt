@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question! First, let's start by talking about what your goals are. What do you want to achieve with your essay?
+STUDENT: I want to show the admissions committee that I'm well-rounded and capable of succeeding in their program.
+COACH: That's great! Now let's think about topics that can help you demonstrate that. What experiences have you had that have shaped your interests and goals?
+STUDENT: Well, I've been involved in a lot of volunteer work. I've also taken on leadership roles in my student organizations.
+COACH: Sounds like you have a lot of great experiences to draw from. Why don't you focus on one experience in particular that you feel really demonstrates your capabilities and commitment? You can use that as the basis for your essay.

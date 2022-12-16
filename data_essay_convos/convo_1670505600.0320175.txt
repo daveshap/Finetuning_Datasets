@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's take it one step at a time. First, what kind of essay are you writing?
+STUDENT: It’s a college admissions essay
+COACH: Great! What is the prompt for the essay?
+STUDENT: The prompt is to explain why I want to attend this particular college.
+COACH: Okay, so you need to explain why this school is the right fit for you. What do you like about the college? 
+STUDENT: I like the fact that they have a great reputation for their academics, and they offer a lot of extracurricular activities that I'm interested in.
+COACH: Perfect! Those are great points to include in your essay. Now, how can you express those points in an interesting way?
+STUDENT: I'm not sure.
+COACH: Think about what makes this college unique, and how it matches up with your own interests and goals. Try to make a connection between yourself and the college, and explain why it's the perfect fit for you. That should help you craft an engaging essay.

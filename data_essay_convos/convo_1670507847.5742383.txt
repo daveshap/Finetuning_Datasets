@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That’s a great question! Before we dive into that, can you tell me a bit more about your essay? What type of essay is it?
+STUDENT: It's a research paper.
+COACH: Great! When you're writing a research paper, the most important thing to keep in mind is that you need to include enough evidence to support your argument. Once you have enough evidence, then you can start to write your conclusion and wrap up the paper. To know if your essay is finished, ask yourself if you have included enough evidence to make your point, and if you have written a strong conclusion. If the answer is yes, then your essay is finished!

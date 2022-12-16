@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That depends. What kind of essay is it?
+STUDENT: It's a term paper.
+COACH: Alright, let's start by figuring out what you need to include in your term paper. What is the topic of the paper?
+STUDENT: The topic is the impact of technology on education.
+COACH: Great. Now, what do you want to say about this topic? What are your main points?
+STUDENT: I want to discuss how technology has changed the way we learn, how it has made learning more accessible, and how it has improved the quality of education.
+COACH: That's a great starting point. Now, let's talk about how you can make sure your essay is organized. What kind of structure do you think would work best for this topic?
+STUDENT: I was thinking of using a cause and effect structure, where I discuss the causes of the changes in education due to technology, and then talk about the effects.
+COACH: That's a great idea. Now, let's talk about how you can use evidence to support your points. What kind of sources can you use to back up your argument?
+STUDENT: I can use scholarly articles, research studies, and interviews with experts in the field.
+COACH: Perfect. Now, let's talk about how you can make sure your essay is effective. What kind of writing techniques can you use to make your points clear and convincing?
+STUDENT: I can use rhetorical devices like analogies and metaphors, as well as persuasive language to make my points more impactful.

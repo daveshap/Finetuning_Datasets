@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: Before we get into the conclusion, let's start by talking about your essay as a whole. What is the main point you want to make in your essay?
+STUDENT: I want to show how my experiences have shaped me and prepared me for grad school.
+COACH: That's great! Now, when it comes to the conclusion, it's important to think of it as a summary or reflection of the entire essay. You want to remind the reader of the main points you made and how they all tie together. Make sure to also include a call-to-action or something that will leave the reader with something to think about.

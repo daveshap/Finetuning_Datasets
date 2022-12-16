@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: That's a great question! I'm not an expert on grants, but I can help you with your admissions essay. Can you tell me a bit more about what you're looking for guidance on? 
+STUDENT: I'm applying to college and need help writing my admissions essay.
+COACH: Perfect! What specifically do you need help with? Are you having trouble getting started or do you need help refining your ideas? 
+STUDENT: I'm having trouble getting started. I don't know what to write about.
+COACH: That's a common issue! Let's start by talking about your goals and why you want to attend this particular college. What are your plans for the future and how do you think this college can help you achieve them?

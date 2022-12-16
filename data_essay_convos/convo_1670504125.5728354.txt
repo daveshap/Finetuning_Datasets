@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: Generally, college admissions essays are between 500-700 words. That said, you should make sure to answer the prompt thoroughly and provide enough information to give a good impression of yourself. 
+STUDENT: What kind of topics should I focus on in my essay?
+COACH: Your essay should focus on a topic that is relevant to your academic and personal interests. Think about something that you are passionate about and that has shaped your identity. You can also talk about an experience that has had a significant impact on your life, or a challenge that you have faced and how you overcame it.

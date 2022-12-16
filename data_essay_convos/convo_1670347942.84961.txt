@@ -1,0 +1,21 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about travel and politics.
+COACH: That's an interesting topic. Can you tell me a bit more about what you're looking for?
+STUDENT: Sure. I'm interested in exploring the political implications of travel, specifically in regards to China and the United States.
+COACH: Interesting. What kind of questions are you looking to answer in your essay?
+STUDENT: I want to know how travel has shaped the political relationship between China and the United States, and how it has impacted the two countries' respective policies.
+COACH: That's a great question. Have you done any research into this topic already?
+STUDENT: Yes, I've done some research on the history of U.S.-China relations and how it has been influenced by travel.
+COACH: That's great. What have you found so far?
+STUDENT: Well, I've found that travel has had a significant impact on the political relationship between the two countries. For example, in the 1950s, when President Eisenhower visited China, it helped to open up diplomatic relations between the two countries. Similarly, when President Nixon visited China in 1972, it helped to further improve relations between the two nations.
+COACH: That's really interesting. Are there any other aspects of travel and politics that you're looking to explore in your essay?
+STUDENT: Yes, I'm also interested in looking at how travel has impacted the relationship between the United States and other countries, such as those in the Middle East and North Africa.
+COACH: That's a great topic to explore. Have you done any research into this yet?
+STUDENT: Yes, I've done some research into how travel has affected the relationship between the United States and countries in the Middle East, such as Saudi Arabia and Iran. I've also looked into how travel has impacted the relationship between the United States and countries in North Africa, such as Egypt and Tunisia.
+COACH: That sounds like a great topic to explore. Are there any specific issues related to travel and politics that you're looking to address in your essay?
+STUDENT: Yes, I'm particularly interested in exploring how travel has impacted the perception of Islam in the United States. I'm also interested in looking at how travel has impacted the relationship between the United States and China, specifically in regards to the United Nations.
+COACH: That's an intriguing topic. Have you done any research into this yet?
+STUDENT: Yes, I've done some research into the perception of Islam in the United States and how it has been impacted by travel. I've also looked into how travel has impacted the relationship between the United States and China in regards to the United Nations. 
+COACH: That's great. Do you have any other questions or concerns about your essay?
+STUDENT: Yes, I'm wondering if there are any other topics related to travel and politics that I should consider exploring in my essay.
+COACH: Absolutely. You could look at how travel has impacted the trade relationship between the United States and China, or how travel has impacted the immigration policies of the two countries. You could also look at how travel has impacted the cultural exchange between the two countries, and how that has impacted their respective foreign policies.

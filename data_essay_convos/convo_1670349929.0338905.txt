@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for college admission and I'm not sure how to get started.
+COACH: That's a great question. First, let me ask you some questions so I can understand your needs better. What kind of college are you applying to?
+STUDENT: I'm applying to an engineering school.
+COACH: Great. Do you have any specific topics in mind for your essay?
+STUDENT: Not really. I feel like I'm a pretty boring person and don't have anything interesting to say.
+COACH: Don't worry, everyone feels that way at first. What do you think sets you apart from other applicants? Are there any particular experiences or interests that you could focus on in your essay?
+STUDENT: Well, I'm a Christian and I'm really passionate about my faith. I also have a lot of experience volunteering with my church's youth group.
+COACH: That sounds like a great starting point for your essay. You could focus on how your faith has shaped your outlook on life and how it has influenced your decision to pursue an engineering degree. You could also talk about your volunteer experience and how it has made you a more compassionate person. Does that sound like something you'd be interested in writing about?

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to law school and I need help writing my personal statement. 
+COACH: Okay, great! Let's start by discussing what inspired you to pursue a career in law.
+STUDENT: Well, I've always been interested in justice and the power of law to shape our society. I've also been inspired by my travels to Europe, where I saw how the legal systems of different countries are used to protect people's rights.
+COACH: That's really interesting. What motivated you to choose law school specifically?
+STUDENT: I want to use my creativity and art to make a difference in the world. I believe that law school will provide me with the skills and knowledge to do that. I want to use my education to help people, and I think law school is the best way for me to do that.
+COACH: That's a great goal! What do you think sets you apart from other applicants to UCLA law school?
+STUDENT: I think my unique perspective on justice and the law will be beneficial. I'm also passionate about the creative side of law, and I believe that I can bring a fresh approach to the field. Plus, I'm very organized and detail-oriented, which I think will be an asset when it comes to legal research and writing.

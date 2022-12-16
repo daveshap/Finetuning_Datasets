@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Well, that's a great question. A college application typically requires an essay, so let's talk about that. What type of essay are you writing?
+STUDENT: I'm writing a monograph.
+COACH: Okay, great. A monograph is a type of essay that is focused on a single topic or idea. It usually requires research to support your argument and can be quite challenging. So, what do you need help with?

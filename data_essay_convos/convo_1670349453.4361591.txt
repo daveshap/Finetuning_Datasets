@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help on my college application essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's a personal statement about my experience with Buddhism while I was in Thailand.
+COACH: Interesting! Can you tell me more about your experience with Buddhism?
+STUDENT: Sure. I spent two months traveling around Thailand and I had the opportunity to visit Buddhist temples and learn about the religion. I was really drawn to the idea of living a life of mindfulness and it has had a strong impact on my outlook since then.
+COACH: That sounds like a powerful experience. What do you think you learned from it that you could share in your essay?
+STUDENT: Well, I think the biggest lesson I learned was the importance of being present in the moment and not letting worries or anxieties consume me. Buddhism taught me to be mindful of the present and to appreciate everything I have.
+COACH: That's great! How do you think this experience would be relevant to your application to Princeton?
+STUDENT: I think it would show that I'm open to new experiences and that I'm capable of learning from them. I think it would also demonstrate that I'm able to think critically and reflect on my experiences in order to gain insight. I think this would be an important skill to have as a student of science at Princeton.

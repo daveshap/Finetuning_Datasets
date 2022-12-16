@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college applications. I'm interested in applying to MIT and I need to write a personal statement.
+COACH: That sounds like a great goal! Can you tell me a bit more about yourself and why you want to attend MIT?
+STUDENT: Sure. I'm a senior in high school and I'm really passionate about traveling. Last summer, I had the opportunity to visit Vietnam and it changed my life. It opened my eyes to different cultures and perspectives, and I want to continue learning about the world. I think attending MIT would be the perfect way to do that.
+COACH: That's an amazing experience! It sounds like you have a real passion for travel and learning about different cultures. How do you think attending MIT would help you pursue that passion?
+STUDENT: Well, I'm really interested in studying international relations and I think MIT has one of the best programs in the country. Plus, I know that MIT students have access to great resources and opportunities to explore the world. I think it would be the perfect place to continue my education and further develop my passion for travel.
+COACH: That makes sense. What are some of the things you would like to focus on in your personal statement?
+STUDENT: I want to focus on my experience in Vietnam, and how it shaped my view of the world and my desire to learn more. I also want to talk about my academic interests and why I think attending MIT is the best fit for me.
+COACH: Great! I think those are both excellent topics to focus on. Let's start by talking about your experience in Vietnam. What did you learn from that experience that you want to highlight in your essay?
+STUDENT: I learned a lot about different cultures and perspectives, and how important it is to be open-minded and understanding. I also learned the importance of taking risks and pushing yourself out of your comfort zone. I want to share these lessons in my essay and talk about how they have impacted my life and my goals.

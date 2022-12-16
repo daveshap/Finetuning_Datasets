@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble figuring out what to write about in my essay.
+COACH: Okay, that's a great question. Let's start by talking about what topics you're interested in. What topics have you been reading or studying lately that have really caught your attention?
+STUDENT: Well, I've been doing some research into the intersection of Christianity and Judaism, and how sexism affects our society today.
+COACH: Interesting! It sounds like you're passionate about these topics. Have you considered writing your essay around one of them?
+STUDENT: Yeah, I think I could do that. But I'm not sure how to approach it.
+COACH: That's a great question. Let's start by thinking about what kind of essay you want to write. Are you looking to write a persuasive essay, a narrative essay, or something else?
+STUDENT: I think I'd like to write a persuasive essay.
+COACH: Perfect! Now, let's think about the structure of your essay. Do you have any ideas for an introduction or thesis statement?
+STUDENT: Not yet, I'm still trying to figure out exactly what I want to say.
+COACH: That's understandable. Let's start by brainstorming some ideas. What are some of the main points you want to make in your essay?
+STUDENT: I want to talk about how sexism has had a negative impact on both Christianity and Judaism, and why we need to take steps to address this issue.
+COACH: That's an excellent topic. Now, let's think about how you can structure your essay. You could start by introducing the issue and then move on to discussing the various ways in which sexism has impacted both religions. You could then discuss potential solutions and end with a call to action. Does that sound like a plan?
+STUDENT: Yes, that sounds good.
+COACH: Great! Now, let's think about how you can make your essay stand out from the rest. What unique perspective or experience do you have that you can bring to the essay?
+STUDENT: Well, I'm an undergrad student, so I have a lot of insight into how sexism has affected my peers and our generation.
+COACH: Wonderful! That's the perfect angle to take. Incorporating your personal experience into your essay will give it a unique voice and make it stand out from the rest.

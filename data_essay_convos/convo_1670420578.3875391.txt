@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about sexism in engineering in Thailand.
+COACH: That's a great topic! Can you tell me a bit more about what you want to focus on? 
+STUDENT: Sure. I want to talk about how sexism has impacted the engineering industry in Thailand and how it has hindered progress in the field.
+COACH: That's a very interesting topic. Do you have any specific examples or stories that you would like to include in the essay?
+STUDENT: Yes, I have a few examples. For instance, there is a lack of female engineers in Thailand, which means that women are excluded from certain opportunities in the field. Additionally, there is a wage gap between men and women in engineering, with women earning less than their male counterparts.
+COACH: Those are great examples that can help illustrate your point. What else do you think makes this essay engaging?
+STUDENT: I think it's important to discuss the potential solutions to this problem and how the engineering industry in Thailand can become more inclusive for women. Additionally, I want to look at how the University of North Carolina is tackling this issue through initiatives like their Women in Engineering program.
+COACH: That's a great idea! It's important to provide concrete solutions and examples of progress being made to show readers that change is possible. Is there anything else you need help with?
+STUDENT: Yes, I'm not sure how to structure the essay. Can you help me with that?
+COACH: Absolutely! Let's start by breaking down the essay into sections. You can start with an introduction that outlines the main points you want to discuss, followed by a body section that dives deeper into each example and provides analysis. Then, you can end with a conclusion that summarizes your main points and provides a call to action. Does that sound like a good plan? 
+STUDENT: Yes, that sounds great! Thank you for your help.

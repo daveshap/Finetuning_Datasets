@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: That's a great question! First, let's talk about your essay topic. What research paper are you working on?
+STUDENT: I'm writing a paper on the history of the civil rights movement in the United States.
+COACH: Wonderful! That's an incredibly important topic. Now, when it comes to making your essay more engaging, there are a few things you can do. For starters, make sure you include vivid details and examples to illustrate your points. This will help draw the reader in and make them feel like they're part of the story. Additionally, try to use active language and avoid passive voice. This will give your essay a more lively and engaging tone. Finally, make sure to provide a strong conclusion that ties everything together. This will leave your reader with a lasting impression.

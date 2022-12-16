@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm trying to write my admission essay. I'm not sure what I should write about.
+COACH: That's a great question. Can you tell me a little bit more about yourself? What do you think makes you unique?
+STUDENT: Well, I'm a refugee from Africa and I come from a very poor family. I've experienced a lot of racism and political instability in my home country.
+COACH: Wow, that's a lot to deal with. It sounds like you have a powerful story to tell. You could focus on how these experiences have shaped you and how they have impacted your view of the world. You could also talk about how you have used your experiences to create positive change in your community. It could be a great way to show colleges why you would be an asset to their campus.

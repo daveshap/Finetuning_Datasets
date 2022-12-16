@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. Before we get into the specifics of your essay, let me ask you a few questions. What kind of job are you looking for? What skills do you have that make you a good candidate for this kind of job? 
+STUDENT: I'm looking for a job in marketing. I have experience with social media and creating content.
+COACH: Perfect. So, now that we've established what kind of job you're looking for, let's talk about your essay. For an argumentative essay, you'll need to make a claim and back it up with evidence. What kind of argument could you make about finding a job after college?
+STUDENT: I could argue that having a degree is not enough to land a job in the current market.
+COACH: That's a great start. What kind of evidence could you use to back up this claim? 
+STUDENT: I could use statistics to show the number of college graduates who are unemployed or underemployed and how that has increased over the years. I could also use examples of people who have had difficulty finding jobs despite having degrees.
+COACH: That's a great plan. Now, you also need to consider the opposing viewpoint. What would someone say to counter your argument?
+STUDENT: They might say that having a degree still gives you an advantage in the job market because employers look for candidates with higher education.
+COACH: Right. To effectively argue your point, you'll need to address this opposing viewpoint and explain why your argument is stronger. You should also think about the conclusion of your essay. How do you want to wrap up your argument?
+STUDENT: I could end by emphasizing the importance of developing skills outside of the classroom and the need for employers to recognize these skills.

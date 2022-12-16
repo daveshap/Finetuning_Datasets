@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started.
+COACH: No problem! Let's start with a few questions to get a better idea of what you want to write about. What are your skills and achievements?
+COACH: That's great! Now let's talk about your goals and personal objectives. What do you want to accomplish in your essay?
+STUDENT: I want to show that I'm a well-rounded person and that I'm capable of achieving great things.
+COACH: Great! That's a great start. Now, let's talk about how you can write about your skills and achievements in a way that shows who you are. What experiences have you had that have shaped you into the person you are today?
+STUDENT: Well, I'm a boring person so I don't have any exciting experiences to write about.
+COACH: That's ok! We all have our own unique experiences that have shaped us. It doesn't have to be something exciting. Just think about the small moments in your life that have made an impact on you. 
+Now, let's move on to another topic. How does financing college work?
+STUDENT: Well, I know that I need to apply for financial aid and scholarships. I also need to look into student loans and other forms of financing.
+COACH: That's right! You'll need to do some research to find out what options are available to you. Once you have a better understanding of the financial aid process, you can create a plan to make sure you have enough money to cover your college expenses.

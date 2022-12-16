@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question. I'm glad you asked. The first step is to research the scholarships and grants that are available to you. You can look online, talk to your school's financial aid office, or ask your family and friends if they know of any scholarships or grants that you may qualify for. Once you have identified the scholarships and grants that you are eligible for, you can start the application process.
+COACH: Now that we have discussed scholarships and grants, let's talk about your term paper. What is the topic of your paper?
+STUDENT: I'm writing about the impact of technology on modern society.
+COACH: That's an interesting topic. What kind of research have you done so far?

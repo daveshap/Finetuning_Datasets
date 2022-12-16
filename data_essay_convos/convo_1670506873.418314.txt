@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question. I'm glad you're looking into scholarships and grants. Before we get into the specifics of writing the essay, let me ask you a few questions so I can better understand your needs. What level of education are you currently pursuing? 
+STUDENT: I'm a high school senior.
+COACH: Great! Are there any particular areas of study or fields of interest that you're particularly focused on? 
+STUDENT: I'm interested in studying engineering.
+COACH: That's fantastic! Now, what kind of scholarships or grants are you looking for? 
+STUDENT: I'm looking for scholarships or grants specifically for engineering students.
+COACH: Got it. Now, let's talk about the essay itself. A good scholarship essay should have a clear focus, be well-structured, and demonstrate your strengths and abilities. Start by outlining your essay, organizing your thoughts and ideas in a logical way. Make sure to include your qualifications, why you're applying for the scholarship, and why you're the best candidate. Once you have your outline, you can start writing. Be sure to use clear, concise language and check your grammar and spelling. Finally, make sure to proofread your essay several times before submitting it.

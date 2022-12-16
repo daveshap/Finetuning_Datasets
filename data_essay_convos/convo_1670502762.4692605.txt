@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. The best way to approach this is to think about what makes you unique and what themes or topics you want to highlight in your essay. What are some of your passions, interests, and experiences that you want to share with the college admissions board?
+STUDENT: I'm interested in researching the effects of poverty on education.
+COACH: That's an excellent topic for a college admissions essay. You can start by doing some research on the subject and using your findings to create a compelling essay. Think about how poverty affects access to education, resources, and opportunities. Also consider how poverty can shape a student's academic performance and outlook. Finally, think about how you can use your research to make a case for why you should be accepted into the college.

@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to medical school, and I'm looking for help with my admissions essay.
+COACH: Great! What school are you applying to? 
+STUDENT: I'm applying to NCSU, Yale, and a few other schools.
+COACH: Okay, that's a great list! Do you have any particular topics in mind for your essay? 
+STUDENT: Well, I'm Jewish and I'd like to write about how my faith has shaped my outlook on life. 
+COACH: That sounds like an excellent topic. Can you tell me a bit more about how your faith has impacted your life?
+STUDENT: Sure. Growing up, my parents instilled in me the importance of helping others and giving back to the community. This has motivated me to pursue a career in medicine, so that I can use my skills to make a difference in people's lives. 
+COACH: That's a great perspective to include in your essay. What else would you like to include? 
+STUDENT: Well, I'd also like to talk about how my experiences with science and research have helped me gain a better understanding of the world and how I can use that knowledge to help others. 
+COACH: That's another great point to include in your essay. How do you think you can best express these ideas in your essay?
+STUDENT: I think I'll start by talking about my beliefs and why I chose to pursue a career in medicine. Then, I'll explain how my experiences with science and research have shaped my understanding of the world, and how I can use that knowledge to help others. 
+COACH: That sounds like a great plan. Do you need any help getting started? 
+STUDENT: Yes, please. I'm having trouble getting my thoughts down on paper. 
+COACH: No problem. Let's start by brainstorming some ideas. What kind of experiences have you had that have shaped your beliefs and outlook on life?

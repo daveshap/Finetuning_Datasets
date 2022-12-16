@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for a well-written essay that conveys your personality and passion for the field you are applying to. They want to get to know who you are as a person and what makes you unique. They also want to see that you have done your research on the program and that you understand the expectations of the school.
+STUDENT: What should I include in my essay?
+COACH: When writing your essay, you should make sure to include your motivations for wanting to pursue law, your experiences that have shaped your interest in the field, any special skills or qualities that you possess that will make you an asset to the program, and your goals for the future. You should also be sure to explain why the particular school you are applying to is the right fit for you. Additionally, it is important to make sure your essay is well written, with clear grammar and structure.

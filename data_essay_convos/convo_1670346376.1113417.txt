@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with a college application essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's a personal statement for North Carolina State University.
+COACH: Alright, so what do you want to focus on in your essay?
+STUDENT: I want to talk about my experiences doing charity work in Vietnam and how it shaped my goals and objectives.
+COACH: That's a great topic! What parts of the essay do you need help with?
+STUDENT: I'm struggling with the hook and the conclusion.
+COACH: Let's start with the hook. What kind of hook could you use to draw the reader in?
+STUDENT: Hmm, I'm not sure.
+COACH: Well, think about what will make the reader want to keep reading. What is the most interesting part of your story?
+STUDENT: I guess it would be the moment when I realized how much of an impact I could have by helping others.
+COACH: That's a great idea! You could start with a vivid description of that moment, or you could use a statistic or quote related to charity work to grab the reader's attention.
+STUDENT: Okay, I think I can come up with something.
+COACH: Perfect. Now let's talk about the conclusion. How do you want to tie your story together?
+STUDENT: I want to emphasize how my experience in Vietnam has helped me gain clarity on my goals and objectives.
+COACH: That's a great way to end the essay. You could use a powerful quote or statement to summarize your experience and explain how it has impacted your life.

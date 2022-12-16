@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: First, you need to determine what type of essay you are writing. Is it a dissertation?
+STUDENT: Yes, it is.
+COACH: Great! A dissertation is a long piece of writing that delves deeply into a particular subject. To get started, you should begin by researching the topic you want to write about. Make sure to find reliable sources and take notes as you go. Once you’ve done your research, you can begin to outline your essay. This will help you organize your thoughts and create a structure for your essay.
+STUDENT: What should I include in my essay?
+COACH: When writing a dissertation, you should include an introduction, body paragraphs, and a conclusion. In the introduction, you should provide background information on the topic, state your thesis statement, and explain the purpose of the essay. In the body paragraphs, you should present evidence to support your thesis statement and explain how it relates to the topic. Finally, in the conclusion, you should summarize your main points and restate your thesis.

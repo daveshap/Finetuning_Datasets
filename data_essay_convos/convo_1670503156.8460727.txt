@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, writing a college admissions essay as a first-generation student can be challenging. It’s important to focus on your unique experiences and perspective when writing your essay. What kind of topics have you been considering for your essay?
+STUDENT: I'm not sure. What topics do you think would be good to write about?
+COACH: That really depends on what you want to highlight in your essay. Think about the experiences that have shaped who you are and how you view the world. What have been the most meaningful moments in your life? What are some of the challenges you’ve faced as a first-generation student? What have been the biggest rewards? These are all great topics to explore in your essay.

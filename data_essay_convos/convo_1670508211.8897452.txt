@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are a form of financial aid that does not need to be repaid. They are usually awarded based on certain criteria such as academic performance, financial need, or community service. What type of essay are you working on?
+STUDENT: I'm writing a personal statement for medical school.
+COACH: Great! A personal statement for medical school is an opportunity to demonstrate your commitment to medicine and to explain why you would be an excellent addition to the program. What do you think are the most important elements of a successful personal statement?

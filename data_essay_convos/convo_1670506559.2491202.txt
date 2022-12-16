@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Sure, let's start with a reference interview. What type of essay are you working on? 
+STUDENT: A personal statement for law school.
+COACH: Great. Tell me a bit more about it. What type of information do you need to include in your essay?
+STUDENT: Well, I'm not sure. I know I need to talk about why I want to go to law school and why I'm a good candidate, but I'm not sure what else I should include.
+COACH: That's a great start. You'll want to include information about your academic and professional background, your interests and motivations, and any challenges you've faced that have shaped you as a person. It's also important to explain why you feel law school is the best choice for you and how you plan to make a positive impact. Finally, make sure to proofread your essay and make sure it reflects your personality and interests.

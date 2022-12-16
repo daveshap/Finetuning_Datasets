@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: A good essay should have a clear structure, strong arguments, and evidence to support those arguments. It should also be tailored to the prompt, and be written in a style that is appropriate for the admissions committee.
+STUDENT: What is the most important part of an admissions essay?
+COACH: The most important part of an admissions essay is the introduction. It’s your opportunity to grab the reader’s attention and make them want to read more. It should be engaging, creative, and provide an overview of what’s to come in the essay.
+STUDENT: What should I include in my essay?
+COACH: You should include relevant experiences, stories, and examples that demonstrate why you are a good fit for the school and how you can contribute to the campus community. Make sure to tie each point back to the prompt and explain why it is important to you. Be sure to also emphasize any unique qualities or skills that you have that would be beneficial for the school.

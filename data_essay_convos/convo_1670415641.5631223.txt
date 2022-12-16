@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I'm having trouble writing my personal statement.
+COACH: Okay, great. Tell me a little bit about yourself. What do you like to do in your free time?
+STUDENT: Well, I'm very interested in Judaism and I like to spend my free time reading books on Jewish history and culture.
+COACH: That's really interesting. What have you learned from your studies of Judaism that you would like to share in your essay?
+STUDENT: I've learned that Judaism is about more than just religious beliefs. It's about connecting with people and understanding their perspectives.
+COACH: That's a great point. Can you think of any specific examples from your life that demonstrate this idea?
+STUDENT: Yes, I've been involved in interfaith dialogue groups and I've seen how people from different backgrounds can come together and learn from each other.
+COACH: That's wonderful. How can you use that experience to write an effective personal statement for UCLA?
+STUDENT: I think I can talk about how my experiences in interfaith dialogue have taught me the importance of understanding different perspectives and how this will help me be successful at UCLA.

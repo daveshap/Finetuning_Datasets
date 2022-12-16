@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there, I'm writing an essay about sexism in the workplace and I'm having trouble getting started.
+COACH: That's a great topic. Can you tell me a bit more about what you want to focus on in the essay?
+STUDENT: Well, I want to talk about how sexism has impacted my own experience in the workplace, and also how it affects women in general.
+COACH: That's a great idea. Are there any particular aspects of sexism that you want to focus on?
+STUDENT: Yes, I want to look at how sexism has impacted my ability to advance in my career, as well as how it affects the way women are treated in the workplace.
+COACH: That's a great starting point. What kind of structure do you think would be best for this essay?
+STUDENT: I was thinking of starting with an introduction that outlines the main points I want to discuss, then going into detail about each point in separate sections.
+COACH: That sounds like a great plan. Do you have any specific goals or objectives you want to achieve with this essay?
+STUDENT: I want to raise awareness about the issue of sexism in the workplace, and hopefully inspire people to take action against it.
+COACH: That's a great goal. Are there any other topics related to sexism that you'd like to explore in this essay?
+STUDENT: I'd also like to talk about how sexism affects the ability of women to get scholarships and grants, and how it can limit their opportunities for advancement.
+COACH: Those are excellent topics. Do you have any sources in mind for researching these topics further?
+STUDENT: Yes, I've been looking online for articles and studies related to the issue.
+COACH: Great! Is there anything else you need help with in terms of writing this essay?
+STUDENT: I'm having trouble finding the right words to express my passion and enthusiasm for the topic.
+COACH: That's understandable. Have you tried writing down or brainstorming some ideas first? That can help to get your thoughts flowing.

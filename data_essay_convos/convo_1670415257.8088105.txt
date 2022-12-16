@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm hoping to apply to UCLA and I'm having a hard time writing my essay.
+COACH: That's understandable. What's been the most difficult part for you?
+STUDENT: Well, I'm a first-generation college student from Thailand and I'm not sure how to write about my experience.
+COACH: That's a great starting point. Can you tell me more about your experience as a first-generation college student from Thailand?
+STUDENT: Yeah, well, it's been really challenging. I had to overcome a lot of obstacles to get to where I am today. My family didn't have a lot of money, so I had to work hard to pay for my education and support myself. It was also difficult to adjust to the culture in the Philippines, where I went to school.
+COACH: That sounds like a lot of hard work and dedication. What do you think has been the most important lesson you've learned from this experience?
+STUDENT: I think the most important thing I've learned is to never give up, no matter how hard things get. I've faced a lot of rejection in my life, but I've kept pushing forward and that's what has gotten me to where I am today.

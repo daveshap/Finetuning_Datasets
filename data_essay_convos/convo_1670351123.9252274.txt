@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I'm having trouble coming up with a topic for my essay. I don't think I'm interesting as a person and I come from a single parent home.
+COACH: That's totally understandable! It can be hard to come up with an engaging topic when you feel like your life is mundane or boring. So, tell me, what are some of the things that interest you? What are you passionate about?
+STUDENT: Well, I'm really interested in Islam and the history of the Middle East.
+COACH: Great! That's a great starting point. How about writing an essay about the role of Islam in the Middle East and its impact on the region's culture and politics? You could also discuss how it has changed over time and how it continues to shape the region today.

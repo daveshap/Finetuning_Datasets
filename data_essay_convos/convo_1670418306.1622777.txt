@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing an essay about sexism in Europe and I'm having trouble getting started. 
+COACH: Alright, let's start by understanding your goal. What is the purpose of this essay? Are you looking to inform, persuade, or entertain? 
+STUDENT: I want to inform my readers about the issue of sexism in Europe. 
+COACH: Great, that's a great starting point. Now, what kind of research have you done so far? Have you read any articles or books on the topic? 
+STUDENT: Yes, I've done some research. I've read a few articles and books on the subject. 
+COACH: Excellent! That's a great start. Now, what kind of evidence are you going to use in your essay? Are you planning to include statistics, quotes, personal anecdotes, etc.? 
+STUDENT: I'm thinking of using all of those, but mostly statistics and quotes from experts. 
+COACH: That sounds like a great plan. Now, do you have any questions about the structure of the essay? How do you plan on organizing your argument? 
+STUDENT: Yes, I'm not sure how to structure the essay. I was thinking of using a five-paragraph structure, but I'm not sure if that's the best approach. 
+COACH: That's a great question. A five-paragraph structure can be effective, but it's not the only way to organize an essay. What other ideas have you come up with? 
+STUDENT: I was thinking of using a three-part structure, where I introduce the issue in the first part, discuss the evidence in the second part, and then draw my conclusions in the third part. 
+COACH: That's a great idea! This structure will help you clearly present your argument and provide a logical flow to your essay. 
+STUDENT: Thanks! I feel much better now. Is there any other advice you can give me before I start writing? 
+COACH: Absolutely! Before you start writing, make sure you have a clear thesis statement that outlines the main point of your essay. Once you have that, you can begin to craft your essay around that statement. Good luck!

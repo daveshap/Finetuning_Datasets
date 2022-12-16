@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be a complicated process. It's important to understand the different types of financial aid available and how to apply for them. Do you have any questions about the application process or the different types of aid? 
+STUDENT: Yes, I'm not sure how to start my persuasive essay.
+COACH: OK, let's start by thinking about what kind of argument you want to make. What is the main point that you want to get across in your essay? 
+STUDENT: I want to argue that college should be more affordable so more people can attend.
+COACH: Great! Now we can start to craft your argument. What evidence do you have to support your argument? 
+STUDENT: Well, I have some statistics on the cost of college tuition, and I also have some stories from people who have struggled to pay for college.
+COACH: Perfect! Those are both great sources of evidence. Let's start by organizing your evidence into an outline that will help you write your essay. Then we can talk about how to use rhetorical strategies to make your argument even stronger.

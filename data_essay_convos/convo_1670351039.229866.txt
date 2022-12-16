@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm having trouble writing my admission essay.
+COACH: That's understandable. It can be intimidating to write an essay for a top university like Duke. Can you tell me a bit more about your background and why you're interested in applying?
+STUDENT: Sure. I'm a first-generation college student from the Philippines and my goal is to get into medical school. I'm really passionate about medicine and helping others, so I'm hoping to get accepted into Duke.
+COACH: That's great! So why do you think an admission essay is important for your application?
+STUDENT: I think it's important because it gives the admissions committee a better understanding of who I am as a person and how I can contribute to their school. It's also a chance for me to show my writing skills and demonstrate my commitment to the program.
+COACH: That's a great point. An admission essay is a great opportunity to showcase your personality and interests, as well as your writing ability. It's also a way to stand out from other applicants. What would you like to focus on in your essay?
+STUDENT: I want to focus on my passion for medicine and how I have worked hard to get to this point. I also want to talk about my experiences as a first-generation college student and how that has shaped my goals and ambitions.
+COACH: That sounds like a great topic. It shows your commitment to medicine and your determination to succeed. It also demonstrates your unique perspective as a first-generation college student. Are there any other topics or themes you'd like to include in your essay?
+STUDENT: Yes, I'd also like to talk about my cultural background and how it has shaped my values and beliefs. I think it's important to show the admissions committee how my background has shaped my outlook on life.
+COACH: Absolutely. Your cultural background is a great topic to explore in your essay. It's a great way to show the admissions committee how your values and beliefs have been shaped by your experiences. Do you have any other questions or concerns about your essay?
+STUDENT: I think that's it for now. Thank you for your help!
+COACH: It was my pleasure. Good luck with your essay and your application!

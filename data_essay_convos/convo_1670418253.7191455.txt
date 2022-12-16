@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm currently working on my personal statement for college and I'm feeling a bit stuck. I'm not sure what to write about.
+COACH: That's understandable! Let's start by exploring some of your interests and experiences that might be relevant to the essay. What topics do you think you could write about?
+STUDENT: Well, I'm really interested in racism and social justice, and I'm also passionate about China and its culture. I'm also creative and enjoy making art.
+COACH: Those are all great topics to explore in your essay. Let's start with racism and social justice. Why do you feel so strongly about this topic?
+STUDENT: It's something that I've been aware of since I was young, and I've seen firsthand how it can impact people's lives. I believe it's important to talk about these issues and try to find solutions.
+COACH: That's very admirable. Can you think of any specific experiences or stories that you could use to illustrate your point?
+STUDENT: Yes, there's one experience that stands out to me. Last year, I volunteered at a local soup kitchen and I noticed that many of the people we served were people of color. This made me realize how deeply entrenched racism is in our society and how it affects people's access to resources.
+COACH: That's an excellent example. How do you think this experience has shaped your views on racism and social justice?
+STUDENT: It's made me more aware of the disparities between different groups and how they're impacted by racism. It's also made me more passionate about advocating for equality and doing what I can to make a difference.
+COACH: That's wonderful. Now, let's move on to your interest in China and its culture. What specifically draws you to this country and its culture?
+STUDENT: I've always been fascinated by the history and culture of China, and I'm particularly interested in the art and literature. I also admire the way that Chinese people have been able to stay connected with their traditions even as the country has modernized.
+COACH: That's an interesting perspective. Do you have any personal experiences or stories that you could share to illustrate your point?
+STUDENT: Yes, I had the opportunity to visit China last year and it was an amazing experience. I was able to explore the ancient cities and learn more about the culture and history. It was a truly eye-opening experience that has shaped my understanding of China and its people.
+COACH: That sounds like a great experience. Finally, let's talk about your creativity and art. What kind of art do you make and why does it matter to you?
+STUDENT: I enjoy making a variety of art, from painting and drawing to photography and digital art. To me, art is a way to express myself and explore my creativity. It's also a way to connect with others and share ideas and perspectives. I believe that art is an important part of life and can help us to understand the world around us.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay, we can start by brainstorming some ideas. What are some of your interests, hobbies, or passions?
+STUDENT: I'm passionate about music and art.
+COACH: That's great! Let's focus on those two topics. What about music and art do you find so interesting?
+STUDENT: I love the way music can bring people together and create a sense of unity. I also enjoy how art can express emotions that words cannot.
+COACH: Those are wonderful points to focus on in your essay. Think about how you can use these topics to illustrate your unique experiences and qualities. How have music and art impacted your life? Have you ever used them to help someone else? What have you learned from them? These are all things you can include in your essay.

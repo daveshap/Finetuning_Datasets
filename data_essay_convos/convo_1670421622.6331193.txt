@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I need help with my essay.
+COACH: Great! What kind of help do you need? Are you having trouble with the structure or content?
+STUDENT: I think I have a good idea for the content, but I'm not sure how to structure it.
+COACH: Alright, let's start with the structure. Do you have an idea of what you want your essay to look like?
+STUDENT: Well, I was thinking of starting off with a brief introduction about myself, then talking about my experience growing up in a single parent home, and then how that has shaped my views on charity work and my desire to pursue a career in social justice.
+COACH: That sounds like a great start! How long do you want your essay to be?
+STUDENT: I'm aiming for around 500 words.
+COACH: Okay, that's a manageable length. So, let's break it down. You can start your introduction by introducing yourself and giving a brief overview of your background. Then, you can move on to talking about your experience growing up in a single parent home. You can discuss how that has shaped your views on charity work and your desire to pursue a career in social justice. After that, you can talk about any relevant experiences you may have had, such as volunteering in Vietnam, and how that has further strengthened your commitment to social justice. Finally, you can wrap up your essay by discussing your future goals and how you plan to use your education at Princeton to help you achieve those goals. Does this sound like a good plan?
+STUDENT: Yes, that sounds great! Thank you so much for your help!

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm hoping to write an essay for a college application. I'm interested in studying science and I want to share my story of being a refugee. 
+COACH: That sounds like a great topic! Can you tell me a bit more about your experience as a refugee?
+STUDENT: Sure. I was born in Syria and lived there until I was six years old. I was forced to flee the country with my family during the war, and we eventually settled in the United States. 
+COACH: Wow, that must have been a difficult experience. How has it impacted you?
+STUDENT: It's definitely shaped who I am today. It's made me appreciate the opportunities I have here and I'm passionate about using my education to make a difference in the world. 
+COACH: That's really admirable. What do you think makes you a good fit for the college you're applying to?
+STUDENT: I think my experiences as a refugee give me a unique perspective on the world and I'm eager to use my education to help others. Plus, I'm really passionate about science and I've had some great experiences travelling and exploring different cultures. I think I'm a great fit for the college because of my diverse background and passion for learning. 
+COACH: That's a great answer! Do you have any specific examples of how you've used your education to make a difference? 
+STUDENT: Yes, I've been involved in a few volunteer projects in my community. Last year, I helped organize a science fair at my school and I'm currently working on a project to bring science education to underserved communities. I'm also planning to travel to India this summer to work on a project to provide clean water to rural villages. 
+COACH: That's incredible! It sounds like you have a lot of great experiences to draw from to make your essay stand out. What do you think makes you a great candidate for the college you're applying to? 
+STUDENT: I think my diverse background and passion for learning make me a great candidate for the college. I'm eager to use my education to contribute to the global community and I'm excited to be part of a diverse student body at Yale.

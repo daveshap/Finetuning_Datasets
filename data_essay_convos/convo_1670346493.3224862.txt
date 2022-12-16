@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to law school and I'm stuck on what to write about in my college admission essay.
+COACH: That's a great question. Can you tell me a bit more about yourself and what topics interest you? 
+STUDENT: Sure, I'm originally from China and I'm passionate about politics and refugee rights.
+COACH: Interesting. It sounds like you have a lot of experience and knowledge to draw from when writing your essay. What aspects of politics and refugee rights do you find most compelling?
+STUDENT: Well, I'm especially interested in the way governments treat refugees and the policies they put in place to protect them.
+COACH: That's a great focus for your essay! You could start by discussing the current political climate in China regarding refugee rights, and then move on to how you believe it should be improved. You could also talk about the impact of international laws and treaties on refugee rights and how they could be better enforced. Finally, you could discuss your own experiences with refugee rights and how they have shaped your views.

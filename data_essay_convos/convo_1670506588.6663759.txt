@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That's a great question! What kind of essay are you writing?
+STUDENT: An argumentative essay.
+COACH: Okay, great. Can you tell me a little bit more about the topic of your essay?
+STUDENT: I'm writing about why college tuition should be free.
+COACH: Alright, that's a great topic. Let's start by talking about how to structure your argument. The best way to do this is to create an outline. That way, you can make sure that all of your points are organized and that you don't miss any important details. We can also talk about what kind of evidence you should use to support your argument.

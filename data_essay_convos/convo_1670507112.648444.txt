@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Okay, let's start with a reference interview. What kind of essay are you working on?
+STUDENT: An argumentative essay
+COACH: Great, so what is your argument?
+STUDENT: I want to argue that the current education system is outdated and needs to be updated to better prepare students for the future.
+COACH: That's a great topic. So what kind of evidence can you use to support your argument?
+STUDENT: I'm not sure.
+COACH: Well, you could look at statistics on the number of students who are graduating from college unprepared for the workplace, or studies on the effectiveness of different teaching methods. You could also look into the opinions of experts in the field, or even surveys of students and teachers. All of these could be used to support your argument.

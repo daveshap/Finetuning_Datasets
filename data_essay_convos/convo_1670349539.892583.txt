@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there. I'm applying to grad school and I'm writing an essay about my experience as a Jewish student. 
+COACH: That sounds like an interesting topic. Could you tell me a bit more about what you want to focus on in your essay?
+STUDENT: Sure. I want to discuss my experiences as a Jewish student at UNC and how it has shaped my views on politics and neurodiversity. 
+COACH: Interesting. Could you explain a bit more about how your experiences at UNC have impacted your views on politics and neurodiversity?
+STUDENT: Well, I think my experience as a Jewish student at UNC has given me a unique perspective on politics. I've seen firsthand how certain policies can either help or hinder minority groups, and this has shaped my views on how politics should be conducted. In terms of neurodiversity, I've also seen how different kinds of thinking can be beneficial to society, and I want to explore this further in my essay. 
+COACH: That's great. So, it sounds like you want to explore how your experiences at UNC have shaped your views on politics and neurodiversity. What kind of evidence do you have to back up your claims?
+STUDENT: I have several examples from my time at UNC that I can reference in my essay. For example, I was part of a student group that worked to get a policy passed that would help protect the rights of Jewish students. I also had the opportunity to meet with faculty members who specialize in neurodiversity and learn about their research. 
+COACH: That's great. It sounds like you have plenty of evidence to back up your claims. Could you tell me a bit more about the structure of your essay? 
+STUDENT: Sure. I plan to start by introducing my experiences as a Jewish student at UNC and how it has shaped my views on politics and neurodiversity. Then, I'll discuss the specific examples I mentioned, such as the policy I helped pass and the research I've done on neurodiversity. Finally, I'll conclude by summarizing my main points and reflecting on what I've learned. 
+COACH: That sounds like a great structure. Do you have any questions about the essay writing process? 
+STUDENT: Yes, I'm a bit unsure of how to properly cite the sources I'm using in my essay. 
+COACH: No problem! Citing your sources is an important part of the essay writing process. I can provide you with some resources that will help you properly cite your sources and make sure your essay is accurate and well-referenced.

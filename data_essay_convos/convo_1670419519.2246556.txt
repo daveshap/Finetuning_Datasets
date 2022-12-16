@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having a lot of trouble getting started on my essay. I really don't know what to write about.
+COACH: That's understandable. Can you tell me a bit more about your background and the essay you need to write?
+STUDENT: Sure. I'm from a poor family in the Philippines and I'm writing an essay for a scholarship application.
+COACH: Okay, that's great. Can you tell me a bit more about what the scholarship is for and what kind of essay they're asking for?
+STUDENT: The scholarship is for college tuition and they want an essay about my skills and achievements.
+COACH: Alright, so they want to know what makes you stand out as a candidate. That's a great starting point. What kind of skills and achievements do you have that you could highlight in your essay? 
+STUDENT: Well, I'm pretty good at math and science and I've been on the honor roll for the past two years. I'm also involved in a few extracurricular activities like the debate team and student council.
+COACH: Those are all great qualities that you can use in your essay. Have you thought about how you might structure the essay and what points you want to emphasize?
+STUDENT: Not really. I'm still not sure where to start.
+COACH: That's okay. Let's start by brainstorming some ideas for the essay. Think about the skills and achievements you mentioned and how you could use them to show why you're a great candidate for the scholarship. We can then use those ideas to create an outline and start writing. Does that sound like a good plan?

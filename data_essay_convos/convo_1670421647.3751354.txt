@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my experience as a refugee from the Philippines and how it has shaped my life.
+COACH: That sounds like an interesting topic. Can you tell me a bit more about your experience?
+STUDENT: Sure. I was born into a poor family in the Philippines, and when I was nine, my family had to flee the country due to political unrest. We moved to the US and have been living here ever since.
+COACH: That must have been a difficult experience for you and your family. What do you hope to accomplish with this essay?
+STUDENT: I want to show that despite our difficult circumstances, I was still able to achieve my goals and make something of myself. I also want to use this essay to apply for scholarships and grants to help pay for college.
+COACH: That's a great goal. What kind of information do you think you need to include in your essay?
+STUDENT: I think I need to explain my background and why we had to flee the country. I also want to talk about how I've been able to stay positive despite the hardships I faced. Finally, I want to talk about how my experience has inspired me to get involved in charity work and how I plan to continue helping others in the future.

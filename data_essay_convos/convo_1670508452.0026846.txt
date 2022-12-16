@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: That’s a good question. Scholarships are typically awarded by organizations or institutions to students who demonstrate academic excellence, financial need, community involvement, or other criteria. Can you tell me more about your essay?
+STUDENT: Yes, I'm writing a dissertation.
+COACH: Great! What is the topic of your dissertation? 
+STUDENT: It's about the impact of artificial intelligence on healthcare.
+COACH: That’s an interesting topic. What kind of research have you done so far? 
+STUDENT: I've done some research on the potential benefits of AI in healthcare, but I'm having trouble finding sources to back up my claims.
+COACH: That’s understandable. When researching a topic, it’s important to find reliable sources that you can use to support your claims. Have you tried looking for peer-reviewed journal articles? Those are usually a great source of information.

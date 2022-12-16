@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble with my personal statement.
+COACH: Sure, let's start by talking about what admissions officers look for in a personal statement. What kind of topics would you like to focus on?
+STUDENT: I'm really interested in science and I was thinking of writing about my experience studying abroad in Europe, specifically in France.
+COACH: That sounds like an excellent topic! Can you tell me a bit more about your experience in France? What did you learn while you were there?
+STUDENT: I learned a lot about the different cultures and customs in Europe, and I got to experience some amazing sights. I also had the opportunity to take some classes at a local university, which really helped me to further my knowledge of science.
+COACH: That sounds like it was a great experience! What would you like to focus on in your essay? Are there any particular aspects of your experience that you want to emphasize?
+STUDENT: I think I'd like to focus on how my experience in France helped me to develop my understanding of science, and how it has impacted my goals for the future.
+COACH: That sounds like a great topic for your essay. What do you think makes your experience in France unique or different from other study abroad experiences?
+STUDENT: I think what makes it unique is the fact that I was able to immerse myself in a culture that was so different from my own. I was able to experience the sights, sounds, and customs of a different country, and it really helped me to gain a new appreciation for science and its importance in our lives.

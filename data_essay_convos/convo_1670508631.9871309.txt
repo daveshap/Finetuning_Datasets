@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Of course, I'd be happy to help. First, can you tell me a bit more about what you're writing? What kind of essay is it?
+STUDENT: It's a personal statement for medical school.
+COACH: Great! What kind of topics are you thinking of exploring in your essay?
+STUDENT: I want to talk about my passion for medicine and how I've grown as a person through my experiences in the medical field.
+COACH: That sounds like a great idea. What have been some of the key moments in your journey so far?
+STUDENT: Well, I've had some amazing mentors who have really pushed me to think critically and explore different aspects of medicine. I've also had some really difficult experiences that have helped me to understand the importance of compassion and empathy in patient care.
+COACH: Those are great experiences to draw from. How do you think these experiences have shaped you and your views on medicine?
+STUDENT: Well, I think they've helped me to understand the importance of being a compassionate and empathetic doctor. I'm also aware that medicine is constantly changing and evolving, so I'm always eager to learn and stay up-to-date with the latest developments.

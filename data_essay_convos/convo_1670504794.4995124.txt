@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: Generally, college admissions essays are between 500 and 650 words. However, it is important to make sure that you are focusing on quality rather than quantity when writing your essay.
+STUDENT: What should my essay include?
+COACH: Your essay should include an introduction, body paragraphs, and a conclusion. In the introduction, you should introduce the topic of your essay and provide a thesis statement. The body paragraphs should provide evidence and analysis to support your thesis statement. The conclusion should be a summary of your essay and restate your main points. 
+STUDENT: How do I write a thesis statement?
+COACH: A thesis statement is a single sentence that expresses the main idea of your essay. It should be clear, concise, and arguable. To write a thesis statement, start by thinking about the main point you want to make in your essay. Then, craft your statement by making a claim and providing evidence to support it. Finally, make sure that your statement is specific and that it accurately reflects the content of your essay.

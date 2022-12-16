@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for advice on what admissions officers look for in an essay.
+COACH: That's a great question. It really depends on the school you're applying to and what they value in their students. Can you tell me more about the school you're applying to?
+STUDENT: Sure, I'm applying to Duke University in the Philippines.
+COACH: Okay, great. Duke University looks for applicants who have a strong academic record, demonstrate leadership skills, and have a passion for learning. They also value students who have a commitment to diversity, including those from different backgrounds and perspectives. Are there any particular areas of interest or experiences that you'd like to highlight in your essay?
+STUDENT: Yes, I'm part of the LGBT community and I'm very passionate about science.
+COACH: That's wonderful! You could use your essay to discuss how your experiences as a member of the LGBT community have shaped your perspective and how your passion for science has driven you to pursue a career in the field. You could also talk about how these two aspects of your identity have helped you to become a leader and advocate for others. This would be a great way to show Duke University that you are a well-rounded individual with a commitment to diversity and inclusion.

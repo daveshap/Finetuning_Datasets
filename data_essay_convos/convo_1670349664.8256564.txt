@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I'm having trouble writing my essay. I'm from a poor family in Germany and I want to go to med school.
+COACH: That's a great goal! Can you tell me more about your background and what inspired you to pursue a career in medicine?
+STUDENT: Well, I was born and raised in Germany and my parents have always been very supportive of me. I've always been interested in science and medicine, and I've also been fascinated by the different cultures and customs in China. I think it would be amazing to apply my knowledge of both countries to help people from all walks of life.
+COACH: That sounds really inspiring! What specifically do you hope to accomplish with a medical degree?
+STUDENT: I want to use my medical knowledge to help those in need. I want to work with disadvantaged communities and provide them with quality healthcare. I also want to use my knowledge to research new treatments and medications that can improve people's lives.
+COACH: That's an admirable goal! What have you done so far to prepare yourself for medical school?
+STUDENT: I've been studying hard in school and taking advanced science courses. I've also been volunteering at a local hospital to gain experience in the medical field. I'm also doing research on the latest medical breakthroughs and treatments.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that demonstrate an understanding of the topic, as well as an ability to communicate your ideas in a clear and concise manner. They also look for evidence of your commitment to the field you are applying to and your potential to contribute to the program.
+STUDENT: How can I make my essay stand out?
+COACH: You can make your essay stand out by using vivid language and making sure your essay is well-structured. Additionally, make sure you provide concrete examples to support your points. Also, make sure to proofread your essay and check for any typos or grammar errors. Finally, make sure to tailor your essay to the grant you are applying for, highlighting why you are the best candidate for the grant.

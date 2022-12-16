@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my goals and personal objectives. I'm applying to both MIT and UNC and I'm having trouble figuring out what to write.
+COACH: Okay, that sounds like a great topic to explore. Can you tell me a little bit more about yourself and why you're interested in these two schools?
+STUDENT: Sure. I'm a recent college graduate and I'm interested in pursuing a career in technology. I'm also a member of the LGBT community and I'm looking for a school that can offer me a supportive environment.
+COACH: That's great! It sounds like you have a lot of potential and ambition. What are some of your long-term goals?
+STUDENT: Well, my main goal is to find a job after college that will allow me to use my skills in technology. I'm also interested in exploring the possibilities of entrepreneurship and starting my own business.
+COACH: Those are great goals! It sounds like you have a clear vision for your future. Now, let's talk about how you can use your essay to demonstrate your commitment to achieving those goals. What kind of information do you think would be helpful to include in your essay?
+STUDENT: I think it would be important to discuss my experience as a member of the LGBT community and how it has shaped my goals and objectives. I also want to make sure I highlight my experience in technology and my commitment to learning new skills.
+COACH: That sounds like a great plan! You could also consider discussing any extracurricular activities you've been involved in that have helped you develop your skills and knowledge. This could be a great way to show that you're ready to take on the challenges of higher education.

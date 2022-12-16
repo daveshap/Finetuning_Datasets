@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm looking for advice on getting started with my essay.
+STUDENT: I'm applying to law school and want to make sure I write an effective essay that stands out.
+COACH: That's great! What are some of the topics you'd like to focus on in your essay? 
+STUDENT: Well, I want to talk about my experiences working in charity organizations in the Philippines.
+COACH: That's a great topic! What kind of experiences have you had with charity work in the Philippines?
+STUDENT: Well, I've done a lot of volunteer work in the past few years. I've helped build homes for those in need, distributed food and medical supplies to remote villages, and worked with local organizations to create sustainable solutions to poverty.
+COACH: That sounds like an incredible experience! What have you learned from your charity work in the Philippines?
+STUDENT: I've learned a lot about the importance of giving back, the power of community, and the strength of human resilience. I've also seen firsthand the impact that poverty can have on people's lives, and I've become more aware of the need for sustainable solutions to global issues.

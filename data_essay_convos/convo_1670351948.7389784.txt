@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm having trouble figuring out what to write about in my personal statement.
+COACH: Alright, let's start by talking about your interests. What topics do you enjoy exploring?
+STUDENT: Well, I'm passionate about LGBT rights and neurodiversity. I've done a lot of charity work in my community related to these topics.
+COACH: Excellent! It sounds like you have a lot of experience to draw from. Let's think about how you can use this experience to craft a compelling essay. What have been some of the biggest challenges you've faced in your work with these causes?
+STUDENT: One of the biggest challenges has been the lack of understanding of the issues surrounding LGBT rights and neurodiversity. People often don't realize how much progress still needs to be made in order to ensure full inclusion and acceptance of these groups.
+COACH: That's a great insight. You could use this as an example of how you've had to be a leader and an advocate for these causes. You could talk about the obstacles you've faced and how you've overcome them, and how this has shaped your view of the world.
+STUDENT: That's a great idea! I think I can use that to really show why this is important to me and why I'm passionate about it.
+COACH: Perfect! Now let's think about how you can tie this back to your application to Yale. How can you use your experiences to demonstrate why you would be a great addition to the Yale community?
+STUDENT: I think I can emphasize how my experiences have helped me become a better leader, and how I'm committed to working towards creating a more inclusive and understanding world.
+COACH: That's a great angle to take! You could talk about how your experiences have shaped your perspective and how you plan to use your education at Yale to continue your advocacy work.
+STUDENT: That sounds perfect. Thanks so much for the help!

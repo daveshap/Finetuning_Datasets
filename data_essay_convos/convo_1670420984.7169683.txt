@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college admission essay.
+COACH: Great! What kind of help do you need? Do you need help with the structure or the content? 
+STUDENT: I think I need help with both. I'm not sure how to structure it and I'm struggling to come up with something to write about.
+COACH: Okay, let's start with structure. An admission essay typically has three parts: an introduction, body paragraphs, and a conclusion. In the introduction, you need to introduce yourself and explain why you're applying to the college. The body paragraphs should focus on your experiences and qualifications that make you a good fit for the college. Lastly, the conclusion should summarize what you've said and emphasize why you are the best candidate for the college. Does this help?
+STUDENT: Yes, that helps a lot. Now I understand the structure, but I'm still unsure of what to write about in my personal statement.
+COACH: That's a great question. An admission essay is important because it gives the admissions committee a chance to get to know you better. Think of it as an opportunity to tell your story and show them why you would be a great addition to their school. Consider your experiences, interests, and values, and how they could contribute to the college community.
+For example, if you are a Muslim student, you could talk about how your faith has shaped your life and how it would enrich the campus community. Or if you are interested in finding a job after college, you could discuss how the college's resources and programs could help you reach your goals.
+STUDENT: That's really helpful. I think I have a better idea of what to write now. Thank you!

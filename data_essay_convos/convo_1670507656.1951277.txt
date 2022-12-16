@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question! Before we can answer that, I'd like to know a bit more about the essay. What kind of essay are you writing?
+STUDENT: It's an admissions essay with a prompt.
+COACH: Okay, great. Can you tell me a bit more about the prompt? What is it asking you to do?
+STUDENT: The prompt is to write about why I would be a good fit for the program.
+COACH: Alright, that's a great prompt. Now, what have you written so far? Do you have any drafts or outlines you can show me?

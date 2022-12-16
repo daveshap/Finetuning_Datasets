@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experience as a Christian from the Philippines and how I overcame obstacles growing up in a single parent home.
+COACH: That sounds like an interesting topic. Can you tell me a bit more about what you want to focus on in your essay?
+STUDENT: Well, I want to talk about the social issues I faced in my community because of my faith and how I was able to push through those challenges.
+COACH: Great, that's a great place to start. What kind of social issues did you face?
+STUDENT: I faced a lot of rejection and prejudice from my peers because of my faith. I also had to deal with a lot of negative stereotypes associated with being a Christian in my community.
+COACH: That must have been difficult. How did you manage to overcome these obstacles?
+STUDENT: I think the main thing that helped me was having a strong faith in God and relying on Him for strength and guidance. I also had a lot of support from my family and church community which really helped me stay strong and keep going.

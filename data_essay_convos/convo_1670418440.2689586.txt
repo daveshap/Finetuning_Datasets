@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with an essay I'm writing for my college application. I'm applying to MIT, Princeton, and Yale, and I want to make sure my essay is perfect.
+COACH: That's great! What kind of essay are you writing?
+STUDENT: It's a personal statement. I want to talk about my experience growing up in a Jewish household and how it has shaped me into the person I am today.
+COACH: Interesting! What do you think admissions officers would be looking for in your essay?
+STUDENT: I think they'd want to see how my experience with Judaism has made me more open-minded, resilient, and driven. I want to show that I'm someone who can think critically and take initiative.
+COACH: Those are all great qualities! Can you tell me more about your experience with Judaism? How has it affected you and your values?
+STUDENT: Growing up in a Jewish household has really helped me develop a strong sense of community and responsibility. I've learned to value education, hard work, and helping others. Judaism has also taught me to be open-minded and tolerant of different beliefs and cultures.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That's a great question. To help me understand what you're looking for, can you tell me a bit more about your essay? What kind of essay is it?
+STUDENT: It's a monograph.
+COACH: Great. A monograph is an essay that examines a single subject in depth. So, why does college matter? Well, there are many reasons why college matters. For one, it provides the opportunity to gain knowledge and skills that can help you succeed in the future. College also allows you to develop relationships with peers, professors, and mentors who can provide valuable advice and guidance. And finally, college can open doors to new career opportunities and help you build a network of contacts.

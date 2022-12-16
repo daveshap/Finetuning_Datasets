@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admission essay for a college in China. I'm having trouble coming up with ideas and expressing my creativity.
+COACH: That's understandable. Writing an admission essay can be tricky because it's important to make sure you stand out from the crowd. What kind of creative elements do you want to include in your essay? 
+STUDENT: I would like to include some of my artwork and discuss how my experience with art has shaped my goals and personal objectives.
+COACH: That's a great idea! Can you tell me a bit more about your art and how it has influenced your goals?
+STUDENT: Sure, I've been doing art since I was a child and it has always been a passion of mine. It has taught me to think outside the box and to be creative when problem-solving. It has also helped me develop my communication skills, as I have had to explain my artwork to others. All of these skills and achievements have helped me set my personal goals, such as pursuing a career in the arts.
+COACH: That's really impressive! It sounds like art has really helped you grow and develop as a person. How do you think this will help you in the admissions process?
+STUDENT: I think it will show the admissions committee that I am creative and passionate about art. I think it will also demonstrate that I am open to new experiences and that I am willing to take risks in order to achieve my goals.

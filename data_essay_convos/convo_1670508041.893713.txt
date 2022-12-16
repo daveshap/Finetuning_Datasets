@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question. Can you tell me more about the essay and what your goal is? How long is it currently and what topics are you covering?
+STUDENT: My essay is about gun control and it's currently about 1,500 words. I'm trying to make it shorter but still get my point across.
+COACH: Okay, that's a great start. Let's focus on the persuasive aspect of your essay. What points are you trying to make about gun control?
+STUDENT: I want to make the argument that gun control laws should be stricter in order to reduce gun violence.
+COACH: Alright, so it sounds like you have a clear goal in mind. The first thing we can do is look for any unnecessary or redundant information. Are there any facts or examples that could be removed without losing the overall point?
+STUDENT: Yes, I think I can cut out some of the statistics I used to support my argument.
+COACH: Perfect! That's a great place to start. Now, let's look at the structure of your essay. Is there anything that can be reorganized or condensed to make it more concise?
+STUDENT: I think I can combine two of my body paragraphs into one and still get my point across.
+COACH: Great! That's an excellent way to make your essay shorter without losing any of your argument. Are there any other areas of the essay that you think could be improved upon?
+STUDENT: I'm not sure.
+COACH: Okay, let's take a look at the conclusion. Is there anything that can be removed or condensed to make it shorter?
+STUDENT: Yes, I think I can cut out some of the supporting evidence I used in the conclusion.
+COACH: Perfect! That's another great way to make your essay shorter. Is there anything else that you would like to work on?
+STUDENT: No, I think that's it.
+COACH: Alright, great! You've done a great job of making your essay shorter and still getting your point across. If you need any more help in the future, don't hesitate to reach out.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: That's a great question. Let's start by discussing what kind of essay you're writing and what your goals are for it. What type of essay are you writing?
+STUDENT: I'm writing a dissertation.
+COACH: Okay, great. So, what kind of grants are you looking to apply for? Are you looking for grants that are specific to your dissertation topic, or are you open to applying for any grant that could help you fund your research or other related costs?

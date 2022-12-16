@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: Great question! To make your essay engaging, you should focus on creating a strong narrative. Make sure to have a clear beginning, middle, and end. Also, make sure to include vivid details that will draw in the reader and help them connect with your story. Finally, make sure to use active language and avoid passive voice. This will help make your essay more dynamic and engaging. 
+STUDENT: what is the best way to structure my essay?
+COACH: When it comes to structuring your essay, there are many approaches you can take. One approach is to start with an introduction that sets the tone and introduces the topic. Then, move into the body of the essay, which should be broken down into multiple paragraphs. Each paragraph should focus on one point or argument that supports your main idea. Finally, end with a conclusion that summarizes the main points of your essay and provides a sense of closure. 
+STUDENT: What should I include in my essay?
+COACH: When it comes to writing your essay, you should focus on conveying your unique story. Think about what makes you stand out from other applicants and try to capture this in your essay. Make sure to include specific examples that illustrate your experiences and showcase your strengths. Additionally, be sure to include any relevant information that will help the admissions committee get to know you better. 
+STUDENT: How do I make sure my essay is well-written?
+COACH: To ensure that your essay is well-written, you should focus on proofreading and editing. Make sure to read through your essay several times and pay close attention to grammar, punctuation, and spelling. You should also have someone else review your essay for feedback and suggestions. Finally, don't forget to check for any inconsistencies or confusing statements that may need clarification.

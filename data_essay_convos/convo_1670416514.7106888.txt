@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and UCLA and I'm really struggling with getting started on my essay.
+COACH: Great! Let's start by understanding what it is that you want to communicate in your essay. What do you think are the most important elements for you to include?
+STUDENT: Well, I want to talk about my creativity and how art has been an important part of my life. I also want to mention my experience living in France and how it has shaped my worldview.
+COACH: That sounds like a great start. Have you already done any research or brainstorming on the topic?
+STUDENT: Yes, I've done some research, but I'm still having trouble putting it all together.
+COACH: That's understandable. Let's start with your experience in France. What was it that made this experience so special for you?
+STUDENT: Well, I had the opportunity to explore different parts of the country and really get to know the culture. I also met some amazing people who have become lifelong friends.
+COACH: That's wonderful. How did this experience shape your view of the world?
+STUDENT: It really opened my eyes to different cultures and lifestyles. I learned to appreciate the beauty in diversity and to be more tolerant of different beliefs. It also helped me to develop a better understanding of global issues.
+COACH: That's great. Now let's focus on your creativity and art. How has art been an important part of your life?
+STUDENT: Art has been a way for me to express my emotions and thoughts. It helps me to process difficult situations and to find joy in the little things. It's also been a source of inspiration for me when I'm feeling stuck or unmotivated.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm having trouble figuring out what to write about.
+COACH: That's great! It sounds like you have a lot of potential topics to explore. What are some of the things that you are passionate about?
+STUDENT: Well, I'm really interested in politics and social issues. I'm also involved in a lot of charity work.
+COACH: That's wonderful! So it sounds like you have a lot of experience with both political and social issues, as well as charity work. Do you have any particular topics that you would like to focus on?
+STUDENT: Yes, I'm really interested in exploring the effects of poverty on education and how it can be addressed.
+COACH: That's a great topic! Let's start by thinking about what you already know about poverty and education. What do you think are some of the main issues that need to be addressed?
+STUDENT: I think one of the major issues is the lack of access to quality education for those living in poverty. There are also disparities in funding for schools in low-income areas, which can lead to lower academic achievement.
+COACH: That's a great point! Those are definitely important issues to consider. What do you think can be done to address these issues?
+STUDENT: I think the first step is to ensure that all students have access to quality education. This could include providing more resources to schools in low-income areas and increasing funding for programs that provide educational opportunities to disadvantaged students.
+COACH: That's a great idea! It sounds like you have a lot of passion and knowledge about this topic. You could use this information to create an essay that explores the effects of poverty on education and how it can be addressed. Is there anything else that you would like to discuss?

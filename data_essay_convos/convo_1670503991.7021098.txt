@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That depends on the essay prompt and what you need to accomplish with your essay. What is the prompt for your scholarship application?
+STUDENT: The prompt is to explain why I am the best candidate for this scholarship.
+COACH: Okay, great. To start, you should focus on your unique strengths and experiences that make you stand out from the other candidates. Think about what makes you special and how that can be used to explain why you are the best candidate for the scholarship.
+You could also talk about any challenges you have faced in your life and how you overcame them. This will demonstrate your resilience and determination, which are important qualities for anyone applying for a scholarship.
+Finally, make sure to emphasize how the scholarship would help you achieve your goals. Explain why you need the scholarship and how it would help you reach your ambitions. This will show the selection committee that you are serious about your studies and that you are committed to achieving your goals.

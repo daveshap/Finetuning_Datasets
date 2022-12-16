@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with an essay I'm writing about racism and social issues.
+COACH: That's a great topic! What kind of essay are you writing?
+STUDENT: It's a personal essay for college admissions. I'm applying to both Harvard and MIT.
+COACH: That's a very competitive field. What is your goal in writing this essay?
+STUDENT: I want to show the admissions committee that I'm aware of the issues facing our society today and that I'm willing to work towards a better future.
+COACH: That's a great goal! How do you plan to approach the essay?
+STUDENT: I want to focus on how racism has impacted my life and how I've been able to overcome obstacles.
+COACH: That sounds like a really powerful story. What kind of obstacles have you faced in your life?
+STUDENT: I've faced rejection due to my race, and I've had to work hard to prove myself in order to succeed.
+COACH: That's a difficult situation, but it's also a great opportunity to show your resilience and determination. Have you experienced any other forms of racism?
+STUDENT: Yes, I've experienced discrimination in the workplace and in my community.
+COACH: That's very unfortunate. How have you dealt with those experiences?
+STUDENT: I've tried to stay positive and focus on what I can do to make a difference. I've also tried to use my experiences to inform my actions and decisions.
+COACH: That sounds like a very mature and responsible approach. Do you feel like you have a clear idea of how to approach your essay now?
+STUDENT: Yes, I think I have a better idea of what I want to write about.
+COACH: Great! Let's talk about the structure of your essay. What do you think would be the best way to organize your thoughts?

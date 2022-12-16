@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admission essay is important because it allows you to showcase your personality, values, and goals to the admissions committee. It gives them a better understanding of who you are and why you would be a good fit for their school. It also allows you to stand out from other applicants, as it gives you the opportunity to show your unique perspective and creativity.
+STUDENT: What should I include in my essay?
+COACH: You should include any information that will help the admissions committee get to know you better. This can include your academic and extracurricular accomplishments, your motivations, your goals, and anything else that makes you unique. It's also important to make sure that your essay is well-structured and flows logically.
+STUDENT: How long should my essay be?
+COACH: The length of your essay will depend on the requirements of the college or university you're applying to. Generally, though, most essays should be between 500 and 650 words. It's important to make sure that you use each word wisely and don't waste space with irrelevant information.
+STUDENT: How do I make sure my essay is effective?
+COACH: An effective essay needs to be interesting, engaging, and well-written. Make sure that you use vivid language, tell a story, and provide evidence to support your points. Additionally, make sure that you proofread your essay before submitting it and have someone else read it to make sure it's clear and concise.

@@ -1,0 +1,18 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm trying to write an engaging essay.
+COACH: That's great! Let's start by talking about what makes an essay engaging. What do you think?
+STUDENT: Well, I think an essay should have a clear structure, interesting examples, and a strong argument.
+COACH: Absolutely! Those are all important elements of an engaging essay. What kind of structure do you think would work best for your essay? 
+STUDENT: I think I'll use a five paragraph essay format. 
+COACH: Great! That's a good starting point. Now, let's talk about the content of your essay. What kind of topics do you want to discuss?
+STUDENT: I want to talk about my experiences in Vietnam and how they shaped me into the person I am today. 
+COACH: That's a great topic! Can you tell me more about your experiences in Vietnam and how they have impacted your life? 
+STUDENT: Sure. I spent a year volunteering in Vietnam and it was an incredible experience. I learned so much about the culture and the people there, and it really opened my eyes to the world. It taught me to be open-minded and to appreciate different cultures and perspectives. 
+COACH: That sounds like a wonderful experience. How do you think it has impacted your plans for the future? 
+STUDENT: Well, it made me realize that I want to pursue a career in international relations and diplomacy. I'm currently applying to grad school for this field, and I think my experiences in Vietnam will be a great asset. 
+COACH: That's fantastic. So, once you've completed your graduate studies, what kind of job do you think you'd like to have? 
+STUDENT: I'm hoping to find a job in the government, either at the local or national level. I'm also interested in finding a job in the nonprofit sector. 
+COACH: Those are both great options. Do you have any strategies for finding a job after college? 
+STUDENT: Yes, I plan on networking and reaching out to people in my field. I also plan on attending job fairs and researching potential employers. 
+COACH: Those are all great strategies. Is there anything else I can help you with? 
+STUDENT: No, I think I'm all set, thank you for your help!

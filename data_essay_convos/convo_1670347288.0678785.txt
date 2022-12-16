@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my admission essay.
+COACH: Sure, let's get started. What kind of essay are you writing? 
+STUDENT: It's a personal statement for college admissions. 
+COACH: Okay, great. What kind of topics would you like to discuss in your essay?
+STUDENT: I want to talk about my charity work, how I overcame obstacles and rejection, and why an admission essay matters. 
+COACH: That sounds like an interesting topic. Let's start with your charity work. Can you tell me a bit more about that?
+STUDENT: Sure. I've been involved in charity work since I was a kid. I've done a lot of volunteer work in my local community and I'm currently working on a project to help people in need. 
+COACH: That's really admirable. What inspired you to get involved in charity work?
+STUDENT: Well, I've always had a passion for helping others. I think it's important to give back to the community and make a difference in people's lives.
+COACH: That's a great attitude to have. Now, let's talk about overcoming obstacles and rejection. Can you tell me more about that?
+STUDENT: Sure. I've faced a lot of rejection in my life and it's been tough to deal with. But I've learned to take rejection as an opportunity to grow and learn from my mistakes. I've also learned to be resilient and stay focused on my goals no matter what.
+COACH: That's a great attitude. It takes a lot of courage to keep going even when things don't go your way. Now, why do you think an admission essay matters?
+STUDENT: An admission essay is important because it gives the admissions committee insight into who you are as a person. It allows them to get to know you beyond just your grades and test scores. It also helps them understand your motivations, passions, and goals.

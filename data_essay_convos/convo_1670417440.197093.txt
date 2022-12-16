@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help on how to write a college admission essay.
+COACH: Great, let's start by talking about what you want to write about. Do you have any particular topics in mind?
+STUDENT: Well, I'm interested in politics, so I was thinking about writing about that.
+COACH: That's a great topic! What specifically do you want to write about when it comes to politics?
+STUDENT: I'm not sure yet. I was thinking about maybe comparing the political systems in France and the US.
+COACH: That's an interesting idea. What about the college admission process itself? Do you have any questions about that?
+STUDENT: Yes, I'm not sure how it works. Can you explain that to me?
+COACH: Absolutely. The college admission process is different for every school, but generally speaking, colleges look at your academic performance, extracurricular activities, letters of recommendation, and essays. Essays are a great way to show colleges who you are as a person and why you would be a great addition to their campus.
+STUDENT: That's really helpful. I'm just worried that I'm not interesting enough as a person to write an impressive essay.
+COACH: Don't worry, everyone has something unique to offer. Think about your experiences, your passions, your values, and your goals. What makes you stand out from the crowd? What do you think sets you apart from other students?
+STUDENT: Hmm, I'm not sure. I guess I'm very passionate about politics and I'm interested in learning more about international relations.
+COACH: That's great! You could focus your essay on your interest in politics and how it has shaped your worldview. Maybe you could even talk about how you see yourself fitting into a program like Princeton's International Relations program.

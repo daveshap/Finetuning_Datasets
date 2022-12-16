@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start by talking about the essay. What kind of essay is it?
+STUDENT: It's for a grant application.
+COACH: Okay, great. What do you want to focus on in your essay?
+STUDENT: I want to talk about how I plan to use the grant money to make a difference in my community.
+COACH: That's a good goal to have. Are there any specific topics or ideas that you want to include in your essay?
+STUDENT: Yes, I'd like to talk about how I plan to use the grant money to create more job opportunities in my community.
+COACH: That's a great idea. Let's start by brainstorming some ideas. What kind of job opportunities could you create with the grant money?
+STUDENT: I was thinking of creating a mentorship program for youth in the community.
+COACH: That's a great idea! Now, let's talk about how you can structure your essay. What kind of introduction do you think would be best?
+STUDENT: I think I should start by explaining why I'm applying for the grant and why I think this project is important.

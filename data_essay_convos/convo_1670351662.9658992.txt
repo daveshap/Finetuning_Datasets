@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started with my essay.
+COACH: Sure, can you tell me a bit more about what kind of essay it is and what the topic is?
+STUDENT: It's a college application essay about my experience growing up in the Philippines.
+COACH: Alright, that sounds like a great topic! Let's start by breaking down the parts of an essay. What do you think the hook should be?
+STUDENT: I'm not sure.
+COACH: That's ok. A hook is the first sentence or two of your essay and it's designed to grab the reader's attention. You want to make sure it's something that will make the reader want to keep reading. Can you think of a particular moment or experience from your childhood in the Philippines that stands out to you?
+STUDENT: Yeah, I remember one time when my family was really struggling financially and I had to help my parents find ways to make ends meet.
+COACH: That sounds like a powerful hook! What comes next?
+STUDENT: I guess the middle of the essay?
+COACH: Yes, the middle of your essay is where you'll want to provide more detail and background information on your story. What else can you tell me about your experience growing up in the Philippines?
+STUDENT: Well, my family was very poor and I had to work hard to help support them. I also had to take on a lot of responsibility at a young age because of our financial situation.
+COACH: That sounds like a difficult experience. How did you manage to stay motivated and keep going despite the challenges?
+STUDENT: I guess I just kept reminding myself that there was a better future ahead of me if I worked hard and persevered.
+COACH: That's a great attitude! So, now that you've provided some detail and background information in the middle of your essay, what comes next?
+STUDENT: I guess the conclusion?
+COACH: Yes, the conclusion is the last part of your essay and it's where you wrap up your story. You want to make sure to leave the reader with a strong impression, so think about how you can summarize your story in a way that emphasizes the lessons you learned or the values you gained from your experience.

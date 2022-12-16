@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That's a great question! Applying to college can be a daunting process, but it doesn't have to be. Let's start by talking about what kind of essay you're writing. Are you working on a grant application essay?
+STUDENT: Yes, I am.
+COACH: Okay, great. A grant application essay is a very specific type of essay, and it requires a lot of thought and research. The most important thing to keep in mind is that the essay should be tailored to the particular grant you are applying for. You will need to explain why you are the best candidate for the grant, and how the money will help you achieve your goals. You'll also need to make sure your essay is well-written and free of errors. Do you have any questions so far?

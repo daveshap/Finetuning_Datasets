@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: A good way to know when your essay is finished is to read it through and make sure that it follows a logical structure. Does your essay have an introduction, body, and conclusion? 
+STUDENT: Yes, it does.
+COACH: Great! Now, have you proofread your essay for any spelling or grammar errors?
+STUDENT: I think so. I’ve read it through a few times.
+COACH: That’s a start, but you should also have someone else read it over. A fresh set of eyes can often spot mistakes that you may have missed. 
+STUDENT: Okay, I’ll ask a friend to read it. Is there anything else I should do?
+COACH: Yes, make sure that your essay reflects your personality and goals. Your essay should tell a story about who you are and what you want to achieve in life. Make sure to include details and anecdotes that will help the reader get to know you better. 
+STUDENT: Alright, I’ll make sure to include those elements in my essay. Is there anything else I should do before submitting my essay?
+COACH: Yes, make sure to double-check the essay requirements of the school you're applying to. Make sure that your essay meets all of the criteria and that it is within the specified word limit. Good luck!

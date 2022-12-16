@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A great opening should grab the reader’s attention, introduce the topic of your essay, and provide a hint of what is to come. You want to be creative and engaging to draw the reader in. Think about a unique way to start your essay that will make the reader want to keep reading. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on why you are interested in law school and why you would make a great law student. Talk about your experiences, challenges you have faced, and any special talents or skills that you possess that would make you an excellent law student. Make sure to include any relevant information about your education, work experience, and extracurricular activities. It is also important to discuss your goals for the future and how law school can help you achieve them. Lastly, make sure to include some personal anecdotes that provide insight into who you are as a person. 
+STUDENT: How do I make my essay stand out?
+COACH: One way to make your essay stand out is to be honest and authentic. Show the admissions committee who you really are by telling your story in your own voice. Avoid using clichés or generic phrases. Instead, focus on providing specific details and examples that highlight your unique qualities and experiences. Additionally, use strong and vivid language to make your essay come alive and demonstrate your passion for law.

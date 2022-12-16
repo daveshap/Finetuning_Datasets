@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: A great place to start is with a reference interview. What kind of essay are you writing?
+STUDENT: A scholarship application essay.
+COACH: Ok, so what type of scholarship are you applying for?
+STUDENT: I'm applying for a scholarship for students who are interested in pursuing a career in computer science.
+COACH: Great. So, what do you think the scholarship committee would want to know about you?
+STUDENT: They would want to know why I'm interested in pursuing a career in computer science and how my background and experiences have prepared me for this field.
+COACH: Perfect. Let's start there. What inspired your interest in computer science?
+STUDENT: Growing up, I was always fascinated by technology and computers. I was always tinkering with them and trying to figure out how they worked, so I decided to pursue a career in computer science.
+COACH: That's great. What experiences have you had that have prepared you for a career in computer science?
+STUDENT: I've taken several courses in computer science and programming, and I've also interned at a software development company. I've had the opportunity to work on real-world projects and learn from experienced professionals, which has given me valuable insight into the field.

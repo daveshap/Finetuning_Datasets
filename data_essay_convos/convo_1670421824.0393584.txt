@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student at NCSU and I'm writing an essay. I have no idea what to write about.
+COACH: That's ok! Let's start by talking about what interests you. What topics do you like to read or learn about?
+STUDENT: Well, I'm really interested in LGBT rights around the world, as well as the differences between Europe and China.
+COACH: Those are great topics to explore. Can you tell me more about why these topics interest you?
+STUDENT: Yes, I think it's important to understand different cultures and how they view LGBT rights. I also think it's interesting to compare the different approaches to government and economics in Europe and China.
+COACH: That's a great start! How would you like to approach this essay? Do you want to focus on one topic or compare the two?
+STUDENT: I think I'd like to compare the two. I think it would be interesting to look at how each region views and treats LGBT rights, and then compare their approaches to government and economics.
+COACH: That's a great idea! What sources have you found that could help you with your research?
+STUDENT: I've been looking online and I've found some articles and reports from the UN and other organizations. I'm still looking for more sources though.
+COACH: That sounds like a great start. Have you thought about looking for primary sources such as interviews or surveys? Or maybe looking into specific laws or policies in each region? 
+STUDENT: Yes, that's a great idea. I'll definitely look into those sources as well. Thanks for the suggestion!

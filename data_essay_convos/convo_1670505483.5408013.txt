@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: Applying for scholarships is a great way to supplement your college tuition. You can start by researching scholarship opportunities from your college, local organizations, and even national organizations. Make sure to review the eligibility requirements for each scholarship and apply for those that you qualify for. 
+STUDENT: What should I include in my admissions essay?
+COACH: Your admissions essay should be unique to you and should reflect your personality, experiences, and goals. Start by introducing yourself and explaining why you are applying for the university. Then, discuss your academic achievements, extracurricular activities, and any special talents or skills you have that make you stand out. Finally, explain why the university is the best fit for you. 
+STUDENT: How do I make my essay stand out?
+COACH: A great way to make your essay stand out is to be creative and think outside the box. Try to come up with an interesting angle or story to tell in your essay. If you can, use personal anecdotes to illustrate your points. Additionally, make sure to avoid cliches and generic phrases as they can make your essay sound dull.

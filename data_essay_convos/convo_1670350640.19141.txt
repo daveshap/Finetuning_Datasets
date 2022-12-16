@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi. I'm a first-generation college student from China and I'm applying to Harvard as an undergrad. I'm majoring in science and I need help with my essay.
+COACH: Great! It's wonderful to hear that you're applying to Harvard as an undergrad. Can you tell me a bit more about your background and what you hope to accomplish by attending Harvard?
+STUDENT: Sure. I'm originally from China and I've been living in the United States for the past five years. I'm passionate about science and I'm hoping to use my education to make a positive impact on society. I want to attend Harvard because it's one of the top universities in the world and I believe that it will give me the best opportunities to pursue my dreams.
+COACH: That sounds amazing! What specifically about Harvard do you think will help you reach your goals?
+STUDENT: Well, I think the resources and connections I can gain from Harvard will be invaluable. Harvard has some of the best professors in the world and I believe that I can learn a lot by being surrounded by such talented people. Additionally, I'm hoping to take advantage of the research opportunities available at Harvard to further my knowledge in my field.
+COACH: That's great! What do you think sets you apart from other applicants?
+STUDENT: I think my experience and background sets me apart from other applicants. I'm a first-generation college student and I have a unique perspective on life and education. Additionally, I'm passionate about science and I'm hoping to use my education to make a positive impact on society. I believe that my background and experience make me a valuable asset to any university.

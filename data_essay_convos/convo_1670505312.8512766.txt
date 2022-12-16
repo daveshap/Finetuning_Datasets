@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are typically awarded based on financial need, so you would need to submit an application to the school or organization offering the grant. You can also research online for grants that you may be eligible for.
+STUDENT: What should I include in my essay?
+COACH: A good personal statement for grad school should include your academic and professional goals, why you are interested in the program, and any unique experiences or qualifications you have that make you stand out. You should also explain why you are the best candidate for the program and how it will help you reach your goals.

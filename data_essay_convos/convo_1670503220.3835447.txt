@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can take many forms. You may be eligible for grants, scholarships, federal loans, or private loans. You should research all of your options and determine which one best fits your financial situation. Additionally, you should look into any local or state-based programs that may provide additional assistance.

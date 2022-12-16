@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college essay.
+COACH: Okay, let's start by talking a bit about you. What do you like to do?
+STUDENT: I like to read and write. I also enjoy learning about different cultures and religions, particularly Islam.
+COACH: That's great! So, what makes you unique? What makes you stand out from other applicants?
+STUDENT: I'm not sure. I don't feel like I'm particularly interesting as a person.
+COACH: That's okay. We all have our strengths and weaknesses. Tell me, what are your academic interests?
+STUDENT: I'm really interested in engineering and computer science. I've been thinking about applying to MIT or UCLA.
+COACH: Those are both excellent schools. What made you decide to pursue these fields?
+STUDENT: I've always been intrigued by the possibilities of technology and how it can be used to solve problems. I also like the idea of creating something that can have an impact on the world.
+COACH: That's wonderful! It sounds like you have a passion for engineering and computer science. What other interests do you have?
+STUDENT: I'm also interested in exploring different cultures and languages. I'm particularly interested in Europe and its history.
+COACH: That's great! Your diverse interests will make you a strong candidate for any school. Now, let's talk about your essay. What kind of essay are you writing?

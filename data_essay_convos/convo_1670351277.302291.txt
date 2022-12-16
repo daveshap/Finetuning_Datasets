@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I'm having trouble writing my personal statement.
+COACH: Okay, that's a great start. What kind of topics are you considering for your essay?
+STUDENT: Well, I'm not sure. I'm kind of a boring person and I don't have any big accomplishments or anything.
+COACH: That's totally okay! You don't have to have a big accomplishment to write an interesting essay. What do you think makes you unique? Is there anything about your background or experiences that could be interesting to admissions officers?
+STUDENT: Well, I'm Jewish, so maybe I could write about my experience with Judaism and how it has shaped my life.
+COACH: That sounds like a great topic! What specifically do you want to focus on? Are there any particular aspects of your faith or culture that you'd like to highlight?
+STUDENT: Yes, I'd like to talk about how my faith has helped me become more compassionate and understanding of others. I also want to talk about how it has taught me to appreciate the beauty of diversity.
+COACH: That's great! Now let's start thinking about how to structure your essay. What do you think admissions officers are looking for in a personal statement?
+STUDENT: I think they want to get to know me on a deeper level, so I should focus on why I'm passionate about the things I'm passionate about and how those passions have influenced my life.
+COACH: That's a great approach. Let's start by brainstorming some ideas that you could use to illustrate your points. What kind of stories or experiences could you draw from to make your essay more engaging?

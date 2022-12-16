@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student from the Philippines and I'm applying to med school. I want to write a personal statement that highlights my unique experiences, like my volunteer work and how I've dealt with sexism in my home country.
+COACH: That sounds like a great idea! Can you tell me more about your volunteer work?
+STUDENT: Sure. I've been involved in a lot of volunteer work in the Philippines, from helping out at soup kitchens to providing medical assistance to those in need. I've also done some advocacy work related to gender equality, which has been really eye-opening.
+COACH: That's really impressive. How has your experience with sexism in the Philippines shaped your outlook on life?
+STUDENT: It's made me realize that we all have a responsibility to fight for justice and equality. I've seen firsthand how sexism and gender inequality can limit people's opportunities and affect their self-esteem. It's made me passionate about advocating for change and helping to create a more equitable society.

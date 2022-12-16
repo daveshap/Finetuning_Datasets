@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Let's start by talking about what you're passionate about. What topics or ideas do you find interesting and why?
+STUDENT: I'm really interested in the intersection between technology and human behavior. I think it's fascinating to see how advances in technology can shape our lives and the way we interact with each other.
+COACH: That's a great topic! Now, let's talk about how you can structure your essay. The monograph essay style is a great way to explore a single topic in depth. You'll need to provide an introduction to the topic, a discussion of the different aspects of the topic, and a conclusion that ties it all together. Do you think you could do that for your essay?
+STUDENT: Yes, I think I could.
+COACH: Great! Now, let's talk about the research you'll need to do. You'll need to find reliable sources that help you understand the topic and support your claims. Once you have your sources, you'll need to analyze them and use them to make your argument. Finally, you'll need to be sure to cite your sources properly. Does that sound like something you can do?
+STUDENT: Yes, I think so.
+COACH: Wonderful! Now, let's talk about the actual writing process. You'll want to start by outlining your essay and organizing your thoughts. Then, you'll need to write a draft and go through the editing and revision process. Once you're satisfied with your essay, you can submit it. Do you have any questions about the writing process?
+STUDENT: No, I think I understand it.
+COACH: Great! I'm glad I could help. Good luck with your essay!

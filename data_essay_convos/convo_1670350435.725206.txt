@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm writing an essay about racism and how it affects college admissions.
+COACH: That's a great topic. Can you tell me a bit more about what you want to explore in your essay?
+STUDENT: Well, I want to talk about how racism affects the college admission process, specifically at Princeton.
+COACH: Got it. What aspects of racism are you interested in exploring?
+STUDENT: I want to focus on how racism affects the application process for different races and religions, like Judaism.
+COACH: Interesting. How does racism affect the admission process for Jews specifically?
+STUDENT: Well, I think there are certain stereotypes and prejudices that can lead to discrimination against Jews. For example, there may be an assumption that Jews are more privileged or wealthy than other applicants.
+COACH: Yes, that's certainly a possibility. What other ways do you think racism affects the admission process?
+STUDENT: I think there's also the issue of sexism. I believe that some admission officers may be more likely to accept male applicants than female applicants.
+COACH: That's a great point. Do you have any evidence or examples that you can use to back up your argument?
+STUDENT: Yes, I have a few examples from my own research. For instance, I found a study that showed that women are less likely to be accepted into Princeton than men.
+COACH: That's a great example. How else do you think you can illustrate the impact of racism and sexism on college admissions?
+STUDENT: I'm thinking about talking about how certain groups are more likely to be accepted into prestigious universities than others. For example, I could discuss how Asian-American applicants are often accepted at higher rates than other applicants.
+COACH: That's a great idea. What other evidence do you have to support this argument?

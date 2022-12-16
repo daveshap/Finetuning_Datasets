@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to law school at UNC and I'm having trouble writing an engaging essay.
+COACH: That's a great question! Can you tell me more about what you'd like to include in your essay?
+STUDENT: Well, I'm a first-generation college student from a single parent home and I want to talk about how my upbringing has shaped my desire to pursue a legal career. I also want to discuss my experiences traveling abroad and how they have impacted my understanding of the law.
+COACH: That sounds like a great topic for your essay! To make it engaging, you should focus on personal stories and anecdotes to illustrate your points. For example, you could talk about a specific instance when you witnessed a legal matter being handled differently in a foreign country than it would be in the US, and how that made you think about the law in a different way. You could also discuss how growing up in a single-parent home taught you valuable life lessons that have prepared you for the rigors of law school. 
+STUDENT: That's really helpful, thank you! I think I can use those ideas to craft a compelling essay.
+COACH: Absolutely! Before you submit your essay, it's important to make sure it's well-structured and free of errors. Make sure to proofread your work several times, and if possible have someone else read it as well before submitting.
+STUDENT: Got it, I'll definitely do that. Thanks for your help!
+COACH: You're welcome! I'm happy to help. Good luck with your essay and your law school application!

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are a form of financial aid that can help you pay for college or other educational expenses. They are usually offered by the government, universities, or other organizations and can range from small amounts to full tuition coverage. To qualify for a grant, you typically need to meet certain criteria, such as having a certain GPA or belonging to a certain demographic.
+STUDENT: What should I know about writing a dissertation?
+COACH: Writing a dissertation is a long and involved process that requires careful research, planning, and organization. You'll need to choose a topic, create an outline, write a literature review, and develop your own argument. You'll also need to use the proper citation style and format your paper correctly. It's important to stay focused and organized throughout the process to ensure that you complete the dissertation in a timely manner. Good luck!

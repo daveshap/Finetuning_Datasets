@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my personal statement for law school.
+COACH: Sure, let's get started. What are your goals for your law school application?
+STUDENT: Well, I want to attend Duke University and study Islamic Law.
+COACH: That's an interesting choice. What inspired you to pursue this field of study?
+STUDENT: Growing up, my parents were refugees from Vietnam. They taught me the importance of understanding different cultures and religions. So, I became interested in learning more about Islamic Law.
+COACH: I see. What do you think makes you a good candidate for studying Islamic Law at Duke University?
+STUDENT: I believe my diverse background and experience will give me a unique perspective on the subject. I'm also passionate about social justice and advocating for those who don't have a voice.
+COACH: That's great. What do you think sets you apart from other students who are applying to law school?
+STUDENT: I think my commitment to helping others is something that makes me stand out. I've volunteered at a number of organizations that focus on social justice and I'm dedicated to making a difference in the world.
+COACH: That's admirable. How do you plan to express this commitment in your essay?
+STUDENT: I plan to discuss my experiences in detail and explain how they have shaped my views on Islamic Law and my dedication to social justice. I also plan to talk about my long-term goals and how I plan to use my education to make a positive impact.

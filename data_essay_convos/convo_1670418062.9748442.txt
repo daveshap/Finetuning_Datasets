@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for med school in Germany. I'm a first generation college student, so I don't have much experience writing essays.
+COACH: Okay, that's a great start. Could you tell me more about what you want to accomplish with this essay?
+STUDENT: Well, I want to show the admissions committee that I'm a dedicated and motivated individual who can excel in medical school. I want to show that I'm a hard worker and that I'm passionate about medicine.
+COACH: That's great! It sounds like you have a clear goal for your essay. Now, what specifically do you need help with?
+STUDENT: Well, I'm having trouble figuring out how to structure my essay and make it interesting. I'm also not sure how to make my story stand out from other applicants.
+COACH: Sure, I can definitely help you out with that. First of all, let's talk about the structure. Have you thought about what topics you want to cover in your essay?
+STUDENT: Yes, I think I want to talk about my background, my academic achievements, and my future goals.
+COACH: That sounds like a great start. Now, let's think about how to make your essay stand out. What sets you apart from other applicants?
+STUDENT: Well, I'm a first generation college student and I'm also a native German speaker. That's something that not many other applicants can say.
+COACH: That's a great point! You should definitely highlight that in your essay. You could also talk about any unique experiences or challenges you faced as a first generation college student.
+STUDENT: Yeah, I could talk about how I had to figure out the college admissions process on my own and how I had to work hard to get the grades I needed.
+COACH: Perfect! That could make for an interesting and compelling essay. Is there anything else you need help with?
+STUDENT: Yes, actually. I'm also looking for advice on how to find a job after college.
+COACH: Sure, that's a great question. Do you have any ideas on what kind of job you'd like to pursue?
+STUDENT: I'm not sure yet, but I know I want to work in the medical field.
+COACH: Okay, that's a great start. There are a few things you can do to start your job search. First, make sure you have a strong resume and cover letter that highlight your skills and experience. You should also start networking with people in the medical field and attending industry events. Finally, don't be afraid to apply to jobs even if you don't have all the qualifications - employers are often willing to train the right candidate.

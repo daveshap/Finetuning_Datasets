@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having a hard time with my personal statement.
+COACH: Sure, let's start with some basics. What kind of essay are you writing? 
+STUDENT: It's a narrative essay.
+COACH: Okay, great! Narrative essays can be really powerful if done well. What kind of story do you want to tell?
+STUDENT: Well, I want to talk about overcoming rejection and obstacles in my life.
+COACH: That sounds like a really compelling topic! Let's break it down into parts. What is your hook? How will you draw the reader in?
+STUDENT: I'm thinking of starting with a story about how I was rejected from a travel program I wanted to join, but I ended up finding an even better opportunity. 
+COACH: That sounds like a great hook! What kind of obstacles did you face in this journey?
+STUDENT: Well, I had to overcome a lot of financial and political obstacles. I had to find ways to fund my trip, and I had to navigate a lot of bureaucracy to get the necessary permits. 
+COACH: Wow, that sounds like quite a challenge! What did you learn from the experience?
+STUDENT: I learned that no matter how difficult the situation may seem, there are always ways to find solutions. I also learned that sometimes when one door closes, another opens. 
+COACH: That's a great lesson to share in your essay! What else do you want to include in the middle of your essay?
+STUDENT: I want to talk about how I used my experience to develop a more global perspective and how it changed my view of the world. 
+COACH: That's a great idea! What do you want the reader to take away from your essay?
+STUDENT: I want the reader to see that I'm resilient and capable of tackling challenges, no matter how difficult they may be. I also want them to see that I'm open-minded and have a global perspective.

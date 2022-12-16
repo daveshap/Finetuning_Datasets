@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I have no idea what to write about.
+COACH: That's understandable! It can be intimidating to start writing an essay, especially when it's your first one. Can you tell me a little bit about yourself? What topics are you interested in?
+STUDENT: Well, I was born in China and I'm really interested in politics and international relations. 
+COACH: Interesting! Do you have any particular goals or objectives that you'd like to achieve with this essay?
+STUDENT: Yes, I want to demonstrate my knowledge of Chinese politics and current events, and how they relate to international relations.
+COACH: Alright, that's a great goal. How would you like to structure your essay? Do you want to focus on a particular event, or compare different aspects of Chinese politics?
+STUDENT: I think I'd like to compare different aspects of Chinese politics, and explain how they affect international relations.
+COACH: That sounds like a great idea. Let's start by brainstorming some ideas for your essay. What topics have you already studied that could be relevant?
+STUDENT: I've studied the Chinese government's foreign policy, the role of the Communist Party in China, and the country's economic growth.
+COACH: Great! Those are all excellent topics to explore. Now, let's think about how to structure your essay. Do you want to focus on one topic at a time, or compare them side by side?
+STUDENT: I think I'd like to compare them side by side, so I can show how they all work together to shape China's international relations.
+COACH: Perfect! That's a great way to approach your essay. Now, let's talk about how you're going to make your argument. What evidence can you use to support your points?
+STUDENT: I can use examples from current events, statistics, and quotes from experts in the field.
+COACH: Excellent! That should give your essay a solid foundation. Now, let's talk about your conclusion. What do you want to leave your readers with?
+STUDENT: I want to emphasize the importance of understanding China's politics and international relations in order to make informed decisions about the future.
+COACH: That's a great goal! With that in mind, let's start writing your essay.

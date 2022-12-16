@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college essay. I'm applying to Yale, UNC, and Harvard and I need some help making sure my essay stands out.
+COACH: That's great! Let's start by talking a little bit about why college matters to you. What are your thoughts on the importance of college?
+STUDENT: Well, I think college is important because it provides so many opportunities that wouldn't be available otherwise. It can open up doors to better job prospects, higher salaries, and a more successful career.
+COACH: That's a great answer. What else do you think college can provide?
+STUDENT: College can also help you develop important skills like critical thinking and problem-solving. It can also give you the opportunity to network and meet people from different backgrounds. Plus, college can be a great way to learn more about yourself and who you want to become.
+COACH: Those are all really great points. Do you have anything specific that you want to focus on in your essay?
+STUDENT: Yes, I would like to focus on the issue of racism in college. I think it's important to talk about how racism has impacted the college experience for students of color, and how we can work together to create a more equitable and inclusive environment.
+COACH: That's a great idea. How do you plan on approaching this topic in your essay?
+STUDENT: I plan on discussing the ways racism has impacted my own college experience, as well as the experiences of other students of color. I also want to highlight the steps that universities can take to create a more equitable and inclusive environment. Finally, I want to discuss the importance of using our voices to fight for change and how we can all work together to create a better future.

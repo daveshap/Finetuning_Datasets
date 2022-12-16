@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: When you are writing a college admissions essay, the most important thing is to tell your story in an honest and authentic way. Think about what makes you unique and why you would be a great addition to the college or university you are applying to. Consider your background, experiences, interests, and passions and how they have shaped you as a person. What have you learned from these experiences and how have they made you the person you are today? 
+STUDENT: What kind of structure should I use for my essay?
+COACH: A great structure for a college admissions essay is to start off with a strong introduction, followed by three to four body paragraphs that each discuss a particular aspect of your life or story, and then a conclusion that ties it all together. Make sure to use clear transitions between each paragraph so that your essay flows well. Additionally, make sure to use vivid language and descriptions to help your reader get a better understanding of who you are. 
+STUDENT: How long should my essay be?
+COACH: Generally speaking, most college admissions essays should be between 500-700 words. However, some colleges may have specific word count requirements, so make sure to check those before you start writing. 
+STUDENT: What should I avoid when writing my essay?
+COACH: Avoid using cliches or overly general statements. Try to stay away from topics that could be seen as controversial or offensive. Also, make sure to proofread your essay multiple times before submitting it. This will help ensure that there are no typos or grammatical errors that could detract from your overall essay.

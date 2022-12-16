@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for Harvard, and I'm having trouble coming up with a topic.
+JCOACH: Okay, can you tell me a little bit about yourself? What makes you unique that you could draw on for your essay?
+STUDENT: Well, I'm from a single-parent home in the Philippines. My mother was born Jewish, so I grew up with a lot of cultural influences from Europe and the Philippines.
+JCOACH: Interesting! It sounds like you have a really unique background. Have you thought about using that in your essay?
+STUDENT: Yes, I've been thinking about it but I'm not sure how to approach it.
+JCOACH: Well, one way to approach it is to focus on how your unique background has shaped your life experience. How has growing up with a single parent and two different cultures impacted who you are today? What values and beliefs have you developed as a result?
+STUDENT: Hmm, that's a good idea. I think I can use that as my main focus.
+JCOACH: Absolutely! You could talk about how your upbringing has influenced your worldview, your goals, and your values. You could also discuss how it has helped you become more open-minded and tolerant of different cultures and beliefs.
+STUDENT: That sounds great. I think I have a better idea of what to write now.
+JCOACH: Wonderful! Is there anything else I can help you with?
+STUDENT: No, I think I'm good. Thank you for the advice!

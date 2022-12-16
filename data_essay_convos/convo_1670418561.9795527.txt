@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm not sure how to approach my essay.
+COACH: Great! What kind of topics are you interested in writing about? Do you have any particular experiences or interests you want to highlight?
+STUDENT: Well, I'm interested in engineering and I've done some volunteer work in the past.
+COACH: That's great! What kind of volunteer work have you done? How has it shaped your outlook on engineering and the world?
+STUDENT: I've mostly done tutoring work in math and science. It's helped me to see how important it is to help others understand and appreciate the importance of engineering.
+COACH: That's wonderful! What do you think admissions officers look for when they review essays?
+STUDENT: I think they look for evidence of an applicant's passion and commitment to their chosen field. They also want to see that an applicant can think critically and communicate effectively.
+COACH: Absolutely! Your volunteer work is a great example of that. Have you thought about how you will finance your college education?
+STUDENT: Yes, I'm planning to apply for scholarships and student loans.
+COACH: That's a great plan! Do you have any other topics you'd like to discuss for your essay? For example, do you practice any religion or have any spiritual beliefs?
+STUDENT: Yes, I'm a Buddhist. I believe in living a life of compassion and peace.
+COACH: That's beautiful. How has Buddhism influenced your outlook on life and your decision to pursue engineering?

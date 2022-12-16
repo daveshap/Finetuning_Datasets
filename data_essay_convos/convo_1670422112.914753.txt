@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my grad school essay. 
+COACH: Sure, that's what I'm here for! Can you tell me a bit more about the essay? Where are you applying?
+STUDENT: I'm applying to both MIT and UNC. 
+COACH: Great! What kind of essay do you need help with? 
+STUDENT: It's a personal statement. I need to write about why I'm a good fit for the program and why they should accept me. 
+COACH: That sounds like a great opportunity to show your personality and strengths. What do you think makes you a good candidate for these programs?
+STUDENT: Well, I have a strong academic background and I'm passionate about my field. I also have some international experience from when I studied abroad in Germany. 
+COACH: That's really impressive! So it sounds like you have a lot of great qualities that would make you an ideal candidate for these programs. Is there anything else you want to highlight in your essay?
+STUDENT: I'm not sure. I feel like I'm not interesting as a person. 
+COACH: Don't worry! Everyone has something unique to offer. What do you think sets you apart from other applicants? What kind of experiences have you had that have shaped you and made you who you are today?

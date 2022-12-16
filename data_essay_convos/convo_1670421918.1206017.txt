@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad applying to Duke University and I'm not sure what I should write about in my college admission essay.
+COACH: That's a great question. Can you tell me a bit more about yourself? What are some of the experiences that have shaped your life?
+STUDENT: Well, I come from a single parent home and I'm a part of the neurodiversity community.
+COACH: It sounds like you have had a unique and interesting experience. Could you tell me more about how growing up in a single parent home has impacted you?
+STUDENT: Sure, growing up in a single parent home has made me very independent. I had to learn how to take care of myself and manage my own responsibilities at a young age. It also made me appreciate the value of hard work and dedication.
+COACH: That's great. It sounds like you have a lot of life experience that you could draw on for your essay. Have you thought about how you can use this experience to explain why you would be a good fit for Duke University?
+STUDENT: I think my experience has taught me the importance of resilience and perseverance. I know that these qualities will serve me well as a student at Duke University and help me to succeed.
+COACH: That's an excellent point. You could focus your essay on how your experience has helped you develop resilience and perseverance, and how those qualities will benefit you in college. You could also talk about how being part of the neurodiversity community has shaped your outlook on life and how it has helped you become the person you are today.

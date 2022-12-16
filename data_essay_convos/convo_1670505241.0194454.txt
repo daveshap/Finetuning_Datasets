@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are typically awarded based on financial need, academic merit, and other criteria set by the grantor. Generally, they are given to help individuals or organizations pay for educational expenses, research projects, or other activities. To apply for a grant, you must submit an application that outlines your qualifications and the purpose of the grant. The grantor will then review the application and decide if you meet their criteria.

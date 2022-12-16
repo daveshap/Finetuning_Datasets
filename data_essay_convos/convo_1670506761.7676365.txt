@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That's a great question. Financing college can be done in a few ways, such as through scholarships and grants, student loans, or personal savings. What specifically were you looking for help with?
+STUDENT: I'm writing an argumentative essay about why college should be more affordable.
+COACH: Okay, that's a great topic. What kind of evidence will you use to support your argument?
+STUDENT: I was thinking of looking into statistics about the cost of college tuition, the amount of debt students take on, and how it affects their future.
+COACH: That's a great start! To make your argument even stronger, you could also look into the impact of college affordability on different demographics, such as low-income students and first-generation college students. You could also look into how college affordability affects the economy and job prospects.

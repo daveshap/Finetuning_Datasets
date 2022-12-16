@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay, let's start by talking about your goals. What kind of grant application are you writing?
+STUDENT: I'm applying for a grant to help fund a research project I'm working on.
+COACH: Great! Tell me a bit more about the project. What is it about and what do you hope to accomplish with it?
+STUDENT: It's a project exploring the effects of climate change on local ecosystems. I want to use this research to advocate for better environmental protection policies.
+COACH: That sounds like an important and interesting project. Now that we know what you want to do, let's talk about how you can present your project in the most effective way. What kind of evidence can you provide to show that your project is worth investing in? 
+STUDENT: I can provide data on the current state of the ecosystem and how climate change has affected it, as well as research from other organizations that have studied similar topics.
+COACH: Perfect! That's a great start. Now let's talk about how to structure your essay. What kind of information do you need to include?
+STUDENT: I think I need to include an introduction, a description of the project and its goals, a discussion of the evidence I have to support my project, and a conclusion.
+COACH: That's right. You also need to make sure you focus on the main points of your project and don't get sidetracked. Make sure to keep your essay concise and to the point. Are there any other questions you have about the essay?

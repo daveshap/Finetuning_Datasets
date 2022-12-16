@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I'm having a hard time figuring out how to structure my essay.
+COACH: Great! It sounds like you need some help with structuring your essay. Can you tell me a bit more about the essay? What is the topic or prompt you are responding to? 
+STUDENT: Sure. The prompt is to discuss an experience that has shaped who I am today. 
+COACH: Alright! So it sounds like you need help understanding how to structure an essay to answer this prompt. Can you tell me a bit more about the experience you want to focus on? 
+STUDENT: Well, I want to talk about growing up in a single parent home and how that has shaped my perspective on life.
+COACH: That's great. I think it would be a really powerful essay. Can you tell me a bit more about how growing up in a single parent home has shaped your perspective? 
+STUDENT: Sure. Growing up in a single parent home has taught me the importance of hard work and resilience. It has also made me appreciate the value of education and the importance of having a strong support system. 
+COACH: That's wonderful. Those are great qualities to have and it sounds like you have a lot to say about them. Let's start by thinking about how we can structure your essay. Do you have any ideas on how to organize your thoughts? 
+STUDENT: Not really. I'm not sure where to start.
+COACH: That's okay. Let's start by brainstorming some ideas. Have you thought about using a chronological structure, where you start from the beginning of your experience and work your way up to the present day? 
+STUDENT: Yeah, that could work. 
+COACH: Great! That's a great way to structure your essay. You can start by talking about how growing up in a single parent home affected your early childhood and then move on to discussing how it has influenced your current perspective on life. You can also include how your experiences have shaped your academic and career aspirations. For example, if you want to pursue a career in science, you can discuss how your experiences have helped you develop a passion for the field. 
+STUDENT: That sounds great. I think that could work. 
+COACH: Wonderful! Once you have your structure in place, you can start filling in the details and writing your essay. Do you have any questions about the college admission process? 
+STUDENT: Yes, I was wondering what kind of things they look for in an essay?
+COACH: College admissions officers are looking for essays that show evidence of critical thinking and creativity. They want to see that you have a clear understanding of the prompt and that you can articulate your thoughts in an organized and coherent way. They also want to see that you have a unique perspective and can bring something new to the table.

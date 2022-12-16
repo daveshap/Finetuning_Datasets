@@ -1,0 +1,18 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having a hard time figuring out what to write about for my admission essay.
+COACH: That's totally understandable. Can you tell me a bit more about yourself and what you're interested in?
+STUDENT: Sure, I'm interested in engineering and I've been involved in charity work for the past few years.
+COACH: Great! It sounds like you have a lot of material to work with. Have you thought about what kind of structure you want to use for your essay?
+STUDENT: Not really, I'm not sure what the parts of an essay are.
+COACH: Let me explain. An essay typically consists of an introduction, body paragraphs, and a conclusion. The introduction is often referred to as the "hook" because it's designed to grab the reader's attention. This is usually done by providing a brief overview of the main topic or argument. The body paragraphs provide evidence to support the argument and explain why it is important. Finally, the conclusion summarizes the main points and leaves the reader with something to think about.
+Do you have any ideas for your introduction yet?
+STUDENT: Not really, I'm still trying to figure out what to write about.
+COACH: That's okay. You don't have to have your introduction figured out right away. Let's start by brainstorming some ideas for the body of the essay. What have you done in the past that you think could be interesting to include?
+STUDENT: Well, I've been involved in charity work for the past few years, and I'm also interested in engineering.
+COACH: Great! Those are both great topics to explore in your essay. What specifically have you done in relation to charity work and engineering that you could include in the essay?
+STUDENT: For charity work, I've volunteered at a local homeless shelter and organized fundraisers for various causes. For engineering, I've taken classes and worked on projects with a few different groups.
+COACH: Perfect! Those are great topics to include in your essay. How do you think you can tie them together?
+STUDENT: I think I can show how my involvement in charity work has helped me develop skills that could be useful in engineering, such as problem solving and communication. 
+COACH: That sounds like a great idea. You could even use this as a way to transition into talking about your plans for grad school. What do you think?
+STUDENT: Yeah, that could work. I think I have enough material now to start writing my essay.
+COACH: Wonderful! I'm glad I could help. Before you get started, do you have any questions about the essay structure or the application process in general?

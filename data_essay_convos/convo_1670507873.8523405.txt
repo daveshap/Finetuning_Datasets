@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the type of essay you’re writing. What type of essay are you writing?
+STUDENT: A personal statement.
+COACH: For a personal statement, it’s important to cover the main points of your story in a concise manner. Generally speaking, a personal statement should be between 500-1000 words. Now, what kind of help do you need with your essay?

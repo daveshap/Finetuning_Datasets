@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions is a process by which students apply to and are accepted into colleges or universities. Generally, students submit an application that includes their personal information, academic record, test scores, and any additional materials required by the college or university. The admissions committee then reviews the applications and makes a decision on whether or not to accept the student.
+STUDENT: What should I include in my essay?
+COACH: A strong college admissions essay should include a clear and concise introduction, a body that discusses your qualifications, experiences, and goals, and a conclusion that ties everything together. Your essay should also be well-structured, with a logical flow of ideas. Additionally, you should focus on how your experiences have shaped you and what you can offer to the college or university. Finally, make sure to proofread your essay before submitting it.

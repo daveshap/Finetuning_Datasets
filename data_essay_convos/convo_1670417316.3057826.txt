@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student and I'm having some trouble with the structure of my admission essay.
+COACH: Alright, what kind of essay is it?
+STUDENT: It's an essay for a college application.
+COACH: Perfect. What's your main goal in writing this essay?
+STUDENT: I want to convince the admissions committee that I am a good fit for their college and that I will be a successful student if admitted.
+COACH: That's a great goal. Why do you think it's important to write a good admission essay?
+STUDENT: I think it's important because it's one of the first things that the admissions committee will see and it can give them a good impression of me. It also shows that I'm taking the process seriously and that I'm willing to put in the work to make a good impression.
+COACH: That's a great point. What are some of the key elements that you think should be included in your essay?
+STUDENT: I think it's important to include information about my academic achievements, why I'm interested in the college, and how my experiences have prepared me for college life. I also want to make sure I show my passion for learning and my commitment to working hard.
+COACH: Those are all great points. Do you have any specific ideas about how to structure your essay?
+STUDENT: I think it would be a good idea to start by introducing myself and giving a brief overview of why I'm interested in the college. Then I could go into more detail about my academic achievements, my experiences, and why I think I'd be a good fit for the college. Finally, I could end with a conclusion that ties everything together and reiterates why I'm the perfect candidate for the college.
+COACH: That sounds like a great plan. Is there anything else you want to include in your essay?
+STUDENT: I was also thinking about including a bit about why college matters to me, and why I'm passionate about learning. I've always been interested in France and I'm considering studying abroad there, so I thought I could talk a bit about that too. 
+COACH: That's a great idea. It sounds like you have a lot of great material to work with and a clear structure for your essay. If you need any help with the writing or editing, just let me know.

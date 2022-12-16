@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay on sexism and social issues. I'm having trouble structuring it.
+COACH: That's a great topic! Could you tell me a bit more about what you're trying to say in your essay?
+STUDENT: Sure. I want to explore the ways in which sexism and other social issues have been addressed in Buddhism, and how its teachings can be used to create positive change in society.
+COACH: That's an incredibly interesting topic. Have you done any research on it?
+STUDENT: Yes, I've read some books and articles on the topic, but I'm having trouble organizing my thoughts into a coherent essay structure.
+COACH: Okay, let's start by breaking down your essay into sections. What do you think would be the main points that you want to make?
+STUDENT: Well, I want to discuss the history of Buddhism and its teachings on sexism and social issues, and then look at how those teachings are being applied in modern society.
+COACH: Great! That's a great starting point. Now, what kind of evidence do you have to support your argument?
+STUDENT: I have quotes from Buddhist scriptures, as well as some research on current initiatives that are using Buddhist principles to address social issues.
+COACH: Perfect. Once you have your evidence, you can start to outline your essay. You can break it up into an introduction, body, and conclusion. In the introduction, you can introduce your topic and give a brief overview of what you'll cover in the essay. The body should include your main points, with evidence to back them up. Finally, the conclusion should summarize your main points and provide a call to action for readers. 
+Once you have your structure, you can start to fill in the details. Do you have any other questions about the essay?
+STUDENT: Yes, I was wondering if there are any tips you could give me for finding a job after college related to this topic?
+COACH: Absolutely! There are plenty of ways to get involved in the fight against sexism and social issues. You could volunteer with organizations that are working on these issues, or look for internships or jobs with companies that have a commitment to social justice. You could also look into educational programs that focus on this topic, as well as attending conferences and seminars related to it.

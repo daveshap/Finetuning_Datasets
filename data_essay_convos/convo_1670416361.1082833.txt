@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I have no idea what to write about in my personal statement.
+COACH: That's a great question! Can you tell me a bit more about yourself? What kind of background do you come from?
+STUDENT: Sure, I'm from a single parent home and I've been interested in travel since I was young.
+COACH: Interesting. It sounds like you have a lot of experiences related to travel that could make for a great essay topic. What kind of experiences have you had with travel?
+STUDENT: Well, I've traveled to different countries and seen a lot of different cultures. I've also had the opportunity to volunteer abroad, which has really opened my eyes to how different people live around the world.
+COACH: That's fantastic! Your experiences with travel could make for a great essay topic. You could focus on how your travels have shaped your perspective and how it has impacted your life. You could also talk about the challenges and opportunities that you faced while traveling and how they have helped you grow as a person.

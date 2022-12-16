@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are usually awarded to students who demonstrate a financial need, academic excellence, and/or a commitment to their community. It's important to research grants that you may be eligible for and make sure you meet the criteria. Can I ask what kind of essay you are writing?
+STUDENT: I am writing a scholarship application essay.
+COACH: Great! What is the prompt for your essay? 
+STUDENT: The prompt is to explain how my educational and career goals align with the mission of the scholarship organization.
+COACH: Okay, that's a great place to start. What are your educational and career goals? 
+STUDENT: My educational goal is to get a degree in business management. I want to use this degree to pursue a career in business consulting.
+COACH: That's great. Now, let's look at the mission of the scholarship organization. What is the mission of the organization?
+STUDENT: The mission of the scholarship organization is to provide financial assistance to students who are dedicated to making a positive impact on their communities.
+COACH: Perfect. Now, let's look at how your educational and career goals align with the mission of the scholarship organization. How do you plan to use your business management degree to make a positive impact on your community? 
+STUDENT: I plan to use my business management degree to become a business consultant. I will use my knowledge and skills to help small businesses in my community become more successful. I also plan to volunteer my time to mentor young entrepreneurs and help them develop the skills and knowledge they need to succeed.

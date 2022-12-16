@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. Before we get into the specifics of your essay, can you tell me a little bit more about what you're looking for? What kind of job are you hoping to find? 
+STUDENT: I'm interested in finding a job in the finance industry.
+COACH: Alright, so you're looking for a job in the finance industry after college. That's a great goal. Now, let's talk about your essay. What kind of essay are you writing? 
+STUDENT: It's a term paper for my economics class.
+COACH: Okay, so you're writing a term paper for your economics class. What kind of research have you done so far? 
+STUDENT: I've done some research online and I've talked to some people in the finance industry.
+COACH: Great! It's important to do research when writing a term paper. What kind of information have you gathered? 
+STUDENT: I've gathered information on job requirements, salary expectations, and potential career paths.
+COACH: That's great. Now, what do you need help with? 
+STUDENT: I'm not sure how to organize all of the information I've gathered and turn it into an essay.
+COACH: That's understandable. Let's start by brainstorming ideas for the structure of your essay. What kind of topics do you want to cover in your paper?

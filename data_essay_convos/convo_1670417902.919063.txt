@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essay.
+COACH: Great! What kind of help do you need? 
+STUDENT: Well, I'm applying to a few colleges in Europe and I'm not sure what kind of essay I should write for my personal statement. 
+COACH: Okay, let's start by talking about why college matters to you. What do you hope to gain from attending college?
+STUDENT: I want to get a degree that will open up new opportunities for me. I also want to learn more about the world and gain a deeper understanding of different cultures.
+COACH: That's a great reason to attend college! How has your experience in Thailand influenced your decision to pursue higher education?
+STUDENT: I've been to Thailand a few times, and it has really opened my eyes to the potential of learning new things and exploring different cultures. It made me realize how important it is to have a good education and to be able to go beyond the classroom.
+COACH: That's a wonderful perspective! Now that we know why college is important to you, let's talk about how college admissions work. Do you know what kind of information you need to include in your essay?
+STUDENT: Not really, I'm not sure what to write about.
+COACH: That's okay! A great place to start is by talking about your background and experiences. What have you done that has prepared you for college? This could include volunteer work, internships, or even leadership roles you've held. It's also important to explain why these experiences have shaped who you are today and how they have prepared you for college. 
+STUDENT: Okay, I understand. I have volunteered at a local homeless shelter and have been involved in student government. 
+COACH: Great! Those are both excellent experiences to include in your essay. Make sure to explain how these experiences have shaped you and how they have prepared you for college. You can also talk about your goals and aspirations and how attending college will help you achieve them. 
+STUDENT: Okay, I think I understand what I need to do. Thanks for your help! 
+COACH: You're welcome! I'm glad I could help. Good luck with your essay!

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having a hard time writing my admissions essay. I'm not sure what to write about and I'm feeling a bit overwhelmed.
+COACH: That's perfectly understandable! Can you tell me a bit more about what you're interested in? What topics do you feel passionate about?
+STUDENT: Well, I'm really passionate about social issues, especially those related to the LGBT community. I also have a strong interest in Germany and why college matters.
+COACH: That's great! It sounds like you have some really interesting topics that could be explored in your essay. Do you have any specific questions about how to approach these topics?
+STUDENT: Yes, I'm not sure how to start my essay or how to tie together my various interests.
+COACH: That's a great question! One way to approach this is to think about the common thread between your interests. For example, you could explore how the LGBT community has been impacted by social issues in Germany, or how college can be a powerful tool for creating positive change for the LGBT community. Once you've identified the main idea of your essay, you can begin to structure it by outlining the points you want to make and the evidence you'll use to support them. Does that make sense?
+STUDENT: Yes, that makes a lot of sense. Thank you for your help!

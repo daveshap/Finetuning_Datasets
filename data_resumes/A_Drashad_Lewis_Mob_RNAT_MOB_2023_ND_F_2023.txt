@@ -1,0 +1,528 @@
+D. Rashad Lewis
+
+Diondre33000@gmail.com
+
+7043631339
+
+Technological Skills
+
+Technical Certifications Oracle Certified Programmer for Java
+
+IBM Certified Administrator, WebSphere Application Server
+
+  server V5.0, V6.0, 7.0, 8.0, 8.5,9.0
+
+Programming/Design Java/j2ee, Java Swing,Struts, JSF, C++/Objective C,
+Hibernate, Cold Fusion, Perl, LotusScript, JavaScript, CSS, JQUERY, C/
+C++, C#,PL/x, and MIPS Assembly, OOD, UML, XML, XSLT, ESB, SOA, Web
+Services, Web Services . redit, Angular.js, Backbone.js, JQCharts.js,
+.NET, ANGULAR, JSON, AJAX, REST, SOAP, GWT, JQuery, Knockout, DOJO/
+Express.js, Knockout.js,Node.js/Toolkit/Dojo Mobile, Cocoa/Cocoa Touch,
+SWIFT, GIT/GITHUB/BitBucket, MongoDB,
+
+Operating Systems: OS/2, Windows NT, Win 3.1-2003, UNIX (Solaris
+7,8,9,10, AIX 4.3, AIX 5,6), Linux, RHEL 3,4,5, UBUNTU)
+
+  Web Development: Microsoft IIS, Iplanet, Apache Web Server, IBM HTTP
+  Server
+
+  HTML, DHTML, HTML 5 , CSS, CSS3, DOJO/AJAX/REST Flash MX, JavaScript,
+  DreamWeaver, Illustrator, Photoshop, Adobe Premier CS6, GWT, Eclipse,
+  XCode, IBM Worklight /Mobile First,BlueMix, Xamarin, PhoneGap, PHP,
+  Android SDK/NDK, IOS, IOS/OSX Keychain, SWIFT, WebSocket, google
+  extensions, custom browser plugins, CSS media queries, IOS
+  development, MDM, Kotlin, Dart, Koin, Jetpack
+
+Applications: IBM WebSphere 3.5, 4,5, 6,6.1, 7,8,8.5, 8,5.5., 6.1
+(XD/XS) WebSphere Virtual Enterprise/Extreme Scale, MQ Series V 5, V6,
+V7, 8, RABBIT MQ,WebSphere Portal Server 5,5.1, 6.0, 6.1,WebSphere
+Process Server 6.0,6.1 ,7, WebSphere Commerce Development, WBM,
+WBE,WebSphere Integration , WebSeal, TAM, SharePoint, LDAP,Developer
+6.0, 6.1,7.0, BPEL, JBOSS, BEA/Oracle WebLogic ( all versions) IBM WSAD
+4.03, IBM WSAD 5.0, WSAD 6.0, RAD7.0, RAD7.5, 8, SVN, Jacl/Jython,
+WebSphere Portlet Factory, JSR 186, 268, WebSphere Application Server
+Toolkit, ILT IBM DataPower, Sterling, Connect: Direct ,Apache Tomcat
+4.x,5.x.6.x,Wily Introscope (all versions) Ant, Maven, Ajax,Thread
+Analyzer, Jtest, Jprobe, Object Level Trace, LoadRunner 7.6/7.8, Spring,
+VMWare, NeoLoad,
+
+Database Technology: JDBC/ODBC, DB2 (all versions), Oracle 9i,10g,11G,,
+MySQL and Microsoft Access,SQL
+
+Front End Summary
+
+[Description: java_logo2]
+
+11 year SME Experienced IOS/Android Mobile Developer /Architect
+
+30 Apps in stores
+
+8 year React Native SME
+
+5 years Flutter
+
+5 years Dart Development
+
+Expert in Mobile Security Engineering
+
+Kotlin SME, Swift SME
+
+10 years Agile
+
+-   7 years PhoneGap experience
+
+-   8 years Mobile Architecture/dev
+
+-   5 years Flutter
+
+-   5 years Fastlane, BitRise automation
+
+    7 years Xamarin / .Net /C# development
+
+    8 years IOS/XCODE dev (all SDK Levels)
+
+    8 years android development ( all SDK levels)
+
+    5 years Node.js development
+
+    2 years WikiTude development
+
+    7 years Rabbit MQ
+
+    8 years objective C development
+
+    5 years UNITY development
+
+    7 years TDD (test driven development)
+
+    1.5 years wearables experience (Android)
+
+    .75 years wearables experience (IOS)
+
+    Java Certified Engineer
+
+    8 years .NET development
+
+    5 years Kafka
+
+    5 years MDM
+
+    6 years MongoDB
+
+    5 years BootStrap.js development
+
+    4 years express.js
+
+    5 years apple IOS/OSX keychain development
+
+    6 years android dev (all api levels)
+
+    12 years Linux experience
+
+    8 years senior leadership experience
+
+    1 year Docker Experience
+
+    5 years android /mobile encryption experience
+
+    significant experience with GTV development
+
+    8 years java / swing development
+
+    4 years Android NDK experience
+
+    2 years Strongloop development
+
+    3 years Blue mix Administration
+
+    5 years Knockout.js development
+
+    3 years android WebSocket development
+
+    4 years NOSQL development
+
+    5 years GWT development
+
+    8 years C/C++
+
+    6 years salesforce development
+
+    5 years Ruby/Rails development
+
+    5 years CRM Development
+
+    Experienced in LG Android Optimus
+
+    6 years objective c
+
+    4 years Android ROM development
+
+    12 years java experience
+
+    10 years c/c+ experience
+
+    8 years JavaScript frameworks (backbone, angular, Dojo/jQuery)
+
+    6 years device emulation (various methods)
+
+    4 years IBM Worklight Enterprise Edition/MobileFirst
+
+    4 years Cordova/PhoneGap
+
+Experience
+
+Facebook (Los Angeles)
+
+Senior Mobile/React Native Developer/Architect (remote) Oct 2020 –
+Current
+
+Performed Senior-Lead Role for IOS/Swift development for FB Messenger
+
+Upfit, migrated internal ticketing application from native to Flutter
+
+Senior React / React Native developer and Architect
+
+Executed SwiftUI development for FB Messenger/CMMS
+
+Performed Native IOS/Android Development in Swift/Kotlin
+
+Ported Native IOS applications to Kotlin (Jetpack, MVVM, Koin)
+
+Migrated Redux-based React Native Apps to hooks + context
+
+Performed React Native upfit for Messenger and CMMS app
+
+Upfit Android SDK for Koin/Jetpack/Kotlin Updates
+
+Implemented advanced layout /UX strategies
+
+Developed and designed upfits for FB App for Android/IOS
+
+Migrated PG&E Kotlin app to React Native
+
+Developed Node.js microservices hosted in GCP/Docker/Kubernetes
+
+Developed, enhanced Jenkins-based Ci/CD pipelines
+
+Performed MEAN Stack Development
+
+Mentored junior engineers on Redux/Flux/Hooks/Recoil
+
+Google (Alphabet Inc)
+
+Senior Mobile Architect/Developer (remote) Feb 2020 – Oct. 2020
+
+Performed migration of 3 HR Apps to Flutter from IOS/Droid Native + DI
+(koin)
+
+Bridged 11 swift libraries for react native
+
+Ported 3 react applications to Kotlin
+
+Developed JEST/Appium unit and integration tests
+
+Implemented, developed testable kotlin leveraging MVVM design pattern
+
+Designed, architected full-stack solutions for google client PG&E
+
+Designed planned and implemented multiple migrations to AWS cloud
+
+Architected, configured, developed for React, Lambda, AppSync,
+CloudFront, CloudFormation, S3, DynamoDB, Redis , Elasticache, Step
+Functions
+
+Functioned as SME Node/ React / React Native developer and Architect
+
+Performed Full-Stack Development with NEST/Nextj
+
+Migrated Java/EE, Angular.js and .NET applications to ReactJS + AWS
+
+Migrated ReactJS Redux to Hooks + context for 4 applications
+
+Mentored junior engineers on Redux/Flux/Hooks
+
+Developed, documented best practices and TDD strategy
+
+Architected React Native Bridges for 5 modules
+
+Performed native swift development
+
+Resolved over 50 Android bug tickets in the backlog
+
+AT&T
+
+Senior Mobile Developer/Developer Team Lead(remote) March 2010 – Feb
+2020
+
+Senior Android IOS Full Stack Developer consultant. Senior level Full
+Stack Mobile / React Native/Redux developer and Architect for multiple
+mobile applications. Work performed in agile, test-driven environments
+with small to midsized teams, utilizing Atlassian stack. Delivered 20
+full-cycle Native IOS/Android/React Native apps into production . I was
+dev lead on a total of 15 Mobile Applications and I worked on multiple
+5G blockchain projects.
+
+Architected, Developed 14 Native IOS and Android enterprise dashboard
+applications (agile methodology + GIT and Atlassian tools)
+
+Developed 5 AR/VR applications for annual AT&T security games
+conferences
+
+Senior developer on MY ATT consumer-facing mobile application
+
+Performed A/B config / testing
+
+Developed 3 internal mobile applications with Flutter
+
+Developed 4 Hyperledger Sawtooth blockchain applications for 5G
+migration
+
+Developed 5 ERC 20 crypto tokens
+
+Utilized web3/truffle suite for testing of smart contracts
+
+Configured FastLane build and deploy solution for Mobile
+
+Performed Sr Kotlin development for 8 applications, performed code
+review for jr. devs
+
+Developed Unit Tests for Droid /IOS utilizing Espresso for TDD and
+XCTest
+
+Implemented UI/UX and software design best practices for IOS / Android
+Native
+
+Migrated 8 applications from Objective-C to Swift
+
+Implemented MVP/MVVM design patterns for droid
+
+Provisioned, deployed all apps to app stores
+
+-   Performed Airwatch MDM integrations for Android/IOS
+
+-   Developed, performed unit test with Appium
+
+-   Optimized Android apps for BLE experience
+
+-   Developed, performed unit tests with Selenium
+
+-   Developed Backend Services with Spring Boot
+
+-   Dockerized Mobile Service Layer
+
+-   Developed/Architected multiple azure-based Xamarin cross-platform
+    native mobile apps
+
+-   Leveraged MVVM/MVVM Cross for separation of concerns in Xamarin with
+    C#/.NET
+
+-   Expert in Android Material Design and IOS human interface guidelines
+
+-   Administered Teamcity/Jenkins for CI/CD strategy
+
+-   Performed MacOS development for 4 applications
+
+-   Performed Xamarin/Visual Studio Architecture Development and config
+    for Droid/IOS
+
+-   Performed complex IOS keychain/cert management for cloud-based APIs
+
+-   Implemented Facial Recognition API on three existing IOS apps
+
+    Interacted with PM/BA and UX teams to insure consistency and quality
+    in final deliverable
+
+    Developed, ported 5 100% swift 4 applications
+
+-   IOS Development with XCode, Android Dev with Android Studio
+
+-   Developed, integrated salesforce into 3 mobile applications
+
+    Architected, developed with React.js/React Native, Angular.js,
+    Bootstrap.js, jQuery, Node.js, Knockout.js , express.js,
+    administration, development and architecture
+
+    Utilized Redux for state management
+
+    Architected/Implemented MDM solution for BYOD initiative
+
+-   Implemented Touch ID screening on multiple apps
+
+    Performed C++ development for high performance internal financial
+    applications
+
+    Architected, developed 5 mobile applications on Xamarin Framework
+    using c#/.net
+
+    Developed 6 hybrid applications using PhoneGap/Cordova
+
+    Installed Docker
+
+    Developed 8 native applications for IOS / android / Windows
+
+    Developed 4 video-based applications
+
+    Developed 2 applications utilizing WikiTude framework
+
+    Performed IOS/Unity development
+
+    Developed 3 wearable apps (IOS and Android)
+
+    Performed SharePoint development
+
+    Integrated IOS keychain into all applications
+
+    Performed CSS3/HTML development
+
+    Performed Linux Kernel development
+
+    Performed Rabbit MQ dev/administration
+
+    Integrated high quality video streaming into 6 of the applications
+    worked on
+
+    Performed IBM Worklight Eclipse-based development for
+    Android/IOS/Windows
+
+    Developed Custom Safari, Chrome, and FireFox Extensions
+
+    Developed Custom Google extensions for Safari/Chrome
+
+    Performed Frontend development for DAAS portal project
+
+    Performed JQUERY development
+
+    Performed Internal CRM Integration/Node.js Development for Mobile
+
+    Backend
+
+    Performed Android ROM/Linux development for android remote printing
+    devices
+
+    Implemented encryption system for mobile exchange of classified data
+    for Dashboard App
+
+    Developed RESTFUL web services
+
+    Administered POSTGRES dB for back end web services
+
+    Performed JSON development
+
+    Developed SOAP Web Services
+
+    Performed Mobile application development for IOS and Android
+
+    Performed RWD development/CSS Media query development
+
+    Performed JSF development in Rational Application Developer 8.x
+
+    Administered, configured, tuned WebSphere Portal V8
+
+IBN Global Group October 2009-May 2010
+
+IOS/Mobile developer (remote)
+
+Developed internal native Android/IPhone OS Mobile Applications for J2EE
+enterprise applications.
+
+Utilized the IBM worklight framework to build, deploy, test and publish
+apps
+
+Performed IOS keychain development
+
+Utilized angular.js, backbone.js, Node.js, Underscore, D3.js , and
+JQCharts , handlebar.js, require.js, Backgrid, for dynamic web
+interaction
+
+Developed RESTFUL Services for all applications utilizing AGILE/Scrum
+methodologies
+
+Developed HYBRID IOS/Android Applications for access to WAS Portal
+resources
+
+Performed objective Java (Android)/objective C development for all IOS
+versions
+
+proficient in XCode 5,/eclipse/cocoa/uikit frameworks and Iphone/Android
+NDK/ SDK 4.4
+
+Performed android web sockets development for native applications
+
+Developed 5 safari/chrome plugins
+
+  Developed 4 TVOS/BrightScript
+
+Performed Native Android/IOS development
+
+Performed GTV development
+
+Developed interfaces and application code for Iphone/IPAD/Android
+Tablet/Phone
+
+Performed full project end to end workflow and delivery for mobile
+delivery
+
+Utilized Storyboard, blocks, autolayout
+
+Developed JSON web services
+
+Performed NOSQL development
+
+Developed Java / J2EE frontend and backend components
+
+Developed using the Google Web Toolkit
+
+Performed custom android ROM development
+
+Utilized PhoneGap/Cordova for multi-platform device support
+
+Utilized Java Swing for building java UI components
+
+Utilized IBM work light enterprise edition for multi-platform device
+support and SSO
+
+Performed mobile IOS/Android/Blackberry application development for
+internal HR app
+
+Utilized, tested internal apps with various MDM providers
+
+Managed all projects with SVN/GIT and auto deploy/config via Hudson
+
+Performed POC and initial developed for GPS-based advertising mobile
+enterprise application
+
+Performed DOJO/Ajax/SOAP/JSON/ xml widget development
+
+Administered POSTGRES DB
+
+Developed mobile application connectivity to SQL Lite DBs
+
+Performed RUBY/RAILS Development
+
+Integrated WebServices calls into all applications
+
+Performed JQuery/MQSQL development
+
+Performed development utilizing Redis
+
+Performed HTML/HTML5/CSS Development
+
+Performed frontend mobile UI Development in Adobe CS Suite
+
+Interfaced with UI developers to coordinate screen flows for all mobile
+apps
+
+Performed SOI administration, configuration
+
+Performed CA wily Introscope APM and CEM 9.1 migration from 8.0 in 5
+environments
+
+Performed NetQOS installation and configuration
+
+Performed CA Superagent installation and configuration
+
+Performed HP Openview Configuration
+
+BS: Computer Science 2000
+
+Duke University, Durham, NC

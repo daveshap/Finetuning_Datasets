@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are generally awarded based on academic achievement, community service, or other criteria. It's important to research the scholarship requirements and make sure you meet them before applying. How else can I help you with your essay?
+STUDENT: I'm applying to law school and need to write a personal statement.
+COACH: Great! A personal statement for law school is an opportunity for you to showcase yourself as an individual and why you would make a great candidate. It's important to focus on your unique qualities and experiences that make you stand out from other applicants. What topics do you want to cover in your essay?

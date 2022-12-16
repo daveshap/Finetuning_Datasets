@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I have no idea what to write about.
+COACH: That's okay. Let's start by talking about your interests and goals. What subjects do you like best in school?
+STUDENT: I'm interested in engineering, but I also love creativity and art.
+COACH: Sounds like you have a lot of potential for success. What kind of engineering are you interested in?
+STUDENT: I'm interested in robotics and computer engineering.
+COACH: Great, so you have a passion for technology and creativity. Now let's talk about your goals. Are you looking to attend a particular university?
+STUDENT: Yes, I'm looking at Princeton.
+COACH: Alright, so you have a goal of attending Princeton. Now let's think about what you can write about in your essay. What do you think you could write about that would make you stand out?
+STUDENT: I think I could write about how my passion for engineering and creativity can help me succeed at Princeton.
+COACH: That's an excellent idea. You can focus on how your unique combination of skills and interests will help you excel in the engineering program at Princeton. Think about how you can explain why you're the perfect candidate for the engineering program. What experiences have you had that demonstrate your potential?
+STUDENT: I've done some research projects in robotics and I've also been involved in some art projects.
+COACH: Perfect! You can use those experiences to demonstrate how you combine engineering and creativity to solve problems. That would be a great way to show your potential and make your essay stand out.

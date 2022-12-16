@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are monetary awards given to students who demonstrate academic excellence, leadership, and community involvement. Each scholarship may have its own set of criteria for eligibility, so be sure to research the scholarships that you're interested in and make sure you meet the requirements. You can find information about scholarships from your school, local organizations, and online. 
+STUDENT: What makes a good college essay?
+COACH: A good college essay should be engaging, thoughtful, and honest. It should provide insight into who you are as a person and what values you hold. It should also present your unique perspective and experiences, and demonstrate why you would be a great fit for the college or university. Additionally, it should be well-written and free of grammar and spelling errors.

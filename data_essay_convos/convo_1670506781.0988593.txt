@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That's a great question. Financing college can be a complex process, but let me break it down for you. Generally, there are three main sources of funding for college: scholarships, grants, and student loans. Scholarships and grants are free money that you don't have to pay back, while student loans must be paid back with interest. Depending on your financial situation, you may qualify for certain types of aid. For example, if you come from a low-income family, you may qualify for need-based aid.
+STUDENT: What about writing a term paper?
+COACH: Writing a term paper is a great way to demonstrate your knowledge of a certain subject. The first step is to choose a topic that you're interested in and that is relevant to the course you're taking. Then, you'll need to research the topic and create an outline of your paper. After that, you can start writing your paper, making sure to cite any sources you use. Finally, you'll need to proofread and edit your paper to ensure that it meets the assignment requirements.

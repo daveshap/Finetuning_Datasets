@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That’s a great question. Before we dive into picking a topic, can you tell me a little bit more about the essay? What type of essay is it?
+STUDENT: It's a research paper.
+COACH: Perfect. Research papers require a lot of research and organization, so having a clear topic is essential. Let’s start by brainstorming some ideas. Can you tell me a little bit about the subject you’re interested in?
+STUDENT: I'm interested in the history of the civil rights movement in the United States.
+COACH: Great! That’s a really interesting topic. Now, let’s narrow it down. What specific aspect of the civil rights movement would you like to focus on? Are there any particular events or people that you’d like to explore?

@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a high school student and I'm applying to college soon. I have no idea what to write about in my essay.
+COACH: That's a common problem. Let's start by talking about what you're interested in. What topics are you passionate about?
+STUDENT: I'm really interested in science and technology, and I'm thinking of applying to MIT.
+COACH: That's great! What specifically about science and technology interests you?
+STUDENT: I'm fascinated by artificial intelligence and its potential applications.
+COACH: That's an interesting topic. How do you think AI could be used to solve some of the world's problems?
+STUDENT: I think AI could be used to improve healthcare, education, and other areas that need improvement.
+COACH: That's a great point! Now let's talk about the essay itself. What do you think you should focus on?
+STUDENT: I'm not sure. I guess I should talk about why I'm interested in AI and why I want to go to MIT.
+COACH: That's a great start. Have you ever visited MIT or spoken to anyone who goes there?
+STUDENT: No, I haven't.
+COACH: That's ok. You can still use your research and experiences to inform your essay. For example, you could research how college admission works and how MIT evaluates applicants. You could also talk about any relevant experiences you've had, like volunteer work or internships.
+STUDENT: Ok, that sounds like a good plan.
+COACH: Great! Now, what else do you want to include in your essay? Are there any topics that you feel strongly about, like LGBT rights or Judaism?
+STUDENT: Yes, I'm very passionate about both of those topics.
+COACH: That's great! You could use your essay to explain why these issues are important to you and why you think they should be addressed. This will show the admissions committee that you're a thoughtful and engaged person.

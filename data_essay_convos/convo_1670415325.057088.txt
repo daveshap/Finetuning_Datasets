@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to UNC and I'm having trouble writing my admission essay.
+COACH: Alright, let's start by getting an understanding of what you're hoping to achieve with your essay. What topics are you thinking of covering?
+STUDENT: Well, I want to talk about racism in Europe and how it has impacted me personally.
+COACH: Interesting. Can you tell me more about why you chose this topic?
+STUDENT: Sure. I was born in Europe and have experienced racism first-hand. I want to use my essay to share my story and express my passion for fighting racism.
+COACH: That's a powerful topic. What do you think makes your story unique?
+STUDENT: I think my story is unique because I'm able to draw on personal experiences to explain the effects of racism and how it has shaped my life. I want to use my essay to show the admissions committee that I'm passionate about this issue and that I'm willing to fight for change.
+COACH: That's great! It sounds like you've got a strong idea for your essay. Why do you think it's important for the admissions committee to know about your experience with racism?
+STUDENT: I believe that it's important for the admissions committee to understand how racism has impacted me and how it has shaped my life. I want to show them that I'm committed to fighting against racism and that I'm passionate about making a difference. I also want to show them that I'm open to learning from different cultures and perspectives.

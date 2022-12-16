@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question. Let's start with the basics. What type of essay are you writing?
+STUDENT: A research paper.
+COACH: Perfect. A research paper is a type of essay that requires you to do some research in order to make an argument. You'll need to find reliable sources to support your argument and then present your findings in a logical, organized way. To structure your paper, you'll want to start with an introduction that outlines your main points and introduces your topic. Then you'll move into the body of your paper, which should be divided into sections that cover each point you want to make. Finally, end your paper with a conclusion that summarizes your argument and ties everything together. Do you have any other questions about structuring a research paper?

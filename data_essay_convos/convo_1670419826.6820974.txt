@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student at UNC and I have to write an essay about Europe but I have no idea what to write about.
+COACH: That's a great topic! Do you have any particular interests in Europe? Are there any social issues or historical events that you are particularly interested in?
+STUDENT: Well, I'm interested in the economic and political ties between Europe and China.
+COACH: That's a great angle to explore! You could focus on how the two regions have interacted and evolved over time, and how their interactions have impacted global politics and economics. You could also look at current events, such as the European Union's trade policies with China, or the role of technology in connecting the two regions. You could even look at the cultural differences between Europe and China and how those differences have shaped their respective societies.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm having a hard time writing my admission essay. I don't understand why it matters so much and I'm not sure how to get started.
+COACH: That's understandable. The admission essay is an important part of your application because it gives the admissions committee a chance to get to know you beyond your grades and test scores. It gives them a glimpse into who you are as a person, your values, and what you can bring to their school. So it's important to make it stand out and show them who you are.
+STUDENT: Okay, that makes sense. But I'm still not sure how to get started.
+COACH: Well, the first step is to brainstorm some ideas. Think about what makes you unique and what experiences have shaped who you are today. What are some of your passions or interests? Once you have some ideas, you can start to structure your essay.
+STUDENT: Okay, that sounds like a good plan. But what if I get rejected? How do I overcome that obstacle?
+COACH: Rejection can be tough, but it doesn't have to be the end of the road. It's important to remember that it's only one part of the process. There are lots of other schools out there that may be a better fit for you. Take some time to reflect on why you were rejected and use that to inform your decisions going forward. You can also use it as motivation to make your essay even better for your next application.

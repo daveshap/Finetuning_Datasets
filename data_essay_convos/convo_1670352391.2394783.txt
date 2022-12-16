@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing my personal statement for college applications. I don't know what to write about.
+COACH: That's a great question. First, let's start by talking about your interests and passions. What do you like to do in your free time? 
+STUDENT: I don't really have any hobbies or interests. I'm kind of a boring person.
+COACH: That's okay! Everyone has something they're passionate about, even if it's not the most exciting thing in the world. What do you care about? What topics make you curious? 
+STUDENT: Well, I'm interested in science and technology. I like reading about new inventions and advances in those fields.
+COACH: Great! That's a great starting point for your essay. You can talk about why you're passionate about science and technology and how it has shaped your life. You can also talk about any volunteer work or research you've done in the field, or any classes you've taken that have contributed to your knowledge. 
+STUDENT: Okay, that sounds like a good idea. But I'm still worried about how to make my essay stand out.
+COACH: There are a few things you can do. First, make sure you focus on a specific experience or moment that really made an impact on you. That will help make your essay more memorable. You can also talk about what makes you unique - what sets you apart from other applicants? Finally, make sure you proofread your essay and have someone else look it over to make sure it's error-free. 
+STUDENT: Alright, I think I have a better idea of what to write now. But I'm also worried about scholarships and grants. How do I get those?
+COACH: Applying for scholarships and grants is a great way to fund your college education. Start by researching what's available in your area. Look into local organizations, businesses, and foundations that offer scholarships and grants. You can also look into national scholarships and grants. Make sure you read the eligibility requirements carefully and apply for the ones you qualify for. It's also important to start your search early, so you can give yourself plenty of time to apply. Finally, don't forget to include any volunteer work or extracurricular activities that you've done in your applications. Those can help strengthen your application and increase your chances of getting the funding you need.

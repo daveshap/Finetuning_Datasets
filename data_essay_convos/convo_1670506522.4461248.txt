@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that demonstrate a student's ability to think critically, express themselves clearly, and make a strong argument. They also want to see evidence of research and an understanding of the topic. What kind of essay are you writing?
+STUDENT: I'm writing a dissertation.
+COACH: Great! A dissertation is a lengthy written work that requires extensive research and analysis. To start, what is your dissertation topic?

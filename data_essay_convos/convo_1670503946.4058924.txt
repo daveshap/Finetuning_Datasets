@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Well, there are a few things you should consider when writing your admissions essay. First, you should think about what makes you unique and why you would be an asset to the school you’re applying to. Secondly, you should think about how your experiences have shaped who you are today and how they might be beneficial to the college. Finally, you should make sure to include any relevant information that might be of interest to the admissions board.
+STUDENT: What kind of structure should I use for my essay?
+COACH: The structure of your essay is an important factor in conveying your message effectively. Generally, you should start with an introduction that outlines the main points of your essay. Then, you can move on to the body of your essay, which should contain the detailed information and stories that support your main points. Finally, you should end with a conclusion that ties all of your ideas together and leaves the reader with a lasting impression.

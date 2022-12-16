@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for help with my college essay.
+COACH: Great! What kind of essay are you writing? What is the prompt?
+STUDENT: It's a personal statement essay for MIT and the prompt is to explain why I want to pursue a degree in science.
+COACH: That's a great topic! Can you tell me more about why you want to pursue a degree in science?
+STUDENT: Well, I've always been interested in science and I think it would be a great way to challenge myself. I also think it could open up a lot of opportunities for me.
+COACH: That's a great start. Can you tell me more about why you find science so interesting and what opportunities you think it could bring? 
+STUDENT: Sure. I think science is really fascinating because it allows us to explore the world around us and understand the universe better. I think it could open up a lot of career opportunities, like research or teaching, that I would find really fulfilling.
+COACH: That's great! So, why do you think you would be a good fit for a degree in science at MIT?
+STUDENT: I think I could bring a unique perspective to the program, because of my background in Judaism. I think this could help me approach science from a different angle and make me a more creative thinker. I'm also very motivated and hardworking, so I think I could make the most of the opportunity.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question! You should write about something that you are passionate about and that you can make a strong argument for. Think about a topic that is meaningful to you, and that you feel strongly about.
+STUDENT: What kind of structure should I use for my essay?
+COACH: Well, the structure of your essay will depend on the type of essay you are writing. For an argumentative essay, you'll want to start with an introduction that clearly outlines your argument and provides any necessary background information. Then, you'll need to present evidence to support your argument in the body of the essay. Finally, you'll want to end with a conclusion that summarizes your argument and leaves the reader with something to think about.
+STUDENT: What kind of evidence should I use to support my argument?
+COACH: Evidence can come in many forms, such as facts, statistics, quotes from experts, or personal experiences. It's important to choose evidence that is relevant to your argument and that is credible. Make sure you cite any sources you use in your essay to avoid plagiarism.
+STUDENT: How can I make sure my essay stands out?
+COACH: A great way to make your essay stand out is to add a personal touch. Think about how you can make your essay unique by sharing a story or experience that is meaningful to you. Additionally, make sure you are using strong language and vivid imagery to engage the reader and make your essay memorable.

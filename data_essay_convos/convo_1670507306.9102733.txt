@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: That's a great question. Let's start by talking about what you want to accomplish with your essay. What is the main point you want to make in your personal statement?
+STUDENT: I want to demonstrate my passion for learning and my commitment to academic excellence.
+COACH: That's a great goal. Now, when it comes to writing a conclusion, you want to make sure that you summarize the main points of your essay in a way that ties them together and reinforces your main message. You want to leave the reader with a strong impression of your commitment and enthusiasm for learning. Try to think of a few key points that you want to emphasize and use those to create a powerful conclusion.

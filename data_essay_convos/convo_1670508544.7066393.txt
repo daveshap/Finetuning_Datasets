@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That’s a great question! First, let’s figure out what kind of essay you’re writing. Are you writing an admissions essay for college?
+STUDENT: Yes, I am.
+COACH: Alright, so you’re writing an admissions essay. What kind of prompt have you been given?
+STUDENT: No prompt has been given.
+COACH: Okay, so you’re writing an admissions essay without a prompt. That means you have the freedom to choose your own topic. What kind of story do you want to tell with your essay? What do you think is unique about you that you can share with the admissions committee?

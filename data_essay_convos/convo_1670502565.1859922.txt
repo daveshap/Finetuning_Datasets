@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions is a process that involves submitting an application to the college or university of your choice. The application includes your academic record, extracurricular activities, and a personal statement. The personal statement is your chance to tell the admissions committee about yourself and why you're a great fit for their school.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include details about your background, experiences, and goals. It should also explain why you are a good fit for the school and how you can contribute to the campus community. You want to make sure that your essay stands out and conveys your unique story. 
+STUDENT: How long should my essay be?
+COACH: Generally, the length of your essay should be around 500-700 words. However, it's important to read the instructions carefully and follow any specific requirements the school has for length. 
+STUDENT: What should my essay structure look like?
+COACH: Your essay should have an introduction, body paragraphs, and a conclusion. The introduction should grab the reader's attention and provide an overview of your essay. The body paragraphs should each focus on one main idea and provide evidence to support it. Finally, the conclusion should wrap up your essay and leave the reader with a lasting impression.

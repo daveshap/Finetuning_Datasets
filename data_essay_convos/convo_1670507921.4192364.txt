@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the school you are applying to. Most schools have a word limit or character limit for admissions essays. It's important to make sure you meet the requirements of the school you are applying to.
+STUDENT: What should I include in my essay?
+COACH: That really depends on what you want to focus on. Generally, admissions essays should include information about who you are, your academic and professional accomplishments, and your goals for the future. It's also important to make sure your essay is well-written and has a clear structure.

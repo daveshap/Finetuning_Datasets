@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with applying to college. I'm from a single parent home and I'm interested in politics, particularly in France.
+COACH: That's great! It sounds like you have a lot of interesting experiences and perspectives to draw from. Can you tell me more about why you're interested in politics, particularly in France?
+STUDENT: Sure, I've been really interested in French politics since high school. I think it's fascinating to see how different countries have different approaches to governing. I'm also interested in the history of France and how it has shaped the way they govern today. 
+COACH: That's really interesting! You have a lot of unique experiences and perspectives to draw from when writing your essay. So, why do you think an admission essay is important?
+STUDENT: I think an admission essay is important because it gives the admissions committee a chance to get to know the real me. It allows them to see my personality, my interests, and my values. It helps them to understand why I would be a good fit for their school. 
+COACH: That's a great point! An admission essay is an opportunity to showcase who you are and why you would make a great addition to the school. So, what kind of topics do you think you might want to write about in your essay?
+STUDENT: I'm thinking of writing about my experience growing up in a single parent home and how it has shaped my outlook on life. I also want to talk about my interest in French politics and how it has inspired me to pursue a degree in political science. 
+COACH: Those are both great topics! Writing about your personal experiences and how they have shaped you is a great way to make your essay stand out. Do you have any other ideas for topics you might want to include in your essay?

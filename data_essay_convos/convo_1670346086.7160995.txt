@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble deciding what to write about in my personal statement.
+STUDENT: I'm interested in science and I want to apply to MIT and Duke University. I'm also passionate about Islam and its teachings.
+COACH: Alright, that's great! Let's start by talking about the two universities you're applying to. What draws you to MIT and Duke University? What do you think makes them stand out among other universities? 
+STUDENT: Well, I'm really interested in the research opportunities available at both universities. I also like the fact that they both have strong programs in the sciences. 
+COACH: That's great! Now, let's talk about your passion for Islam. How does this factor into your decision to apply to these universities?
+STUDENT: Well, I'm interested in exploring how Islam can be incorporated into scientific research. I'm hoping to find a university that will allow me to pursue this research and provide me with the resources and support I need to make it happen. 
+COACH: That sounds very interesting! So, how would you like to incorporate your interest in Islam into your personal statement?
+STUDENT: I would like to discuss how my faith has shaped my views on science and how it has inspired me to pursue a career in this field. I'd also like to talk about how I plan to use the research opportunities available at MIT and Duke University to further explore the connections between Islam and science.

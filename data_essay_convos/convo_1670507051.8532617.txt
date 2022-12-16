@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Okay, let's start with a reference interview. Can you tell me more about why you're writing a personal statement for law school? What are your goals, and what do you hope to accomplish?
+STUDENT: I am interested in pursuing a career in law because I believe it will give me the opportunity to help people in need. I want to use my legal knowledge and skills to make a positive impact in the world.
+COACH: That's great! Now that we have a better idea of your purpose, let's talk about the structure of your essay. What do you think would be the best way to organize your thoughts and ideas?
+STUDENT: I think the best way to organize my thoughts would be to start with an introduction, then discuss my background, my experiences, and my goals for the future.
+COACH: That's a good plan! Now let's talk about what kind of details you should include. You want to make sure your essay is as detailed and specific as possible, so start by thinking about what makes you unique. What experiences have shaped you, and what sets you apart from other applicants?
+STUDENT: I have had a variety of experiences that have shaped me. I have volunteered with a local legal aid organization, which has given me a firsthand look at how the law can be used to help those in need. I have also been involved in a number of extracurricular activities, such as debate, which has taught me the importance of critical thinking and clear communication. I am also passionate about social justice, and I strive to use my knowledge and skills to bring about positive change. 
+COACH: Great, those are all great points to include! Now, let's talk about how to express these ideas in your essay. How can you make sure your essay stands out and makes a strong impression on the reader?
+STUDENT: I think it's important to be honest and genuine in my writing. I want to make sure that my essay is reflective of who I am and my beliefs, while also being well-structured and persuasive. I also want to make sure I am using specific examples and anecdotes to illustrate my points and make them more relatable.

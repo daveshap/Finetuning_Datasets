@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: That's a great question. Let's start by talking about the essay you're working on. What type of essay is it and what's the prompt?
+STUDENT: It's an admissions essay and the prompt is to describe a difficult experience and how it has impacted my life.
+COACH: Okay, let's start by breaking down the prompt. What kind of difficult experience are you thinking of writing about? 
+STUDENT: I'm thinking of writing about how my family struggled financially when I was growing up, and how it has made me more resilient and determined to succeed.
+COACH: That sounds like a great topic. Now, let's talk about structure. How can you organize your essay to make sure it flows logically and effectively communicates your message?
+STUDENT: I think I'll start by describing the difficult experience, then explain how it has shaped who I am today, and finally discuss how this experience has helped me become a better person.
+COACH: That's a great plan. Now, let's talk about the details. What specific examples can you use to illustrate how this experience has affected you?
+STUDENT: I can talk about how I had to take on extra jobs to help support my family, or how I had to learn to be independent and self-reliant at a young age. I can also discuss how this experience has made me a more compassionate and understanding person.

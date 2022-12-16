@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my admission essay for MIT.
+COACH: Great! Can you tell me a little bit about your goals and personal objectives?
+STUDENT: Sure. My goal is to become a successful engineer and I want to use my knowledge and skills to help those in need, particularly refugees.
+COACH: That's a great goal. Why do you feel that an admission essay to MIT is important in achieving this objective?
+STUDENT: Well, I think that writing a strong admission essay will demonstrate to the admissions committee that I have the skills and knowledge to be successful at MIT. It will also show them that I'm committed to my goal of helping refugees.
+COACH: That makes sense. What kind of specific points do you plan to include in your essay?
+STUDENT: I want to focus on my academic achievements and how they have prepared me for a successful engineering career. I also want to talk about my interest in humanitarian work and my commitment to helping refugees. Finally, I want to discuss why I chose MIT over other universities like NCSU.
+COACH: That's a great plan. What kind of help do you need from me?
+STUDENT: I need help structuring my essay and making sure that my points are clear and concise. I also need help proofreading and editing the essay to make sure it's free of any grammar or spelling errors.

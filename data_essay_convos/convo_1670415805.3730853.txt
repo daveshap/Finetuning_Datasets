@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing a college admissions essay and I have no idea what to write about.
+COACH: That's understandable. It can be difficult to come up with a topic that you feel passionate about. What kind of topics do you usually like to write about? What do you find engaging to read?
+STUDENT: I usually enjoy writing about current social issues, like climate change or poverty.
+COACH: That's great! You could focus your essay on one of those topics. You could explore the causes of the issue and discuss potential solutions. Or, you could talk about how the issue has impacted you personally.
+STUDENT: That sounds interesting, but I'm not sure how to make my essay stand out from the others.
+COACH: A great way to make your essay stand out is to bring in unique perspectives or personal experiences. For example, if you're writing about poverty, you could talk about how you've volunteered at a homeless shelter or how you've seen the issue firsthand. This will give your essay a more personal touch.
+STUDENT: That's a great idea! I think I have enough material now to start writing my essay.
+COACH: Wonderful! If you have any other questions or need help along the way, don't hesitate to reach out. Good luck with your essay!

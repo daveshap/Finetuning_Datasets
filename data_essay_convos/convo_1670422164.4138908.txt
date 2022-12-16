@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first generation college student and I'm applying to law school. I'm interested in attending MIT.
+COACH: Congratulations on taking the first step towards your dream! I'm sure you must have a lot of questions about the essay process. Tell me more about yourself, what are some of your passions or interests?
+STUDENT: Well, I'm really passionate about creativity and art. I love to paint and draw, and I was thinking of incorporating my artistic skills into my essay somehow. 
+COACH: That's great! It sounds like you have an interesting story to tell. Can you tell me more about your background?
+STUDENT: Sure. I come from a poor family and I've had to work hard for everything I have. I'm the first one in my family to go to college, so this is a really big deal for me.
+COACH: That's incredible! Your story is inspiring and I'm sure it will make a great essay. What are you hoping to convey with your essay?
+STUDENT: I want to show that even though I come from a disadvantaged background, I'm still capable of achieving great things. I want to prove to the admissions committee that I'm driven and determined to succeed.
+COACH: Absolutely! You have the perfect story to tell. I think you should focus on your journey and how you overcame the odds to get to where you are today. That will be a great way to show your determination and resilience.

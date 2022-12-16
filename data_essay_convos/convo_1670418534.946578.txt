@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble coming up with an idea for my essay. I have no idea what to write about.
+COACH: That's okay, let's start by talking about your goals and personal objectives. What are some of your long-term aspirations?
+STUDENT: Well, I want to be a successful businessperson who can make a difference in the world. I also want to learn more about Buddhism and its teachings.
+COACH: That's great! It sounds like you have a passion for both business and spirituality. What made you interested in these topics?
+STUDENT: Growing up, I was surrounded by poverty and hardship. I saw how hard my family had to work just to get by, and I wanted to do better. I think Buddhism has a lot of wisdom that can help me achieve my goals.
+COACH: That's very admirable. What do you think makes Buddhism so special to you?
+STUDENT: I think it's the emphasis on inner peace and self-awareness. It teaches us to be mindful of our thoughts and actions and to strive for balance in our lives. It also focuses on compassion and understanding, which I think is important for any successful businessperson.

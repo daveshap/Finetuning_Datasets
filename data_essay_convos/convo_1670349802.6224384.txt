@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my college essay. I'm applying to MIT and I'm struggling to figure out what to write about.
+COACH: That's a great school. What specifically do you need help with?
+STUDENT: Well, I'm not sure why college matters or why I should be accepted over someone else. I don't feel like I'm an interesting person or have anything unique to offer.
+COACH: That's a common feeling. But everyone has something unique to offer. Tell me a bit more about yourself and why you want to go to MIT.
+STUDENT: Well, I'm currently a senior in high school and I'm looking to major in engineering. I'm also interested in attending NCSU but I'm really drawn to the idea of attending MIT. I guess I'm just not sure why I'm a good fit for the school or why they should accept me.
+COACH: That's understandable. It's natural to feel like you're not special enough or that you don't have anything interesting to say. But the truth is, everyone has something unique to bring to the table. Think about what makes you unique - your experiences, your passions, your goals. That's what you should focus on when writing your essay. Show the admissions committee why you're a great fit for their school and how you can contribute to their community.

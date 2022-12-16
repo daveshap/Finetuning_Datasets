@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to Duke University, and I need help with my essay.
+COACH: Sure, what specifically do you need help with?
+STUDENT: Well, I'm having trouble figuring out what to write about. I want to make it engaging, but I'm not sure what would be interesting to the admissions committee.
+COACH: That's a great question. What do you think makes an essay engaging?
+STUDENT: I think it needs to be personal and honest, so that the reader can connect with it.
+COACH: That's a great start. What topics are you interested in writing about?
+STUDENT: I'm really passionate about travel, and I think it would be interesting to talk about how my travels have shaped my view of the world and how I approach different situations.
+COACH: That sounds like a great topic! How have your travels shaped your view of the world and how you approach different situations?
+STUDENT: Well, traveling has given me a much broader perspective on life. I've seen different cultures and ways of life, and it has made me more open-minded and accepting of different points of view. It has also taught me to think outside the box and to be creative when faced with a problem.
+COACH: That's an amazing insight! So, why does college matter to you?
+STUDENT: College matters to me because it provides me with the opportunity to learn and grow. It will open up new doors for me and give me the chance to explore new ideas and concepts. Going to college will also allow me to make connections with people from all over the world, which is something I'm really excited about. Lastly, I'm hoping to attend Princeton, which is one of the top universities in the world, and I know that attending such a prestigious institution will open up many opportunities for me.

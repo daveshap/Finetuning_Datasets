@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essay.
+COACH: Okay, let's get started. Can you tell me a bit about yourself and what makes you unique?
+STUDENT: Sure. I'm a first generation college student from a single parent home. Growing up, my mom always taught me to be passionate about life and to make the most of every opportunity. I've been involved in charity work since I was young, and I have a strong interest in traveling to Europe. 
+COACH: That's great! It sounds like you have a lot of unique experiences that can be included in your essay. What would you like to focus on in your essay?
+STUDENT: I want to focus on how my upbringing has shaped my passion for giving back to my community and how it has motivated me to pursue a college education.
+COACH: That's a great topic! Can you tell me more about your charity work and how it has impacted you?
+STUDENT: Well, I've been involved in various charity projects over the years, such as fundraising for local homeless shelters and organizing food drives. Through these experiences, I've learned the importance of helping those in need and giving back to my community. It has also inspired me to pursue a college education so that I can continue to make a difference in the world.
+COACH: That's wonderful! It sounds like you have a very inspiring story to tell. How do you think this experience will help you in college?
+STUDENT: I think it will give me the motivation to work hard and strive for excellence. I know that I have the potential to make a difference, and I'm looking forward to taking advantage of all the resources available to me in college.

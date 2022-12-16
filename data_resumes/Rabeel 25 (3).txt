@@ -1,0 +1,98 @@
+Rabeel Sadiq
+Full Stack Developer
+TECHNICAL SKILLS
+1411 meridian way Rocklin Ca 95765
+(916) 846-8755sadiqrabeel3@gmail.com
+https://github.com/Rabeel90
+https://www.linkedin.com/in/rabeel-sadiq-b43610250/
+Strong
+|
+JavaScript, React (Router , Hooks), RESTful
+APIs, HTML/CSS, Git/GitHub, CLI, SQL  (PostgreSQL)
+Experienced |
+React
+,
+Redux, Python, Django, JQuery ,
+Heroku, CI/CD
+PROFESSIONAL EXPERIENCE
+Symantec (Open Source Product)
+| Full Stack Developer
+| 2022 - present
+● Designed 100+ strategy for continuous enhancement, performance optimization, stability &
+extensibility .
+●Transformed business needs into a finished product(100%)  from conception to implementation.
+● Lead a team of 50 + developers, designers, and network managers and ensure digital outcomes are in line with business
+objectives.
+● The application is 100% created using Redux & React has Frontend and 2+ Django tools has Backend.
+Rocklin district office
+|Substitute
+| 01/2022 - Present
+|
+●I labor with 100+ students, helping them finish
+their assignments.
+●I toil in an office as an office
+assistant providing (24/7) support
+●I operate with more than 100 special needs kids.
+IQRA (read)
+|Self employment
+| 2\2019- Present |
+●Scheduled maintenance(100%) are implemented for
+students
+●Kept students on task with proactive behavior modification
+and (100%) +ve reinforcement strategies.
+●Grades evaluated for (50+) student assignments,
+paper assignments and course work.
+.
+India super market
+|Manager
+| 07/2018- 06/2020 |
+●Applied (100+)customer feedback to develop processes,
+improve and support long term business needs.
+●Increase sales by 10%
+●Cross trained - existing employees to maximum(80%-90%)
+team elegance and performance.
+OPEN SOURCE
+Hunger Captain
+| Front-End Developer
+● Developed back-end applications, databases and servers for creating highly functional websites.
+● Staying well-informed about the current developments in the world of web development, learning about emerging concepts in
+full stack, and updating project leaders regarding the same.
+● Developed Application Programming Interface (APIs) which is quite indispensable when that comes to working with dif ferent
+software.
+● The creation is  by using the react, redux and Django 2+ tools for frontend and backend usage.
+Twitter Clone
+| Front-End developer
+●
+With this project, team produced a platform where
+one can express the thoughts anonymously, and showcase pictures
+●
+Much more on a single website. Post, edit or delete
+posts at the convenience of just a few touches
+.
+●
+Basis of the project is on Twitter and anonymity
+adds to the special features. Without the necessity of an account.
+●
+One can share thoughts and memories with the world
+at any time. One can even learn CRUD (Create/Read/Update/Delete)
+through this project.
+.
+●
+Technologies in use:
+Html, CSS, Bootstrap, Javascript
+/ JQuery, Django, Cloudinary (To host uploaded images on CDN)
+GitHub: https://github.com/Rabeel90/twitter-clone
+HANDS ON CODING EXPERIENCE
+Solved 50+ coding challenge on Hackerrank
+EDUCATION
+TECH I.S. | W eb Development Program |
+B.Com
+| Computer Science |Karachi university
+|
+  As a member of this rapidly growing business, you will work closely with our experienced CT O to work through user stories, design discussions, and planning. You will also work closely with our in-house AI expert to create UI/UX around AI-based tools (you will not be responsible for AI/ML). Our goal is to take several AI tools or platforms to market as quickly as possible. The following kinds of activities may be expected on any given day or week:
+Coding and testing web apps locally and in a cloud instance
+Deploying web apps to production
+Adding features based upon user stories
+Participating in standup or Scrum meetings
+Participating in design or architectural meetings
+Producing documentation

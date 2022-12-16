@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for college admission, but I'm feeling a bit overwhelmed.
+COACH: No worries! It can be a daunting task. What kind of college are you applying to?
+STUDENT: I'm applying to Harvard.
+COACH: Wow, that's impressive! What do you think makes you stand out from the other applicants?
+STUDENT: Well, I come from a poor family and I've had to work hard to get to where I am today. I also have a lot of volunteer experience and I'm really passionate about the causes I volunteer for.
+COACH: That's great! It sounds like you have a lot of unique experiences and qualities that will make your application stand out. What else can you tell me about yourself that you think would be important to include in your essay?
+STUDENT: Well, I'm a pretty boring person. I don't have any exciting hobbies or activities. I'm also not very good at writing and I'm worried that my essay won't be good enough.
+COACH: Don't worry, you don't have to be an amazing writer to write a great essay. What you can do is focus on the qualities and experiences that make you unique. Think about the challenges you have faced and how you overcame them. Talk about the volunteer work you have done and why it is important to you. You can also talk about your goals and ambitions and how you plan to achieve them. Finally, you can discuss why you want to attend Harvard and what you hope to gain from the experience.

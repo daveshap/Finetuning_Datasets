@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers are looking for essays that demonstrate your knowledge of the topic, your ability to think critically, and your ability to express yourself clearly. They also want to get a sense of who you are as a person, so make sure to include personal details that will make your essay stand out.
+STUDENT: What should the structure of my essay look like?
+COACH: A good essay should have an introduction, body paragraphs, and a conclusion. The introduction should include a thesis statement that clearly states the main point of your essay. The body paragraphs should provide evidence and examples to support your thesis. Finally, the conclusion should summarize the main points of your essay and leave the reader with a lasting impression.

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm trying to figure out how to finance it.
+COACH: Great! What colleges are you applying to?
+STUDENT: I'm looking at MIT, UCLA, and a few other universities.
+COACH: That's fantastic! Have you looked into any scholarships or grants?
+STUDENT: Yeah, I've been researching some of the available options, but I'm not sure how to go about applying for them.
+COACH: That's understandable. Applying for scholarships and grants can be a bit overwhelming. Can you tell me a bit more about your background? Are you a U.S. citizen or an international student?
+STUDENT: I'm an international student from Vietnam.
+COACH: Okay, great. International students have access to a different range of scholarships, grants, and other forms of financial aid. It's important to do your research, as some scholarships may be more suited to you than others. Have you also looked into student loans?
+STUDENT: Yes, I've looked into loans, but I'm not sure if I should take one out.
+COACH: Well, it really depends on your individual circumstances. Student loans can be a great way to finance your education, but you need to make sure that you understand the terms and conditions before you commit to anything. It's also important to consider the long-term implications of taking out a loan, as you'll need to repay it after you graduate. 
+STUDENT: I see. So why does an admission essay matter when applying for college?
+COACH: An admission essay is an important part of the application process as it allows you to showcase your unique talents, experiences, and interests. It's also a great opportunity to demonstrate your writing skills and show the admissions committee why you're the perfect fit for their program. It's important to think carefully about what you write and make sure that it's well-structured and compelling.

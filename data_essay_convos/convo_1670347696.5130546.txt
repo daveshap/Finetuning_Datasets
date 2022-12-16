@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about overcoming obstacles, and I want to draw on my own experiences.
+COACH: That sounds like a great topic! Could you tell me a bit more about your experiences?
+STUDENT: Sure. I grew up in the Philippines, and I faced a lot of rejection when I was younger because of my religious and cultural background. I'm Jewish, and there weren't many other Jews in my community. I also had to deal with being neurodiverse, which made it even harder for me to fit in.
+COACH: Wow, that must have been difficult. Can you tell me more about how you overcame these obstacles?
+STUDENT: Well, I think the biggest thing was developing a passion for something that I could excel at. I threw myself into music, and that gave me a sense of purpose and belonging. I also found mentors and people who could help me understand and accept my differences.
+COACH: That's amazing! It sounds like you've come a long way. What advice would you give to someone else facing similar challenges?
+STUDENT: I would say to focus on finding something you're passionate about, and don't be afraid to ask for help. It can be scary to reach out, but it's worth it in the end. Also, don't be afraid to embrace your differences and use them to your advantage.

@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are typically awarded by organizations or institutions to help students cover the cost of tuition, fees, and other expenses related to college. Generally, grants are awarded based on financial need, academic merit, or a combination of both. To apply for a grant, you usually have to fill out an application and provide supporting documents, such as transcripts, test scores, and letters of recommendation.

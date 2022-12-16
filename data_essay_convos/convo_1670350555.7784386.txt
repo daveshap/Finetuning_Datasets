@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT and Harvard as an undergrad and I'm a first-generation college student. I want to write about my experience as a Jewish person in my essay.
+COACH: That sounds like a really interesting topic! Can you tell me a bit more about your experience as a Jewish person?
+STUDENT: Well, I grew up in a very traditional Jewish household, so I was exposed to a lot of religious practices and customs from a young age. My parents were also very involved in the local Jewish community, so I was able to learn a lot about the culture and the history of the religion.
+COACH: That's great! What kind of things have you taken away from this experience that you'd like to include in your essay?
+STUDENT: Well, I think one of the most important things I've learned is the importance of being open-minded and accepting of people from different backgrounds. Growing up in a Jewish community, I was surrounded by people from all walks of life, and I learned that we can all learn something from each other. I also learned the importance of standing up for what you believe in and not being afraid to speak your truth.
+COACH: Those are great values to include in your essay. How do you think these values have shaped you as a person?
+STUDENT: Well, I think they've made me more confident in my own beliefs and opinions, and more willing to listen to people who have different perspectives. I also think it's made me more aware of how my actions can influence others, and how I can use my voice to make a difference.

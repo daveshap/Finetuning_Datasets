@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and need help writing my personal statement.
+COACH: Sure! First, let me ask you a few questions so I can get a better understanding of what you would like to write about. What topics are you interested in?
+STUDENT: I'm really interested in politics and international affairs, particularly as it relates to Germany.
+COACH: Interesting! Why do you have an interest in Germany?
+STUDENT: Well, I lived there for a few years when I was younger and I've always been fascinated by the culture and history.
+COACH: That's fantastic! It sounds like you have a unique perspective that could be used in your essay. Now, what do you think you want to write about in your personal statement?
+STUDENT: I'm not sure. I want to stand out, but I'm not sure how to make myself interesting as a person.
+COACH: That's a great question! One way to make yourself stand out is to focus on something that makes you unique. For example, you could use your experience living in Germany to discuss how it has shaped your views on international politics. You could also write about how it has impacted your own personal growth and development. Additionally, you could use your knowledge of German culture and history to discuss how it has influenced your worldview. Ultimately, it's up to you to decide what to write about, but these are just some ideas to get you started.

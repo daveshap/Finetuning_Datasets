@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: An engaging essay is one that captures the reader's attention and keeps them interested in the topic. It should have a strong introduction, clear structure, and compelling arguments or evidence to support your point. It should also be written in a way that is easy to read and understand. What type of essay are you working on? 
+STUDENT: A term paper.
+COACH: Alright, great. A term paper is a longer essay that is usually assigned at the end of a semester or academic year. It requires a lot of research and synthesis of information into a cohesive argument. To make it engaging, you'll want to focus on the structure and organization of your paper. Start by creating an outline of the points you want to make and the evidence you want to use to support them. Make sure that each point builds logically on the previous one and that your argument is clear and concise. You can also use creative techniques such as metaphors, analogies, and anecdotes to give your essay more personality and flair. Finally, be sure to proofread and edit your work thoroughly before submitting it.

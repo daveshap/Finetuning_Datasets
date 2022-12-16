@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with a college essay. I want to write about my skills and achievements but I'm not sure where to start.
+COACH: That's great! Can you tell me a bit more about yourself and what you'd like to focus on in your essay?
+STUDENT: Sure. I'm from the Philippines and I've faced a lot of racism growing up. I'm passionate about making a difference in my community and I recently spent a year volunteering in Thailand.
+COACH: Wow, that sounds like an incredible experience. It sounds like you have a lot of valuable skills and experiences that you can draw on for your essay. What do you think are your most important skills and achievements?
+STUDENT: Well, I think my biggest achievement is the work I've done in Thailand. I helped build a school, taught English classes, and worked with local organizations to improve the lives of people in the community. I also think my ability to adapt to different cultures and my passion for making a positive difference are also important skills and achievements.
+COACH: That's really impressive. What do you think makes these skills and achievements unique to you?
+STUDENT: I think my experience of facing racism and overcoming it has made me stronger and more resilient. I'm also passionate about making a difference in the world and I think that sets me apart from other people.

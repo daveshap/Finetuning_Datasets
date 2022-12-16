@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are awards of money given to individuals or organizations to help fund a project or activity. They are usually awarded by a governmental agency, foundation, or corporation. To apply for a grant, you must submit an application that includes information about your project and how it meets the grant's criteria.
+STUDENT: What should I include in my grant application essay?
+COACH: When writing a grant application essay, it's important to focus on the purpose of the grant and how it will benefit your project. You'll want to include a description of the project, its goals and objectives, the timeline for completion, and how the money will be used. You'll also want to discuss the qualifications of the team members involved, and how the project will benefit the community. Finally, make sure to include a budget that outlines the costs associated with the project.

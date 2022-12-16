@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question. Let's start by talking about your research paper. What is the topic of your paper?
+STUDENT: I'm writing about the effects of student loans on college graduates.
+COACH: That's an interesting topic. What kind of research have you done so far?
+STUDENT: I've done some online research, but I'm not sure what else I should be looking into.
+COACH: That's understandable. Have you considered interviewing recent college graduates to get their perspective on the issue? That could be a great way to get more insight into the topic.

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to UCLA and I'm having trouble writing my essay. I feel like I'm a boring person and don't have anything interesting to write about.
+COACH: That's totally understandable. Everyone has a unique story to tell, so let's start by thinking about what makes you unique. What have been some of the most impactful experiences in your life?
+STUDENT: Well, I was born and raised in the Philippines and I recently had the opportunity to travel around the country and explore its culture. That was definitely a memorable experience for me.
+COACH: That sounds like a great experience. Can you tell me more about it? What did you learn from your travels?
+STUDENT: It was really eye-opening. I got to see how different parts of the country live, and it made me appreciate my own culture and heritage even more. I also learned a lot about the history of the Philippines and the struggles that many people still face today.
+COACH: That's really inspiring. What do you think makes an essay engaging?
+STUDENT: I think it's important to be honest and personal in your essay. You want to tell a story that reflects who you are and what you care about. It should also be vivid and descriptive, so that the reader can really get a sense of what you experienced.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my Harvard application and I'm having trouble getting started.
+COACH: That's understandable. Before we start, can you tell me a bit more about what you want to focus on in your essay?
+STUDENT: Yeah, sure. I want to talk about my skills and achievements, how I overcame rejection and obstacles, and my involvement in social issues.
+COACH: Alright, that sounds like a great starting point. What makes you passionate about these topics?
+STUDENT: I'm passionate about my skills and achievements because I've worked hard to get where I am today and I want to show that off. I'm passionate about overcoming rejection and obstacles because I think it's important to show resilience and strength in the face of adversity. And I'm passionate about social issues because I think it's important to use our privilege to help those who don't have the same opportunities.
+COACH: That's great. It sounds like you have a lot of passion and commitment to these topics. How do you think you can make your essay engaging?
+STUDENT: I think I can make it engaging by telling stories and giving examples of how I've used my skills and achieved success, how I've overcome rejection and obstacles, and how I've used my privilege to help others. I can also include quotes and anecdotes from people I've interacted with to bring the essay to life. 
+COACH: That's a great idea! It sounds like you have a clear plan for making your essay engaging. Do you have any other questions about writing your essay?
+STUDENT: Yes, I'm wondering if there are any other tips or tricks that you recommend for writing a successful essay?
+COACH: Absolutely! One of the most important things is to be concise and to the point. Make sure to pick a few key points that you want to focus on and make sure to explain them clearly and concisely. Also, make sure to proofread your essay and have someone else read it as well to make sure there are no mistakes. Lastly, make sure to write with passion and enthusiasm to really capture the reader's attention.

@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Well, it depends. Can you tell me a little bit more about why you're writing the essay?
+STUDENT: I'm applying for college and need to submit an admissions essay.
+COACH: Great! What do you think is the most important thing you want to convey in your essay?
+STUDENT: I want to show the admissions board that I am a motivated and capable student who is ready to take on the challenges of college.
+COACH: That's a great goal. Let's start by thinking about what experiences or qualities you have that make you a motivated and capable student. What have you done in the past that demonstrate your commitment to learning and growth?
+STUDENT: I've taken classes outside of my normal curriculum to challenge myself and explore new topics. I've also done volunteer work in my community to help those in need.
+COACH: Those are both great examples of how you've shown motivation and capability. Now, let's think about how to best communicate that in your essay. What kind of stories or anecdotes can you share to illustrate these qualities?
+STUDENT: Well, I could talk about how taking the extra classes helped me learn more about my field of interest and how the volunteer work I did gave me a better understanding of the people in my community.
+COACH: That sounds like a great start! Now, let's think about how to structure your essay. What kind of introduction will you use to draw the reader in and set up the main points of your essay?
+STUDENT: I could start with a brief overview of my academic and extracurricular achievements, then move into a more detailed description of the experiences and qualities that make me a motivated and capable student.
+COACH: Perfect. Now, let's talk about how to conclude your essay. How can you tie all of the points together to leave a lasting impression on the reader?
+STUDENT: I could emphasize the importance of perseverance and hard work in achieving goals, and how these qualities have helped me become the student I am today. 
+COACH: That's a great way to end your essay. Make sure to be concise and clear in your writing, so the reader can easily understand your message. Anything else you'd like to discuss before we wrap up?
+STUDENT: No, I think I'm good. Thanks for your help!

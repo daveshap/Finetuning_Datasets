@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a senior in high school and I'm getting ready to apply to college. I'm trying to figure out how to get scholarships and grants, and I'm also struggling with what to write about for my college admission essay.
+COACH: That's great that you're thinking ahead! Let's start by talking about the scholarships and grants. What kind of criteria are you looking for? Are there any organizations or schools you know of that offer these types of opportunities?
+STUDENT: Well, I've been looking online and I'm not sure what to look for. I'm hoping to find some specific scholarships related to my interests, like Islam or politics.
+COACH: That's a great idea! Have you done any research on this topic yet? What have you found so far?
+STUDENT: Not really, I just started looking into it. I'm not sure where to start or what to look for.
+COACH: That's understandable. A great first step would be to look into organizations or schools that offer scholarships related to your interests. You can also look into scholarship search engines and websites to see what kind of scholarships are available. Additionally, you can contact organizations or schools directly to inquire about their scholarship opportunities. Once you have some leads, you can start researching them further to see if they meet your criteria. 
+STUDENT: That sounds like a good plan. Now, what about my college admission essay? I have no idea what to write about.
+COACH: That's a common challenge for many students. The best way to approach this is to think about what makes you unique and what experiences have shaped who you are today. It can be helpful to brainstorm a list of topics that you could write about. Then, narrow down the list to a few topics that you feel passionate about and can write about with enthusiasm. Once you have a topic, you can start writing the essay by focusing on one main point and using evidence to support it.

@@ -1,0 +1,50 @@
+Erkin Kholmatov Email: kholmatov.me@gmail.com
+Location: Dallas, TX - Green Card holder Github: kholmatov
+LinkedIn: kholmatov Mobile: (469) 781-8993
+Experience
+•EPG Service Moscow, Russia (remote)
+Lead Backend Developer Jun. 2020 - Present
+AWS Yandex.Cloud ElasticSearch LogStash Docker Kubernetes CI/CD PostgreSQL Python 3 asyncio aiohttp
+◦Designed and developed the new asynchronous architecture which increased the number of simultaneously working scrapers
+by 50 times
+◦Designed and implemented the workflow for finding errors and anomalies in the scrapers functionality that works several times
+faster than a human observer and provides their timely elimination
+•BartSoft Mississauga, Canada (remote)
+Senior Backend Developer Jan. 2016 - May. 2020
+AWS Python Java JavaScript PHP Zend Yii MySQL nginx
+◦Developed and maintained backend functionality for multiple websites, web and mobile applications
+◦Setup, maintained, developed custom modules for different CMS (Joomla, WordPress)
+◦Maintained and modified custom made CRM system for online tutoring platform that includes billing, reports, students
+and tutors management
+•LazyDad Moscow, Russia
+Co-founder & Senior Fullstack Developer Feb. 2017 - Feb. 2020
+Java Android SDK Twilio Firebase Google Maps Codeigniter MySQL MongoDB
+◦Developed the mobile application for food delivery from the closest markets
+◦Maintained admin dashboard for order management
+•Livovo Moscow, Russia
+Co-founder & Fullstack Developer Apr. 2012 - Dec. 2015
+ActiveCloud PHP Yii 1 MySQL nginx
+◦Developed the service for contextual advertising automation
+Lecturer
+•Lecturer at Tajik State University of Law, Business and Politics Khujand, Tajikistan
+Teacher at Programming and Computer Science Course Sep. 2006 - Dec. 2010
+C++ PHP SQL HTML CSS
+◦Designed, developed and offered the series of lectures and learning materials for Basic Programming and Computer Science course
+(C++, PHP, HTML, CSS)
+Volunteer Teaching Experience
+•Founder of IT Community of Tajikistan at Telegram
+Popularization of IT among the population, holding IT events and different online streams with experts Jan. 2020 - Present
+•IT mentor at Technovation Girls
+Training girls in programming, planning development stages, creating application prototypes, testing and bug fixing Feb. 2019 - Present
+•Software Developer at Makeathon ”TOM: Almaty, 2019”
+Created an application for the disabled with real-time GPS tracking and SOS alarm button Jun. 2019 - Jun. 2019
+•Algorithms and Data Structures Club Mentor
+Developed a free lectures and practice classes on algorithms and data structures and Python for school students Mar. 2016 - Present
+Programming Skills
+•Languages : Python, Java, PHP, C++, JavaScript
+•Technologies : SQL, Git, Docker, Kubernetes, CI/CD, asyncio, aiohttp, ElasticSearch
+•Frameworks : Yii, Zend, Codeigniter, Android SDK
+•Knowledge : Algorithms, Data Structures, Distributed Systems
+Education
+•Tajik State University of Law, Business and Politics Khujand, Tajikistan
+Bachelor degree in Information Systems in Economics with distinction, GPA: 5.0 of 5.0 Sep. 2001 - Jun. 2006

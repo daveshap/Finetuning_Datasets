@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am trying to write an essay for admission to Harvard and I am having trouble getting started.
+COACH: That's understandable. Can you tell me a bit more about your background? What do you think makes you an interesting person?
+STUDENT: I don't really think I'm that interesting as a person. I'm an average student who has been going to school for most of my life.
+COACH: That's okay. You don't have to be extraordinary to get into Harvard. Everyone has unique experiences and qualities that make them stand out from the crowd. What are some of your strengths?
+STUDENT: I'm a good writer and I'm very organized. I'm also passionate about learning new things.
+COACH: Those are all great qualities that could help you write a great essay. Do you have any ideas on what you'd like to write about?
+STUDENT: Not really. I've been thinking about writing about my experience at NCSU, but I'm not sure how to structure it.
+COACH: That's a great idea. When you're writing an essay, it's important to have a clear structure. You want to make sure that you're connecting all the points in your essay and that it flows logically. A good way to start is to create an outline of your main points and then fill in the details.
+Once you have an outline, you can focus on the content of your essay. Think about what experiences or qualities make you unique and how those can be highlighted in your essay. For example, if you have a passion for learning, you could talk about how you've taken advantage of educational opportunities or how you've challenged yourself academically.
+STUDENT: That's really helpful. I think I have a better idea of what I should include in my essay now.
+COACH: Great! If you need any more help with the structure or content of your essay, just let me know.
+STUDENT: Actually, I'm also applying to UCLA and I'm wondering if I should use the same essay for both schools.
+COACH: It's usually best to tailor your essay to each school. Each school has different values and different goals, so it's important to make sure that your essay reflects those values and goals. You can use the same outline and some of the same content, but make sure to adjust it to fit the specific school you're applying to.

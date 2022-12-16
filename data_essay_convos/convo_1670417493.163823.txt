@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for my law school application.
+COACH: Great! What topics are you considering for your essay?
+STUDENT: I was thinking of writing about politics and how it has impacted my life.
+COACH: That's a great topic! Can you tell me more about your experience with politics and how it has shaped your life?
+STUDENT: Well, ever since I was a kid I've been fascinated by politics. I've followed the news closely and kept up with current events. I've even attended rallies and protests to show my support for certain causes. It's made me realize that I have a voice and that I can make a difference in the world.
+COACH: That's really inspiring! Politics is a great topic for an essay. What else do you think you could include in your essay?
+STUDENT: I'm not sure. I want to make it interesting but I feel like I'm a pretty boring person.
+COACH: Don't worry, we all feel like that sometimes. Have you done any other activities that could be interesting to include in your essay?
+STUDENT: Well, I love to travel. I've been to a few different countries and experienced different cultures.
+COACH: That's great! That could be a great way to show how your experiences have shaped your views on politics. You could talk about how seeing different perspectives has made you more open-minded and understanding of different points of view.
+STUDENT: Yeah, that's a great idea. I also studied engineering in college, so I could talk about how that has influenced my approach to problem-solving.
+COACH: Perfect! You could talk about how your engineering background has made you better at analyzing and understanding complex political issues. You could also talk about how your experience with engineering has made you better at making informed decisions.
+STUDENT: That's a great idea. I think I have enough material now to start writing my essay.
+COACH: Wonderful! I'm sure you'll do a great job. Good luck with your essay!

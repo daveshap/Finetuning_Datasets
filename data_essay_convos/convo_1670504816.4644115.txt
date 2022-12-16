@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the grant application you are applying for. Generally, grant essays should be between 500 and 1000 words.
+STUDENT: What kind of topics should I focus on?
+COACH: When writing a grant essay, you should focus on how your project or idea will benefit the organization or group you are applying to. Describe how your project will bring value and why it should be funded.
+STUDENT: How can I make my essay stand out? 
+COACH: You can make your essay stand out by providing concrete examples that demonstrate the impact of your project. Show how your project will improve the lives of those it serves and how it will make a lasting impact. Additionally, make sure to use clear and concise language to make your points.

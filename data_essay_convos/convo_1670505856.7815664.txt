@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: Well, an argumentative essay typically follows a basic structure. It starts with an introduction that sets the tone and introduces the main argument. Then it moves into the body of the essay, which is where you will present your evidence and arguments. Finally, it ends with a conclusion that ties all the points together. Do you have any specific questions about this structure?

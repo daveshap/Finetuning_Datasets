@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admission essay for Harvard and I'm having a hard time figuring out what to write.
+COACH: That's understandable. Can you tell me a bit more about why you're interested in attending Harvard?
+STUDENT: Well, I'm a traveler and I've been to Vietnam recently. I'm really interested in learning more about the culture and history of the country and I think Harvard would be the perfect place to do that.
+COACH: That's great! It sounds like you have a real passion for learning about different cultures. What inspired you to travel in the first place?
+STUDENT: I guess it was a combination of things. I wanted to explore new places and gain a better understanding of the world. Plus, I wanted to challenge myself and grow as a person.
+COACH: That's admirable. So, what kind of topics are you considering for your essay?
+STUDENT: I'm thinking about writing about sexism in Vietnam and how it affects women in the country. I want to explore how this issue affects society and how it can be addressed.
+COACH: That's a great topic! Why do you think it's important to discuss sexism in Vietnam in your essay?
+STUDENT: I think it's important because it's an issue that needs to be addressed. It's a global problem, but it's particularly acute in Vietnam. I want to bring attention to it and hopefully inspire people to take action.
+COACH: That's a great goal. So, why do you think an admission essay matters to Harvard?
+STUDENT: I think an admission essay is important because it gives the admissions committee an insight into who I am and what I'm passionate about. It's a chance to show them that I'm a unique individual and that I have something meaningful to contribute to their community.

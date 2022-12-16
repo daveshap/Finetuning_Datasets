@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to law school and I need some help with my personal statement.
+COACH: Great! Let's get started. What kind of law school are you interested in?
+STUDENT: I'm interested in engineering law.
+COACH: Okay, great. What inspired you to pursue engineering law?
+STUDENT: Well, I have a passion for engineering and I want to use my knowledge to help people. Plus, I've traveled to both Vietnam and Thailand and I've seen the great potential for engineering projects in those countries.
+COACH: That's really inspiring! What do you think makes you an ideal candidate for engineering law?
+STUDENT: I think my background in engineering gives me a unique perspective on how to approach legal issues. I also have experience in both public and private sectors, so I understand the complexities of the legal system. Additionally, I'm passionate about helping people, so I think I could make a real difference in the engineering law field.

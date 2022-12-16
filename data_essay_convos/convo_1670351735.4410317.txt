@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my goals and personal objectives.
+COACH: Great! Can you tell me a bit more about what you want to focus on? 
+STUDENT: Well, I come from a single parent home and have a lot of volunteer experience, so I want to focus on how that has shaped my goals and objectives.
+COACH: Interesting. What kind of volunteer work have you been doing?
+STUDENT: I've been doing a lot of work with a local charity here in Thailand. We do things like food drives, clothing donations, and other activities to help those in need.
+COACH: That's wonderful! How has this experience shaped your goals and objectives?
+STUDENT: It's made me realize how important it is to give back to the community and to help those who are less fortunate than myself. It's also made me interested in politics and how it affects people's lives.
+COACH: That's a great insight. What kind of political issues interest you?
+STUDENT: I'm particularly interested in poverty and inequality. I think it's important to fight for social justice and to make sure everyone has access to the same opportunities.
+COACH: That's very admirable. How do you think your volunteer experience has helped you develop your goals and objectives?
+STUDENT: It's helped me to understand the importance of giving back and to recognize the power of collective action. It's also taught me to be open-minded and to consider different perspectives when making decisions.

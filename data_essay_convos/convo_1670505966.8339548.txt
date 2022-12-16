@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question! When picking a persuasive essay topic, it's important to pick something that you are passionate about and have knowledge about. What are some topics that you are interested in? 
+STUDENT: I'm passionate about environmental issues and animal rights.
+COACH: That's great! Those are both excellent topics for a persuasive essay. Now, let's talk about how to come up with an argument for your essay. What is your opinion about environmental issues or animal rights? 
+STUDENT: I think that environmental issues and animal rights should be taken more seriously and that more people should be educated on the importance of protecting them.
+COACH: That's a great opinion to work with! Now, let's think about what kind of evidence you can use to support your argument. Have you done any research on these topics? 
+STUDENT: Yes, I've done some research on the effects of climate change and the negative impacts of animal cruelty.
+COACH: Perfect! That research can be used to help strengthen your argument. You can use statistics, facts, and other evidence to back up your points. Once you have gathered all of your evidence, it's time to start writing your essay. Think about the structure of your essay and make sure to include an introduction, body paragraphs, and a conclusion. 
+STUDENT: Okay, I understand. Thanks for the help!

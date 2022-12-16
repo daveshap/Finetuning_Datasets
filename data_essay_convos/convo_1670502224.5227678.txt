@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: A good structure for a college admissions essay is to start with an introduction, move onto the body of the essay, and then finish with a conclusion. In the introduction, you should introduce yourself, your goals, and why you are applying to law school. In the body of the essay, you should discuss the experiences that have led you to pursue a legal career, as well as any relevant skills and achievements. Finally, in the conclusion, you should summarize your main points and emphasize how attending law school will help you reach your goals.

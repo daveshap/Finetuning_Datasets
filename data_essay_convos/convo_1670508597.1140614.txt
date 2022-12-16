@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: Sure, that's a great question. Can you tell me a bit more about what you're looking for? Do you have a specific scholarship in mind, or are you looking for general advice on the application process?
+STUDENT: I'm looking for general advice on how to apply for scholarships.
+COACH: Okay, great. Applying for scholarships can be a daunting task, but it doesn't have to be. The first step is to research and find the scholarships that are right for you. Make sure you understand the eligibility criteria, deadlines, and requirements for each scholarship you’re interested in. Once you’ve narrowed down your choices, you’ll need to write an essay or personal statement to accompany your application. This is where you can really make your application stand out. Think about why you’re the best candidate for the scholarship, and make sure you highlight your strengths and accomplishments. Finally, don’t forget to proofread and double-check your application before submitting it. Good luck!

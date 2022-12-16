@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there, I'm writing a personal statement for a college application and I'm feeling stuck.
+COACH: Okay, can you tell me more about what you're struggling with?
+STUDENT: Well, I want to make my essay engaging and stand out from the rest of the applicants.
+COACH: That's a great goal! What kind of things have you tried so far to make your essay stand out?
+STUDENT: I've been trying to think of unique experiences that I've had that would make my essay stand out.
+COACH: That's a great start. What makes you unique? Are there any experiences that you had growing up that shaped who you are today?
+STUDENT: Yes, I'm a first-generation college student so I've had to work hard to get to where I am today. I'm also very passionate about traveling and exploring different cultures, especially in Europe.
+COACH: That sounds like a great topic to include in your essay. What have you learned from your travels in Europe?
+STUDENT: I've learned so much from my travels. I've seen firsthand how different cultures interact and how they approach problems differently. I've also been able to experience different cultures and gain a better understanding of them.
+COACH: That's great! It sounds like you could use that experience to write an engaging essay. Have you considered applying to MIT? They have a great program for international students.
+STUDENT: Yes, I had considered applying to MIT. I think their program would be a great fit for me.
+COACH: Great! Now that you know what school you want to apply to, you can focus on writing an essay that will make you stand out from other applicants. What do you think are the key elements that make an essay engaging?
+STUDENT: I think it's important to include personal stories and experiences that show who you are as a person. Also, having a clear structure and writing style is essential for making an essay stand out.

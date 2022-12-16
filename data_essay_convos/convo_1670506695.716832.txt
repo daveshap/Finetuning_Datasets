@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, I understand that you're a first-generation college student. What type of essay are you writing?
+STUDENT: A thesis.
+COACH: Great! A thesis is a great way to make a strong argument. What do you want to focus on in your thesis? 
+STUDENT: I want to focus on the challenges and opportunities that first-generation college students face.
+COACH: That's an excellent topic. Let's start by talking about what challenges first-generation college students face. What have you noticed so far? 
+STUDENT: One of the main challenges I've noticed is lack of support from family and friends. Many first-generation college students feel like they don't have anyone to turn to for advice or help.
+COACH: That's a great observation. Lack of support can be very difficult to overcome. What other challenges have you noticed? 
+STUDENT: Another challenge is the lack of understanding of the college experience. First-generation college students often don't know how college works or how to navigate the system.
+COACH: That's a great point. Understanding the college experience is key to success. Now let's talk about the opportunities that first-generation college students have. What advantages do they have? 
+STUDENT: One advantage is that first-generation college students have a unique perspective on college. They can bring new ideas and perspectives to the college experience that may not have been considered before.
+COACH: That's a great point! Having a unique perspective can be a real advantage. Are there any other opportunities that first-generation college students have? 
+STUDENT: Another opportunity is that first-generation college students have access to resources that may not be available to other students. Organizations like First-Gen Forward provide scholarships and mentorship programs specifically for first-generation college students.
+COACH: That's fantastic! Having access to resources like those can really help first-generation college students succeed. Are there any other opportunities you can think of? 
+STUDENT: Yes, another opportunity is that first-generation college students can be role models for their peers and younger generations. They can show that it is possible to succeed in college and open up doors for other students.
+COACH: That's a great point! Being a role model for others is an invaluable opportunity. Is there anything else you'd like to discuss about your essay? 
+STUDENT: I think that's all for now. I'm feeling more confident about my essay now that I have a better understanding of the challenges and opportunities that first-generation college students face. 
+COACH: Wonderful! I'm glad I could help. If you have any other questions or need any further guidance, please don't hesitate to reach out. Good luck with your essay!

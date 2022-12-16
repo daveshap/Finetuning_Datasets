@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Well, first let's figure out what type of essay you're writing. Is it an argumentative essay?
+STUDENT: Yes, it is.
+COACH: Great! Argumentative essays are all about presenting a strong argument and supporting it with evidence. To do that, you need to start by doing some research on the topic. Make sure you have a clear understanding of both sides of the argument and then decide which side you want to take. Once you have done that, you can start to build your argument. Think about the main points you want to make and the evidence you will use to support them.
+Once you have a good understanding of your argument, you can begin to write your essay. Start with an introduction that introduces the topic and states your position. Then move on to the body of the essay, where you will explain your argument in detail. Be sure to include evidence to back up your points and refute any opposing arguments. Finally, wrap up your essay with a conclusion that restates your main points and summarizes your argument.
+I hope this helps you get started on your argumentative essay!

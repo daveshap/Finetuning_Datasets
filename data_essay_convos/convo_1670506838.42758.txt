@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question! It's important to understand what scholarship and grant opportunities are available and what criteria they use to decide who gets them. Can you tell me a bit more about what you're looking for?
+STUDENT: Yeah, I'm looking for scholarships and grants that I can apply to. I'm hoping to get financial aid to help pay for college. 
+COACH: Great! The first step is to research the different types of scholarships and grants that are available to you. You can start by looking at websites like Fastweb and College Board, as well as your school's financial aid office. Once you have a better understanding of the different types of scholarships and grants, you can start narrowing down which ones you want to apply for. 
+STUDENT: Okay, I understand that. But how do I make sure my application stands out?
+COACH: That's a great question! To make sure your application stands out, you'll want to focus on making it as comprehensive and detailed as possible. This includes writing a compelling personal statement, gathering all of the necessary documents, and providing clear and concise answers to any questions asked. Additionally, make sure to proofread your application multiple times and have someone else review it as well. This will help ensure that your application is error-free and stands out from the rest.

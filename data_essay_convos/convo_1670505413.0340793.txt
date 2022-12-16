@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are typically awarded to students who demonstrate excellence in academics, athletics, or other areas. Generally, scholarships are awarded based on merit, so the more impressive your application is, the more likely you are to receive a scholarship.
+STUDENT: What should I include in my essay?
+COACH: Your essay should tell a story about yourself that showcases who you are and why you would be an asset to the college or university you are applying to. You should include details about your background, experiences, and accomplishments that demonstrate why you are a great candidate for the school. Additionally, you should focus on how your life experiences have shaped you and how you can contribute to the school's community.

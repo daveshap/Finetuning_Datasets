@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: Scholarships are a great way to help pay for college, but they are not the same as applying for admission. For admission to medical school, you'll need to write a personal statement that outlines your qualifications and why you're a good fit for the program. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on your academic and professional qualifications, your motivation for pursuing a medical degree, and any experiences or interests that make you stand out from other applicants. Make sure to include details like any awards you've received, research you've done, volunteer work, and internships. You should also discuss how the medical school's curriculum and faculty will help you reach your goals. Finally, make sure to proofread your essay for any errors before submitting it.

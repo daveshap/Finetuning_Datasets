@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to get started on my essay. I'm not sure what to write about.
+COACH: That's understandable. Do you have any ideas or topics that you're interested in?
+STUDENT: Well, I'm interested in Europe, but I don't know how to make that into an essay topic.
+COACH: That's a great place to start! You could write about European history, art, culture, literature, politics, etc. What about Europe interests you the most?
+STUDENT: I'm really interested in the history of Europe.
+COACH: Great! That's a great starting point. You could focus on a specific period or event in European history, or you could take a more general approach and discuss how European history has shaped the present. 
+STUDENT: That sounds interesting. But I'm not sure how to make it engaging. I don't think I'm very interesting as a person.
+COACH: Don't worry, you don't need to be interesting as a person to write an engaging essay! You can draw on your own experiences and knowledge to make the essay more personal. For example, if you have traveled to Europe or studied European history, you could use those experiences to inform your essay. Even if you haven't had those experiences, you can still use research and analysis to make your essay engaging.
+STUDENT: Okay, that makes sense. But why does college matter anyway?
+COACH: College is important because it provides you with the opportunity to develop new skills and achievements. It allows you to explore different areas of interest, gain knowledge and experience, and build relationships with other students, faculty, and professionals. College is also a great way to prepare for a successful career. By taking advantage of the resources available at college, you can gain valuable skills and experiences that will help you in the future.

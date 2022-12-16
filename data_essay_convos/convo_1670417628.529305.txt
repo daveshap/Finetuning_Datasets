@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student applying to universities in France and I'm having trouble figuring out what to write about in my personal statement.
+COACH: That's a great question! What kind of topics are you interested in?
+STUDENT: Well, I'm passionate about social issues, like poverty and inequality.
+COACH: That's fantastic! It sounds like you have a lot of ideas to work with. What do you think makes an essay engaging?
+STUDENT: I think it's important to be able to tell a story and make the reader feel something. It's also important to be able to present your ideas in a clear and organized way.
+COACH: Absolutely. Those are both key elements to any successful essay. What kind of stories do you think would be effective in your essay?
+STUDENT: I was thinking maybe I could talk about my experience growing up as a first-generation college student and how that has shaped my views on social issues.
+COACH: That's a great idea! You can use your own experiences to illustrate the points you want to make about social issues. It will help make your essay more personal and engaging. Do you have any other ideas for stories or topics to include in your essay?

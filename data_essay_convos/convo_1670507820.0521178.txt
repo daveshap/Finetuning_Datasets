@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question! Before we talk about when your essay is finished, let's start by talking about what kind of essay you're working on. Is it a research paper?
+STUDENT: Yes, it is.
+COACH: Okay, great. Research papers can be very complex and require a lot of time and effort to complete them properly. So, when you are trying to determine if your essay is finished, ask yourself these questions: Have I included all the necessary research? Is my argument clear and supported with evidence? Are all of my sources properly cited? Have I proofread and edited my essay for any errors? Once you can answer yes to all of these questions, then your essay is ready to be submitted.

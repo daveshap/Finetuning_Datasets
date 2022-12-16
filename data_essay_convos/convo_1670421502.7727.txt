@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm having trouble getting started. I have no idea what to write about.
+COACH: That's okay, let's start by talking about why an admission essay matters. An admission essay is your chance to provide the admissions committee with a glimpse into who you are as a person. It gives them a better understanding of your goals and interests, and it can also help you stand out from the other applicants. 
+STUDENT: Okay, so what should I write about?
+COACH: That's up to you! Think about something that you're passionate about or something that you find interesting. What topics do you like to explore?
+STUDENT: Well, I'm really interested in German culture and Buddhism.
+COACH: That's great! You could focus your essay on one of those topics or you could explore how they intersect. For example, you could talk about how German culture has been influenced by Buddhism or how Buddhist teachings have been embraced in Germany. You could also explore how these two cultures have impacted your life and how they have shaped your values and beliefs.
+Once you've chosen a topic, it's important to break down the essay into its parts: the hook, the middle, and the conclusion. The hook is the opening sentence or paragraph that grabs the reader's attention. The middle is the body of the essay where you explain your topic in more detail. The conclusion is the last paragraph where you wrap up your essay and reiterate your main points. 
+STUDENT: That makes sense. I think I have a better idea of what I want to write about now. Thanks for your help!
+COACH: You're welcome! I'm glad I could help. If you need any more guidance, feel free to reach out. Good luck with your essay!

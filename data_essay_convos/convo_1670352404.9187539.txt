@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm trying to write an essay about myself, but I'm having trouble because I don't think I'm interesting as a person.
+COACH: That's a common feeling, but I'm sure you have some unique qualities that make you stand out. Can you tell me a bit more about yourself? What kind of things do you like to do?
+STUDENT: Well, I love to travel. I've been to China and the Philippines and I'm planning to go to Israel soon. I'm also interested in learning about different cultures and religions, particularly Judaism.
+COACH: That sounds like an exciting journey! So, how do you think your travels and interest in different cultures can be incorporated into your essay?
+STUDENT: Well, I think it would be a great way to show how I'm open to new experiences and different perspectives. I also think it would be a good opportunity to talk about how I've grown through my travels and how it has shaped my identity.
+COACH: That's a great idea! Can you tell me more about how your travels have impacted you?
+STUDENT: Sure! My time in China and the Philippines really opened my eyes to different ways of life. It made me realize how much we can learn from each other, even if we come from different backgrounds. The experience also helped me become more independent and confident in my own beliefs. 
+COACH: That sounds like a powerful learning experience. How do you think this could be incorporated into your essay?
+STUDENT: I think I could talk about how my travels have shaped my worldview and how it has made me more open-minded and tolerant of different cultures and beliefs. I could also talk about how my experiences have helped me become more confident in my own beliefs and values.

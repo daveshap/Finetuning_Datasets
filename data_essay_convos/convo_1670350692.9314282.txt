@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply to Princeton and I need help writing my essay.
+COACH: That's great! What kind of essay are you writing?
+STUDENT: It's a personal statement about why I want to study science at Princeton.
+COACH: Okay, so what do you think are the most important skills and achievements you want to highlight in your essay?
+STUDENT: Well, I think I should talk about my academic achievements, like my grades and awards, as well as my interest in scientific research.
+COACH: That sounds like a great start. Do you have any ideas for how you want to structure your essay?
+STUDENT: I'm not sure. What are the parts of an essay?
+COACH: Essays usually have an introduction, body, and conclusion. The introduction is often referred to as the "hook" because it's meant to grab the reader's attention. The body is where you present your evidence and arguments in support of your thesis. The conclusion is where you wrap up your essay and provide a summary of your main points. Does that help?
+STUDENT: Yes, that's really helpful. Thank you!

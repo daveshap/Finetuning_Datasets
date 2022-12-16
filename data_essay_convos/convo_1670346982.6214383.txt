@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton University and I'm looking for advice on how to write my personal statement.
+COACH: Great! That's a great school to apply to. Tell me a bit more about yourself. What are your interests, hobbies, and passions?
+STUDENT: Well, I'm really interested in science and technology. I also love to travel and recently visited Thailand.
+COACH: That sounds like an amazing experience. What did you learn from your travels? How did it shape your views on the world?
+STUDENT: Visiting Thailand really opened my eyes to different cultures and perspectives. It made me realize how much more there is to explore and learn from. It also inspired me to pursue a career in science and technology.
+COACH: That's great! It sounds like you have a lot of passion and drive. What do you think makes you stand out as an applicant to Princeton?
+STUDENT: I think my dedication to learning and exploring new things makes me stand out. I'm always looking for new opportunities to expand my knowledge and push myself to be a better person.
+COACH: That's an impressive quality. Now, let's talk about the personal statement. What do you want to focus on in your essay?
+STUDENT: I want to focus on how my experiences have shaped my views on the world and how I plan to use my education to make a difference. I also want to discuss how I plan to finance my college education.
+COACH: That's a great topic. Financing college can be a tricky process. Let's start by discussing what resources are available to you. Are you planning to apply for scholarships, grants, or student loans? 
+STUDENT: I'm hoping to apply for scholarships and grants, but I'm also considering taking out student loans if necessary.
+COACH: That's a smart approach. You should definitely look into all of your options. Make sure to do your research and find out how much money you'll need to cover your tuition and other expenses. This will help you determine the best way to finance your college education.

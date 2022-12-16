@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm working on a paper about neurodiversity in engineering and I'm having some trouble getting started.
+COACH: Okay, so let me get a better understanding of what you're looking for. What kind of research have you done so far?
+STUDENT: I've been looking into the history of neurodiversity in engineering, particularly in China, and how it has impacted the field over time.
+COACH: That's great! It sounds like you have a good framework for your paper. What kind of sources have you been using to inform your research?
+STUDENT: Mostly academic journals, but I've also been looking into religious texts, such as Buddhist and Christian writings, to see how they approach the concept of neurodiversity.
+COACH: That's a great idea. It can be very helpful to look at different perspectives when exploring an issue. What do you think are the main points you want to make in your paper?
+STUDENT: I want to show how neurodiversity has impacted engineering in China, and how this has led to innovations in the field. I also want to explore the ethical implications of the use of neurodiversity in engineering.
+COACH: That's a great outline. Have you thought about how you're going to structure your paper?
+STUDENT: Yes, I was thinking of starting with a brief overview of the history of neurodiversity in engineering, then looking at the impact it has had in China, and finally exploring the ethical implications of using neurodiversity in engineering.
+COACH: That sounds like a great plan. Do you have any questions about the process of writing the paper or need help with any specific parts?

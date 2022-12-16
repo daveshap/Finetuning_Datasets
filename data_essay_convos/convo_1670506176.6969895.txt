@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: Well, college admissions is a complex process. Generally speaking, admission officers look at your academic performance, extracurricular activities, and personal qualities. They'll also consider your essay, which is why you're here. Can you tell me a bit more about the essay you're writing?
+STUDENT: It's for my college application, and I'm writing a thesis statement.
+COACH: That's great! A strong thesis statement is a critical part of any essay. Let's start by talking about what makes a good thesis statement. Generally speaking, a good thesis statement should be clear, concise, and make a specific argument or claim. It should also be supported by evidence. Can you tell me a bit more about the essay you're writing?

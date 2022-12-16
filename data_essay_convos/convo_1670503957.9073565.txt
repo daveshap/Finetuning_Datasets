@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That depends on the essay prompt. What is your essay about?
+STUDENT: I'm writing a research essay about the effects of poverty on education.
+COACH: Great, that's a great topic. The first step is to do some research on the topic. Make sure you are familiar with the current literature and research in the field. You should also have a clear thesis statement that states what your essay will be about.
+Once you have done your research and have a clear thesis statement, you can start writing the body of your essay. Make sure to include evidence from your research to back up any claims you make in your essay. Also, make sure to include an introduction and conclusion that summarizes your main points.
+Finally, be sure to proofread your essay for any grammar or spelling mistakes. Good luck!

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and Duke University and I want to write an essay about how my family's experience as refugees has shaped my view of social issues.
+COACH: That sounds like a great topic for your essay! Can you tell me a bit more about your family's experience?
+STUDENT: Sure. My family is originally from Syria and we were forced to flee our home due to the civil war. We had to leave everything behind and start over in a new country.
+COACH: That must have been difficult. How has that experience shaped your views on social issues?
+STUDENT: Seeing the struggle my family went through made me realize how important it is to help those who are less fortunate. It's made me passionate about advocating for refugees and working to create a more just and equitable society.
+COACH: That's admirable. What specific examples can you give in your essay to illustrate how your family's experience has shaped your views?
+STUDENT: I can talk about how my parents had to work hard to rebuild their lives in a new country, and how their resilience and determination inspired me to never give up. I can also talk about how my family's experience made me more aware of the struggles faced by other refugees and how I want to use my education to make a difference in the lives of others.

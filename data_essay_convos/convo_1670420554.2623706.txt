@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to write my personal statement. I'm not sure what to write about or how to start.
+COACH: That's a great question. Can you tell me a bit more about yourself and why you're writing a personal statement?
+STUDENT: Sure. I'm applying to college, and I'm from a single parent home. I'm interested in politics and I'm hoping to use my education to make a difference in the world.
+COACH: That sounds like an amazing goal! It sounds like you have a lot of motivation and ambition. So, what kind of topics do you think would be appropriate to include in your personal statement?
+STUDENT: I'm not sure. I want to talk about my background, my goals and personal objectives, and the impact I want to make in the world.
+COACH: That's a great starting point. You can start by talking about your unique perspective and experiences growing up in a single parent home. What challenges have you faced and how have they shaped your view of the world? You can also talk about your passions and interests, such as politics, and how they have inspired you to pursue a higher education. Finally, you can discuss your goals and objectives, and how you plan to use your education to make a difference.

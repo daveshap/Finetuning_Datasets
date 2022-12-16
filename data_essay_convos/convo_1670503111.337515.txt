@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Great question! Applying to college can be a daunting process, but it doesn't have to be. The first step is to decide which schools you would like to apply to. You can research different colleges and universities to determine which are best suited for your academic and career goals. Once you have chosen the schools you would like to apply to, you will need to submit an application. This typically includes an essay, transcripts, letters of recommendation, and other documents. 
+STUDENT: What should I include in my essay?
+COACH: When writing your essay, it's important to focus on topics that will help you stand out from the other applicants. Think about what makes you unique and how you can showcase those qualities in your essay. You should also make sure to use clear and concise language that conveys your message effectively. Additionally, you should review the essay prompt carefully and answer all the questions asked. Don't forget to proofread your essay and make sure there are no grammar or spelling mistakes.

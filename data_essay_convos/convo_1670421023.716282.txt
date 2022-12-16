@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble coming up with an idea for my essay.
+COACH: Okay, let's start by talking about what you're interested in. What topics do you like to talk about?
+STUDENT: Well, I'm really interested in science and China. I'm also passionate about LGBT rights and charity work.
+COACH: That's great! Let's start with your interest in science and China. Have you ever considered writing about how the two intersect? For example, how does science in China play a role in the development of the country?
+STUDENT: That's an interesting idea. I never thought about that before.
+COACH: It's a great topic to explore. You could also look at how science and technology are used to help promote LGBT rights in China. Or, you could focus on how charity work is helping to improve the lives of people in China.
+STUDENT: Those both sound like really interesting topics. I think I'd like to focus on how science and technology are used to promote LGBT rights in China.
+COACH: That's a great idea! You can start by doing some research on the subject. Look into how different organizations are using science and technology to help promote LGBT rights in China. See what kind of successes they have had, and what challenges they have faced.
+STUDENT: Okay, I'll do that.
+COACH: Great! Once you have collected some research, you can start to develop your thesis statement. Think about what you want to say about the topic, and how you want to present your argument. Also, consider how you can use personal stories or anecdotes to make your essay more engaging.
+STUDENT: That sounds like a good plan.
+COACH: Perfect! Once you have your thesis statement and some research, you can start to write your essay. Make sure you take your time and don't rush through it. Take breaks and come back to it with a fresh perspective.
+STUDENT: Thanks for the advice. I think I'm ready to get started.
+COACH: Fantastic! If you need any help along the way, don't hesitate to reach out. Good luck with your essay!

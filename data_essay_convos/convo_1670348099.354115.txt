@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to grad school in Germany and I need help writing my essay.
+COACH: That's great! What would you like help with?
+STUDENT: Well, I want to write about my experience as a refugee in Europe and how it has shaped my view on the world.
+COACH: That sounds like a really interesting topic. Can you tell me more about your experience?
+STUDENT: Sure. I left China when I was 8 years old and moved to Germany with my family. We were refugees and had to start over in a new country. It was a difficult experience but it taught me a lot about resilience and determination.
+COACH: That must have been very difficult for you and your family. How did you manage to adjust to life in Germany?
+STUDENT: It was hard at first. We had to learn a new language and adapt to a different culture. But eventually we settled in and made a home for ourselves.
+COACH: That's amazing! What do you think you learned from this experience that could be useful for your grad school application?
+STUDENT: I think it taught me a lot about perseverance and the importance of having a positive attitude even when facing adversity. I also learned how to be flexible and open-minded when it comes to different cultures and values.
+COACH: Those are great qualities to have. How can you use those experiences to make your essay stand out?
+STUDENT: I think I can use my experience to show that I am a resilient and determined person who is willing to work hard to achieve my goals. I can also demonstrate my ability to be flexible and open-minded when it comes to different cultures and values.

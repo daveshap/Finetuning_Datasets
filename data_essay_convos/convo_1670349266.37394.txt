@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble with my personal statement.
+COACH: Alright, tell me a bit about yourself. What kind of activities have you been involved in?
+STUDENT: Well, I've been involved in charity work since I was a child. I've also done some volunteer work in Thailand, helping out with local politics.
+COACH: That's really impressive! So what do you think admissions officers are looking for in a personal statement?
+STUDENT: I think they're looking for something that shows they can get to know me as a person, and that I'm passionate about something and have the drive to make a difference.
+COACH: That's a great approach! So what do you think you should write about in your personal statement?
+STUDENT: I think I should focus on my experiences in Thailand, how I got involved in local politics, and how it has shaped my worldview and my understanding of the importance of making a difference. I want to show that I'm passionate about making a difference and that I'm not afraid to take risks and try new things.

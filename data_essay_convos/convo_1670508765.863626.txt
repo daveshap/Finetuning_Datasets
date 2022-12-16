@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: That's a great question. Rejection can be hard, but it's important to remember that it doesn't define you. Let's start by talking about your goals. What do you hope to achieve in law school?
+STUDENT: I want to become a lawyer so I can help people who need legal representation and make sure their rights are protected.
+COACH: That's a very admirable goal. Now let's talk about why you feel you would be a good fit for law school. What experiences have you had that make you well-suited to this field?
+STUDENT: Well, I have a lot of volunteer experience working with various legal aid organizations. I've also worked as a paralegal and interned at a few law firms. I think these experiences have given me a good understanding of the legal system and the challenges that people face when trying to access justice.
+COACH: Those are great experiences. Now, how can you use those experiences to show why you would be a great addition to the law school community? What unique qualities or perspectives do you bring to the table?
+STUDENT: I think my passion for helping people is something that sets me apart. I'm very committed to making sure everyone has access to justice, regardless of their background or circumstances. I'm also very organized and detail-oriented, which I think are important qualities for a successful lawyer.

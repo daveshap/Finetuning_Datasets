@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a college admission essay and I'm not sure where to start.
+COACH: That's a great question. Before we dive into the writing process, let's start by understanding what the admissions committee is looking for in an essay. What do you think they're looking for?
+STUDENT: Well, I guess they want to get to know me and understand my passions and goals.
+COACH: Absolutely! The admissions committee wants to get to know you as an individual and understand your motivation for applying to their school. They also want to know what makes you unique and how you'll contribute to their campus community. So when you're brainstorming topics for your essay, think about things that set you apart from other applicants. What passions or experiences have shaped who you are today?
+STUDENT: I'm a refugee and I think that has had a big impact on my life.
+COACH: That's a great topic to explore in your essay. Tell me more about how being a refugee has shaped your life and what you've taken away from the experience.
+STUDENT: Well, it's been a difficult journey but I've learned so much from it. It has taught me resilience and the importance of having a strong support system. It has also made me more aware of global issues and how to be an advocate for change.
+COACH: Those are all fantastic lessons that can be explored further in your essay. How would you use these lessons to contribute to the campus community?
+STUDENT: I want to use my experience to help others and be an advocate for change. I want to be an example of how someone can overcome obstacles and still achieve their dreams. I also want to be an ally to other refugees and help them adjust to college life.
+COACH: Those are great goals! In your essay, you can discuss how your experience has motivated you to become an advocate for change and how you plan to use your experience to help others. You can also talk about how you will use your resilience and support system to succeed in college. These are all great points to include in your essay.

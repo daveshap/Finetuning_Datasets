@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for a few key things in an essay. They want to see that you have a clear understanding of the topic, that you can articulate your thoughts in a concise and organized manner, and that you can draw meaningful connections between your ideas. They also want to see that you can be creative and think outside the box.
+STUDENT: What is the best way to approach writing a term paper?
+COACH: The best way to approach writing a term paper is to begin by doing research and gathering information about the topic. Once you have a good understanding of the material, you should then create an outline of the main points you want to cover. This will help you stay focused and organized as you write. Additionally, make sure to use strong evidence to support your claims and to provide a well-rounded argument. Finally, be sure to proofread and edit your work before submitting it.

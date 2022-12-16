@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admissions essay for NCSU and Yale.
+COACH: Alright, let's start with a few questions. What kind of topics have you been considering? 
+STUDENT: I've been thinking about writing about social issues, like poverty and inequality.
+COACH: That's a great idea. What specifically have you been thinking about when it comes to those topics?
+STUDENT: Well, I'm interested in exploring the impacts of poverty on education and how that affects people's lives.
+COACH: That's a great angle to explore. How do you think this topic relates to your personal experiences?
+STUDENT: I think it relates to my experience because I come from a low-income family, so I understand the struggles associated with poverty and how it can limit educational opportunities.
+COACH: I see. That sounds like an interesting story to tell. What other elements of your life do you think you could use to make your essay more compelling?
+STUDENT: Well, I'm a bit of a boring person, so I'm not sure what else I could include.
+COACH: Don't worry, everyone has their own unique story to tell. Think about what makes you different from others. What values or experiences do you have that sets you apart? 
+STUDENT: Hmm, I guess I'm passionate about helping others and making a difference in my community. I volunteer at a local food bank and mentor students at my school.
+COACH: That's great! Those experiences could definitely be included in your essay. It could help show the admissions officers your commitment to social justice and your willingness to help others.

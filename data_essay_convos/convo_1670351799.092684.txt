@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing my personal statement for college and I'm having trouble figuring out what to write about.
+COACH: That's understandable. It can be hard to narrow down your experiences and thoughts into something that fits the essay prompt. What topics have you been considering so far?
+STUDENT: Well, I'm really passionate about creativity and art, and I'm also Jewish and I've done a lot of volunteer work. I also studied in France for a few months last summer.
+COACH: Those are all great topics to explore for your essay. Let's start with your passion for creativity and art. How have you expressed this passion in your life? Have you taken any classes or participated in any activities related to art?
+STUDENT: Yeah, I've taken some art classes in school, but I'm mostly self-taught. I love painting and drawing, and I've been making art since I was a kid.
+COACH: That's great! What do you think makes your art unique or special?
+STUDENT: I think my art is unique because it reflects my own experiences and perspectives. I like to use bright colors and bold lines to convey emotion.
+COACH: That sounds really interesting. How has your Judaism impacted your art?
+STUDENT: My faith has definitely influenced my art. I like to incorporate Jewish themes and symbols into my work, and I'm always exploring new ways to express my faith through art.
+COACH: That's a great way to combine your passions. What about your volunteer work? How have you used your skills and talents to help others?
+STUDENT: I've done a lot of volunteer work with different organizations. I've helped to organize events, build houses, and tutor kids in math and English. I've also done a lot of work with refugee families, helping them adjust to their new lives in the US.
+COACH: That's amazing! And what about your time in France? What did you learn from that experience?
+STUDENT: Being in France was an eye-opening experience for me. I learned a lot about the history and culture of the country, and I also got to practice my French language skills. Most importantly, I made some great friends and had some amazing experiences.

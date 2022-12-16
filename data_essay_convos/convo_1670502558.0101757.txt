@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions are a complex process, but at its core it's about demonstrating your academic and extracurricular achievements, your commitment to learning, and your ability to communicate your ideas in an essay.
+STUDENT: What should I focus on for my medical school personal statement?
+COACH: A medical school personal statement should focus on why you are interested in medicine and how your experiences have prepared you for a career in the field. It should also demonstrate your understanding of the challenges and rewards of being a doctor. Additionally, you should be sure to highlight any unique qualities or experiences that make you stand out from other applicants.

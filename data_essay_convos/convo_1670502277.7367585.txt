@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: A persuasive essay should have an introduction, body paragraphs, and a conclusion. The introduction should provide background information on the topic and introduce the thesis statement. The body paragraphs should each focus on one main point and provide evidence to support it. The conclusion should summarize the main points of the essay and restate the thesis.
+STUDENT: What should I include in my introduction?
+COACH: The introduction should provide some context for the essay and explain why the topic is important. It should also include your thesis statement, which is the main idea or argument of your essay. Additionally, you can include a hook to grab the reader's attention.
+STUDENT: What should I include in the body paragraphs?
+COACH: Each body paragraph should focus on one main point and provide evidence to support it. Make sure to explain how the evidence relates to your main point and provide examples if necessary. You should also include a transition sentence at the beginning of each body paragraph to help move the essay along.
+STUDENT: What should I include in the conclusion?
+COACH: The conclusion should summarize the main points of the essay and restate the thesis. You can also include a call to action or suggest further research on the topic. Additionally, you can end with a thought-provoking statement or question to leave the reader with something to consider.

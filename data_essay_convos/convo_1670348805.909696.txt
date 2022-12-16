@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble coming up with an idea for my essay.
+COACH: Alright, tell me a bit more about the assignment. What is the topic?
+STUDENT: The essay is about Europe and Christianity, and how they interact with the LGBT community.
+COACH: Interesting. What kind of perspective are you looking to take on this topic? Are you trying to make an argument for or against something?
+STUDENT: I think I want to look at it from a more neutral perspective, just exploring the different aspects of the topic.
+COACH: That's a great approach. Have you done any research on the topic yet?
+STUDENT: Not much, I'm not sure where to start.
+COACH: That's understandable. Let's start by looking at some of the key concepts, such as Christianity and LGBT rights in Europe. What do you know about those concepts?
+STUDENT: Well, I know that Christianity has had a long history in Europe, and that there are still many churches and religious organizations there today. As for LGBT rights, I know that there has been a lot of progress in recent years, but there are still some countries where LGBT people don't have the same rights as heterosexual people.
+COACH: That's a great start. Do you have any particular questions or points of interest that you'd like to explore further?
+STUDENT: Yeah, I'm interested in how the different Christian denominations view LGBT rights, and how they interact with the laws in different countries.
+COACH: That's a great question. You could start by researching the different denominations and their stances on LGBT rights, and then look into how those views are reflected in the laws in different countries. You could also look into how the LGBT community has reacted to these laws and views, and how they've worked to overcome any obstacles they've faced.

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about social issues and how they relate to my goals and personal objectives.
+COACH: That's a great topic! Can you tell me more about what you want to discuss in your essay?
+STUDENT: Well, I'm particularly interested in exploring how sexism impacts college financing.
+COACH: Interesting! What have you already learned about this topic?
+STUDENT: I've done some research and it seems like women are often disadvantaged when it comes to accessing college financing. 
+COACH: That's definitely something worth exploring in your essay. What are your thoughts on the issue?
+STUDENT: I think it's an important issue that needs to be addressed. It's not fair that women have to face such disadvantages when it comes to financing their education.
+COACH: Absolutely! What do you hope to achieve with your essay?
+STUDENT: I'm hoping to apply to Harvard, and I want to use my essay to demonstrate my commitment to addressing social issues like sexism.
+COACH: That's a great goal! Do you have any ideas on how you would approach writing your essay?
+STUDENT: I was thinking of using some of the research I've done to discuss the current state of college financing, and then use my own experiences to illustrate how sexism has impacted me personally.
+COACH: That sounds like a great approach. Do you have any questions about the essay writing process?

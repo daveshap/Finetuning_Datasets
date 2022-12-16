@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: Well, a good opening should introduce the main idea of your essay and grab the reader's attention. It's important to make sure that you provide enough background information so that the reader can understand the context of your essay. What kind of essay are you writing?
+STUDENT: Its a research essay
+COACH: Great! A research essay is a type of essay that requires you to do research on a particular topic and present your findings with evidence. You'll want to start by researching your topic thoroughly and gathering all the relevant information. Once you have that, you can begin to craft your opening sentence. Think about what kind of hook or statement you want to make that will draw the reader in and make them want to learn more.

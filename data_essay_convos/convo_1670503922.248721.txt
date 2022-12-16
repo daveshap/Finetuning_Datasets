@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Well, it depends on the type of essay you're writing. For a personal statement for law school, you want to focus on your academic and professional goals, as well as your personal motivations and values. You should also discuss any relevant experiences or skills that could help you succeed in law school. Finally, make sure to tie it all back to why you specifically want to pursue a legal career. 
+STUDENT: What should the structure of my essay look like?
+COACH: A good essay should have an introduction, body paragraphs, and a conclusion. The introduction should grab the reader's attention and provide a brief overview of your essay. The body should include your main points and evidence to support them. And the conclusion should summarize your essay and leave the reader with a lasting impression. 
+STUDENT: What kind of language should I use?
+COACH: You want to use language that is clear, concise, and persuasive. Avoid jargon and overly complex words, and focus on using active verbs to convey your message. You also want to stay away from cliches, and instead use original and creative language.

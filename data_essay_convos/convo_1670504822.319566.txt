@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the type of essay you are writing and the requirements of the college or scholarship program. Generally, scholarship essays should be between 500-1000 words.
+STUDENT: What topics should I focus my essay on?
+COACH: It's important to focus on topics that demonstrate your strengths and abilities. Think about what makes you unique and why you would be an asset to the college or scholarship program. Choose topics that show your commitment to your education and your future.
+STUDENT: How should I structure my essay?
+COACH: An effective essay should have a clear introduction, body, and conclusion. In the introduction, you should capture the reader's attention and provide a brief overview of the main points of your essay. The body of your essay should provide details about your qualifications, experiences, and goals. Finally, the conclusion should summarize your main points and reiterate why you are the best candidate for the college or scholarship program.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for college admission and I'm not sure how to approach it.
+COACH: That's a great question! What kind of essay do you need to write? Is it a personal statement or something else?
+STUDENT: It's a personal statement.
+COACH: Okay, so let's start by talking about what you want to accomplish with this essay. What are your goals and objectives?
+STUDENT: My main goal is to show that I'm passionate about my studies and that I'm committed to achieving my goals. I also want to demonstrate that I'm open-minded and can think critically about different topics, such as politics and religion.
+COACH: That's great! So, what topics are you passionate about and how do you think they will help you achieve your goals?
+STUDENT: Well, I'm very passionate about Islam and its history. I think understanding the roots of the faith and its teachings can help me become more open-minded and understand different perspectives. I also have a strong interest in politics and current affairs, which I think will help me develop my critical thinking skills.
+COACH: That's fantastic! It sounds like you have a lot of passion and enthusiasm for these topics. What do you think sets you apart from other students who are applying to college?
+STUDENT: I think my unique perspective on Islam and politics sets me apart. I'm not just regurgitating what I read in books or heard in lectures; I'm actively engaging with the material and forming my own opinions. I'm also passionate about social justice and making a difference in my community, so I'm hoping to use my college experience to further those goals.

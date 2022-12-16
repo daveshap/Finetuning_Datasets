@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A great opening for your essay should be engaging and capture the reader’s attention. Think of a creative way to introduce the topic, such as a personal anecdote or a thought-provoking question. You also want to make sure that your opening statement is relevant to the rest of your essay.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include a clear thesis statement that outlines the main point of your essay. Make sure to provide evidence and examples to support your thesis. Additionally, you should include transitions between each paragraph to ensure that your essay flows well. Finally, make sure to include a conclusion that summarizes your main points and leaves the reader with something to think about.

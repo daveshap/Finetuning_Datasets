@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student from the Philippines, and I'm applying to Harvard. I'm having trouble figuring out what to write about in my essay.
+COACH: That's great that you're applying to Harvard! What topics are you interested in? Are there any particular issues in the Philippines or elsewhere that you feel passionate about?
+STUDENT: Yes, I'm really passionate about politics and social justice, especially in the Philippines. I'm also interested in the political climate in Europe and how it affects the rest of the world.
+COACH: That's really fascinating! It sounds like you have a lot of knowledge and experience with these topics. What do you think your essay should focus on?
+STUDENT: I think I'd like to focus on the political situation in the Philippines and how it affects other countries in the region. I also want to talk about how my own experiences as a first-generation college student have shaped my views on these issues.
+COACH: That's a great idea! Since you have a lot of experience and knowledge on these topics, you could use your essay to explain how your views have been shaped by your experiences. You can also talk about how the political situation in the Philippines has impacted other countries in the region. Are there any specific examples you'd like to use to illustrate your points? 
+STUDENT: Yes, I think I'd like to talk about the recent presidential election in the Philippines and how it has affected other countries in the region. I'd also like to discuss the growing influence of China in the region and how it has impacted the political climate.
+COACH: That's a great example! You could also talk about how your own experiences as a first-generation college student have shaped your views on these topics. This could be a great way to demonstrate your passion and knowledge of these issues.

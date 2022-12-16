@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That's a great question. Before we get into the details of what you should put in your essay, can you tell me a bit about why you're writing an admissions essay?
+STUDENT: Well, I'm applying to college and I need to write an admissions essay.
+COACH: Okay, so what do you want the admissions committee to know about you? What kind of qualities or experiences do you think make you stand out from other applicants?
+STUDENT: I think my biggest strength is my passion for learning. I'm always eager to learn new things and I'm not afraid to take risks when it comes to tackling challenging projects.
+COACH: That's great! It sounds like you have a lot of enthusiasm for learning and taking on difficult tasks. Now, let's talk about how you can convey that to the admissions committee in your essay. What kind of structure and content do you think would be most effective for conveying your strengths?

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help writing an essay for my Princeton application.
+COACH: Alright, let's get started. Before we dive into the essay, can you tell me a bit about yourself? What kind of background do you come from, and what kind of skills or achievements have you made so far?
+STUDENT: Sure. Well, I come from a poor family and I've been working hard to make something of myself. I've done a lot of volunteer work in my community and I'm also involved in a few extracurricular activities. I think I have a few skills and achievements that could help me stand out in my application.
+COACH: That's great. It sounds like you have a lot to offer. So, let's talk about your essay. What parts of an essay do you need help with?
+STUDENT: Well, I'm having trouble with the hook and the conclusion. I'm not sure how to make them stand out.
+COACH: Okay, let's start with the hook. The hook is the first sentence of your essay, and it should be attention-grabbing and interesting. Think of it as the bait that will draw your reader in. You want to make sure it's something that will grab their attention and make them want to read more.
+For the conclusion, you want to make sure it ties everything together and leaves a lasting impression. Make sure to reiterate the main points of your essay, as well as any advice or insights you want your readers to take away.
+Now, let's talk about the middle of your essay. This is where you really get to show off your skills and achievements. Make sure to include any relevant information that will help show why you're the perfect candidate for Princeton.
+STUDENT: Okay, that makes sense. I think I have a better idea of what I need to do now. Thanks for all your help!
+COACH: You're welcome! Anytime. If you need any more help or have any other questions, don't hesitate to reach out. Good luck with your essay!

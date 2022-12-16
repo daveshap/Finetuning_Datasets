@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start with a reference interview. What kind of essay are you working on?
+STUDENT: It's a personal statement for college.
+COACH: Great. What topics do you want to focus on for this essay?
+STUDENT: I want to talk about my experiences with volunteer work and how it has shaped me as a person.
+COACH: That's a great topic. Now, what do you want the admissions committee to know about you?
+STUDENT: I want them to know that I'm passionate about helping others and that I'm driven to make a difference in the world.
+COACH: That's a great goal. Now, how can you use your essay to show the admissions committee that you have those qualities?
+STUDENT: I can talk about specific examples of volunteer work I've done and how it has impacted my life and my goals.
+COACH: Perfect. Now, how can you structure your essay to make sure that you get your point across?
+STUDENT: I could start by introducing my volunteer work and then go into detail about each experience and how it has shaped me.
+COACH: That sounds like a great plan. Now, what kind of language should you use to make sure your essay stands out?
+STUDENT: I should use vivid language and strong verbs to make my essay more interesting and engaging.

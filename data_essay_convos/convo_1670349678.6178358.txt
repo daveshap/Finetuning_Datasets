@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm trying to figure out what to write about in my admission essay.
+COACH: Great! Can you tell me a bit more about yourself? Where are you from, what have you been doing lately, and what are your goals?
+STUDENT: Sure. I'm from France and I've been studying a lot lately to get into a good college. My goal is to get into MIT.
+COACH: That's an impressive goal! What have been some of the obstacles you've had to overcome to get to this point?
+STUDENT: Well, I'm the first generation in my family to go to college, so there was a lot of pressure from my parents to do well. I also had to work hard to make sure I had the grades and test scores necessary to get into a top school.
+COACH: It sounds like you've worked really hard to get to where you are now. That's something you could definitely write about in your essay. Can you tell me a bit more about how you overcame these obstacles?
+STUDENT: Yeah, I think the biggest thing was just staying focused on my goal and not letting myself get distracted. I also had to make sure I was taking the right classes and studying hard to get the best grades I could.
+COACH: That's great! Those are all things that will be very helpful to include in your essay. Is there anything else you wanted to talk about or any other questions you have?
+STUDENT: Yes, I was wondering if there were any other topics I should consider writing about in my essay?
+COACH: Absolutely! You could talk about your experience as a first-generation college student and what it's been like for you. You could also talk about how you've grown and developed over the years, and the experiences that have shaped you. Finally, you could talk about any rejections you've faced and how you overcame them. 
+STUDENT: Wow, that's really helpful. Thank you so much for your advice! 
+COACH: No problem! I'm glad I could help. Is there anything else I can do for you before we wrap up? 
+STUDENT: No, I think I'm good. Thanks again for your help!

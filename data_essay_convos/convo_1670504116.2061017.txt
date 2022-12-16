@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question. Generally, when you have written your essay and you feel like it is complete and you are happy with it, then it is finished. You should also consider getting feedback from someone else to make sure that your essay is complete and that you haven't missed anything. 
+STUDENT: What should my essay include?
+COACH: Your essay should include an introduction, body paragraphs, and a conclusion. In the introduction, you should provide some background information about your topic and explain why you chose it. In the body paragraphs, you should provide evidence to support your argument, such as facts, statistics, and quotes from sources. Finally, in the conclusion, you should summarize your main points and offer a concluding statement. 
+STUDENT: How should I structure my essay?
+COACH: A good structure for your essay would be to start with an introduction, followed by three to four body paragraphs, and then a conclusion. In the introduction, you should provide some background information about your topic and explain why you chose it. Then, in each body paragraph, you should focus on one particular point and provide evidence to support it. Finally, in the conclusion, you should summarize your main points and offer a concluding statement.

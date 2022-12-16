@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having a hard time writing my essay.
+COACH: That's understandable. What kind of essay are you working on?
+STUDENT: It's a personal essay about overcoming obstacles.
+COACH: That sounds like an interesting topic. Could you tell me more about the obstacles you faced and how you overcame them?
+STUDENT: Well, I faced a lot of racism growing up, and I had to find ways to cope with it and move forward. I also have neurodiversity, which made it even harder to fit in and be accepted.
+COACH: That sounds like a challenging situation. What strategies did you use to cope with the racism and the neurodiversity?
+STUDENT: I started to focus on my strengths instead of my weaknesses. I tried to find positive ways to express myself and be confident in who I am. I also found support networks and mentors who could help me navigate difficult situations.
+COACH: That's great that you were able to find those resources. What other obstacles did you face and how did you overcome them?
+STUDENT: I faced a lot of rejection when I applied to colleges. I was rejected from most of the schools I applied to, and it was really discouraging. I eventually realized that the rejections weren't a reflection of my worth, and that I just needed to keep trying. So I kept applying to different schools and eventually found one that was a good fit for me.
+COACH: That's really inspiring. How did you turn this experience into a compelling essay?
+STUDENT: I focused on how I used my challenges to become a stronger person and how I never gave up despite all the rejections. I also highlighted the importance of finding mentors and support networks to help me through tough times. I think it helped to show that I'm resilient and determined, which are qualities that colleges look for in their applicants.

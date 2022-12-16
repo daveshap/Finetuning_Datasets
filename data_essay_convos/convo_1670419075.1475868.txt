@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for my college application and I'm having a bit of trouble figuring out what to write about. 
+COACH: Sure, let's start by talking about your background. Are there any experiences or values that you think are important to mention?
+STUDENT: Well, I'm a first generation college student and I come from a Christian family. I've done a lot of charity work in my church and community, and I've traveled a bit.
+COACH: That's great! Those are all great topics to include in your essay. Can you tell me more about your experience with charity work? What kind of activities have you been involved in?
+STUDENT: I've volunteered at a local food pantry, helped organize clothing drives, and I've done some work in my church's youth group.
+COACH: That's awesome! It sounds like you have a strong sense of service and dedication to helping others. How has your faith played a role in your life and how has it shaped your values?
+STUDENT: My faith has been a huge part of my life since I was very young. It has taught me the importance of service and selflessness, and it has guided me to always try to do what is right.
+COACH: That's great! It sounds like your faith has been a major influence in your life. What do you think it says about you as a person?
+STUDENT: I think it shows that I am compassionate and caring, and that I have a strong sense of community and responsibility.
+COACH: That's wonderful! It sounds like you have a lot of great qualities that you can highlight in your essay. What about your experience with travel? How has that impacted you?
+STUDENT: Traveling has really opened my eyes to different cultures and ways of life. It has made me more accepting of different perspectives and has taught me to appreciate the beauty in the world.
+COACH: That's amazing! It sounds like you have gained a lot of valuable insight and experience through your travels. How do you think this will help you in your college experience?
+STUDENT: I think it will give me a better understanding of different cultures and backgrounds, which will be very helpful in a college setting. I also think it will make me more open-minded and willing to learn from different perspectives.

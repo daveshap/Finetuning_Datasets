@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a college student and I'm looking for advice on how to find a job after college.
+COACH: That's a great question. Let's start by talking about your educational background. What field of study are you pursuing?
+STUDENT: I'm studying science in the Philippines.
+COACH: That's fantastic! What kind of career do you want to pursue after college?
+STUDENT: I'm not sure yet. I'm still exploring my options.
+COACH: That's understandable. What kind of goals and personal objectives do you have for your post-college career?
+STUDENT: I want to find a job that will allow me to use my science skills and knowledge, while also helping me to make a positive impact on the world.
+COACH: That sounds like a great goal. Can you tell me more about how you plan to finance your college education?
+STUDENT: I'm currently relying on financial aid and scholarships, but I'm also looking into student loans and other forms of financing.
+COACH: That's a wise choice. There are many resources available to help you finance your college education, so be sure to explore all the options available to you. Additionally, it's important to stay organized and keep track of deadlines and requirements for each of these sources of funding.

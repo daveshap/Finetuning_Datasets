@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Sure, let's start off with a little bit of a reference interview. Can you tell me a bit about yourself and what you want to include in your essay?
+STUDENT: Well, I'm a senior in high school and I'm applying to college. I want to talk about my academic achievements and extracurricular activities, and how they have made me the person I am today.
+COACH: That sounds like a great topic for your essay. Now, let's talk about how to structure it. What do you think should be the main points of your essay? 
+STUDENT: I think I should talk about my academic achievements first, then my extracurricular activities, and finally, how both of those have shaped me. 
+COACH: That's a great start. Now, let's talk about how to make your essay stand out. What can you do to make sure that your essay is unique and memorable?
+STUDENT: I think I can focus on specific experiences that really highlight my strengths and show how I've grown as a person.
+COACH: That's a great idea! Now, let's talk about how to write a compelling introduction. What do you think would be the best way to start off your essay?
+STUDENT: I think I should start by talking about a defining moment in my life, something that really shaped me and how I view the world. 
+COACH: That's perfect! Now, let's talk about how to make your essay flow. How can you make sure that your essay transitions well from one point to the next?
+STUDENT: I think I can use transitions words and phrases to help guide the reader from one point to the next. 
+COACH: Excellent! Now, let's talk about how to end your essay. What do you think would be the best way to wrap up your essay and leave a lasting impression?
+STUDENT: I think I should end by talking about my future goals and how my experiences have prepared me to achieve them. 
+COACH: That's a great way to end your essay. Now, let's talk about how to revise and edit your essay. What are some strategies you can use to make sure your essay is polished and error-free?
+STUDENT: I think I should read through my essay multiple times and have someone else review it as well. I can also use grammar and spell checkers to help catch any mistakes. 
+COACH: Great! Those are all great strategies for revising and editing your essay. I think you're now ready to start writing your essay. Good luck!

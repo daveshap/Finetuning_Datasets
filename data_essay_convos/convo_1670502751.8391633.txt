@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question! Your essay should be a reflection of who you are and what you have to offer. Think about the experiences, values, and passions that make you unique, and explore how those have shaped you into the person you are today. Try to focus on something specific, such as a particular event, moment, or individual that has had a significant impact on your life.
+STUDENT: What should I avoid when writing my essay?
+COACH: You want to avoid using cliches and overly general statements in your essay. Try to be as specific as possible, and avoid using phrases such as “I want to make a difference” or “I am passionate about helping others.” Instead, focus on the concrete details of your experience and how it has impacted you. Additionally, it is important to avoid writing about topics that could be controversial or offensive to the reader.
+STUDENT: How do I make my essay stand out?
+COACH: A great way to make your essay stand out is to make sure that it is well-written and engaging. Take the time to proofread your essay for any mistakes and ensure that it flows logically. Additionally, make sure that you are being honest and authentic in your writing. The essay should be a reflection of who you are and should accurately portray your personality. Finally, try to write about a topic that is interesting and unique to you.

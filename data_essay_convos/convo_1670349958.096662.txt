@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my essay for law school. 
+COACH: Okay, great. Let's start by talking about your goals and personal objectives. What do you hope to accomplish by attending law school?
+STUDENT: I want to use my law degree to help people in need and make a positive impact on the world. I'm especially interested in using my degree to help people who are disadvantaged or vulnerable.
+COACH: That's admirable. Have you done any volunteer work in the past that could be relevant to this goal?
+STUDENT: Yes, I volunteered for two years in Thailand, teaching English and providing medical aid to rural villages.
+COACH: That's amazing. How did that experience shape your understanding of the world and your goals for the future?
+STUDENT: It gave me a better understanding of how difficult it can be for people in certain parts of the world to access basic rights and services. It also made me appreciate the value of education and the importance of giving back. I also became more interested in Buddhism during my time in Thailand, which has influenced my worldview and my goals.
+COACH: That sounds like a very meaningful experience. How do you think Buddhism has impacted your goals and objectives for attending law school?
+STUDENT: Buddhism has taught me to be compassionate and understanding of others, which I believe is essential for a successful career in law. I also think it has helped me to be more patient and open-minded when dealing with difficult situations. These qualities will be invaluable when I'm working in the legal field.

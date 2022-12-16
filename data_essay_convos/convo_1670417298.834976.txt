@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a senior in high school and I'm trying to figure out how to apply to college. I'm especially interested in engineering schools, like Princeton.
+COACH: Great! Can you tell me more about yourself? What's your background?
+STUDENT: Sure. I'm originally from Germany and I'm a refugee.
+COACH: I see. That's an interesting combination of experiences. What do you think makes you stand out as a student?
+STUDENT: Well, I think my background gives me a unique perspective on life. I'm also very passionate about engineering and the potential it has to make a difference in the world.
+COACH: That's great! Now, let's talk about the essay. How can I help you craft an essay that will show off your unique background and interests?
+STUDENT: Well, I'm not sure where to start. I want to make sure I write something that will stand out and show the admissions committee why I would be a great fit for the school.
+COACH: Absolutely. The first step is to think about what makes you unique and how that could be used to your advantage. What experiences have you had that have shaped who you are today?
+STUDENT: Well, I've had to overcome a lot of obstacles in my life as a refugee. I've had to learn how to adapt and be resilient in the face of adversity. Those experiences have shaped me into the person I am today and I believe they have given me the skills and determination to succeed in college.

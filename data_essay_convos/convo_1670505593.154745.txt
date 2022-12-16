@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: That's understandable. Writing an admissions essay can be a daunting task. Let's start with the basics. What is the prompt for your essay?
+STUDENT: The prompt is to discuss my academic and career goals and how grad school will help me achieve them.
+COACH: Great. Now, let's start by brainstorming some ideas. What are your academic and career goals?
+STUDENT: My academic goal is to get a Master's degree in Business Administration. My career goal is to become a successful entrepreneur and start my own business.
+COACH: That's great! Now, let's think about how grad school can help you achieve this goal. What skills do you need to become an entrepreneur?
+STUDENT: I need to have a good understanding of business concepts like finance, accounting, marketing, and operations. I also need to be able to think critically, develop innovative solutions, and work well with others.
+COACH: Perfect. So, how can grad school help you develop these skills?
+STUDENT: Grad school will provide me with the opportunity to take courses that will give me a deeper understanding of business concepts. It will also give me the chance to work with experienced professionals who can mentor me and help me hone my critical thinking and problem-solving skills. Additionally, grad school provides a great environment for networking and building relationships with other like-minded individuals.

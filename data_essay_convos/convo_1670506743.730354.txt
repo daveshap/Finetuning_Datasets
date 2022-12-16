@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That’s a great question. Financing college can be a complicated process, so let’s start by breaking it down into the different types of financial aid that are available. Do you know what types of aid are available? 
+STUDENT: No, I don’t.
+COACH: There are several types of financial aid that you should be aware of when considering college financing. These include grants, scholarships, work-study programs, student loans, and private loans. Grants and scholarships are typically awarded based on academic merit or financial need. Work-study programs are part-time jobs that help cover college costs while you’re enrolled in school. Student loans are borrowed money that must be repaid with interest. And private loans are loans taken out from banks or other lenders. 
+STUDENT: Okay, so how do I apply for these?
+COACH: You can apply for grants and scholarships by filling out the Free Application for Federal Student Aid (FAFSA). This form is required for most types of federal financial aid, as well as many state and college-specific grants and scholarships. You can also apply for work-study programs through your college’s financial aid office. Student loans and private loans can be applied for through banks or other lenders. 
+STUDENT: What if I don’t qualify for any of these?
+COACH: If you don’t qualify for grants, scholarships, work-study programs, or loans, there are still other ways to finance your college education. You could look into other forms of assistance such as military benefits, employer tuition reimbursement programs, or crowdfunding. Additionally, some colleges offer payment plans that allow you to pay tuition over time. 
+STUDENT: That’s really helpful. How do I make sure I’m making the right decision when it comes to financing my education?
+COACH: It’s important to do your research and understand the terms and conditions of any loan or grant you’re considering. Make sure you’re aware of the interest rates, repayment terms, and any other fees associated with the loan. Additionally, you should consider your long-term goals and how taking on debt could affect your future.

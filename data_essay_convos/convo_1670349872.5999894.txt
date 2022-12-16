@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to come up with a topic for my essay. I have no idea what to write about.
+COACH: Okay, let's start by talking about your background and experience. What kind of volunteer work have you done in the past?
+STUDENT: I've volunteered at a local refugee center, teaching English classes and helping out with various other tasks.
+COACH: That sounds like a great experience. Have you ever thought about writing an essay about it? 
+STUDENT: I hadn't really considered it, but it could be interesting.
+COACH: Absolutely! It could be a great way to show admissions officers your commitment to social justice and your passion for helping others. Is there anything else you'd like to write about?
+STUDENT: Well, I'm also interested in engineering and I'm applying to med school.
+COACH: That's great! You could write about how your volunteer experience has shaped your understanding of engineering and medicine, and how it has motivated you to pursue both. You could also discuss the challenges you faced while volunteering and how they have helped you develop as a person.

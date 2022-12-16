@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. The best way to pick a topic for your admissions essay is to think about your experiences and what makes you unique. Consider the prompt that you have been given and brainstorm ideas related to it. Once you have some ideas, narrow them down to one that stands out to you as something you can write about. 
+STUDENT: What should I consider when writing my admissions essay?
+COACH: When writing an admissions essay, you want to make sure that you are conveying your story in an interesting and engaging way. You should also focus on demonstrating why you are the perfect fit for the college or program you are applying to. Make sure that you include details about your experiences, achievements, and any other information that will help the admissions committee get to know you better. Finally, be sure to proofread and edit your essay to make sure that it is well-written and free of errors.

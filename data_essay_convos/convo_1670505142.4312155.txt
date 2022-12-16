@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: One way to make your essay shorter is to focus on one main point and then use examples to support that point. You can also cut out any unnecessary words or phrases that don’t add anything to the essay. Additionally, you can use shorter sentences and avoid long descriptions. 
+STUDENT: What should I include in my essay?
+COACH: A college admissions essay should include a brief introduction that introduces your topic and provides some background information. Then, you should include an argument or thesis statement that states your main point. After that, you should provide evidence or examples to back up your argument. Finally, you should include a conclusion that summarizes your main points and leaves the reader with a lasting impression.

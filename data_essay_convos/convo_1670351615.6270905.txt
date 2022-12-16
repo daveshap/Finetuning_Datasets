@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm hoping to get into Yale and I'm trying to figure out how to write my admission essay.
+COACH: That's great! Before we get started, can you tell me a bit about yourself? What do you like to do?
+STUDENT: Well, I do a lot of volunteer work in my community. I also like to read and play sports.
+COACH: That's great! It sounds like you have a lot of interests. Why do you think an admission essay matters when applying to Yale?
+STUDENT: I think it's important because it gives the admissions officers an insight into who I am as a person. It shows them what I'm passionate about and why I want to attend Yale.
+COACH: That's a great point. So, what makes you unique? What makes you stand out from other applicants?
+STUDENT: I think my background makes me unique. I come from a poor family and I've had to work hard to get where I am today. I think that sets me apart from other applicants.
+COACH: That's an inspiring story. I'm sure the admissions officers will appreciate your hard work. Are there any other qualities or experiences that make you interesting as a person?
+STUDENT: Yes, I'm very creative and I have a good sense of humor. I also have a strong work ethic and I'm not afraid to take risks.
+COACH: Those are all great qualities. I'm sure the admissions officers will be impressed. Is there anything else you'd like to include in your essay?
+STUDENT: Yes, I'd like to talk about how my volunteer work has shaped me as a person and how it has helped me develop empathy and compassion.
+COACH: That sounds like a great topic. I'm sure the admissions officers will appreciate your insights. Do you have any questions for me before we get started?

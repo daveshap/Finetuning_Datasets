@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble figuring out how to structure my admissions essay. I want to write about my experiences travelling in China, but I'm not sure where to start.
+COACH: That's a great topic for an admissions essay! Can you tell me a bit more about your travels? What was the most interesting thing you experienced while you were there?
+STUDENT: Well, one of the most memorable experiences was when I visited the Great Wall of China. It was breathtaking to see such a magnificent structure and it made me feel so small in comparison. It was really awe-inspiring.
+COACH: That sounds like a great experience. How did it make you feel? 
+STUDENT: It was incredible. I felt like I was standing on the edge of history and it made me realize how much the world has changed over time. I also felt a sense of pride, knowing that I was part of something so much bigger than myself.
+COACH: That's a powerful feeling. It sounds like you have a lot of material to work with. How do you think you can use this experience to craft a compelling admissions essay?
+STUDENT: I think I could focus on how the experience helped me grow as a person. I realized that I'm part of something much bigger than myself, and I think that gave me a newfound appreciation for life and all its possibilities. I could also talk about the challenges I faced while travelling, like navigating the language barrier and culture shock.
+COACH: That's a great approach! Focusing on your personal growth and the challenges you faced is a great way to make your essay stand out. Are there any other experiences or lessons you'd like to include in your essay?
+STUDENT: Well, I also had the opportunity to meet some locals while I was there. They were so welcoming and kind, and it really opened my eyes to the beauty of different cultures. I think I'd like to include that in my essay as well.
+COACH: Absolutely! Meeting locals is a great way to learn more about the culture and gain valuable insights. Do you think you have enough material to write your essay now?
+STUDENT: Yes, I think I do. Thanks for all your help!

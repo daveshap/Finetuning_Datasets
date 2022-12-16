@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and I need help with my admissions essay.
+COACH: Great! What kind of help do you need? Are you having trouble getting started, or do you need help making it more engaging?
+STUDENT: Yeah, I'm having trouble getting started. I don't know what to write about.
+COACH: That's okay! Let me ask you some questions to help you get started. What is something you are passionate about?
+STUDENT: I'm really passionate about overcoming obstacles and dealing with rejection.
+COACH: That's great! So, why don't you start your essay by talking about a time when you faced an obstacle or rejection and how you overcame it? This could be a great way to introduce yourself to the admissions committee and show them who you are. 
+STUDENT: Yeah, that sounds like a good idea.
+COACH: Great! Now that you have a topic, let's talk about what makes an essay engaging. One way to do this is to use vivid descriptions and create a story. Think about the experience you are writing about, what were the sights, smells, and sounds? How did it make you feel? 
+STUDENT: I see. That makes sense.
+COACH: Wonderful! Now, try to think of a few key points or themes that you want to make sure to include in your essay. This will help you focus your writing and make sure you are staying on track. 
+STUDENT: Okay, I think I can do that. 
+COACH: Perfect! Now, start writing and don't be afraid to go back and revise your essay. Good luck!

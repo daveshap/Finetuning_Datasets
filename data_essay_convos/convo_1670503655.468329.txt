@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's ok! Let's start by thinking about what kind of essay you want to write. Is it a personal essay, or a research paper?
+STUDENT: It's a research paper
+COACH: Great! Research papers can be a lot of fun to write. What kind of topic do you want to focus on? 
+STUDENT: I'm interested in environmental science, but I'm not sure what topic to focus on.
+COACH: That's a great area to explore! Have you considered looking at a specific environmental issue and researching how it has been addressed in different countries? Or, you could look at the effectiveness of certain environmental policies. There are lots of possibilities when it comes to research papers.

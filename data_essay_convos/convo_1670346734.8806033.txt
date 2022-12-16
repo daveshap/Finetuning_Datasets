@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student applying to UCLA for engineering and I need help with my essay.
+COACH: Great, let's get started. First, can you tell me a bit about yourself and the essay topic?
+STUDENT: Sure. Well, I'm from Vietnam and I'm applying to UCLA for engineering. The essay topic is about how my experience in Vietnam has shaped my outlook on life.
+COACH: That sounds like an interesting topic. Can you tell me a bit more about your experience in Vietnam and how it has impacted you?
+STUDENT: Sure. Growing up in Vietnam, I had to work hard and face many challenges. But it also taught me to never give up and to always keep striving for success. It made me realize that no matter what obstacles I face, I can always find a way to overcome them.
+COACH: That's a great attitude to have! Now, let's talk about the structure of your essay. Have you thought about how you want to approach it?
+STUDENT: I think I want to start with a hook to grab the reader's attention and then move into the main body of the essay.
+COACH: That sounds like a good plan. What kind of hook do you think would work best?
+STUDENT: I was thinking of something along the lines of how my experience in Vietnam has shaped my outlook on life and how it has helped me to become the person I am today.
+COACH: That's a great hook! Now, what kind of content do you think should go into the main body of the essay?
+STUDENT: I think I should talk about the challenges I faced growing up in Vietnam and how I overcame them. Then I want to discuss how this experience has shaped my ambition and my determination to succeed. Finally, I'll talk about how this has prepared me for college and a career in engineering.

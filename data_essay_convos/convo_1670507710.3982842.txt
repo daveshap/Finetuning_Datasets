@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question. Before we can answer that, I need to get a better understanding of what kind of essay you're writing. Can you tell me more about it? What's the topic, and what type of essay is it?
+STUDENT: It's a term paper on the history of the civil rights movement.
+COACH: Okay, great. So you're writing a term paper on the civil rights movement. That sounds like a really interesting topic. Now, let's talk about how to make sure your essay is good. The first thing you should do is make sure you have a clear thesis statement. This is the main point you want to make in your essay. Once you have a strong thesis, you can start outlining your essay. Make sure you organize your ideas in a logical way, and don't forget to include evidence to back up your points. Finally, make sure you proofread your essay carefully and check for errors.

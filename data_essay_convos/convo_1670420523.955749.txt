@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and I'm having trouble writing my essay.
+COACH: What kind of essay are you writing?
+STUDENT: It's a personal statement about overcoming obstacles.
+COACH: Interesting. Can you tell me more about the obstacles you faced?
+STUDENT: Sure, I come from a single parent home and had to work hard to make ends meet. My mom was always busy with work and it was up to me to take care of myself and my siblings.
+COACH: That sounds like a difficult situation. How did you manage to overcome these obstacles?
+STUDENT: I worked hard in school and applied for scholarships. I also took extra classes to get ahead and did some online courses. I also got involved in a few extracurricular activities to help build my resume.
+COACH: That sounds like a lot of hard work. How did those experiences shape your goals?
+STUDENT: They made me realize that I could achieve anything if I put in the effort. I've always had a dream of going to MIT or studying abroad in Europe, and I'm determined to make those dreams a reality.

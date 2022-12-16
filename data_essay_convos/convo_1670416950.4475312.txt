@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to write an essay about why college matters, but I'm having trouble getting started.
+COACH: That's a great topic! What about college matters to you?
+STUDENT: Well, I want to talk about how college can help people learn about sexism and other social issues.
+COACH: Interesting. What kind of examples do you have in mind?
+STUDENT: I was thinking of talking about my experience in Thailand, where I saw firsthand how gender roles are enforced in different ways than in the U.S.
+COACH: That's a great example! Can you tell me more about it?
+STUDENT: Sure. I was visiting with some friends and we noticed that women were expected to take on certain roles in society that were quite different from what we were used to in the U.S. It made me think about how sexism is still prevalent in our culture and how college can help us learn more about it.
+COACH: That's really insightful. Have you thought about how you'd like to structure your essay? 
+STUDENT: Not really. I know I need to have an introduction, body, and conclusion, but I'm not sure what to include in each part.
+COACH: Sure! A great way to start your essay is with a hook. This can be a quote, an anecdote, or a statistic that will grab the reader's attention. Then you can introduce your main point in the introduction, which is why college matters. In the body of your essay, you can discuss your example from Thailand and explain how it relates to the larger issue of sexism. Finally, you can conclude by summarizing your main points and discussing why college is important for learning about social issues.

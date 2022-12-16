@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, what is the prompt for your essay?
+STUDENT: The prompt is about how I have overcome a challenge in my life and how it has shaped me.
+COACH: Alright, that's a great topic. Let's start with brainstorming some ideas of challenges you've faced. What comes to mind?
+STUDENT: Well, one of the biggest challenges I have faced is dealing with my parents' divorce.
+COACH: That's a great starting point. How did you deal with your parents' divorce?
+STUDENT: I think the biggest thing was learning to be independent and take care of myself. I had to learn to make decisions on my own, figure out how to manage my time, and handle my own finances.
+COACH: That's great, so now we know the challenge you faced and how you dealt with it. Now let's think about how this experience has shaped you. What have you learned from it?
+STUDENT: I've definitely become more independent and resilient. I'm better able to handle difficult situations and I've developed a stronger sense of self-confidence. I've also learned to value relationships more and appreciate the importance of communication.
+COACH: That's great, so now we have a clear understanding of the challenge you faced, how you dealt with it, and how it has shaped you. Now let's focus on turning these ideas into an essay. What do you think should be the main focus of your essay?
+STUDENT: I think the main focus should be on how I've grown from the experience and how it has made me a better person.
+COACH: Perfect! Now let's think about how to structure your essay. What do you think would be the best way to organize your thoughts?
+STUDENT: I think I should start by describing the challenge I faced and then move on to how I responded to it. After that, I can talk about how it has shaped me and the lessons I've learned from it.
+COACH: That sounds like a great plan. Let's start writing!

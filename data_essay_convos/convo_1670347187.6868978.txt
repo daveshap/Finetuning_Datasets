@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my law school admission essay. I'm applying to MIT and I'm trying to figure out how to get started.
+COACH: That's great! What do you want to focus on in your essay?
+STUDENT: Well, I want to talk about why I'm interested in studying law. Specifically, I want to explain why I want to pursue a legal education in France. 
+COACH: Interesting! Why France?
+STUDENT: Well, I've always been fascinated by the French legal system. I'm particularly interested in the way it combines civil and common law. Plus, I think the cultural experience would be invaluable.
+COACH: That makes sense. So, why does an admission essay matter?
+STUDENT: It's important because it gives the admissions committee a chance to get to know me beyond my grades and test scores. It lets them see my personality and my values, which is essential for any successful law student. Plus, it can help me stand out from other applicants.

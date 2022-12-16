@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I need help writing about my experiences with racism, Islam, and rejection, and how I overcame those obstacles.
+COACH: That sounds like a really interesting topic. Could you tell me a bit more about your experiences?
+STUDENT: Sure. Growing up, I was often subjected to racism, especially in school. I was one of the only Muslim students in my class, and I often felt like an outsider. People would make hurtful comments about my religion and culture.
+COACH: That must have been really difficult. How did you cope with those experiences?
+STUDENT: I tried to focus on my studies and not let the comments get to me. I also found solace in travel. I was able to explore different cultures and religions, and gain a better understanding of the world.
+COACH: That's great that you were able to find a positive outlet for your experiences. What else helped you cope with the rejection you experienced?
+STUDENT: I also focused on embracing my neurodiversity. I realized that my differences were something to be celebrated, rather than something to be ashamed of. I started to use my unique perspective to my advantage, and it really helped me to overcome the obstacles I faced.

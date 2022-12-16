@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: The structure of your essay should be tailored to the prompt. Generally, you should start with an introduction that captures the reader’s attention. Follow it up with a few paragraphs that explain your background and experiences that make you a good fit for medical school. Finally, end with a conclusion that ties everything together neatly.
+STUDENT: What topics should I write about in my essay?
+COACH: You should focus on topics that demonstrate your commitment to medicine, such as volunteer work, shadowing doctors, or any other experiences that have helped shape your interest in the field. Additionally, you can discuss how you plan to use your medical degree in the future and how it will benefit others. 
+STUDENT: What should my tone be like?
+COACH: Your tone should be confident but not arrogant. You want to demonstrate your qualifications without coming across as boastful. Be sure to focus on your accomplishments, but also emphasize the lessons you’ve learned along the way. 
+STUDENT: How long should my essay be?
+COACH: Generally, the length of your essay should be between 500-750 words. This allows you to provide enough detail without going into too much depth. 
+STUDENT: Are there any tips you can give me to make my essay stand out?
+COACH: Yes, there are a few things you can do to make your essay stand out. First, make sure to proofread your essay and eliminate any typos or grammatical errors. Additionally, make sure to use vivid language and strong verbs to illustrate your points. Finally, try to incorporate a unique story or experience that will make your essay memorable.

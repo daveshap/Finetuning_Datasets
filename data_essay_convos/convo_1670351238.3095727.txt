@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student looking for help with my admissions essay for law school.
+COACH: Great, let's start by discussing your skills and achievements. What do you think sets you apart from other applicants?
+STUDENT: I'm a strong writer and I'm passionate about Buddhism. I also have a lot of experience with financial aid and how college financing works.
+COACH: That's great! It sounds like you have a lot of unique experiences that could be highlighted in your essay. Could you tell me a bit more about your experience with financing college and how it has shaped your view of the world?
+STUDENT: Sure! I've been involved with financial aid since high school, so I'm very familiar with the process of applying for grants and scholarships. I've seen firsthand how difficult it can be for students to afford college without financial assistance. This has made me more aware of the importance of making higher education accessible to everyone.
+COACH: That's really insightful. How has your experience with Buddhism shaped your perspective and goals?
+STUDENT: Buddhism has taught me to be mindful of my decisions and to always strive for balance and harmony in my life. It's also helped me to be more compassionate towards others, which I believe is an important quality for any lawyer. I want to use my legal knowledge to help people in need and make a positive difference in the world.

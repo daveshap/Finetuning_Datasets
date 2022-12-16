@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. Can you tell me a bit more about what you're looking for? Do you have any particular skills or interests that you'd like to explore?
+STUDENT: Yes, I'm interested in research and data analysis.
+COACH: That's great! Research and data analysis are both highly sought after skills in the job market. To start your job search, it's important to create a resume that highlights your skills and experience. You should also research potential employers and industries that might be a good fit for you. Once you have a list of potential employers, you should reach out to them and inquire about job opportunities. Networking is also a great way to find job leads. You can reach out to people in your field or attend industry-related events to meet potential employers. Finally, make sure to stay up-to-date with job postings and apply to positions that interest you.

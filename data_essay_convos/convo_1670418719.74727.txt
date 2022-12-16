@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to Harvard and NCSU, and I'm having trouble coming up with an essay topic.
+COACH: That's understandable. Can you tell me a bit more about what you're looking for? What kind of essay do you want to write?
+STUDENT: Well, I want to write an essay about racism and how it has impacted my life.
+COACH: That's an interesting and important topic. Can you tell me more about why you are choosing to write about this and how it has impacted your life?
+STUDENT: Sure. Growing up, I encountered racism on a daily basis. I was constantly reminded that I was different and that I didn't belong. I felt like I had to work twice as hard to prove myself, and it made me feel like I wasn't interesting as a person.
+COACH: That sounds very difficult. It's admirable that you're writing about this topic. What else can you tell me about the essay structure?
+STUDENT: I'm not sure. I was thinking of starting off with a personal anecdote and then talking about the larger implications of racism in our society.
+COACH: That's a great idea. You could use your own story to illustrate the bigger picture, and then discuss how racism affects people on a personal level. That way, you can show the reader how racism has impacted your life and how it affects others as well.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started with my essay. I'm writing about how growing up in a poor family has shaped my perspective on life.
+COACH: That sounds like a great topic. Could you tell me a bit more about it? What specifically do you want to focus on?
+STUDENT: Well, I want to focus on how growing up in a poor family has impacted my view on success, education, and travel. I also want to talk about how I've been able to break the cycle of poverty and make a better future for myself.
+COACH: That's a really interesting topic. It sounds like you have a lot to say about it. Have you thought about how you want to structure your essay? For example, what do you think would make a good hook or introduction?
+STUDENT: I was thinking of starting with a story about when I was younger and how I used to dream of going to college and traveling the world. I think that would make a good hook.
+COACH: That sounds like a great hook. It will draw readers in and give them an idea of where you're coming from. What about the middle of your essay? What kind of details do you want to include there?
+STUDENT: I want to talk about how I worked hard to overcome the challenges of growing up in a poor family. I want to focus on how I was able to get into college, get a scholarship, and eventually get accepted to NCSU.
+COACH: That's a great idea. You can use those experiences to illustrate how you were able to break the cycle of poverty and create a better future for yourself. What about the conclusion? How do you want to wrap up your essay?
+STUDENT: I want to emphasize that even though I grew up in a poor family, I was able to achieve my dreams. I want to talk about how I plan to use my education and experiences to help others who are in similar situations.
+COACH: That's a great way to end your essay. It shows that you have a strong sense of purpose and that you plan to use your experiences to make a difference. Is there anything else I can help you with?

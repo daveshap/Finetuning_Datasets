@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my personal statement. I need to write about myself, but I'm not sure where to start.
+COACH: Okay, let's start by talking about what makes you unique. What do you consider to be your strengths and weaknesses?
+STUDENT: I guess my strengths would be my analytical skills and my ability to think critically. As for weaknesses, I'm not very creative and I'm not very interesting as a person.
+COACH: That's okay! Everyone has their own unique set of strengths and weaknesses. Let's focus on what makes you unique. What is something that you are passionate about or something that you have always wanted to do?
+STUDENT: Well, I'm really passionate about music. I've been playing the piano for years and I love it.
+COACH: That's great! Music can be a great way to express yourself and share your passions with the world. Maybe you could use that passion in your essay to make it more interesting?
+STUDENT: Yeah, I think that's a good idea. But I'm still not sure how to make my essay stand out. I'm afraid it will be too boring.
+COACH: Don't worry! You don't have to be an exciting person to write an interesting essay. Think about what experiences you have had that have shaped who you are. What have you learned from them? How have they made you into the person you are today?
+STUDENT: Hmm, that's a good question. I guess I've learned to be more patient and to never give up on something I believe in.
+COACH: Perfect! Those are great qualities to highlight in your essay. You can use these experiences to show the reader who you are and why you are passionate about what you want to achieve.

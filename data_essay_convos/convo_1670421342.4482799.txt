@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm interested in applying to MIT and I'm having trouble writing my essay.
+COACH: Okay, let's start with the basics. What is your essay about?
+STUDENT: It's about my experience living in Thailand and how it has shaped my views on racism.
+COACH: Interesting! Tell me more about your experience in Thailand.
+STUDENT: Well, I lived there for a few years and it was a really eye-opening experience. I saw firsthand how racism affects people in different ways and it made me think about how we can work towards a more equitable society.
+COACH: That sounds like a really meaningful experience. So, what kind of essay are you trying to write? Are you looking to explore the issue of racism in depth, or are you trying to tell your personal story?
+STUDENT: I'm trying to do both. I want to be able to explain how racism affects people in different ways, but also talk about my own experience and how it has shaped my views on racism.
+COACH: That sounds like an interesting and challenging essay. How can I help?
+STUDENT: Well, I'm also having trouble figuring out how to finance college. Do you have any advice on how I can get scholarships and grants?
+COACH: Absolutely! There are a lot of resources available to help students find scholarships and grants. You can start by researching scholarships and grants offered by the school you're applying to. There are also private organizations that offer scholarships and grants, so it's worth looking into those as well. Additionally, you should make sure to fill out the FAFSA form as soon as possible to maximize your chances of receiving financial aid.

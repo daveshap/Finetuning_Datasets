@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That’s a great question. First, let’s talk about the purpose of your essay. Are you writing a grant application?
+STUDENT: Yes.
+COACH: Okay, great. When it comes to grant applications, it’s important to pick a topic that’s relevant to the organization you’re applying to. Think about their mission and values, and how your essay can help them achieve their goals. Once you have an idea of what the organization is looking for, you can start brainstorming ideas for your essay.

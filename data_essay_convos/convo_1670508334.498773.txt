@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: That's a great question. Before we get into that, can you tell me a bit more about what kind of essay you are working on? What is the prompt and what kind of admissions essay are you writing?
+STUDENT: I'm writing an admissions essay for college. The prompt is "Describe a significant experience that has shaped your life and how it has impacted you."
+COACH: Great, thank you for giving me that information. Now, let's talk about how to tackle this essay. First of all, think about what experiences have had a major impact on your life. What events or people have made a difference in your life and how? 
+Once you have identified a few experiences, start to think about how each of them has shaped who you are today. What lessons have you learned from each experience? How have these lessons helped you grow as a person?
+Finally, think about how you can tie your experiences together in a cohesive narrative. What themes or values connect them? What does this say about you as a person?
+These are all important questions to consider as you craft your essay. I'm sure you'll be able to create a compelling essay that reflects who you are and how your experiences have shaped you.

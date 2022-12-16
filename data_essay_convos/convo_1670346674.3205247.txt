@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am applying to college and I need help writing my essay.
+COACH: Great! What kind of essay are you working on?
+STUDENT: I'm writing a personal statement about my experiences as a first-generation college student.
+COACH: Okay, can you tell me more about your experience with being a first generation college student?
+STUDENT: Well, I grew up in a low-income family, so I had to work hard to get where I am today. I also had to face a lot of sexism in my community, which made it even harder.
+COACH: That sounds very challenging. What kind of volunteer work have you done to support yourself and your family?
+STUDENT: I've done a lot of volunteer work in my community, mostly helping out at food banks and homeless shelters. I've also done some international volunteer work, mostly in Europe.
+COACH: That's great! What did you learn from those experiences?
+STUDENT: I learned a lot about different cultures and how to be more understanding of people from different backgrounds. I also learned how to be more resourceful and independent.
+COACH: Those are great skills to have. What do you think sets you apart from other applicants?
+STUDENT: I think my experience as a first-generation college student has given me a unique perspective on life. I'm also a very creative person, so I think that sets me apart too.

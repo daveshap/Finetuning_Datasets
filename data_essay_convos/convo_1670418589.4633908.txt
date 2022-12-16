@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to Duke University and I'm feeling a bit overwhelmed. I'm not sure what the admissions officers are looking for and I don't feel like I'm very interesting as a person.
+COACH: That's understandable! Admissions officers are looking for students who are passionate about their studies and have a unique perspective to bring to the school. It doesn't matter if you don't think you're that interesting - it's all about how you present yourself in your essay. So, what kind of passions do you have that you could talk about in your essay?
+STUDENT: Well, I'm really passionate about music. I've been playing the violin since I was five and I'm now part of a local orchestra.
+COACH: That's great! Music is a great topic for your essay. You can talk about how you got into music, what it means to you, and how it has shaped your life. What other passions do you have?
+STUDENT: I'm also really interested in science and technology. I'm currently taking a course in computer programming and I love learning about new technologies.
+COACH: That's awesome! You could talk about how you got interested in technology and why it's important to you. You could also talk about any projects you've worked on or any competitions you've taken part in. What other interests do you have?
+STUDENT: I'm also really interested in history and politics. I'm always reading up on current events and I'm a big fan of historical fiction books.
+COACH: That's great! You could talk about how your interest in history and politics has shaped your worldview and how it has influenced your decisions. You could also talk about any books or articles you've read that have changed your perspective. Now, let's talk about how to get started on your essay. Do you have any ideas for how you want to structure it?

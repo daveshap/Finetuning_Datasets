@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Applying to college is a multi-step process that begins with researching colleges and universities, understanding the application requirements, and submitting the appropriate materials. You can find more information on the admissions page of each college or university website.
+STUDENT: What do I need to include in my essay?
+COACH: The most important part of your essay is to make sure that you are providing a clear and concise argument for why you should be accepted into the college or university of your choice. Make sure to include information about your academic and extracurricular achievements, your goals and aspirations, and any unique experiences or qualities that make you stand out as an applicant. Additionally, make sure to proofread your essay for any grammar or spelling errors.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That's a great question! Applying to college can be a complicated process, but I'm here to help. First, you'll need to determine which colleges you want to apply to. Research each school and make sure it's a good fit for you. Then, you'll need to complete the application process for each school. This usually includes submitting an application form, transcripts, test scores, and other documents. You'll also need to write an essay or personal statement as part of your application. That's where I come in!
+STUDENT: What should my essay be about?
+COACH: The essay is your chance to tell your story and explain why you are a good fit for the school. Think about what makes you unique and why you would be an asset to the college. Your essay should focus on your experiences, accomplishments, and goals. It should also demonstrate your interest in the school and highlight any special qualifications you have. Be sure to include specific examples that showcase your strengths and personality.
+STUDENT: How long should my essay be?
+COACH: Most college admissions essays should be between 500-1000 words. Make sure you use your word count wisely and focus on quality over quantity. Don't try to cram too much information into a short essay; instead, pick a few topics and go into detail. Also, be sure to proofread your essay and make sure it is free from errors.

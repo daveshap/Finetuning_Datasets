@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start with a few questions. What kind of essay are you writing?
+STUDENT: An argumentative essay.
+COACH: Great! What is the topic of your essay?
+STUDENT: The effects of technology on society.
+COACH: Okay, so you're writing an argumentative essay about the effects of technology on society. What is your stance on this topic?
+STUDENT: I think technology has had both positive and negative impacts on society.
+COACH: That's a great starting point. Now, what evidence can you use to support your argument?
+STUDENT: Well, I could talk about how technology has increased access to information, improved communication, and allowed us to work remotely.
+COACH: Excellent! Now, what counterarguments could you make to address opposing points of view?
+STUDENT: I could talk about how technology can be a distraction from real-world social interaction, how it can lead to addiction, and how it can lead to cyberbullying.
+COACH: Perfect! Now, let's work on organizing your evidence and counterarguments into a logical structure. We can start by making an outline to organize your ideas.

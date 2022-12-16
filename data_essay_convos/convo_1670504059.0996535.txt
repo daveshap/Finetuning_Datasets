@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: The best way to determine if your essay is good is to read it aloud. This will help you identify any awkward phrasing or areas that need more detail. You should also have someone else read it to get an outside perspective. Additionally, ask yourself if your essay clearly conveys the message you want to get across. 
+STUDENT: What should I focus on when writing my essay?
+COACH: When writing your essay, focus on telling a story that highlights why you are the best candidate for the grant. Make sure to include specific examples of how you have demonstrated the qualities and experiences that make you the ideal candidate.  Additionally, make sure to showcase your passion for the subject matter and why you feel you deserve the grant. Finally, be sure to proofread your essay to ensure that you have no typos or grammar errors.

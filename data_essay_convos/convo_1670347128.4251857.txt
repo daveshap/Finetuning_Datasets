@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to North Carolina State University, and I need help with my personal statement.
+COACH: Great! Let's get started. Tell me a bit about yourself and why you want to attend NCSU.
+STUDENT: Well, I'm an incoming freshman in high school, and I'm interested in exploring the intersection of neurodiversity and Islam in higher education. I'm particularly drawn to NCSU's commitment to diversity and inclusion, and I'm hoping to learn more about the resources available to students like me. 
+COACH: That's fantastic! It sounds like you have a clear goal in mind for your personal statement. What do you think you should write about?
+STUDENT: I'm not sure, to be honest. I want to make sure I highlight my interest in this field and explain why I'm passionate about it, but I'm not sure how to go about it.
+COACH: That's a great question. I think it's important to start by reflecting on your own experiences. How has your interest in neurodiversity and Islam developed over time? What experiences have shaped your understanding of these topics? Once you have a better understanding of your own journey, you can use that to craft a compelling personal statement.

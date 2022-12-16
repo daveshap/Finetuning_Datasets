@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a college admission essay and I'm feeling a bit stuck. I'm not sure what to write about.
+COACH: That's understandable. Can you tell me a bit more about yourself? Are there any topics or interests that you are particularly passionate about?
+STUDENT: Well, I'm interested in Christianity and politics, particularly in Europe. I also have some knowledge about Judaism.
+COACH: Interesting! How have those topics impacted your life? Is there anything unique about your experience with those topics that you could write about in your essay?
+STUDENT: Well, I've always been fascinated by the history of Christianity and its impact on European politics. I've read a lot about it and I think it's really interesting.
+COACH: That sounds like a great topic for your essay. What specifically about the history of Christianity and its impact on European politics do you find interesting?
+STUDENT: I think it's fascinating how Christianity has shaped the political landscape of Europe, both historically and in modern times. I'm also intrigued by how different branches of Christianity have different views on politics and how they interact with one another.
+COACH: That's certainly an interesting and complex topic. How could you go about exploring this in your essay?
+STUDENT: I think I could start by researching the history of Christianity in Europe and its impact on politics over the centuries. Then, I could look at how different branches of Christianity view politics and how they interact with one another today. Finally, I could explore how these views might shape the future of European politics.

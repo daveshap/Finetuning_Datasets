@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Absolutely! What kind of essay are you writing?
+STUDENT: It’s a scholarship application essay.
+COACH: Great! What do you want to focus on in the essay?
+STUDENT: I want to talk about how my personal experiences have shaped who I am today and why I am an ideal candidate for the scholarship.
+COACH: That sounds like a great topic! First, let's start with brainstorming ideas. What are some of the experiences that have impacted you the most?
+STUDENT: Well, I think my biggest influence was my family. My parents always pushed me to be the best version of myself, and I'm grateful for that.
+COACH: That's a great point to start with. What specific values did your parents instill in you that you've carried with you?
+STUDENT: They taught me the importance of hard work, dedication, and perseverance. They also taught me the value of education and how it can open up so many opportunities.
+COACH: Wonderful! Those are all great qualities to include in your essay. Now, let's think about how you can structure your essay. What would be the most effective way to present your story?
+STUDENT: I think I could start off by introducing my background and how my family has shaped my life, then discuss how those values have led me to pursue my goals, and finally explain why I am an ideal candidate for the scholarship.
+COACH: That sounds like a great structure! Now, let's talk about the content. What specific examples can you give to support your points?
+STUDENT: I can talk about how I took the initiative to volunteer at a local charity to help the community, how I worked hard to maintain good grades in school, and how I strived to develop my leadership skills in extracurricular activities.
+COACH: Perfect! Those are all excellent examples to include in your essay. Now, let's talk about the conclusion. What message do you want to leave the reader with?
+STUDENT: I want to emphasize that I am passionate about achieving my goals and that I am determined to use my education to make a positive impact in the world.
+COACH: That's a great message to end on! You have all the pieces now, so all you have to do is put them together into a cohesive essay. Good luck!

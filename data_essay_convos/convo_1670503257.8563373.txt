@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be done in a few different ways. You can apply for scholarships, grants, and loans. Scholarships are awarded based on academic or other criteria, grants are typically need-based, and loans are borrowed money that must be paid back with interest. It's important to research each option thoroughly and understand the terms and conditions associated with them.

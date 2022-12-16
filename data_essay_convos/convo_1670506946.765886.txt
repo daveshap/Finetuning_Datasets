@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question, but it's not really related to the essay you're writing. What kind of essay are you working on?
+STUDENT: It's an admissions essay. The prompt is "Describe a time when you faced a challenge and overcame it."
+COACH: Okay, so tell me about this challenge you faced.
+STUDENT: Well, I was applying to college and I had to take a standardized test. I had always struggled with tests and I was really worried that I wouldn't do well.
+COACH: That can be a really intimidating experience! How did you overcome this challenge?
+STUDENT: I found a tutor who specialized in helping students with standardized tests and worked with them for several weeks. I also studied a lot on my own and practiced with practice tests. In the end, I was able to get a good score on the test.
+COACH: That's great! So how did this experience help you with your college application?
+STUDENT: It gave me the confidence to apply to more competitive schools and to believe in myself. It also showed admissions officers that I was willing to work hard and put in the effort to reach my goals.

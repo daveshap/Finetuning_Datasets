@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That’s a great question. Before we dive into that, can you tell me a bit more about your essay? What’s the topic and what’s the main point you’re trying to make?
+STUDENT: The essay is about the importance of education and how it can lead to greater opportunities in life. My main point is that education is essential for success.
+COACH: That’s a great topic and a great point. Now, let’s talk about structure. A good essay should have an introduction, body paragraphs, and a conclusion. The introduction should introduce the topic and state your thesis. The body paragraphs should provide evidence to support your thesis. Finally, the conclusion should summarize your main points and restate your thesis. Does that make sense?
+STUDENT: Yes, that makes sense. So, my thesis statement should be something like “education is essential for success”?
+COACH: Exactly! You can use that as your thesis statement. Remember, your thesis statement should be specific and focused. It should clearly state the point you’re trying to make.

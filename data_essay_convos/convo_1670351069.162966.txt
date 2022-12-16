@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT and I'm having trouble writing my essay.
+COACH: Okay, what kind of help do you need?
+STUDENT: Well, I want to talk about how I've overcome obstacles and rejection in my life.
+COACH: That sounds like an interesting topic. Could you tell me more about which obstacles and rejections you'd like to discuss?
+STUDENT: Sure. I want to talk about how I was rejected from a prestigious travel program that I applied for, but then I ended up going to Vietnam with a charity organization instead.
+COACH: That's a great story. What made you decide to go to Vietnam with the charity organization instead?
+STUDENT: Well, I was really passionate about helping others and I thought this was a great opportunity to do something meaningful. Plus, I was interested in learning more about the culture and the people there.
+COACH: That's admirable. How did the experience in Vietnam shape your outlook on life?
+STUDENT: It was a really eye-opening experience. I met so many amazing people who were facing huge challenges, but still managed to find joy in their lives. It made me realize that no matter what obstacles or rejections I face, I can always find a way to make a positive impact.

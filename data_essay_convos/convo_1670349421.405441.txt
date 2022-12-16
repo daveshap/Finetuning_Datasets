@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am applying to MIT and I'm having trouble writing my essay.
+COACH: Alright, could you tell me a bit more about what you're trying to say in your essay?
+STUDENT: Well, I want to talk about my goals and personal objectives. I want to explain why I have chosen to pursue a college education and how I plan to use it to make an impact in the world. 
+COACH: That's great! Could you elaborate on what kind of impact you would like to make?
+STUDENT: Sure. I want to use my education to help others. I want to volunteer my time and resources to charity work in Europe, particularly in areas of poverty and need.
+COACH: That's wonderful! What do you think makes you qualified to do this kind of work?
+STUDENT: I believe that my experience in working with different communities has given me the skills and knowledge to be successful. I have volunteered in my local community for years, and I have a strong understanding of the issues that people are facing. I also have a strong passion for helping others and making a difference in the world.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening should grab the reader’s attention and make them want to read more. You can do this by starting with a question, an anecdote, or a quote. Make sure it’s relevant to your topic and that it ties into the rest of your essay.
+STUDENT: What should I include in the body of my essay?
+COACH: The body of your essay should provide evidence to support your main argument. This could include facts, statistics, quotes, examples, and personal experiences. Make sure each point you make is closely related to your topic and that you explain it clearly.

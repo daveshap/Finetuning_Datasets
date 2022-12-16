@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for Duke University and I'm feeling a bit overwhelmed. I'm not sure where to start.
+COACH: That's understandable. It's a big undertaking. Let's start by talking about why college matters to you. What are your goals for applying to Duke?
+STUDENT: Well, I want to go to Duke because I think it will open up a lot of opportunities for me. I want to pursue a degree in business and I think Duke is the perfect place for me to do that.
+COACH: That's great! It sounds like you have a clear goal in mind. Now let's talk about how to make that goal a reality. How do you plan to finance your college education?
+STUDENT: I'm planning to apply for scholarships and grants, but I'm also looking into student loans.
+COACH: Good idea. There are a lot of options available to help you finance your college education. You should look into filing the FAFSA, which is the Free Application for Federal Student Aid. You can also look into private student loans, or even crowdfunding. Have you done any research on these options yet?
+STUDENT: No, not yet. I'm not sure where to start.
+COACH: That's okay. We can start by looking at the FAFSA. It's a form you fill out to determine your eligibility for federal aid. You'll need to provide information about your family's income and assets to qualify. Once you've filled out the form, you'll receive an Expected Family Contribution (EFC) number which you can use to compare different financial aid packages. Does that sound like something you'd be interested in?
+STUDENT: Yes, that sounds helpful.
+COACH: Great! Now, let's move onto the essay. What kind of topics are you considering for your essay?
+STUDENT: I was thinking about writing about overcoming obstacles and rejection.
+COACH: That's a great topic! You can use your own experiences to illustrate how you've faced and overcome adversity. It's important to focus on how you've grown as a person, and how you've used those experiences to become stronger. You can also use this essay to show how you've handled rejection and how you've used it to motivate yourself to keep going. Does that sound like something you'd be comfortable writing about?
+STUDENT: Yes, I think so.
+COACH: Wonderful! Now, let's talk about the structure of your essay. You'll want to make sure you have a strong introduction, a few body paragraphs that discuss your personal experiences, and a conclusion that ties it all together. Do you have any questions about how to structure your essay?

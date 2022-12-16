@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question. Before we dive into the writing process, let me ask you some questions so I can get a better understanding of your essay. What is the purpose of this essay?
+STUDENT: The purpose of the essay is to help me stand out from other applicants and tell my story in a compelling way.
+COACH: That's great! Now, what do you want to focus on in your essay? What experiences or qualities do you want to highlight?
+STUDENT: I want to focus on my experience volunteering at a local hospital, my dedication to helping others, and my passion for medicine.
+COACH: Perfect. Now that I know what you want to focus on, let's talk about the structure of your essay. What type of essay are you writing?
+STUDENT: I'm writing a personal statement for medical school.
+COACH: Great. Personal statements for medical school typically include an introduction, body paragraphs that focus on different aspects of your experience and qualifications, and a conclusion. Let's start with the introduction. What kind of introduction can you write that will capture the reader's attention and make them want to read more?

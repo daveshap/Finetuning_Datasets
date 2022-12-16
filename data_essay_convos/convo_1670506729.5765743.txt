@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That's a great question. Financing college can take many forms, such as scholarships, grants, student loans, and work-study programs. What type of financing are you interested in learning more about? 
+STUDENT: I'm mostly interested in student loans and grants.
+COACH: Okay, great. Student loans are a popular way to finance college. They are borrowed money that must be repaid with interest. Grants, on the other hand, are free money that does not need to be repaid. Are there any specific questions you have about either of these? 
+STUDENT: Yeah, what are the differences between federal and private student loans?
+COACH: Federal student loans are provided by the government and have fixed interest rates. Private student loans, on the other hand, are offered by private lenders and typically have variable interest rates. It's important to research both types of loans carefully before making a decision. Are there any other questions you have?

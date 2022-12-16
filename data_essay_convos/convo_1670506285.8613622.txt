@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question and it's important to choose a topic that is meaningful to you. Can you tell me a bit more about what you're passionate about and why?
+STUDENT: I'm really passionate about environmental issues, like global warming and the need for renewable energy sources. I want to make a difference in the world.
+COACH: That's great! A persuasive essay on environmental issues would be a great way to showcase your passion and commitment to making a difference. Now, let's talk about structure. What do you think would be the best way to organize your essay?
+STUDENT: I'm not sure.
+COACH: That's okay. Let's start with an introduction that introduces the topic and your position. Then, you'll want to include several body paragraphs that support your argument with evidence. Finally, you'll want to wrap up with a conclusion that ties everything together. Does that sound like something you can work with?

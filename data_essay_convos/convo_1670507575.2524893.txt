@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That depends on what type of essay you're writing. What kind of essay are you writing?
+STUDENT: I'm writing a thesis essay.
+COACH: Alright, great! A thesis essay requires you to make an argument or take a stance on a particular topic. What is the topic of your essay?
+STUDENT: My essay is about the benefits of renewable energy sources.
+COACH: Okay, so for this essay, you'll need to make an argument about why renewable energy sources are beneficial. To do this, you'll need to provide evidence to back up your argument. What kind of evidence can you use to support your argument?
+STUDENT: I can use facts and figures from research studies, as well as examples from current events.
+COACH: That's great! Make sure you cite any sources you use in your essay. Once you have your evidence, you'll need to structure your essay. Start by introducing your topic and the argument you will make. Then, provide your evidence and explain how it supports your argument. Finally, draw your conclusion and reiterate your main points. Does that make sense? 
+STUDENT: Yes, that makes sense. Thank you!

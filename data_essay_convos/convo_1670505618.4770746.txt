@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Alright, let's start by talking about your goals. What do you want to achieve with this essay?
+STUDENT: I want to get into college and make a good impression on the admissions committee.
+COACH: That's a great goal. Now, why do you think you're a good fit for the college you're applying to?
+STUDENT: I believe I'm a great fit because I have a lot of experience and knowledge in the field I'm applying to. I also have strong leadership skills and a passion for learning.
+COACH: Those are all great qualities. So, what kind of topics should you focus on in your essay?
+STUDENT: I think I should focus on my academic achievements, my extracurricular activities, and any unique experiences or perspectives I have.
+COACH: That sounds like a great plan. Now, what kind of structure should you use for your essay?
+STUDENT: I think I should use a traditional five-paragraph structure with an introduction, three body paragraphs, and a conclusion.
+COACH: That's a good idea. Now, what kind of evidence should you use to support your points?
+STUDENT: I should use facts, figures, and examples from my own life and experiences to back up my points.

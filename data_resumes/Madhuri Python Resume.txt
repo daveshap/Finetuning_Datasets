@@ -1,0 +1,197 @@
++-------------------------------------+--------------------------------+
+| Madhuri                             |                                |
+|                                     | --------------------------- -- |
+|                                     |   325-7890-106                 |
+|                                     |                                |
+|                                     |   madhuridubey470@gmail.com    |
+|                                     |                                |
+|                                     |                                |
+|                                     |                                |
+|                                     | --------------------------- -- |
+|                                     |                                |
+|                                     |   : Contact information table  |
++=====================================+================================+
++-------------------------------------+--------------------------------+
+
+: Header layout table
+
+Summary
+
+-   Having 5+ Years of experience as a Python Developer with Analysis,
+    Design, Development, Testing, Customization, Bug fixes, Enhancement,
+    Support, and Implementation of various web, stand-alone, and
+    client-server enterprise applications using Python, and Django.
+
+-   Well-versed in the design and development of presentation layers for
+    web applications using technologies like HTML, CSS, JavaScript,
+    JQuery, JSON, and XML.
+
+-   Proficient with Django, and Flask in Python Web framework.
+
+-   Strong knowledge in developing web services (SOAP, and REST) and
+    consuming web services with python programming language.
+
+-   Hands-on experience with installation and configuration of Apache
+    Tomcat server.
+
+-   Expertise in Database modeling with SQL, PostgreSQL, and MySQL.
+
+-   Excellent Experience with various Python-integrated IDEs such as
+    PyCharm, and Eclipse.
+
+-   Exposure to engineering development tools like JIRA, GIT, and
+    Jenkins.
+
+-   A highly motivated, result-oriented professional with a short
+    learning curve and strong communication skills.
+
+Technical Skills
+
+  ---------------------------- ------------------------------------------
+  Languages                    Python
+
+  Frameworks                   Django, Flask 
+
+  Web Technologies             HTML, CSS, JavaScript, JQuery
+
+  Application Servers          Apache2, JBoss
+
+  Database                     MYSQL
+
+  IDE's                        Python IDLE, PyCharm, Eclipse
+
+  Operating Systems            Windows, Linux
+
+  Version Control              SVN, GIT
+
+                               
+  ---------------------------- ------------------------------------------
+
+Experience
+
+ Aug 2021 - Present
+
+Python Developer | Catalyst Health Group, Plano, TX
+
+Responsibilities:
+
+-   Involved in analysis, specification, design, and implementation,
+    testing phases of the Software Development Life Cycle (SDLC), and
+    used agile methodology for developing applications.
+
+-   Created new features and updated old components for Python web
+    applications based on Flask.
+
+-   Designed and Developed User Interfaces using front-end technologies
+    like HTML, CSS, JavaScript, JQuery, and JSON.
+
+-   Handled all the client-side validation using JavaScript.’
+
+-   Developed Views and Templates with Python and using Django's view
+    controller and template language, the Website interface is created.
+
+-   Used a LAMP (Linux, Apache, MySQL, Python) environment to develop
+    the web application.
+
+-   Created and updated complex views and stored procedures in
+    PostgreSQL.
+
+-   Developed Rest APIs with Python with Django framework for the
+    front-end team.
+
+-   Working with version control systems such as GIT for maintaining a
+    consistent state throughout the application development process.
+
+-   Worked on various integrated IDEs such as PyCharm and Eclipse.
+
+-   Performance and consistency are the main factors of consideration
+    the code is tuned.
+
+-   Actively worked as a part of a team with managers and other staff to
+    meet the goals of the project in the stipulated time.
+
+Environment: Python, Django, Flask, HTML, CSS, MVC, My SQL, PostgreSQL,
+REST API, JavaScript, JQuery, GIT, Apache, Linux, PyCharm, Eclipse.
+
+march 2019 – July 2021
+
+Python Developer | Ocean Network Express North America, Richmond, VA
+
+Responsibilities:
+
+-   Participate in the requirement gathering and analysis phase of the
+    project in documenting the business requirements by conducting
+    workshops/meetings with various business users.
+
+-   Extensively used Python/Django Framework for developing backend
+    applications.
+
+-   Designed and developed the UI of the website using HTML, CSS,
+    JQuery, JSON, and JavaScript.
+
+-   Used Python scripts to update content in the database and manipulate
+    files.
+
+-   Worked with server-side technologies including databases, Restful
+    API, and MVC design patterns.
+
+-   Used Django configuration to manage URLs and application parameters.
+
+-   Wrote and executed various MySQL database queries from Python using
+    the Python-MySQL connector and MySQL DB package.
+
+-   Involved in the development of Web Services using SOAP for sending
+    and getting data from the external interface in the XML format.
+
+-   Worked on the development of SQL and stored procedures on MYSQL.
+
+-   Responsible for debugging the project monitored on JIRA (Agile).
+
+-   Developed object-oriented programming to enhance company product
+    management.
+
+-   Performed troubleshooting, fixed, and deployed many Python bug
+    fixes.
+
+Environment: Python, Django, JavaScript, HTML, CSS, JSON, JQuery, XML,
+MYSQL, GitHub, SQL, and Windows.
+
+ Sept 2017 – Feb 2019
+
+Software Developer | Iflexion, Denver, CO
+
+Responsibilities:
+
+-   Involved in various phases of the Software Development Life Cycle
+    (SDLC) such as requirements gathering, modeling, analysis, design,
+    and development.
+
+-   Developed entire frontend and backend modules using Python on Django
+    Web Framework.
+
+-   Designed and developed the UI of the website using HTML, CSS, and
+    JavaScript
+
+-   Designed and developed a data management system using MySQL.
+
+-   Rewrite existing python/Django modules to deliver a certain format
+    of data.
+
+-   Used Django Database API’s to access database objects.
+
+-   Design, develop, test, deploy and maintain the website.
+
+-   Developed and designed a Restful API for the company’s website.
+
+-   Wrote python scripts to parse XML documents and load the data in the
+    database.
+
+-   Using the Subversion version control tool to coordinate team
+    development.
+
+-   Responsible for debugging and troubleshooting the web application.
+
+-   Generated Use case diagrams, Activity flow diagrams, Class diagrams,
+    and Object diagrams in the design phase.
+
+Environment: Python, Django, REST API, JSON, JQuery, MySQL, JDBC, XML.

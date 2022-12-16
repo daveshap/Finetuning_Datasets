@@ -1,0 +1,20 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to UCLA and I'm having trouble with my admissions essay.
+COACH: Alright, that's a great school. What kind of essay are you writing?
+STUDENT: It's a personal essay about my experience traveling in Europe.
+COACH: That sounds like a great topic! Can you tell me more about the essay?
+STUDENT: Sure. I'm trying to write about how my travels have shaped my outlook on life.
+COACH: Okay, that's an interesting concept. What parts of the essay are you having trouble with?
+STUDENT: Well, I'm having trouble coming up with a good hook, and I'm not sure how to structure the middle and conclusion.
+COACH: That's understandable. Let's start with the hook. What do you think would make a good opening for your essay?
+STUDENT: Hmm, I'm not sure. Maybe something about the feeling of standing on a mountain top in Europe and looking out over the landscape?
+COACH: That could be a great opening! What other elements could you include in the hook to draw the reader in?
+STUDENT: Well, I could talk about how the feeling of being so far away from home made me realize how small I am in comparison to the world.
+COACH: That's a great idea. Now, let's focus on the middle of your essay. How can you use your experiences in Europe to illustrate the theme of your essay?
+STUDENT: I could talk about how I learned to appreciate different cultures and how those experiences opened my eyes to different perspectives.
+COACH: That's a great idea. What other experiences could you include in the middle of your essay?
+STUDENT: I could talk about how I met people from all over the world and how those conversations changed my views on certain topics.
+COACH: That's a great idea. Now, let's focus on the conclusion. How can you tie all of your experiences together in the conclusion?
+STUDENT: I could talk about how my travels have made me a more open-minded and understanding person and how I'm excited to bring those qualities to the UCLA community.
+COACH: Perfect! That's a great way to wrap up your essay. Is there anything else I can help you with?
+STUDENT: No, I think I'm all set. Thank you so much for your help!

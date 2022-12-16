@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admission essay for a university, but I'm really struggling to come up with ideas.
+RACISM: That's a tough one. What topics are you interested in?
+STUDENT: Well, I'm really interested in the topic of racism and how it affects people around the world.
+COACH: That's a great topic! Can you tell me more about why you find it interesting?
+STUDENT: Yeah, I think it's important to understand how racism has been embedded in societies for centuries and how it continues to affect people today. I think it's important to talk about it so we can start to make changes.
+COACH: Absolutely. Why do you think an admission essay is the right place to talk about this topic?
+STUDENT: Well, I think it's important to demonstrate to universities that I'm passionate about social justice and that I'm willing to use my voice to talk about these issues. Plus, I think it would give admissions officers a better idea of who I am as a person.
+COACH: That's a great perspective. So, what kind of research have you done on the topic? Have you looked into how racism manifests in different countries, like Thailand or China?
+STUDENT: Yes, I've done a lot of research on the topic. I've looked at how racism has been institutionalized in both Thailand and China, and how it has affected their respective populations. I've also looked into how racism manifests itself in other countries, such as the US and the UK.

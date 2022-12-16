@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question. The structure of a persuasive essay is very important. It should have an introduction, body paragraphs, and a conclusion. The introduction should state your position on the topic and provide a brief overview of the points you will be making. The body paragraphs should each make one point that supports your argument and explain it in detail. The conclusion should summarize your main points and restate your position.
+STUDENT: How do I make my argument more convincing?
+COACH: A strong persuasive essay should be well researched and supported with facts and evidence. When making an argument, you should provide evidence to back up your claims. This could include statistics, quotes from experts, or examples from real life. You should also use logical reasoning to support your argument and make sure to address any opposing views. Finally, make sure to use strong language to make your point clear and compelling.

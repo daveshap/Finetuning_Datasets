@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my application to UNC and I'm having trouble figuring out what to write about.
+COACH: Alright, so you're applying to UNC. What kind of essay are you writing?
+STUDENT: It's a personal statement.
+COACH: Got it. So what do you want to focus on in your essay?
+STUDENT: I'm not sure. I feel like I'm not that interesting as a person and I don't have any unique experiences to draw from.
+COACH: That's okay. Everyone has something unique to offer. Let's start by talking about your interests. What kinds of things do you like to do?
+STUDENT: Well, I love to travel. I've been to Thailand and some other places in Asia.
+COACH: That's great! What did you like about those trips?
+STUDENT: I loved the culture and the people. I also got to experience different ways of life that I hadn't seen before.
+COACH: That sounds amazing. So, how can you use this experience to make your essay stand out?
+STUDENT: I'm not sure.
+COACH: Well, think about how your experiences have shaped you as a person. What have you learned from your travels? How have they helped you develop skills and achievements? How have they helped you become the person you are today?

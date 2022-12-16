@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for advice on how to write a persuasive essay about the effects of racism in Vietnam.
+COACH: Okay, that's a great topic! Can you tell me more about what you want to cover in the essay?
+STUDENT: Sure. I want to focus on how racism has impacted the lives of those living in Vietnam, both historically and in modern times.
+COACH: That's an important topic. Have you done any research yet?
+STUDENT: Yes, I've read some articles and watched some documentaries about the subject.
+COACH: Great! Now, let's talk about the structure of the essay. What kind of hook do you think would be effective for this topic?
+STUDENT: Hmm, I was thinking something about how racism has been a part of Vietnam's history for centuries and how it continues to have a negative impact on the lives of its people today.
+COACH: That sounds like a great hook! Now, let's talk about the middle of the essay. What kind of evidence will you use to support your argument?
+STUDENT: I plan to include statistics and quotes from interviews with people who have experienced racism in Vietnam. I also plan to talk about the efforts of volunteer organizations that are working to combat racism in the country.
+COACH: That sounds like a great plan. Now, let's talk about the conclusion. What kind of message do you want to leave your readers with?
+STUDENT: I want to emphasize the importance of working together to create a more inclusive and tolerant society in Vietnam. I also want to encourage people to take action, like volunteering with organizations that are working to combat racism in the country.
+COACH: That's a great message! Do you have any questions about the essay so far?
+STUDENT: Yes, I'm wondering if I should include any creative elements, like art or music, to make my essay more engaging.
+COACH: Absolutely! Incorporating creative elements into your essay can help make it more memorable and engaging. You could include images, videos, or even music that reflects the themes of your essay.

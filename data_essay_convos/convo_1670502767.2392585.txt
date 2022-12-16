@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That depends on the type of essay you’re writing. For a grant application essay, you should focus on why you are an ideal candidate for the grant and how you plan to use it to further your educational goals. You should also discuss any relevant experiences or skills that make you a good fit for the grant.
+STUDENT: What kind of structure should I use for my essay?
+COACH: The structure of your essay should be organized in a way that best communicates your message. Start with an introduction that provides background on the grant and explains why you are applying. Then, move into the body of the essay where you can discuss your qualifications, experiences, and plans for using the grant. Finally, conclude your essay with a summary of why you are the ideal candidate for the grant and how you plan to use it to further your education.

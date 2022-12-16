@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for med school and I'm having trouble coming up with ideas.
+COACH: Okay, first let's try to narrow down your topic. What are some of the things that you are passionate about?
+STUDENT: Well, I'm from the Philippines and I'm a Muslim, so I'm really interested in exploring the intersection between my faith and my culture. I also love to travel, so I'd like to write about that too.
+COACH: That sounds like a great starting point! Let's focus on the intersection between your faith and culture first. How have they shaped your life and your perspective on the world?
+STUDENT: Well, growing up in the Philippines has given me a unique appreciation for different cultures and beliefs. I think it's important to recognize and respect the differences between us, even if we don't always agree. My faith has also taught me to be compassionate and to always strive to help others.
+COACH: That's a great insight! It sounds like you could focus your essay around the idea of understanding, tolerance, and compassion. You could talk about how your experiences in the Philippines and your faith have shaped your views on these topics, and how you plan to apply them in your future career as a doctor. Does that sound like something you'd be interested in writing about?
+STUDENT: Yes, definitely! That sounds like a great essay topic.
+COACH: Great! Now let's talk about your love of travel. How has that impacted your life and your perspective?
+STUDENT: Traveling has opened my eyes to different cultures and customs, and it's made me more open-minded and understanding of different points of view. It's also taught me to be more independent and resourceful, since I've had to navigate unfamiliar places and situations. 
+COACH: That's a great point! You could talk about how your travels have shaped your approach to problem solving and your willingness to explore new ideas. You could also discuss how your experiences have made you a better listener and more understanding of different perspectives. Does that sound like something you'd be interested in writing about?
+STUDENT: Yes, that sounds perfect! Thank you so much for all your help.

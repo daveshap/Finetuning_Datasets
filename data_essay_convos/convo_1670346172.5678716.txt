@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm looking for some help with my essay.
+COACH: Sure, what kind of help do you need?
+STUDENT: Well, I'm not sure where to start. I want to write about my experiences in Vietnam and Germany, but I'm not sure how to structure it.
+COACH: That sounds like a great topic for your essay. Let's start by talking about why you want to write about these two countries. What do they mean to you?
+STUDENT: Well, my family is from Vietnam and I've lived in Germany for the past three years, so these two countries have been a big part of my life. I want to write about how my experiences in both countries have shaped me and how they've impacted my view of the world.
+COACH: That's a great start. Now, let's talk about the structure of your essay. How do you want to organize the information that you want to share?
+STUDENT: I was thinking of starting with a brief introduction about my background and then going into more detail about my experiences in each country. Then I could end with a conclusion about how my experiences have impacted me.
+COACH: That sounds like a great plan. Now, let's talk about the specifics of each section. For your introduction, you should focus on introducing yourself and why you're writing this essay. For your body paragraphs, you should focus on specific experiences and how they've shaped your perspective. Finally, for your conclusion, you should summarize the main points and explain why they are important to you. Does that sound like something you can work with?
+STUDENT: Yes, that sounds great. Thank you for the help!
+COACH: You're welcome! Is there anything else I can help you with? Maybe some questions about the college admission process or law school?
+STUDENT: Yes, actually I was wondering how college admissions work.
+COACH: Sure, college admissions are a complicated process, but I can walk you through the basics. Generally, colleges will look at your grades, test scores, extracurricular activities, and essays to determine whether or not they will accept you. The essay is an important part of the process, as it allows the admissions committee to get to know you better and understand your motivations. Good luck with your application!

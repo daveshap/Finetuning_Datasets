@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student looking to apply for an undergraduate program at UCLA. I'm wondering how I can make my essay stand out and what I can do to get scholarships and grants.
+COACH: Great question! Let's start by talking about what makes an essay engaging. Generally speaking, essays should be interesting and draw the reader in with a compelling story or narrative. You want to make sure your essay is well-structured, with clear arguments and evidence. Additionally, it should have a strong voice and be written in a way that conveys your personality and values. 
+STUDENT: That's helpful. What else can I do to make my essay stand out?
+COACH: You can also focus on showcasing your individual strengths and experiences. Think about what makes you unique and how that can be reflected in your essay. You can also consider adding in some creative elements, such as incorporating visuals or multimedia. Finally, make sure to proofread your essay for any mistakes and typos. 
+STUDENT: Got it. Now, how can I get scholarships and grants for undergrad programs at UCLA?
+COACH: To get scholarships and grants, you'll need to do some research. Start by looking into the financial aid options available at UCLA. You can also look into other universities, such as UNC, to see what kind of scholarships and grants they offer. Additionally, you can search for external scholarships and grants that may be available to you. Make sure to read the eligibility requirements carefully and apply for as many as you can. Good luck!

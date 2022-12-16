@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my college application essay and I'm having a hard time.
+COACH: Okay, let's start with the basics. What are you applying for?
+STUDENT: I'm applying to college in the Philippines.
+COACH: Great! What is your passion and what do you want to study?
+STUDENT: I'm passionate about music and I want to study music production.
+COACH: That's awesome. What do admissions officers look for when they read college application essays?
+STUDENT: I'm not sure, that's why I need help with my essay.
+COACH: Sure, let me explain. Admissions officers look for essays that demonstrate an applicant's skills and achievements, as well as their ability to articulate their ideas clearly and concisely. They also want to see evidence of your commitment to your chosen field and how you plan to make a positive contribution to the school.
+STUDENT: That makes sense. How do I go about writing an essay that will show all these things?
+COACH: The best way to start is by brainstorming your skills and achievements, and then thinking about how they relate to your chosen field. Once you have that figured out, you can start writing your essay. Make sure to include examples of the skills and experiences that make you stand out.
+STUDENT: Got it. Any other tips?
+COACH: Yes, make sure to proofread your essay several times. This will help you catch any mistakes and make sure your essay is strong and well-written. Also, don't forget to ask someone else to read your essay and give you feedback. This will help you refine your essay and make sure it's the best it can be.

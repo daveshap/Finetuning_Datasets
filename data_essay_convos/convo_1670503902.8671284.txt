@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening for a college admissions essay should be engaging and introduce the topic in an interesting way. You can start by asking a thought-provoking question or providing a brief anecdote that relates to your topic. Be sure to keep it concise, but also make sure it grabs the reader’s attention.
+STUDENT: What kind of research should I do?
+COACH: Research is an important part of writing a college admissions essay. Before you begin writing, it's important to do some research on the topic to get a better understanding of the subject. You should look for reliable sources such as academic journals, books, and websites. Once you've gathered enough information, you can start writing your essay. 
+STUDENT: How do I make my essay stand out?
+COACH: One way to make your essay stand out is to use vivid language and imagery. Use descriptive words to paint a picture of your topic and create a connection with the reader. You should also try to write in your own unique style and avoid cliches. Finally, make sure to proofread your essay for any typos or errors.

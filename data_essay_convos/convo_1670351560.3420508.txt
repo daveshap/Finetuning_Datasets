@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm writing an essay about overcoming obstacles. I've faced a lot of rejection in my life and I want to use my experience to inspire others.
+COACH: That sounds like a great topic for your essay. What kind of obstacles have you faced?
+STUDENT: Well, I'm from China and I moved to Europe when I was a teenager. I faced a lot of cultural differences and language barriers which made it difficult to fit in.
+COACH: That must have been a tough transition. How did you manage to overcome these obstacles?
+STUDENT: I found solace in charity work. I volunteered at a local soup kitchen and helped out at a refugee center. It gave me a sense of purpose and helped me build relationships with people from different backgrounds.
+COACH: That's wonderful! It sounds like you've had quite an inspiring journey. How did this experience shape your outlook on life?
+STUDENT: It taught me that no matter what obstacles you face, you can always find a way to push through them. It also taught me the importance of giving back and helping others in need.

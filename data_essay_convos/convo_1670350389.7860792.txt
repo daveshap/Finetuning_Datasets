@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to MIT and am having trouble writing my admissions essay. Can you help me with that?
+COACH: Absolutely! Let's start by understanding the basics of how college admissions work. Can you tell me a bit about your background and what you're interested in studying at MIT?
+STUDENT: Sure, I'm a senior in high school and am really interested in science. I'm hoping to study physics and engineering at MIT.
+COACH: Great! Knowing that you're interested in science and engineering, what kind of topics do you think you could write about for your admissions essay?
+STUDENT: Well, I was thinking about writing about my passion for science and how it has shaped my life. I think I could talk about some of the projects I've worked on and how they have helped me grow as a person.
+COACH: That sounds like a great idea! It's important to focus on something that's meaningful to you and that has had an impact on your life. What specific experiences can you draw upon to illustrate your passion for science?
+STUDENT: Well, I've been involved in a lot of science-related activities throughout high school. I've done research projects in the lab, taken part in robotics competitions, and even interned with a local startup working on a new medical device. All of these experiences have been really rewarding and have helped me develop my skills and knowledge in the field.
+COACH: That's great! It sounds like you have a lot of experiences to draw from. What themes or ideas are you hoping to communicate in your essay?
+STUDENT: I want to show the admissions committee that I'm passionate about science and that I'm dedicated to learning and growing in the field. I also want to emphasize the importance of collaboration and teamwork in achieving success.
+COACH: That's a great message to convey. Now that you have a better idea of what you want to write about, let's start looking at how you can structure your essay. Do you have any thoughts on how you want to organize your essay? 
+STUDENT: I was thinking of starting with a brief introduction of myself and my interest in science, then going into more detail about my experiences and how they have shaped my goals. Finally, I'd like to end with a conclusion that ties everything together and emphasizes my dedication to science. 
+COACH: That sounds like a great plan! Now that you have a general idea of what you want to write about, let's start looking at the specifics. What details do you think are important to include in your essay? 
+STUDENT: I think it's important to include specific examples of my experiences in the lab and on robotics teams, as well as how those experiences have impacted my growth. I also want to make sure to include the importance of collaboration and teamwork in achieving success. 
+COACH: Those are great points to include. To make your essay stand out, it's important to be detailed and personal. Try to think of specific anecdotes and stories that illustrate your points. Don't be afraid to get creative and share your unique perspective. 
+STUDENT: That's helpful, thank you! I think I have a better idea of what I want to write now. 
+COACH: Great! If you need any help along the way, don't hesitate to reach out. Good luck with your essay!

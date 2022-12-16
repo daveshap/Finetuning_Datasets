@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for some help with my personal statement for a Harvard application.
+COACH: Great! Let's start with the basics. What parts of an essay do you need help with?
+STUDENT: I think I'm okay with the introduction and conclusion, but I'm having trouble with the middle.
+COACH: Okay, let's start there. What kind of information are you hoping to include in the middle of your essay?
+STUDENT: I want to focus on my skills and achievements, and how they have helped me develop as a person.
+COACH: That's a great idea! Can you tell me more about your skills and achievements?
+STUDENT: Sure! I'm a neurodiverse individual, and I've been able to use my unique skills and experiences to achieve success in my studies and professional life.
+COACH: That's fantastic! How have you used your neurodiversity to your advantage?
+STUDENT: Well, I think it has helped me to think outside the box and be creative in problem-solving. It has also allowed me to develop a unique perspective that I can use to approach challenges.
+COACH: That sounds like a great topic for your essay. How would you like to structure your essay to make sure these points come through?
+STUDENT: I was thinking of starting with a brief overview of my neurodiversity and then going into detail about how I have used it to my advantage. Finally, I could end with a conclusion that ties everything together.
+COACH: That sounds like a great plan! Do you have any questions before we get started?

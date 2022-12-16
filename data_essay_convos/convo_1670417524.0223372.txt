@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to figure out what to write about in my personal statement.
+COACH: Sure, let's start by talking about what interests you. What topics, hobbies, or activities do you enjoy?
+STUDENT: Well, I'm really interested in science and I'm passionate about fighting racism and LGBT rights. 
+COACH: That's great! It sounds like you have a lot of things that you care about and could potentially write about. Have you thought about how those topics could relate to your personal statement? 
+STUDENT: Not really. I feel like I'm not interesting as a person, so I don't know how to make it stand out.
+COACH: Don't worry, everyone feels that way sometimes. The key is to think about how your interests, experiences, and values are connected. For example, if you're passionate about science, how has that influenced your life and the decisions you've made? Or if you care about fighting racism and LGBT rights, how have you taken action to make a difference? 
+STUDENT: Hmm, I see what you mean. I guess I could talk about how my interest in science has led me to pursue certain academic opportunities, and how my passion for social justice has motivated me to volunteer with different organizations.
+COACH: Perfect! That's a great start. We can use this as the basis for your personal statement and then build on it. What else would you like to include in your essay?

@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to med school and I need help with my admissions essay.
+COACH: Great! What kind of help do you need? Do you have any ideas for what you'd like to write about?
+STUDENT: Well, I was thinking I could talk about my experience in the medical field and how it has shaped my desire to pursue a career in medicine.
+COACH: That's a great idea! Can you tell me more about your experience in the medical field?
+STUDENT: Sure. I've been volunteering at a local hospital for the past few years and I've had the opportunity to shadow some of the doctors there. It's been really eye-opening and inspiring to see how they work and the impact they can have on people's lives.
+COACH: That sounds like a really powerful experience. What else would you like to include in your essay?
+STUDENT: I also want to talk about why I think college is important and how it can help me achieve my goals.
+COACH: Excellent! That's a great topic to explore. Can you tell me more about why college matters to you?
+STUDENT: Sure. I think college provides a great opportunity to expand my knowledge and gain valuable skills. It also helps me to build connections with people in the medical field who can provide me with mentorship and guidance. Additionally, I think that having a college degree will give me a competitive edge when it comes to job applications.
+COACH: All of those are great points. Is there anything else you would like to add to your essay?
+STUDENT: Yes, I'd also like to talk about how I plan to use my education to find a job after college.
+COACH: That's a great idea! Can you tell me more about what kind of job you're looking for and how you plan to use your education to find it?
+STUDENT: Sure. I'm looking for a job in the medical field that will allow me to use my knowledge and skills to make a difference. I plan to use my education to build connections with people in the industry and to demonstrate my commitment to the field. I also plan to use my education to stay up to date on the latest developments and trends in the medical field.

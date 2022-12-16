@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a senior in high school and I'm trying to apply to college. I'm also considering applying to medical school and I'm interested in learning more about Buddhism.
+COACH: That's great! It sounds like you have a lot of interesting options to explore. What country are you from?
+STUDENT: I'm from the Philippines.
+COACH: Okay, so let's start with college applications. What kind of program are you looking for? Are you interested in a specific major or area of study?
+STUDENT: I'm interested in studying psychology and I'm also interested in exploring Buddhism.
+COACH: That's fantastic! When it comes to your personal statement, you can use this as an opportunity to discuss your interest in psychology and Buddhism. You can talk about how these two fields have shaped your worldview and how they have influenced your life. You can also discuss any personal experiences or anecdotes that have inspired you to pursue these interests. Additionally, you can discuss what you hope to gain from this experience and how you plan to use this knowledge in the future.

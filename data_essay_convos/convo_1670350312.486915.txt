@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help on how to apply to college.
+COACH: That's great! What kind of help do you need?
+STUDENT: Well, I'm not sure why college matters or what admissions officers look for in an application.
+COACH: That's a great question! College is important because it can provide you with the opportunity to gain knowledge and skills that are essential for success in your career. Admissions officers look for applicants who demonstrate academic excellence, leadership potential, and a commitment to their community. They also want to see that you have a clear vision for your future and that you are prepared to work hard to achieve it.
+STUDENT: That makes sense. But I come from a poor family and I'm not sure if I can afford college.
+COACH: That's understandable. There are many resources available to students from low-income backgrounds, such as scholarships, grants, and student loans. Additionally, many colleges offer need-based financial aid that can help make college more affordable. It's important to research all of your options and apply for as many financial aid programs as possible.
+STUDENT: Okay, that's helpful. I'm also neurodiverse and I'm not sure how that affects my college application.
+COACH: That's great that you're aware of your neurodiversity! Colleges are increasingly recognizing the value of neurodiversity and are making efforts to create an inclusive and supportive environment for students with disabilities. Many colleges offer special accommodations and support services to ensure that neurodiverse students can succeed in their studies. Additionally, there are many scholarships specifically for neurodiverse students that can help make college more affordable.

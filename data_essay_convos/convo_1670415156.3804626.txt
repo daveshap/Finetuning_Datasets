@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm having trouble writing my essay.
+COACH: Alright, can you tell me a bit more about what you're struggling with?
+STUDENT: Well, I want to write about my experience traveling to Vietnam and how it changed my perspective on racism.
+COACH: That sounds like a really interesting topic. Can you tell me more about what you experienced in Vietnam that made you think differently about racism?
+STUDENT: Sure. When I was there, I visited several different places and interacted with people from all different backgrounds. I saw firsthand the discrimination that some people faced based on their skin color or religion. It made me realize how much racism still exists in our world today and how important it is to fight against it.
+COACH: That's a very powerful experience and would make for an excellent essay. What kind of angle are you thinking of taking with your essay? 
+STUDENT: Well, I'm Jewish and I noticed a lot of anti-Semitism in Vietnam. I want to focus on how my own religious identity affected my experience and how it shaped my views on racism.
+COACH: That's a great idea. You could start off by discussing your background and how your Jewish identity has informed your views on racism. Then, you could discuss your experience in Vietnam and how it impacted your understanding of racism. Finally, you could talk about how your journey has shaped your outlook on life and how you plan to use this newfound knowledge to create positive change in the world.

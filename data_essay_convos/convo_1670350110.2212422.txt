@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I'm having trouble writing my admission essay.
+COACH: Alright, let's start with why you're interested in attending Princeton. What drew you to the school?
+STUDENT: Well, I've always been fascinated by their history and the opportunities they provide. They have a great network of alumni that I'd like to be part of. Plus, the academics are top-notch.
+COACH: That's great! What do you plan to study at Princeton?
+STUDENT: I'm interested in studying international relations and political science.
+COACH: Interesting! Why do you think these topics are important to you?
+STUDENT: I'm from the Philippines and I've seen firsthand how politics can shape a country. I want to understand more about international relations and how it affects different countries. It's also something I'm passionate about and I want to make a difference.
+COACH: That's admirable. What else would you like to include in your essay?
+STUDENT: I'd like to talk about my travels and how it has shaped my worldview. I've traveled to many countries and have learned a lot about different cultures and religions, such as Buddhism.
+COACH: That's great! How has traveling and learning about different cultures impacted you?
+STUDENT: It has made me more open-minded and understanding of different perspectives. It has also given me a better appreciation for the diverse world we live in and how interconnected we all are. 
+COACH: That's a great point to make in your essay. Anything else you'd like to include?
+STUDENT: Yes, I also want to talk about how my experiences have helped me become a more compassionate and empathetic person.
+COACH: Wonderful! That's a great way to round out your essay and show the admissions committee why you would be a great fit for the school.

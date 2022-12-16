@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there! I'm an undergrad student and I'm having trouble writing an essay. I have no idea what to write about.
+COACH: What kind of essay are you writing?
+STUDENT: It's a comparative essay comparing Buddhism and Islam.
+COACH: Okay, that's a great topic. Do you have any initial ideas on how to approach this essay?
+STUDENT: Not really. I know the basics about both religions, but I'm not sure how to structure the essay or what points to focus on.
+COACH: That's understandable. One way to approach this essay is to start by researching each religion in depth. You can look at their histories, similarities, and differences. This will give you the information you need to make a strong argument.
+STUDENT: Alright, that sounds like a good plan.
+COACH: Once you have your research done, you can start thinking about your thesis statement. This should be a clear statement that outlines your position on the comparison between Buddhism and Islam.
+STUDENT: Got it.
+COACH: After you have your thesis statement, you can start outlining your essay. Think about the main points you want to make and how you want to organize your essay. This will help you figure out which evidence to include and which points to make in each section.
+STUDENT: That makes sense.
+COACH: Finally, when you're ready to write, make sure you're passionate about your topic. Writing an essay can be tedious, so it helps to have some enthusiasm for the subject.
+STUDENT: That's a great tip. Thanks so much for your help!

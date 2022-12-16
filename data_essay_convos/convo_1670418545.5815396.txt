@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University for medical school and I'm having trouble figuring out what admissions officers are looking for in my essay.
+COACH: That's a great question. Admissions officers are looking for essays that demonstrate your passion for medicine, your academic accomplishments, and your commitment to the field. They also want to see evidence of your personal growth and development. 
+STUDENT: Okay, that makes sense. What else should I include in my essay?
+COACH: It's important to demonstrate your knowledge and understanding of the field of medicine, so you should include any relevant experiences or research you've done. You should also talk about how you plan to use your degree to make a difference in the world. Finally, if you have any unique experiences or perspectives that you can bring to the table, it would be beneficial to include those as well.
+STUDENT: Got it. I have an interesting experience I'd like to include in my essay. I spent a summer in Germany studying medicine and I think it could be a great way to demonstrate my passion and commitment to the field.
+COACH: Absolutely! That would be a great addition to your essay. You should focus on how the experience changed you and how it has shaped your views on medicine. Talk about the challenges you faced, the people you met, and the knowledge you gained. Make sure to emphasize how this experience has impacted your decision to pursue a career in medicine.

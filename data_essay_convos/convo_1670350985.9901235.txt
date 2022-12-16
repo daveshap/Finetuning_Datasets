@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm interested in engineering. I need help with what to write about in my personal statement.
+COACH: Great! Before we get started, can you tell me a bit more about yourself? What are some of your interests and passions?
+STUDENT: Well, I'm very passionate about Christianity and I'm also considering going to med school.
+COACH: That's great! So it sounds like you are looking for an essay that will highlight your Christian faith and your interest in medicine. Is that correct?
+STUDENT: Yes, that's right.
+COACH: Okay, so let's start by brainstorming some potential topics. What are some experiences or values that are important to you and that you would like to highlight in your essay?
+STUDENT: Hmm...I think I'd like to talk about how my faith has shaped my outlook and how it has guided my decisions.
+COACH: That's a great topic! Let's start by talking about how your faith has impacted your life. What kind of impact has it had on your academic and professional pursuits?
+STUDENT: Well, it's definitely been a source of strength and guidance for me. It's helped me stay focused on my goals and stay motivated to achieve them.
+COACH: That's really inspiring! So now let's move on to discussing your interest in medicine. What has inspired you to pursue a career in this field?
+STUDENT: I've always been passionate about helping people and I think medicine is the perfect way to do that. I also think the medical field is incredibly fascinating and I'm excited to learn more about it.
+COACH: That's wonderful! Now that we have a better understanding of your motivations and interests, let's start thinking about how to craft your essay. What do you think should be the focus of your essay?
+STUDENT: I think I'd like to focus on how my faith and my interest in medicine have shaped my life and my goals.

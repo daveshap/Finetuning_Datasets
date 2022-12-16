@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm trying to get into UCLA or UNC. I'm from Germany originally, but I've lived in China for the past few years.
+COACH: That's great! I'm glad you're interested in pursuing higher education. Could you tell me a bit more about your background? What led you to choose UCLA or UNC as your potential universities?
+STUDENT: Well, I've always been interested in American universities. I think they offer a great academic environment and a strong network of alumni. Plus, I'd like to explore the culture and lifestyle of the United States.
+COACH: That's understandable. What aspects of the universities are most attractive to you?
+STUDENT: I'm really drawn to UCLA's diverse student body and its reputation for excellence in research and academics. I'm also interested in UNC's strong focus on global studies and its commitment to international students.
+COACH: Those are both great schools. What do you think sets you apart from other applicants?
+STUDENT: I think my unique background and experience living in both Germany and China give me a special perspective. I'm also a hard worker and I'm committed to achieving my goals.
+COACH: That's great. What do you think will be the biggest challenge in writing your essay?
+STUDENT: I think the biggest challenge will be finding a way to communicate my story in a meaningful way. I want to make sure that my essay stands out and captures the attention of the admissions committee.

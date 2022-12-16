@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to engineering schools and I have no idea what to write about.
+COACH: That's understandable. What are your goals and personal objectives? Do you have any volunteer work or extracurricular activities that you can draw upon in your essay?
+STUDENT: I volunteer at a local library and I'm involved in a few clubs at school. I'm also interested in international travel, specifically Thailand.
+COACH: That's great! It sounds like you have a lot of experiences to draw from. Have you ever traveled to Thailand? If so, you could write about the cultural differences, the people you met, and the experiences you had. You could also talk about how the trip inspired you to pursue a career in engineering. If you haven't been to Thailand, you could focus on your volunteer work and how it has shaped your passion for engineering. You could talk about the challenges you faced and how you overcame them. You could also discuss the impact that your volunteer work has had on your personal growth.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are typically awarded to students who demonstrate academic excellence, community involvement, and financial need. The specific criteria for each scholarship can vary, but generally you will need to submit an application that outlines your qualifications and achievements.
+STUDENT: What should I include in my essay?
+COACH: Your essay should be focused on expressing why you are the best candidate for the scholarship. You should include information about your academic achievements, extracurricular activities, and any volunteer work or community service you have done. Additionally, you may want to include details about any special circumstances or challenges you have faced in your life. Be sure to explain how these experiences have shaped you into the person you are today.

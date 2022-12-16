@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That’s a great question! Before we dive into the writing process, can you tell me a little bit about what kind of essay you’re writing? Is it for a class assignment or a research project?
+STUDENT: It's a research paper.
+COACH: Great! Research papers are a great way to explore a topic in depth. The first step is to come up with a research question. What is the topic you’d like to explore?
+STUDENT: I was thinking about the effects of climate change on the environment.
+COACH: That’s an interesting topic. Now that you have your topic, the next step is to narrow it down to a specific research question. What would you like to know more about when it comes to climate change and the environment?
+STUDENT: I want to know how climate change has impacted different ecosystems.
+COACH: Perfect! Now that you have your research question, you can start gathering background information. You can look for articles, books, and other sources that discuss the topic. After you have a good understanding of the topic, then you can start forming your argument.

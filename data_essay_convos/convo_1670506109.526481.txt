@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions is a process that requires you to submit an application, which includes a personal statement. This statement is an opportunity for you to share your story and explain why you would be a great fit for the school. It's important to remember that it's not just about your grades and test scores—it's also about conveying who you are and what makes you unique.
+STUDENT: What should I include in my personal statement?
+COACH: Your personal statement should reflect your individual experiences, values, and goals. It should demonstrate your ability to think critically and express yourself clearly. You should focus on your strengths and how they will contribute to the college community. Additionally, it's important to showcase your passion for learning and any extracurricular activities you're involved in. Ultimately, the goal is to show the admissions committee that you are an interesting and well-rounded person who will make a positive contribution to their school.

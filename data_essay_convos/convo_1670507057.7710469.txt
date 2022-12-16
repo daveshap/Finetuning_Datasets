@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Okay, let's start with a reference interview. What type of essay are you writing?
+STUDENT: A personal statement for medical school
+COACH: Great! Now, what do you want to focus on in your essay? 
+STUDENT: I want to highlight my commitment to medicine and my passion for helping people.
+COACH: Perfect. Now, let's talk about how you can best express this in your essay. What experiences have you had that demonstrate your commitment to medicine? 
+STUDENT: Well, I've volunteered at a local hospital for the past three years, and I'm currently shadowing a doctor in my free time.
+COACH: That's fantastic! Can you tell me more about those experiences? What have you learned from them?
+STUDENT: Volunteering at the hospital has taught me a lot about the importance of compassion and empathy in patient care. Through shadowing the doctor, I've been able to observe firsthand how important it is to be detail-oriented and organized.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an admissions essay for college and I'm having trouble figuring out what to write about.
+COACH: Alright, let's start with the basics. What kind of essay is it? Is it a personal statement or a research paper?
+STUDENT: It's a personal statement.
+COACH: Got it. What kind of topics are you considering writing about?
+STUDENT: Well, I want to talk about my experience growing up in a Jewish family in the Philippines and how that has shaped my view on life. I also want to discuss how important college is to me and why I think it is so important for me to attend.
+COACH: That sounds like an interesting topic. Can you tell me a bit more about your experience growing up in a Jewish family in the Philippines?
+STUDENT: Sure. I was born in the Philippines to a Jewish family, so I was exposed to the culture and traditions of Judaism from a young age. I was also raised to be open-minded and accepting of people from all walks of life, which has been especially important to me now that I am part of the LGBT community.
+COACH: That's wonderful. It sounds like you have a lot to write about. How do you think your experience growing up in a Jewish family in the Philippines has informed your views on college and why it is so important to you?
+STUDENT: Growing up in a Jewish family, I was taught the value of education and the importance of striving for excellence. I saw how hard my parents worked to provide me with the best opportunities and I always wanted to make them proud. College is a way for me to continue to learn and grow, and to use my knowledge to make a positive difference in the world. It's also a place where I can find acceptance and understanding, something that I didn't always find growing up in a traditional Jewish home.

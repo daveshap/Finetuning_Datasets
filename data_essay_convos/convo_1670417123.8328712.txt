@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to graduate school at UNC and I'm having difficulty writing my essay.
+COACH: What kind of difficulty are you having?
+STUDENT: Well, I'm having trouble figuring out how to articulate my goals and personal objectives.
+COACH: That's a great place to start. Can you tell me more about your goals and objectives? 
+STUDENT: Sure. My main goal is to get accepted into a top-tier university like Princeton or Yale. I want to be able to use my degree to make a positive impact in the world, and I'm also looking for an academic challenge.
+COACH: That's a great goal and it sounds like you have a clear vision for what you want to achieve. Now, let's start looking at how to best articulate this in your essay. First, let's talk about why you want to attend a top-tier university. What do you think makes these universities so desirable?
+STUDENT: I think the main draw of these universities is the quality of education they offer. They have highly respected faculty and a rigorous curriculum that will push me to reach my full potential. Additionally, the networks I could build by attending one of these schools would be invaluable. 
+COACH: That's a great answer. Now let's focus on how to best express this in your essay. What do you think are the most important points to include?
+STUDENT: I think it's important to highlight the academic opportunities available at these universities, as well as the potential to network with other students and faculty. I also want to emphasize my commitment to using my degree to make a positive impact in the world. 
+COACH: That's a great start. Now, let's talk about how to structure your essay. What do you think is the best way to organize your thoughts?
+STUDENT: I think I should start by talking about my goals and objectives and why I'm interested in attending a top-tier university. Then, I could discuss the academic opportunities available and how I plan to use my degree to make a positive impact. Finally, I could talk about the potential to network with other students and faculty. 
+COACH: That sounds like a great plan. Let's go through each point and see if there's anything else you want to add or emphasize.

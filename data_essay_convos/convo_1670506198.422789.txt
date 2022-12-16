@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: That's a great question. Can you tell me a little bit more about what you're looking for? Do you need help understanding the application process or do you need help writing your essay? 
+STUDENT: I need help writing my essay.
+COACH: Okay, great. What type of essay is it?
+STUDENT: It's a research paper.
+COACH: Perfect. Let's start with the basics. What kind of research have you done so far? What sources have you looked at?

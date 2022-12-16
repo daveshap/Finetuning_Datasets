@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question! It's important to think about what you want to do after college and how you can use your degree to get there. Start by researching potential jobs in the field you are interested in. Look into job postings, internships, and networking opportunities. You can also get advice from professors, alumni, and career counselors. Once you have a better idea of what you want to do, you can start crafting your essay around that goal. 
+STUDENT: What should my essay focus on?
+COACH: Your essay should focus on why you are a great fit for the school you're applying to. This means you should highlight your unique qualities and experiences that make you a strong candidate. Think about how your background, interests, and goals align with the school's mission and values. You should also discuss what you can contribute to the school, such as research projects, clubs, or organizations. Show the admissions committee why you are the perfect fit for their program.

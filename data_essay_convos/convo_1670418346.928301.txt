@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I'm trying to write my personal statement for UCLA and Harvard.
+COACH: Alright, tell me a bit about yourself and why you want to attend those schools.
+STUDENT: Well, I'm really passionate about literature and I want to pursue a career in writing. I think both UCLA and Harvard have great programs that will help me grow as a writer.
+COACH: That's great! What specifically do you think makes the writing programs at UCLA and Harvard so appealing?
+STUDENT: I like that both schools have a variety of classes that can help me develop my writing skills. I also feel like they both have a good reputation in terms of the quality of their education. Plus, I'm excited to learn from some of the best professors in the country.
+COACH: That's fantastic! Can you tell me a bit more about your writing experience? What kind of writing have you done so far?
+STUDENT: Sure, I've been writing since I was a kid. I've written short stories, poetry, and essays. I've also done some freelance work for a few magazines and websites.
+COACH: Great! It sounds like you have a lot of experience with writing. Have you ever encountered any sexism in the writing world?
+STUDENT: Unfortunately, yes. I've had some experiences where I felt like my work wasn't taken seriously because I'm a woman. It's been difficult to navigate, but I'm determined to keep pushing forward and prove that my work is just as good as anyone else's.
+COACH: That's really admirable. It takes a lot of courage to stand up for yourself in situations like that. Do you have any other questions about the essay writing process?

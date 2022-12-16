@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That depends on what type of essay you are writing. What kind of essay is it?
+STUDENT: It's a grant application.
+COACH: Great, a grant application. What do you need help with specifically? Do you need help with the structure of the essay or the content?
+STUDENT: Both, I guess.
+COACH: Alright, let's start with the structure. What is the goal of the essay? What do you want to communicate to the reader?
+STUDENT: I want to show that I'm a good candidate for the grant and why I should be chosen.
+COACH: Perfect. Now, let's think about how to best organize your essay to convey that message. What information do you need to include?
+STUDENT: I should probably include my background, my qualifications, and why I am a good fit for the grant.
+COACH: Yes, those are all important pieces of information. Let's start by outlining the main points of your essay. We can then use that outline to create the structure of the essay.

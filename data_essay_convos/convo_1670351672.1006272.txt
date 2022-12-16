@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi. I'm applying to UNC and Yale and I need help writing my essay.
+COACH: Alright, let's get started. Could you tell me a bit more about yourself? What are some of your interests, hobbies, or passions? 
+STUDENT: Well, I'm very passionate about my faith. I'm a Christian and I've been involved in my church my whole life. I also love learning about different cultures, and I recently went on a trip to Thailand.
+COACH: That's great! It sounds like you have a lot of interesting experiences to draw from for your essay. Can you tell me more about your trip to Thailand? What did you learn there?
+STUDENT: I learned so much! I got to experience the culture firsthand, and it really opened my eyes to how different cultures can be. I also learned a lot about the country's history and its struggles with poverty. It was an eye-opening experience.
+COACH: That sounds like a really meaningful experience. How do you think it could relate to your essay?
+STUDENT: Well, I come from a poor family, so I can relate to the struggles that people in Thailand face. I think it could be a good way to show how my own experiences have shaped my perspective on the world.

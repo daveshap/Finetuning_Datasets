@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and Duke University and I need help with my essay.
+COACH: That's great! Could you tell me more about your goals for the essay?
+STUDENT: Well, I want to highlight my skills and achievements, as well as my volunteer work and any other activities that show my commitment to service.
+COACH: Got it. Could you tell me a bit more about your volunteer work?
+STUDENT: Sure, I've done a lot of volunteer work over the last few years. I've worked at a local food bank, volunteered at a homeless shelter, and even helped out at my alma mater, NCSU.
+COACH: That sounds like great experience. What do you think are some of your biggest accomplishments from those volunteer experiences?
+STUDENT: I think one of my biggest accomplishments was organizing a food drive for the local food bank. We were able to collect more than 500 pounds of food in just one week! It was really rewarding to see the impact we made.

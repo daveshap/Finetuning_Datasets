@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: A great way to structure an essay is to create a thesis statement. This is a single sentence that sums up the main point of your essay. From there, you can use your thesis statement to create an outline of the points you want to make in your essay.
+STUDENT: What should my thesis statement include?
+COACH: Your thesis statement should include the main idea of your essay and the points you want to make. It should be clear and concise, yet powerful enough to capture the reader's attention. 
+STUDENT: How do I go about writing a thesis statement?
+COACH: Start by brainstorming all the ideas you want to include in your essay. Once you have a clear idea of what you want to write about, you can start crafting your thesis statement. Make sure it is specific and focused on the main point of your essay. Ask yourself: What is the main argument that I am trying to make? This will help you create a thesis statement that is both clear and effective.

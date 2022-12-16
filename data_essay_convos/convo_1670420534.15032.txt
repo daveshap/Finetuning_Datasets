@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help writing my admission essay.
+COACH: Great! What do you want to write about in your essay?
+STUDENT: Well, I'm Jewish and I'm interested in writing about my experiences growing up in a Jewish family in Germany.
+COACH: That sounds like an interesting topic. What specifically do you want to focus on in your essay?
+STUDENT: I want to focus on how my faith has shaped my worldview and how it has helped me develop certain skills and achievements.
+COACH: Okay, that's a great starting point. What kind of skills and achievements do you want to discuss?
+STUDENT: I want to talk about how my religious beliefs have taught me to be open-minded and tolerant of different cultures, as well as how they have helped me to be more creative and organized in my work.
+COACH: That's a great idea. Now, let's talk about the structure of your essay. What kind of structure do you want to use?
+STUDENT: I think I want to use a narrative structure, where I tell a story about my experiences growing up and how they have shaped who I am today.
+COACH: That sounds like a great plan. Let's break down the essay into sections. We can start with an introduction that outlines the main points of your essay, then move on to the body of the essay where you can dive deeper into your experiences and explain how they have impacted your life. Finally, we can end with a conclusion that ties everything together. Does that sound like a plan?
+STUDENT: Yes, that sounds perfect!

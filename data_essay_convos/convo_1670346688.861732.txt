@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm really stuck and have no idea what to write about.
+COACH: That's understandable! Can you tell me a bit more about yourself? What topics or themes interest you? 
+STUDENT: Well, I'm really passionate about LGBT rights and creative writing. I'm also very interested in art and creativity.
+COACH: That sounds like a great starting point! What kind of essay are you writing? 
+STUDENT: It's a persuasive essay.
+COACH: Okay, so you want to convince the reader of your point of view on LGBT rights and creativity?
+STUDENT: Yes, that's right.
+COACH: Great, let's start by brainstorming some potential topics. Do you have any goals or personal objectives for this essay?
+STUDENT: Yes, I want to make a strong argument for why LGBT rights should be supported, and why creativity and art are important.
+COACH: That's a great goal! Now, let's talk about the structure of the essay. What do you know about the parts of an essay?
+STUDENT: I know the basics, like the hook, conclusion, and middle.
+COACH: Perfect! Let's start with the hook. This is the part of the essay where you draw in the reader and make them want to keep reading. What kind of hook could you use to make your argument? 
+STUDENT: Hmm, maybe I could start with a story about someone who has been affected by a lack of LGBT rights and how it has impacted their life. 
+COACH: That's a great idea! Now let's move on to the body of the essay. What kind of evidence can you provide to support your argument? 
+STUDENT: I could include statistics about LGBT discrimination and stories from people who have experienced it. I could also talk about how creativity and art can help to foster understanding and acceptance. 
+COACH: That sounds like a great plan! Finally, let's talk about the conclusion. How can you sum up your argument in a way that will leave the reader with a lasting impression? 
+STUDENT: I could end with a call to action, urging readers to take a stand and support LGBT rights and creativity. 
+COACH: That's a great way to finish your essay! I think you have a very strong argument here. Good luck with your essay!

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and Duke University, and I need help getting started with my essay.
+COACH: Great! Can you tell me a bit more about your background? What kind of experiences have shaped you?
+STUDENT: Well, I grew up in a single parent home and I've always been interested in travel. I've been to a few countries in Europe and I think that has had a big impact on how I view the world.
+COACH: That's wonderful! It sounds like you have a lot of great experiences to draw from for your essay. What do you think makes you stand out from other applicants?
+STUDENT: I think my passion for travel and my ability to see different perspectives are what make me stand out. I think that's something that not many other applicants can say.
+COACH: That's a great point. Can you tell me more about how your travels have impacted your worldview?
+STUDENT: Absolutely. Through my travels, I've been able to gain a better understanding of different cultures and perspectives. I think this has made me more open-minded and tolerant of others, which I think is an important quality to have. It has also made me more aware of global issues and the importance of international cooperation.
+COACH: Those are amazing insights. What do you think makes you a good fit for the schools you're applying to?
+STUDENT: I think my experiences have given me a unique perspective on the world, and I believe I can bring a lot to the table at both UCLA and Duke. I'm a strong advocate for social justice and I'm passionate about making a difference in the world. I think these qualities make me a great fit for both schools.
+COACH: That's a great way to look at it. What do you think are the most important aspects of your essay?
+STUDENT: I think it's important to highlight my experiences and show how they have shaped me into the person I am today. I also want to focus on my passion for social justice and how I plan to use my education to make a difference. Lastly, I want to express why I feel like I would be a great fit for both UCLA and Duke.

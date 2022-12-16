@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my college application essay.
+COACH: Alright, what kind of help are you looking for?
+STUDENT: Well, I'm applying to a graduate engineering program and I'm having trouble figuring out what to write about.
+COACH: That's understandable. What kind of essay do you need to write? Is it a personal statement or a research paper?
+STUDENT: It's a personal statement.
+COACH: Okay, so what topics are you thinking of writing about?
+STUDENT: I'm not sure. I'm an LGBT student and I want to write about my experiences and how they have shaped me, but I'm not sure if that's the right topic.
+COACH: Absolutely! Writing about your experiences as an LGBT student is a great topic for a personal statement. It will help the admissions committee get to know you better and understand why you are a good fit for the program. Are there any particular experiences or aspects of your identity that you want to focus on?
+STUDENT: Yes, I want to focus on how being part of the LGBT community has made me more resilient and taught me to be an advocate for myself and others.
+COACH: That sounds like a great topic! You can start by writing about how you first became aware of your identity and how you've grown and developed since then. You can also talk about how your experiences have shaped your values and goals for the future. Finally, you can discuss how you plan to use your education to help the LGBT community. 
+STUDENT: That's really helpful, thank you! I'm also wondering why college matters so much.
+COACH: College is important because it provides an opportunity to gain new knowledge and skills, build relationships with professors and peers, and explore career options. College also gives you the chance to develop your passions and find new ones. It's also a great way to prepare for the future and gain the confidence and independence needed to succeed in the real world.

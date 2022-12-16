@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my college admission essay and I'm not sure what to focus on.
+COACH: That's a great question. Could you tell me a bit more about yourself and your goals? 
+STUDENT: Sure. I'm a Muslim student applying to grad school and I'm passionate about helping my local community. My goals are to use my education to make a difference in the world.
+COACH: That's a great ambition. It sounds like your essay should focus on how your faith and your commitment to making a difference will help you achieve your goals. What do you think about that idea? 
+STUDENT: I think it's a great idea. I want to show the admissions committee that I have the drive and determination to make a positive impact in the world.
+COACH: Absolutely. In your essay, you should talk about your faith and how it has shaped your personal objectives and goals. You can also discuss how your education will help you reach those goals and how you plan to use your education to make a difference in the world. Does that sound like something you're interested in exploring? 
+STUDENT: Yes, that sounds perfect. I'm excited to start writing about it.
+COACH: Great! Start by brainstorming some ideas and writing down your thoughts. Once you have a few ideas, you can start writing a rough draft. If you get stuck, don't hesitate to reach out and I'll be happy to help. Good luck!

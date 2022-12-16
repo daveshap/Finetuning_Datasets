@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essay. I'm applying to Yale and UNC.
+COACH: Alright, let's start by getting to know each other a bit better. Tell me a bit about yourself and why you're interested in applying to these two schools. 
+STUDENT: Well, I'm from Thailand and come from a poor family. I'm really passionate about creativity and art, and I think both Yale and UNC have great programs in those areas. I want to be able to express myself through art and also make a difference in the world.
+COACH: That's great! It sounds like you have a lot of ambition and drive. What specifically draws you to Yale and UNC?
+STUDENT: I'm especially drawn to Yale because of its strong reputation in the arts and humanities. I think it would provide me with the best education and resources to pursue my dreams. As for UNC, I'm attracted to the fact that its location is close to home, so I can stay close to my family.
+COACH: That's understandable. I think both of these schools could offer you a great opportunity to pursue your passions. What do you think makes you a good candidate for admission to these universities?
+STUDENT: I think my ability to think critically and express myself through art gives me an edge. I also have a strong academic record and have been involved in various extracurricular activities. I'm also very passionate about learning and making a difference in the world.
+COACH: Those are all great qualities! It sounds like you have a lot to offer to these universities. Now, let's talk about your essay. What kind of topics do you want to focus on?
+STUDENT: I want to focus on how my background and experiences have shaped me into the person I am today. I want to emphasize how my creativity and art have allowed me to express myself and how I plan to use this to make a difference in the world.

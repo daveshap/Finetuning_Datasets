@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A great opening for a college admissions essay should be engaging and draw the reader in. Try to start with something that will make the reader want to continue reading. You could start with an interesting anecdote, a quote, or a thought-provoking question. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on your unique story and experiences. It should also highlight your strengths and accomplishments. Be sure to include details that make you stand out from other applicants and show why you are a great fit for the school. Also, be sure to explain any challenges you have faced and how you overcame them.

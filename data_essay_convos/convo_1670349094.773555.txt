@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to engineering school and I need help with my admissions essay.
+COACH: Great, what kind of essay are you writing?
+STUDENT: It's a personal essay about how my Buddhist beliefs have shaped my life and why I want to pursue engineering.
+COACH: That sounds like an interesting topic. What kind of structure do you think would work best for this essay?
+STUDENT: I'm not sure. I was thinking of starting with an introduction that outlines my beliefs and then going into a few specific examples of how those beliefs have impacted my life.
+COACH: That's a great idea! You could also include a section that talks about how your Buddhist beliefs have helped you to become a better engineer and how they will continue to guide you in your studies. Are there any other elements you'd like to include in your essay?
+STUDENT: Yes, I'd like to talk about how my Buddhist beliefs have helped me to become an ally to the LGBT community and how I plan to use my engineering skills to help create a more inclusive world.
+COACH: That's an excellent idea! You could also discuss how your Buddhist beliefs have informed your view of the world and how they have helped you to become a more compassionate person. This could be a great way to show the admissions committee that you have the qualities they are looking for in a successful engineering student.

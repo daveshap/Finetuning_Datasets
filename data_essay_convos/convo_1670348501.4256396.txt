@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm not sure where to start. I need to write an essay about my skills and achievements, but my family is poor and I don't have many accomplishments to talk about.
+COACH: That's okay. You don't need to have a lot of achievements to write a good essay. What are your goals and personal objectives?
+STUDENT: Well, I want to go to college and eventually become a doctor.
+COACH: That's a great goal! Now, let's focus on how you can write an essay that will help you get there. What do you know about the parts of an essay?
+STUDENT: Not much. I know there's a hook, a conclusion, and a middle section, but I'm not sure what goes in each one.
+COACH: That's okay. Let's start with the hook. This is the part of the essay that grabs the reader's attention and sets the tone for the rest of the essay. It can be a quote, a story, or even a statistic. For example, if you're writing about overcoming adversity, you might start with a quote from a famous refugee or a statistic about how many refugees have been successful.
+STUDENT: That's a great idea!
+COACH: Now let's move on to the middle section. This is where you'll talk about your skills and achievements. It doesn't have to be a long list of accomplishments; instead, focus on a few key points that demonstrate your strengths and show how you overcame any obstacles. For example, you could talk about how you worked hard to get good grades despite your family's financial difficulties or how you volunteered at a local charity.
+STUDENT: Okay, that makes sense.
+COACH: Finally, let's talk about the conclusion. This is where you bring it all together and explain why you're the best candidate for the job or school. You can also talk about your future goals and how you plan to achieve them.
+STUDENT: Okay, I think I understand now. Thank you for all your help!

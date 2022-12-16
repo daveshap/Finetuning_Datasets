@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply to college and I'm not sure how to write a good essay.
+COACH: Alright, let's start with the basics. What school are you trying to apply to?
+STUDENT: I'm looking at North Carolina State University.
+COACH: Great! So, what kind of essay do you need to write for your application?
+STUDENT: I think it's a personal statement.
+COACH: Okay, so you need to write a personal statement. What would you like to focus on in your essay?
+STUDENT: Well, I'm really interested in Buddhism and I've been studying it for a few years now. I also spent some time in China studying the culture and language.
+COACH: That's great! A personal statement is a great opportunity to showcase your passions and experiences. You could focus on how your interest in Buddhism has shaped your worldview and how your experience in China has helped you grow as a person. This could make for an engaging essay. 
+STUDENT: That sounds really interesting. How do I make sure my essay is compelling and stands out?
+COACH: The key is to be authentic and honest. Make sure that your essay reflects your personality and your unique experiences. Don't be afraid to show your vulnerability and share your feelings. This will make your essay more engaging and memorable. Additionally, be sure to use vivid descriptions and vivid language to bring your story to life. 
+STUDENT: That makes sense. Thanks for the advice. I think I have a better idea of how to approach my essay now. 
+COACH: You're welcome! If you need any more help, don't hesitate to reach out. Good luck with your essay!

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Don't worry, we can get through this together. Let's start with the basics: what is the prompt for your essay?
+STUDENT: The prompt is to explain why I'm a good fit for the college.
+COACH: Great! This is a great opportunity to show the admissions committee who you are and why you would be a great addition to their school. Before you start writing, it's important to brainstorm some ideas. What are some of your best qualities or experiences that you would like to highlight in your essay? 
+STUDENT: Well, I'm a hard worker and I'm really passionate about learning new things. I'm also very involved in my community and have done a lot of volunteer work.
+COACH: Those are all great qualities that you can definitely include in your essay. Now, let's think about how you can incorporate those qualities into your essay. What specific stories or examples can you use to demonstrate your hard work, passion for learning, and involvement in the community? 
+STUDENT: Well, I was part of a student-run organization at my high school that organized fundraising events for local charities. I was also a tutor for students in my grade who needed extra help with their classes. And last summer, I took a course on computer programming which I found really interesting.
+COACH: That's great! All of these experiences can be used to illustrate your qualities and make your essay stand out. To make your essay even more powerful, you should focus on one or two specific stories and really go into detail about them. For example, you could talk about the specific challenges you faced while organizing the fundraising events or the techniques you used to help the students you tutored. These kinds of details will really help to bring your essay to life and make it more memorable.

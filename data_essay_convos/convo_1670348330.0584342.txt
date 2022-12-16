@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about the impact of Islam on LGBT rights in Germany and Vietnam.
+COACH: Okay, that's a great topic! Can you tell me more about what you want to focus on in your essay?
+STUDENT: Well, I want to compare how Islamic countries in the Middle East view LGBT rights versus countries like Germany and Vietnam.
+COACH: That's an interesting comparison. What kind of angle are you looking to take in your essay?
+STUDENT: I want to look at the legal and cultural implications of Islam's influence on LGBT rights in both countries.
+COACH: Alright, that's a great starting point. What do you know so far about the topic?
+STUDENT: Well, I know that in many Islamic countries, homosexuality is illegal and punishable by death. In Germany and Vietnam, on the other hand, LGBT rights have seen some progress in recent years.
+COACH: That's great information. Now, let's talk about the structure of your essay. Do you know which parts of an essay you need to include?
+STUDENT: Yes, I know I need to have an introduction, body paragraphs, and a conclusion.
+COACH: Great! So, for your introduction, you could start by introducing the topic and providing some background information about the legal and cultural implications of Islam's influence on LGBT rights. Then, in your body paragraphs, you can compare and contrast the two countries and provide examples of how Islam has impacted LGBT rights in each country. Finally, in your conclusion, you can summarize your findings and provide your thoughts on the implications of Islam's influence on LGBT rights in both countries. Does that make sense?
+STUDENT: Yes, that makes a lot of sense. Thank you for your help!

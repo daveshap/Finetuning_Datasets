@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: A great place to start is by formulating a thesis statement. This is essentially a sentence or two that summarizes the main argument of your essay. It should be clear and concise, so that readers know what to expect from the rest of the essay.
+STUDENT: What should my thesis statement include?
+COACH: Your thesis statement should include the main point you want to make in your essay, as well as any supporting points you plan to discuss. It should also make clear why this point matters and why it is relevant to the topic at hand. Once you have your thesis statement, you can begin to develop the body of your essay.

@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and Harvard for med school and I'm having trouble writing my essay.
+COACH: Great! What are some of the topics that you're considering for your essay?
+STUDENT: Well, I'm not sure what to write about. I feel like I'm a very boring person and don't have anything interesting to write about.
+COACH: That's okay. Everyone has something interesting to write about. Let's start by talking about your experiences. What have you done in the past that has been meaningful to you?
+STUDENT: Hmm, I guess I could talk about my volunteer work at a local hospital. I really enjoyed helping out and getting to know the patients there.
+COACH: That sounds like a great experience. What did you learn from it?
+STUDENT: I learned a lot about the importance of compassion and empathy when dealing with patients. It was also a great opportunity to practice my communication skills.
+COACH: Those are great lessons to include in your essay. What else have you done that has been meaningful to you?
+STUDENT: Well, I also volunteered at a summer camp for underprivileged kids. It was a great experience and I got to know the kids and their families.
+COACH: That's wonderful. What did you learn from that experience?
+STUDENT: I learned how important it is to be patient and understanding with people who come from different backgrounds. I also learned how to be a leader and how to inspire others.
+COACH: Those are great lessons to include in your essay. Is there anything else you'd like to talk about?
+STUDENT: Yes, I recently attended a summer program at Yale and it was a great experience. I learned a lot about the medical field and how to become a successful doctor.
+COACH: That sounds like a great experience. What did you learn from it?
+STUDENT: I learned a lot about the medical profession and how to best prepare myself for a career in medicine. I also had the chance to network with other students and professionals in the field.

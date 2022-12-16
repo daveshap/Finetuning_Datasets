@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I need help with my personal statement.
+COACH: Great, let's get started. Tell me a bit more about the essay. What are you writing about?
+STUDENT: I'm writing about my experience living in France for a year, and how it changed my outlook on life.
+COACH: Interesting! What kind of changes did you experience?
+STUDENT: Well, I got to explore a different culture, meet new people, and see the world from a different perspective. I also got involved in some charity work while I was there, which really opened my eyes to the importance of giving back.
+COACH: That sounds like a great experience! What kind of structure are you thinking of using for the essay?
+STUDENT: I was thinking of using a five-paragraph structure, with an introduction, three body paragraphs, and a conclusion.
+COACH: That's a great idea. Let's start with the introduction. What kind of hook are you thinking of using to grab the reader's attention?
+STUDENT: Hmm, I'm not sure. I was thinking of something along the lines of "The year I spent in France changed my life in ways I never expected."
+COACH: That sounds like a great hook! Now let's talk about the body paragraphs. What kind of points are you thinking of making in each one?
+STUDENT: The first paragraph will be about my experience exploring the culture, the second will be about meeting new people, and the third will be about my charity work.
+COACH: Perfect! And what kind of conclusion are you thinking of writing?
+STUDENT: I want to end on a positive note, so I was thinking of something along the lines of "My time in France taught me the importance of giving back, and I am forever grateful for the experience."
+COACH: That sounds great! Do you have any other questions or concerns about your essay?
+STUDENT: No, I think I'm good. Thanks for your help!

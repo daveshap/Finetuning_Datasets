@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: That's a great question. Let's start by talking about your essay as a whole. What is the main point of your essay?
+STUDENT: I want to show that I'm capable of succeeding in college and that I'm a good fit for the university.
+COACH: That's a great goal. Now, let's think about how you can use your conclusion to emphasize that point. What are some of the key points you've made in your essay that could be used to support your goal?
+STUDENT: I've talked about my academic achievements, my extracurricular activities, and my passion for learning. 
+COACH: Perfect. So, the conclusion should tie all of these points together and emphasize why you would be a great fit for the university. You can do this by restating your main point and then summarizing the evidence you've provided throughout the essay. This will help to reinforce your argument and leave a lasting impression on the reader. 
+STUDENT: Okay, I think I understand. 
+COACH: Great! Let me give you an example. You could say something like, “My academic achievements, extracurricular activities, and passion for learning make me an ideal candidate for this university. I am confident that I have the skills and enthusiasm necessary to excel in the college environment and contribute to the university community.”
+STUDENT: That sounds great, thank you!
+COACH: You're welcome! Remember, the conclusion should be a strong statement that summarizes your main point, and should leave the reader with a lasting impression. Good luck with your essay!

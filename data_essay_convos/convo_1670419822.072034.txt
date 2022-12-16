@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a senior in college and I'm trying to figure out how to write my essay so that I can get into Princeton.
+COACH: That's a great goal! Can you tell me more about what you're looking for help with? Are you having trouble coming up with ideas or do you need help with the structure of the essay?
+STUDENT: Well, I'm not sure what to include in my essay. I feel like I'm a pretty boring person and don't have any unique skills or achievements.
+COACH: That's definitely not true! Everyone has something unique to offer. Can you think of any particular skills or accomplishments that make you stand out? Maybe you have a special interest in a certain topic, or you excel at a certain activity.
+STUDENT: Well, I'm part of the LGBT community and I'm very passionate about advocating for the rights of LGBT people.
+COACH: That's great! You could definitely focus your essay on this topic and how it has shaped your life and your goals. You could talk about how your experiences have given you a unique perspective on life and how you plan to use that perspective in your future career. You could also discuss how you plan to use your education to continue to fight for the rights of LGBT people.

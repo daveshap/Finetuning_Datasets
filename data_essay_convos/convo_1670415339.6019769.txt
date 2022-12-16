@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help writing my college essay.
+COACH: Great! What type of essay are you writing?
+STUDENT: It's an application essay for Princeton University.
+COACH: Got it. Tell me a bit more about yourself and why you're interested in applying to Princeton.
+STUDENT: Well, I'm a high school student who loves to volunteer and do charity work. I'm also interested in going to law school after college.
+COACH: That's great! It sounds like you have a lot of passion and commitment to helping others. What else can you tell me about yourself that makes you unique and stand out from other applicants?
+STUDENT: I don't know. I feel like I'm a pretty boring person.
+COACH: That's not true at all! Everyone has something special about them that makes them unique. Can you think of any hobbies or activities that you enjoy?
+STUDENT: Yeah, I love playing the piano and I'm also really into photography.
+COACH: That's great! Those are both wonderful hobbies that could make for an interesting essay. What about your academic interests? Do you have any particular subjects that you excel in or are passionate about?
+STUDENT: I'm really interested in history and international relations. I also have a strong interest in politics.
+COACH: Perfect. Those are all great topics to explore in your essay. What do you think makes you a good fit for Princeton specifically?
+STUDENT: Well, I think my commitment to volunteerism and charity work would be a great addition to their student body. I also think that my academic interests would be a great asset to the university.
+COACH: That's a great point. I think focusing on those two aspects of yourself would make for a compelling essay. Are there any other schools you're applying to, such as Duke University?
+STUDENT: Yes, I'm also applying to Duke University.
+COACH: Great! Do you have any particular reasons for wanting to attend Duke?
+STUDENT: I'm really interested in their law school program and I think it would be a great fit for me.
+COACH: That's great! I think focusing on your desire to attend law school and how Duke's program could help you achieve that goal would make for a great essay.

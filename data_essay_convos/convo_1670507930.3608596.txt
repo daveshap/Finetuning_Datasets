@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the type of essay you're writing. What type of essay are you writing?
+STUDENT: an argumentative essay.
+COACH: Okay, an argumentative essay should be around 500-800 words long. How can I help you with your essay?
+STUDENT: Well, I'm having trouble finding a good topic.
+COACH: That's understandable. Do you have any ideas for topics that interest you?
+STUDENT: Yes, I'm interested in the debate over gun control.
+COACH: Great! That's a great topic for an argumentative essay. Let's start by looking at both sides of the issue. What arguments do you think people make for and against gun control?

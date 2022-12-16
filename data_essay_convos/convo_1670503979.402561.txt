@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Well, it depends on the type of essay you are writing. For a term paper, you should include an introduction that outlines the topic and purpose of your essay, a body of evidence that supports your argument, and a conclusion that ties everything together. You should also make sure to include evidence from sources to back up any claims you make.

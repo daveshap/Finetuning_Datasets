@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I have no idea what to write about.
+COACH: That's okay! It can be hard to come up with an idea for an essay. Can you tell me a bit more about yourself? What kind of topics interest you or what have you been studying in school?
+STUDENT: Well, I'm really interested in French culture and I've been taking French classes since high school. 
+COACH: Interesting! Have you had any experiences with French culture that you could write about? For example, did you ever travel to France or take part in any cultural activities?
+STUDENT: Yes, I traveled to France last summer and it was really eye-opening. I got to experience the culture first-hand and it really made me appreciate how diverse cultures can be.
+COACH: That sounds like a great experience! You could consider writing about your trip to France and how it has shaped your perspective on culture. What other topics do you think you could write about?
+STUDENT: I'm also interested in Buddhism and I've been reading a lot about it lately.
+COACH: That's great! Buddhism is a fascinating topic and there are many different aspects of it to explore. You could consider writing about the history of Buddhism, its impact on society, or the spiritual practices associated with it.

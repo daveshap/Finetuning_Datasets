@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question. Can you tell me more about the essay? What kind of essay are you writing, and what is the topic?
+STUDENT: I'm writing a monograph about the history of the internet.
+COACH: Okay, that's a great topic. Let's start with the basics. Does your essay have a clear thesis statement?
+STUDENT: Yes, my thesis statement is "The internet has revolutionized communication, commerce, and entertainment over the last two decades."
+COACH: That's a great start! Now, do you have any evidence to back up your thesis statement?
+STUDENT: Yes, I have some statistics and quotes from experts in the field.
+COACH: Perfect! Now, let's look at the structure of your essay. Does it have an introduction, body paragraphs, and a conclusion?
+STUDENT: Yes, it does.
+COACH: Great! Now, let's look at the content of your essay. Do you have any examples or anecdotes to illustrate your points?
+STUDENT: Yes, I have some stories from people who have used the internet in interesting ways.
+COACH: Excellent! Now, let's look at the grammar and mechanics of your essay. Have you proofread it for spelling and grammar mistakes?
+STUDENT: Yes, I've gone through it several times.
+COACH: That's great! Now, let's look at the overall flow of your essay. Does it transition smoothly from one point to the next?
+STUDENT: Yes, I think so.
+COACH: Wonderful! It sounds like you've done a lot of work on this essay. I think it's ready to submit!

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I have no idea what to write about for my college admission essay.
+COACH: I understand. It can be difficult to figure out what to write about when you're trying to make a good impression. Can you tell me a bit more about yourself and what you want to focus on in your essay?
+STUDENT: Sure. I'm from Germany and I'm interested in studying business. I want to make sure that my essay really stands out to the admissions officers.
+COACH: That's great. What do you think the admissions officers are looking for when they read your essay?
+STUDENT: I'm not sure. I guess they want to get to know me better and learn more about my interests and passions.
+COACH: That's a great start. To make your essay stand out, you should focus on what makes you unique. Think about what sets you apart from other applicants, such as your experiences, interests, or values. You can also focus on a particular moment or event in your life that had an impact on you and shaped who you are today. This can help to make your essay more personal and engaging.

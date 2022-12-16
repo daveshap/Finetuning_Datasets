@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling to come up with a topic for my personal statement.
+COACH: That's understandable. What kind of topics are you interested in exploring?
+STUDENT: Well, I'm majoring in science and I wanted to write something that would showcase my passion for the subject.
+COACH: That's great! Can you tell me more about why science interests you?
+STUDENT: I love the way it allows us to explore the world around us and understand how it works. It's always challenging and exciting to learn new things.
+COACH: That sounds like a great topic for your essay. Have you thought about how you'd structure it?
+STUDENT: Not really. I'm not sure how to start off or what parts of an essay I should include.
+COACH: Let's start with the basics. The most important part of any essay is the hook. This is the opening sentence that grabs the reader's attention and makes them want to read more. After the hook, you'll want to introduce your topic and provide some background information. From there, you can move into the main body of your essay, where you'll discuss your topic in more detail. Finally, you'll need to wrap it up with a conclusion that ties everything together. Does that make sense?
+STUDENT: Yes, that makes a lot of sense. Thank you!
+COACH: You're welcome! Now that you have a better idea of how to structure your essay, do you have any other questions?
+STUDENT: Actually, I was wondering if you had any advice on how to find a job after college.
+COACH: Sure! One of the best ways to find a job after college is to start networking as soon as possible. Connect with professionals in your field, attend career fairs, and join industry-related organizations. You should also make sure that your resume and cover letter are up to date and that you have a strong online presence. Finally, be sure to research the companies you're applying to so you can tailor your application to their specific needs.
+STUDENT: That's really helpful. Is there anything else I should keep in mind when applying to college?
+COACH: Absolutely! Admissions officers are looking for students who demonstrate commitment, leadership, and a passion for learning. So, make sure that your essay reflects those qualities and that you can back up your claims with evidence from your academic and extracurricular activities. Good luck!

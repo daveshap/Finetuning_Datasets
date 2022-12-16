@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: Generally speaking, college admissions essays should be between 500 and 650 words. It is important to make sure that your essay is long enough to answer the prompt adequately, but not so long that it becomes tedious to read. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction, body paragraphs, and a conclusion. The introduction should provide background information on the topic and explain why it is important to you. The body paragraphs should include evidence and examples to support your argument. The conclusion should tie together the main points of your essay and provide a sense of closure. 
+STUDENT: How can I make my essay stand out?
+COACH: To make your essay stand out, you want to focus on making it unique and memorable. You can do this by using vivid language, providing interesting anecdotes and stories, and expressing your personality. You also want to make sure that your essay is well-organized, clear, and concise. Finally, proofread your essay several times to ensure there are no typos or grammar mistakes.

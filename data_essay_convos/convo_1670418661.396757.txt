@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my college essay. I want to talk about my experiences with neurodiversity and how it has shaped my goals and personal objectives.
+COACH: That sounds like a great topic. Let's start by talking a bit more about your experiences with neurodiversity. Can you tell me more about that?
+STUDENT: Sure. I was diagnosed with ADHD when I was younger and it has had a huge impact on my life. I've had to learn how to manage my symptoms and use them to my advantage. It's been a long journey, but I'm really proud of the progress I've made.
+COACH: That's amazing! It sounds like you've really learned a lot from your experiences. Can you tell me more about how this has impacted your goals and personal objectives?
+STUDENT: Absolutely. I've learned to be more resilient and to never give up on my dreams. I'm also more aware of the importance of self-care and taking care of my mental health. These lessons have helped me to set realistic goals for myself and stay focused on achieving them.
+COACH: That's great! So, what kind of goals have you set for yourself?
+STUDENT: I want to attend college in Germany and study international business. I'm also interested in exploring the cultural and societal differences between Germany and the US. I think this experience would be invaluable to my personal growth and development.
+COACH: That's an ambitious goal! How do you plan to finance your college education?
+STUDENT: I'm applying for scholarships and grants and I'm also looking into student loans. I'm also considering working part-time while I'm in school to help cover my expenses.
+COACH: That's a great plan. Have you looked into the University of North Carolina? They have a great international business program and they offer several scholarships and grants that could help you finance your education.
+STUDENT: That's great to know! I'll definitely look into it. Thank you so much for your help!

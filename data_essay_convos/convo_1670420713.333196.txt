@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to medical school and I need help with my essay.
+COACH: Great! Can you tell me a bit more about yourself? What do you like to do, and what are your passions?
+STUDENT: Well, I'm a Christian and I love to travel. I've been to Germany a few times and really enjoyed it. I also like to read and write, but I'm not sure if I'm interesting enough for a med school essay.
+COACH: That sounds like a great start! You don't have to be an incredible person to be accepted into medical school. In fact, many med schools are looking for people who demonstrate a commitment to service and a strong work ethic. How have you demonstrated those qualities in your life?
+STUDENT: I volunteer at a local hospital, and I'm a part of a church group that works with the homeless. I also work hard in my classes and have good grades.
+COACH: That's great! Those are all excellent examples of how you demonstrate a commitment to service and a strong work ethic. Now, let's talk about your essay. What would you like to focus on?
+STUDENT: I think I'd like to focus on my experiences in Germany, and how they have shaped my views on medicine and healthcare.
+COACH: That sounds like a great topic! What specifically do you want to focus on? Do you want to talk about the cultural differences you experienced, the different healthcare systems you saw, or something else?
+STUDENT: I think I'd like to focus on the cultural differences and how they have impacted my views on healthcare.
+COACH: That's a great topic! Let's start by talking about what you observed in Germany. What were some of the cultural differences you noticed?

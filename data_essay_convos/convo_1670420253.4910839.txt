@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi. I'm having trouble coming up with a topic for my essay. I'm applying to Harvard and I want to write something that will stand out.
+COACH: That's great! What kind of topics have you considered so far?
+STUDENT: Well, I've been thinking about writing about social issues, but I'm not sure if that's interesting enough.
+COACH: Social issues can be a great topic for an essay. What kind of social issues are you interested in?
+STUDENT: I'm mostly interested in global issues, like poverty and inequality.
+COACH: That's a great topic! Have you done any research on the issue yet?
+STUDENT: Yes, I've been reading up on poverty and inequality in Europe.
+COACH: That's excellent! What have you found out so far?
+STUDENT: Well, I've found out that poverty and inequality are still major problems in many European countries, and that there are some initiatives in place to try and address these issues.
+COACH: That's very interesting! What do you think should be done to help reduce poverty and inequality in Europe?
+STUDENT: I think there needs to be more investment in education and job training programs to help people develop the skills they need to get good jobs. I also think there needs to be more public awareness campaigns to raise awareness of these issues and encourage people to take action.
+COACH: Those are both great ideas! Do you have any other ideas or thoughts on how to address these issues?
+STUDENT: I think it's important to focus on creating economic opportunities for people in poverty, so that they can have the chance to improve their lives and the lives of their families. I also think it's important to invest in healthcare and social services to ensure that everyone has access to basic necessities.
+COACH: Those are all great points! Is there anything else you want to talk about when it comes to your essay?
+STUDENT: Yes, I'm worried that I'm not interesting as a person, and that my essay won't reflect that.
+COACH: Don't worry, everyone has something unique to offer! Think about what makes you special and use that as the basis for your essay. You don't have to be an expert on the topic, but if you can offer a personal perspective on the issue, that will make your essay stand out. Also, you can always look into internships or volunteering opportunities related to the topic you're writing about to gain more experience and knowledge. Finally, consider how you can use your essay to show off your skills and qualities that will make you attractive to employers after college.

@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a personal statement for my college application and I'm not sure what to write about.
+COACH: That's a great question! What topics have you been considering for your essay?
+STUDENT: Well, I'm really passionate about charity work and I also want to talk about sexism in the workplace.
+COACH: Those are both great topics. It sounds like you have a lot to say about both of those issues. Can you tell me a bit more about why these topics matter to you?
+STUDENT: Absolutely. I've been involved in charity work for many years and I believe it's an important part of being a responsible citizen. I also think sexism is a huge problem in the workplace and it needs to be addressed.
+COACH: That's great! It sounds like you have a lot of passion around these topics. Have you thought about how you can use your creativity and art to express your thoughts on these issues?
+STUDENT: Actually, that's something I hadn't considered. I'm a pretty creative person, so I think I could use my art to make my essay stand out.
+COACH: That's a great idea! How do you think you could use your creativity and art to express your thoughts on these topics?
+STUDENT: I could use my art to illustrate the struggles that people face when dealing with sexism in the workplace. I could also use my art to showcase the positive effects of charity work.
+COACH: That's an excellent plan! Do you have any other ideas for how you could use your creativity and art to make your essay stand out?
+STUDENT: Yes, I could create a series of illustrations that show how charity work has helped people in need, and how sexism has held people back. I could also create a short video or animation that highlights the importance of charity work and the need to combat sexism. 
+COACH: That sounds like a great plan. Do you have any other questions or ideas you would like to discuss?
+STUDENT: No, I think I have a good idea of what I need to do now. Thank you for your help!

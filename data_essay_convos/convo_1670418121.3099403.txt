@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm having trouble writing my personal statement.
+COACH: That's understandable. Writing a personal statement can be intimidating. Can you tell me more about what makes you feel stuck?
+STUDENT: Well, I'm not sure what to write about. I don't think I'm very interesting as a person, and I'm afraid that my essay won't be engaging enough.
+COACH: It's totally normal to feel unsure and intimidated when writing a personal statement. I'm here to help you figure out how to make your essay engaging and memorable. What do you think makes an essay engaging?
+STUDENT: I guess it depends on the topic, but I think it's important to be honest and vulnerable.
+COACH: Absolutely! Honesty and vulnerability are key elements of an engaging essay. So, let's talk about what you can write about in your essay. What obstacles have you faced in your life and how have you overcome them?
+STUDENT: Well, I've faced a lot of rejection in my life. I've been rejected from jobs, college applications, and even friendships. But I've learned to use that rejection as motivation and it has made me stronger.
+COACH: That's great! That's the kind of story that admissions officers want to hear. You can use your experiences with rejection to show your resilience and determination. Focus on how you've grown and changed as a result of your struggles. That's the kind of story that will make your essay stand out.

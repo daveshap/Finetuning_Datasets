@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm having trouble figuring out what to write about in my personal statement.
+COACH: Okay, let's start with the basics. What kind of topics have you been considering writing about?
+STUDENT: Well, I've been thinking about writing about my experience studying Buddhism, or my plans for after college, like finding a job or continuing my education.
+COACH: That's great! Let's start with the Buddhism topic. What about it interests you the most?
+STUDENT: I find the philosophy and teachings of Buddhism to be really inspiring and thought-provoking. I also think it's a great way to explore different cultures and gain insight into how people live their lives.
+COACH: That's an excellent topic to focus on. Have you ever had any experiences with Buddhism that you could share in your essay?
+STUDENT: Yes, I recently took a trip to India and visited some Buddhist monasteries. It was a really eye-opening experience and I learned a lot about the religion and the culture surrounding it.
+COACH: That sounds like a great experience to include in your essay. What did you learn from your trip that you think is important to share?
+STUDENT: One of the main things I learned is that Buddhism is more than just a religion - it's a way of life. It's about being mindful and living in the present moment. It's about finding inner peace and understanding the interconnectedness of all things.
+COACH: That's a beautiful sentiment. How do you think this relates to your plans for after college?
+STUDENT: I think it's important to remember that life is about more than just achieving goals and reaching milestones. It's also about finding balance and learning to appreciate the small moments in life. I want to take this philosophy with me as I embark on my journey after college, whether it's finding a job or pursuing a graduate degree at Princeton.

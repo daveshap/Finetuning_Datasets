@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question. To know when your essay is finished, it's important to understand the purpose of a persuasive essay. A persuasive essay is meant to convince the reader to think or act in a certain way. So, to know when your essay is finished, you should make sure that you have presented a convincing argument and provided enough evidence to support it.
+Have you started writing your essay yet?
+STUDENT: Yes, I've written the introduction and a few body paragraphs.
+COACH: That's great! Let's take a look at what you've written so far. Can you tell me what your argument is?
+STUDENT: My argument is that the government should increase funding for public schools in order to improve educational outcomes.
+COACH: Okay, that sounds like an interesting argument. What evidence have you provided to support this argument?
+STUDENT: I have provided statistics on the current state of public school funding and the impact it has on educational outcomes. I have also discussed the potential benefits of increased funding, such as improved teacher salaries and better resources for students.
+COACH: That's great! It sounds like you have a solid argument with supporting evidence. Now, let's think about how you can make your argument even stronger. Have you considered using any counterarguments to strengthen your argument?
+STUDENT: Not yet.
+COACH: That's a good idea. Counterarguments can be a great way to demonstrate that you have considered both sides of the argument and to show that you have thoughtfully considered the issue. For example, you could consider the argument that increased funding for public schools would be too expensive for the government. By addressing this counterargument, you can show that you have thoughtfully considered the issue and provide evidence to refute this argument.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm applying to med school in China. I'm not sure how the admissions process works and I need help writing an admissions essay.
+COACH: That's great that you're taking steps to pursue your dream of becoming a doctor! First, let's talk about the admissions process. In China, the admissions process for medical school is very competitive. You'll need to submit an application form, transcripts, letters of recommendation, and a personal statement or admissions essay.
+STUDENT: Okay, so I know what I need to submit, but I'm not sure how to write the admissions essay. What should I include?
+COACH: The admissions essay is your chance to show the admissions committee why you are the best candidate for the program. It should be focused on your unique background, experiences, and goals. You'll want to highlight any experiences that have shaped your desire to become a doctor and explain why you would be an asset to the program. 
+STUDENT: That makes sense. What else should I consider when writing my essay?
+COACH: You'll also want to make sure that your essay is well-structured, with a clear introduction, body, and conclusion. You'll also want to make sure that your essay is free of errors and that it flows logically from one point to the next. Finally, make sure that you proofread your essay multiple times before submitting it.

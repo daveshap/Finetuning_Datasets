@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and I'm having a hard time with the essay.
+COACH: Okay, let's start by talking about the parts of the essay. What do you know about the hook, the conclusion, and the middle?
+STUDENT: Well, I know that the hook is the first sentence and it should grab the reader's attention. The conclusion is the last sentence, and it should wrap up the essay. And the middle is the body of the essay that explains the main points.
+COACH: That's right. Now, what kind of essay are you writing? Is it a personal statement or a research paper?
+STUDENT: It's a personal statement.
+COACH: Great. What are you planning to write about in your personal statement? 
+STUDENT: I want to talk about my passion for creativity and art, and how it has shaped my life.
+COACH: That sounds like a great topic for your essay. What kind of creative activities do you enjoy?
+STUDENT: I love painting, drawing, and photography.
+COACH: That's wonderful. How have these activities helped you grow as an individual? 
+STUDENT: They've helped me gain confidence in my abilities and express myself in new ways. I've also been able to explore different cultures and perspectives through my artwork.
+COACH: That's amazing. You could definitely use this experience to write a compelling personal statement. Have you thought about how you might structure your essay?
+STUDENT: Not really. I'm not sure where to start.
+COACH: That's okay. Let's start by brainstorming some ideas. Think about specific moments or experiences that have helped shape your creative journey. Once you have some ideas, we can work on putting them together into a cohesive essay.

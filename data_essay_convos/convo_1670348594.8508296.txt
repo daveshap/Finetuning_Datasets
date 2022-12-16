@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with an essay I'm writing about my experiences as a student from a single-parent home.
+COACH: Great! Can you tell me a bit more about your experiences? What kind of challenges have you faced coming from a single-parent home?
+STUDENT: Sure. Growing up with a single parent was often difficult financially. We had to be very mindful of our budget and had to make sacrifices in order to make ends meet. It was also difficult to find the time to focus on school and extracurricular activities.
+COACH: That sounds like a lot to manage. How did you manage to stay focused and motivated?
+STUDENT: Well, I found that volunteer work was a great way to stay motivated. I volunteered at a local church and at a food bank, which really helped me stay focused on my studies and gave me a sense of purpose.
+COACH: That's great that you were able to find ways to stay focused and motivated. Have you been able to pursue any of your passions or dreams?
+STUDENT: Yes, I'm currently applying to MIT and hope to study engineering. I'm also very interested in Buddhism and the philosophy behind it.
+COACH: That's awesome! So, what kind of essay are you writing about your experiences?
+STUDENT: I'm writing an essay about how my experiences as a student from a single-parent home have shaped my life and how I plan to use my education to help others.
+COACH: That sounds like a great topic. What kind of advice do you need with your essay?
+STUDENT: Well, I'm not sure how to structure it and how to effectively communicate my message. I'm also confused about how financing college works, so any advice you can give me would be helpful. 
+COACH: Sure. Let's start by talking about the structure of your essay. What kind of format would you like to use? Do you want to write a narrative essay or an argumentative essay?

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to engineering programs at North Carolina State University, and I need help with my essay.
+COACH: Alright, let's start with a few questions. What do you hope to gain from studying engineering at NCSU?
+STUDENT: I'm interested in the engineering program at NCSU because I want to gain the knowledge and skills necessary to become an effective engineer. I'm also excited about the research opportunities available at the school.
+COACH: That's great! What experiences have you had that make you uniquely qualified for the engineering program?
+STUDENT: I've had a lot of experience with engineering projects. In high school, I was part of a robotics team and I designed and built robots that competed in regional competitions. I also worked with a team to build a bridge as part of a charity project in Thailand. Additionally, I'm passionate about Christianity and I think my faith will give me a unique perspective on the engineering field. 
+COACH: It sounds like you have a lot of great experiences that make you well-suited for the engineering program at NCSU. What do you think sets you apart from other applicants?
+STUDENT: I think my experience with robotics and charity work combined with my faith gives me a unique perspective on engineering. I'm also very passionate and determined to succeed, which I think will help me stand out from other applicants.

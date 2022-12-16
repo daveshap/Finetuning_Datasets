@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for a variety of qualities in an essay. They want to see evidence that you have done your research, that you can think critically, and that you can express your thoughts clearly and concisely. They also look for evidence of your ability to research and analyze information, as well as your creativity and problem-solving skills. 
+STUDENT: What should I include in my essay?
+COACH: You should include an introduction, body paragraphs, and conclusion. In the introduction, provide a brief overview of the topic and state your thesis statement. In the body paragraphs, provide evidence to support your thesis statement and explain how it relates to the topic. Finally, in the conclusion, summarize your main points and provide a call to action. Make sure to use reliable sources, cite them correctly, and proofread your work before submitting.

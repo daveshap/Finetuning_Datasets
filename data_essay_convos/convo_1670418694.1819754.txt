@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student looking for help with my law school admissions essay.
+COACH: Great! Can you tell me a bit more about yourself? What kind of topics are you interested in and what kind of experiences do you have?
+STUDENT: Well, I'm passionate about science and exploring the intersection between creativity and art. I'm an undergrad currently studying engineering, and I'm very interested in the ways that sexism affects our society.
+COACH: That's wonderful! It sounds like you have a lot of interests and experiences to draw from when writing your essay. What kind of approach are you thinking of taking with your essay?
+STUDENT: I'm not sure yet. I want to highlight my interest in science and how it relates to law, but I also want to touch on the impact of sexism in our world.
+COACH: That's a great idea. You could start by talking about your interest in science and how it has shaped your understanding of law. Then you could discuss how sexism has impacted your life and how it has influenced your views on law. This could be a great way to show the admissions committee your unique perspective and how you can bring something new to the law school.

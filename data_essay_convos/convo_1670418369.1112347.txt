@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for my college application and I'm having trouble figuring out what to focus on.
+COACH: That's understandable. It can be difficult to narrow down your thoughts and experiences into one essay. Can you tell me a bit more about yourself and what topics you're interested in exploring?
+STUDENT: Sure. I'm a senior in high school and I'm interested in attending either Yale or UCLA. I grew up in a single parent home and I'm passionate about social issues. I've also traveled quite a bit, so I have a lot of cultural experiences to draw from.
+COACH: That's great! It sounds like you have a lot of unique experiences that you can use to make your essay stand out. What kind of social issues are you passionate about?
+STUDENT: Well, I'm particularly interested in environmental protection and poverty alleviation. I think these are two of the most pressing problems facing our world today and I want to do my part to help.
+COACH: That's admirable. You could use your essay to discuss how your experiences have shaped your views on these issues and how you plan to use your education to make a difference. You could also talk about how your travels have opened your eyes to different cultures and perspectives, and how that has influenced your understanding of social issues.

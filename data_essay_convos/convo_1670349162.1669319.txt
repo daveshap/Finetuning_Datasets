@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to med schools in Europe and I'm not sure what to write about in my personal statement.
+COACH: That's a great question. I'd like to start by asking why you're interested in attending med school in Europe. 
+STUDENT: Well, I've always been fascinated with European culture and politics, and I think studying medicine in Europe would give me a unique perspective on healthcare.
+COACH: That's a great reason. What do you think makes an admission essay stand out?
+STUDENT: I think it should be personal and reflective. It should show the admissions committee who you are as a person and why you're passionate about pursuing a career in medicine. It should also demonstrate your knowledge of the field and your commitment to making a difference.

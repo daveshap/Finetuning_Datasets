@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, no problem. Let's start by talking about the essay prompt. Can you tell me what it is?
+STUDENT: It's an admissions essay and the prompt is "Describe a challenge or experience that has shaped who you are today".
+COACH: Alright, that's a great prompt. What do you think it's asking you to do?
+STUDENT: I think it's asking me to talk about something that has had a big impact on my life and how it has shaped me.
+COACH: That's exactly right! Now, let's talk about what kind of challenge or experience you could write about. What comes to mind when you think of something that has had a major impact on your life?
+STUDENT: Well, I think the biggest challenge I ever faced was when I had to move to a new city for college. It was a completely different environment and culture and I had to learn how to adjust and make friends quickly.
+COACH: That's definitely a big challenge! What was the most difficult part of adjusting to your new environment?
+STUDENT: I think the hardest part was learning how to make friends. I was so used to my old friends and it was really hard to make new ones.
+COACH: That can be tough. What did you do to try and make friends?
+STUDENT: I started joining clubs and activities on campus and going to events that interested me. I also tried talking to people in my classes and getting to know them better.
+COACH: That's great! Those are all great ways to meet people. So, how did this experience shape you?
+STUDENT: It taught me to be open to new experiences and be more outgoing. I learned that it's important to take chances and put yourself out there if you want to make meaningful connections. It also showed me how to be more resilient and adaptable to different situations.

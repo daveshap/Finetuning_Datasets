@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to medical school and I need help with my essay.
+COACH: Great! What is your essay about?
+STUDENT: It's about how my passion for engineering and my Jewish faith have shaped my ambition to become a doctor.
+COACH: That sounds like a great topic. How would you like to structure your essay?
+STUDENT: I was thinking of starting with a brief overview of my background and then going into more detail about my passion for engineering and the ways it has influenced my desire to pursue medicine. Then I'd like to explore how my faith has impacted my decision to pursue this career path.
+COACH: That sounds like an excellent structure. Can you tell me more about your engineering background and why it has made you passionate about medicine?
+STUDENT: Sure. I've been interested in engineering since I was a child. I was always fascinated by how things worked and how they could be improved. I eventually pursued a degree in engineering and that's when I really began to understand the power of technology and how it can be used to improve the lives of others. This has inspired me to pursue a career in medicine, where I can use my engineering skills to make a difference in people's lives.
+COACH: That's wonderful! What about your faith? How has it impacted your decision to pursue a career in medicine?
+STUDENT: My Judaism has always been an important part of my life. Growing up, I learned about the importance of helping others and being a part of something bigger than myself. This has been a major factor in my decision to pursue a career in medicine. I want to be able to use my knowledge and skills to help people in need and make a positive impact in the world.

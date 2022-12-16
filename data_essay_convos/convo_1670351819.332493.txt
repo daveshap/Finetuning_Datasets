@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing a personal statement for college and I'm having trouble getting started.
+COACH: Alright, let's start with the basics. What are you applying to study and where?
+STUDENT: I'm applying to study international relations and diplomacy in Germany.
+COACH: Got it. What is it about this field that interests you?
+STUDENT: I'm interested in understanding how different cultures interact and how to promote peace. I'm originally from the Philippines and I'm Muslim, so I'm particularly interested in how Islam is represented in international relations.
+COACH: That's great. You have a unique perspective that could be really valuable. What experiences have you had that have shaped your interest in this field?
+STUDENT: I've experienced a lot of rejection growing up because of my religion and country of origin. It's been hard to overcome those obstacles, but I've used that as motivation to pursue knowledge and understanding of different cultures.
+COACH: That's admirable. How have you been able to use your experiences to further your knowledge and understanding?
+STUDENT: I've traveled around the world and visited different countries to learn more about their cultures. I've also read a lot of books and articles about international relations and diplomacy. 
+COACH: That's great. What do you think sets you apart from other applicants when it comes to this field?
+STUDENT: I think my unique perspective gives me an advantage. I'm able to bring a different point of view to the table and provide insight on how different cultures interact. I'm also passionate about using my knowledge to promote peace and understanding between different countries.

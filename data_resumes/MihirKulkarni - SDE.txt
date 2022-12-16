@@ -1,0 +1,52 @@
+Mihir Prashant Kulkarni  
+ mihrirpra@buffalo.edu  | https://www.linkedin.com/in/mihir -p-kulkarni  | (716) -907-9341  | Buffalo, NY  
+EDUCATION  
+University at Buffalo, The State University of New Yor k                      Dec 2022   
+Master of Science, Computer Science and Engineering  
+University of Mumbai , India                                                                                                                                                       Oct 2020  
+Bachelor of Engineering , Computer Engineering  
+SKILLS  
+Languages/ Frameworks: Python, Dart, C, Go, Docker, Redis, Javascript, React.js, Node.js, MongoDB  Atlas , GitHub  
+Databases/ Web Development: MySQL, PostgreSQL, HTML, CSS, MongoDB, Django  
+Libraries: leaflet.js, regular expressions, fluttertoast, crypto, filepicker  
+Certifications: Qwiklabs certifications for machine learning APIs, Google Cloud essentials, baseline ML, AI for Google Cloud.    
+PROFESSIONAL EXPERIENCE  
+Software Developer , Shweta Software Systems . Mumbai, India               Jun 2020  - Jun 2021 
+• Created an improved workflow for GSTIN number data entry by composing an automated Python script using an API to 
+manage data entry for companies associated with GSTIN numbers.  
+• Liaised with clients to analyze and confirm requirements for new product development of an Android app for payment tracking.  
+• Collaborated with senior developer, presented concept designs and iterated through various candidates.  
+• Constructed GUI and formulated syste m architecture to seamlessly integrate with employer’s main accounting software.  
+• Applied new techniques and removed need for manual data entry, accomplishing a cost reduction of 600,000 INR per month.  
+• Leveraged agile software development to have initial pr oduct ready in less than a month, with full delivery in five months.   
+PROJECTS  
+Pintos                      Aug 2022 – Present  
+• Partnered with 3 OS engineers to understand and build a Linux -based operating system (Pintos), under Prof. Farshad Ghanei, 
+along with documentation and careful auditing of project design.  
+• Planned out how scheduling is handled by user -level libraries and kernel -level libraries using basic C lang constructs, as well as 
+how concurrency, resource sharing and process prioritization work. Brainstormed with teammates to make key design decisions 
+about architecture, readability and best practices.  
+• Developed and executed rigorous stress testing dictated by operating system standards, including security, speed, robustness a nd 
+space optimizations. Reduced memory lookups by up to 50%, utilizing translation lookaside buffers and relevant page 
+replacement policies.  
+RAFT concurrency using Go and Docker                Feb 2022  – May  2022 
+• Headed a team of 3, advised by Dr. Bina Ramamurthy to compose RAFT concurrency for distributed systems. Conducted weekly 
+meetings to resolve potential issues and ensure agile delivery.  
+• Assembled algorithm using Go. Achieved full failure tolerance and recovery in less than 100ms of a node going down. Monitored  
+relevant benchmarks under various work conditions.  
+• Generated a client -server application on top of concurrency too lkit using PostgreSQL and providing access to a scalable API 
+letting clients conduct CRUD operations with ease.  
+Seam carving for content -aware resizing                          Apr 2022 – May 2022  
+• Spearheaded a team to develop an implementation of the conte nt-aware resizing algorithm paper that was published in 
+SIGGRAPH. Constructed dynamic programming prescribed in the original paper and examined options for quality evaluation.  
+• Developed visualizations showing its effects, working entirely using MATLAB’s signal and image processing toolkit, advised 
+and mentored by Dr. Nalini Ratha, an IEEE fellow and eminent author in the biometrics field. Discussed ways to make a more 
+convincing  seam carve including different ways of computing image energy efficiently using energy function methodologies.  
+   
+ACHIEVEMENTS  
+A presentation on Network Embedding as Matrix Factorization                       Mar 2022  
+• Gave a talk at a college seminar on deep learning in graph networks. Presented a highly -cited paper from 2018 “Network 
+Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE and node2vec”.  
+• Evaluated a comprehensive report of all four methods, in addition to doing a deep dive into foundations of derivations discussed 
+in research paper.  Also had a discussion session with professor and fellow students on overall limitations of random walk 
+methodologies in learning graph embeddings.

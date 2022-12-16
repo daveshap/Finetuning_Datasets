@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experiences as a refugee and the obstacles I've had to overcome.
+COACH: What kind of obstacles have you faced?
+STUDENT: Well, I was born in Thailand, and my family is Jewish. Growing up, we experienced a lot of prejudice and discrimination, which made it difficult for us to fit in. We moved around a lot and had to adjust to a new culture and language each time. I also had to deal with feelings of rejection and loneliness.
+COACH: That sounds like a difficult experience. How did you manage to overcome these obstacles?
+STUDENT: I think the most important thing I did was to focus on my education. I worked hard to learn the language and customs of each place we moved to, and I was determined to do well in school. I also started to get involved in extracurricular activities where I could meet other people and make friends. And I tried to stay positive and remember that I was capable of achieving my goals, no matter how difficult the journey was.
+COACH: That's really inspiring! What impact has this experience had on you?
+STUDENT: It's made me a lot more resilient and confident in myself. I know that I can handle whatever life throws at me, and I'm not afraid to take risks. I also think it's made me a more interesting person. I'm able to bring different perspectives to conversations and relate to people from different backgrounds.

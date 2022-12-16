@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question. I can help you with your essay, but first, let me get some more information from you. What kind of essay are you writing?
+STUDENT: A personal statement.
+COACH: Okay, great. What type of personal statement are you writing? Are you applying for college, scholarships, or both?
+STUDENT: Both.
+COACH: Alright, that's perfect. Let's start by focusing on your scholarship applications. What kind of scholarships are you applying for?
+STUDENT: I'm applying for need-based scholarships.
+COACH: That's great. Let's start by discussing what makes a successful personal statement for a need-based scholarship. The most important thing to remember is that the statement should demonstrate why you are the best candidate for the scholarship. You should focus on your unique qualities and experiences that make you stand out from other applicants.

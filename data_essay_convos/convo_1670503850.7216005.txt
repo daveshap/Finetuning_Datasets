@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening to your admissions essay should be interesting and engaging. It should also introduce the main idea of the essay in a clear and concise way. You can start with a story, an anecdote, a quote, or even a thought-provoking question. Be creative and make sure it captures the reader’s attention. 
+STUDENT: What should I focus on when writing my essay?
+COACH: Your admissions essay should focus on your unique experiences, values, and goals. It should explain why you are a great fit for the college or university you are applying to. Make sure to include any relevant academic, extracurricular, or volunteer experiences that have shaped who you are today. Showcase your strengths and highlight any obstacles you have overcome. Let the admissions officers know what makes you stand out from other applicants. 
+STUDENT: How should I structure my essay?
+COACH: A good structure for your admissions essay is to have an introduction, body, and conclusion. The introduction should grab the reader’s attention and give a brief overview of what you will be discussing in the essay. The body should be composed of several paragraphs, each one focusing on a different aspect of your life. Make sure to elaborate on each point and provide evidence to back up your claims. Finally, the conclusion should summarize the main points of your essay and leave the reader with something to think about.

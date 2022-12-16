@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help with my admission essay.
+COACH: Great! Can you tell me a little bit more about why an admission essay matters?
+STUDENT: Sure, I understand that the essay is my chance to make a good impression on the admissions committee and show them why I am a good fit for their school.
+COACH: That's right. An admission essay gives you the opportunity to showcase your uniqueness and stand out from other applicants. Could you tell me a bit more about the essay itself? What parts do you think it should include?
+STUDENT: Well, I know it should have an introduction or hook, a main body with several paragraphs, and a conclusion.
+COACH: That's correct. The introduction should grab the reader's attention and provide a brief overview of the essay topic. The main body should provide evidence to support your argument, and the conclusion should summarize your points and provide a lasting impression. Is there anything else you would like to know about the essay?
+STUDENT: Yes, I am also wondering how I can finance my college education if I come from a poor family.
+COACH: That's a great question. There are a variety of options available to students from low-income families. You may be eligible for grants and scholarships from the college, or you may be able to take out loans to cover the cost of tuition. Additionally, many colleges offer work-study programs that allow students to work part-time while attending school. It's also possible to find outside scholarships and grants that can help cover costs.

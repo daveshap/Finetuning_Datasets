@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be a complex process, but there are a few basic steps that you should be aware of. First, you should research different types of financial aid, such as grants, scholarships, and loans. You should also look into filing the FAFSA, which is the Free Application for Federal Student Aid. This form helps determine your eligibility for various types of federal aid. Additionally, you should explore private loans, which are offered by banks and other lenders. 
+STUDENT: What should I include in my personal statement?
+COACH: Your personal statement should provide insight into who you are and why you are applying to the graduate program. You should focus on the experiences that have shaped you and your goals, as well as your unique qualities that make you a valuable candidate. Additionally, it can be helpful to discuss any challenges or obstacles you have faced, as well as how you overcame them. Finally, you should explain how the program can help you reach your goals and how you will contribute to the school's community.

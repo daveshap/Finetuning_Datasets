@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to law school and I'm trying to write my personal statement. I'm struggling to figure out what to write about.
+COACH: That's a great question! Before we dive into the specifics of your personal statement, can you tell me a bit more about yourself and why you want to attend law school?
+STUDENT: Sure. I'm a recent college graduate from Germany, and I've always been interested in the law. I want to attend law school because I believe it will give me the opportunity to pursue a career in this field.
+COACH: That's fantastic! Have you done any research on the type of law you'd like to practice? This could be a great starting point for your personal statement.
+STUDENT: Yes, I've done some research. I'm particularly interested in corporate law and international law.
+COACH: Great! Now that we have an idea of the type of law you're interested in, let's think about how you can use this information to craft a compelling personal statement. What do you think sets you apart from other applicants?
+STUDENT: Well, I think my experience living and studying in Germany gives me a unique perspective on international law. I also have a lot of experience in the corporate world, which I think would be beneficial in a law school setting.
+COACH: That's excellent! You could use these experiences to demonstrate your commitment to the field and highlight your qualifications. Additionally, you could discuss how your experiences have shaped your understanding of the law and how you plan to use it to make a difference.
+STUDENT: That's a great idea! I think I could definitely use those experiences to make my personal statement stand out.
+COACH: Absolutely! Once you've written your personal statement, make sure to review it carefully and have someone else read it over too. It's important to make sure it's free of any mistakes.
+STUDENT: Yeah, that's a good idea. I'll definitely take your advice.
+COACH: Great! Is there anything else I can help you with?
+STUDENT: Actually, yes. I'm wondering how I can find a job after I finish law school. Do you have any advice?
+COACH: Absolutely! One of the best ways to find a job after law school is to network with professionals in the field. Attend conferences, join professional organizations, and reach out to potential employers. You could also look for internships or volunteer opportunities to gain experience and build your resume.

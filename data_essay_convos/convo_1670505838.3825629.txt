@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question. Before we get into the structure of an essay, let me ask you a few questions about what you're writing and why. What is the prompt for the essay?
+STUDENT: The prompt is to discuss a time when I overcame a challenge.
+COACH: Okay, great. Now, what do you want to accomplish with this essay?
+STUDENT: I want to show the admissions committee that I'm resilient and can handle difficult situations.
+COACH: Perfect. Now that we have a better understanding of the essay, let's talk about the structure. An effective essay should have an introduction, body paragraphs, and a conclusion. The introduction should introduce the topic and provide a brief overview of what you plan to discuss in the body paragraphs. Each body paragraph should have a clear main idea or point that supports your overall argument. Finally, the conclusion should summarize your main points and explain why they are important. Does that make sense?
+STUDENT: Yes, it does. Thank you!

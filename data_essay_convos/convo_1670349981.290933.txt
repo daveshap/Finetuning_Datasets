@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there! I'm struggling to write my personal statement. I'm not sure what to write about and I'm afraid it's going to be boring.
+COACH: That's a common worry. What makes you unique? 
+STUDENT: I'm from the Philippines and I've lived in China for the past two years.
+COACH: Interesting! What have been some of your experiences living abroad? 
+STUDENT: Well, I've had to learn how to navigate different cultures and customs. I've also been exposed to different types of cuisine and seen how people live differently in different parts of the world.
+COACH: That's great! Can you tell me more about how those experiences have shaped your view of the world? 
+STUDENT: Absolutely. Living abroad has allowed me to gain a better understanding of different cultures and how they interact with each other. It has also helped me to appreciate diversity and become more open-minded. I think these experiences will help me to become a more effective leader in the future.
+COACH: That's wonderful! What do you think admissions officers are looking for in a personal statement? 
+STUDENT: I think they're looking for someone who is open-minded and can think critically about their experiences. They want to see that you can take something away from your experiences and use it to benefit yourself and others. They also want to know that you have an understanding of the world around you and can use that knowledge to make informed decisions.

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student looking for help with my college essay.
+COACH: Great! What kind of essay are you working on? 
+STUDENT: I'm applying to the University of North Carolina and I need to write a personal statement about why I want to go there.
+COACH: Okay, let's start by talking about why college is important to you. What do you think makes college such an important part of your academic journey?
+STUDENT: Well, it's a chance to expand my knowledge and gain experience that will help me in my future endeavors. I also think it's important to be surrounded by people with different perspectives and backgrounds who can help me grow as a person.
+COACH: That's a great answer. Can you tell me more about why the University of North Carolina specifically is the right fit for you?
+STUDENT: Absolutely. I'm a refugee from Somalia, and UNC has a strong commitment to diversity and inclusion. I feel like I would be part of a community that values my unique experiences and perspectives, and I'm eager to learn from and contribute to UNC's diverse student body.
+COACH: That's wonderful. It sounds like UNC is the perfect place for you to continue your academic journey. Now, let's talk more about the admission process. How does the college admissions process work?
+STUDENT: Generally, colleges look at a variety of factors when reviewing applications. They consider things like grades, test scores, extracurricular activities, essays, and letters of recommendation.
+STUDENT: I'm also planning to apply to grad school in the future, so I'm trying to make sure I'm doing everything I can now to make myself a competitive applicant.
+COACH: That's great! It's important to have a plan for the future. What tips do you have for making yourself a competitive applicant?
+STUDENT: I think it's important to have a well-rounded application. Make sure to highlight your academic achievements, but also showcase your extracurricular activities, volunteer work, and any other interests or hobbies you might have. Additionally, make sure to write a strong essay that conveys your unique experiences and perspectives.

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with an essay I'm writing about why college matters.
+COACH: Alright, let's get started. What do you think is the most important reason that college matters?
+STUDENT: I think it's important to have a college degree because it can open doors to better job opportunities and higher salaries.
+COACH: That's true, but there are other reasons why college matters. Can you think of any other reasons?
+STUDENT: Well, I think college can give you the opportunity to learn more about yourself and explore different interests. It can also help you develop important skills like communication, critical thinking, and problem-solving.
+COACH: Those are all great reasons! What about your own personal experiences? Have you had any experiences that have made college matter to you?
+STUDENT: Yes, I've had some really great experiences in college so far. For example, I'm majoring in French and I recently had the chance to study abroad in France. It was such a great experience and it really opened my eyes to different cultures and perspectives.
+COACH: That sounds like a wonderful experience! What about your religious background? Does Judaism play a role in why college matters to you?
+STUDENT: Absolutely. College has given me the opportunity to explore my faith more deeply and to connect with others who share similar values. I've also had the chance to take classes on Jewish history and philosophy, which has been really meaningful for me.
+COACH: That makes sense. What about grad school? Do you think that college matters for grad school?
+STUDENT: Definitely. Grad school requires a lot of hard work and dedication, and having a college degree gives you a better chance of getting accepted into a good program. Plus, having a college degree can make you a more competitive applicant when applying for jobs or internships.

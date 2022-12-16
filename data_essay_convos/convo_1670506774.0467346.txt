@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That's a great question! Let's start by talking about the different types of financing options available to college students. Are you familiar with scholarships, grants, loans, or work-study programs?
+STUDENT: Not really, I'm not sure what they are.
+COACH: No problem. Scholarships are awards of money given to students based on academic performance, leadership, or other criteria. Grants are similar, but they are usually awarded to students who demonstrate financial need. Loans are borrowed money that must be paid back with interest. Work-study programs allow students to work part-time in exchange for money to help pay for college. Do any of these sound like something you'd be interested in?

@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I need help writing the essay.
+COACH: Great! What do you want to focus on in your essay?
+STUDENT: Well, I want to talk about my volunteer work and how it's shaped my worldview.
+COACH: That's a great idea. Can you tell me more about your volunteer work?
+STUDENT: Sure. I've been volunteering at a local mosque for the past two years and I've learned a lot about Islam through that experience.
+COACH: That sounds like a really interesting experience. How has volunteering at the mosque shaped your worldview?
+STUDENT: It's given me a better understanding of different cultures and religions and how they can coexist peacefully. It's also helped me to be more open-minded and tolerant of different beliefs.
+COACH: That's great. Do you have any other experiences that you want to include in your essay?
+STUDENT: Yes, I've also been volunteering at a homeless shelter near my school, North Carolina State University. This experience has taught me a lot about compassion and empathy.
+COACH: Wonderful. What kind of impact do you think these experiences have had on your life?
+STUDENT: They've made me realize the importance of helping others and being aware of the struggles of those around me. It's also made me more confident in my ability to make a difference in the world.
+COACH: That's a great sentiment. What else do you need help with when it comes to writing your essay?
+STUDENT: I'm not sure where to start. I'm a bit overwhelmed by the task.
+COACH: That's understandable. Let's start by brainstorming some ideas. What are some of the main points you want to make in your essay?

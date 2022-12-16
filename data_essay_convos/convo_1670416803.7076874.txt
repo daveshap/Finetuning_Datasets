@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton for med school and I need help writing my essay.
+COACH: Great, let's get started. Could you tell me a bit more about what you'd like to focus on in your essay? 
+STUDENT: Well, I'm interested in exploring the intersection of Buddhism and social issues, and how it can be applied to medical practice.
+COACH: That's an interesting topic. What kind of social issues are you thinking of?
+STUDENT: I'm looking at issues like poverty, access to healthcare, and environmental sustainability.
+COACH: Okay, that's great. Do you have any specific examples that you'd like to include in your essay?
+STUDENT: Yes, I've been researching ways that Buddhist principles can be applied to improving healthcare access in developing countries.
+COACH: That's a great example. Can you tell me more about why this is important to you and what you'd like to communicate in your essay?
+STUDENT: I think it's important to consider the ethical implications of healthcare decisions, and I want to show how Buddhist teachings can be used to make those decisions more compassionate and just.
+COACH: That sounds like a great angle for your essay. What do you think admissions officers will be looking for when they read your essay?
+STUDENT: I think they'll be looking for evidence of my commitment to social justice and my ability to think critically about complex ethical issues.

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi. I'm a college student and I'm trying to figure out how to write a good college admission essay.
+COACH: Alright, that's a great question. Let's start by breaking down the different parts of an essay. What do you know about the introduction, body, and conclusion?
+STUDENT: Well, I know that the introduction is where you introduce the topic and grab the reader's attention. The body is where you explain your points and arguments. And the conclusion is where you summarize the main points and provide a final thought.
+COACH: That's right! Now, what kind of topic are you thinking of writing about? 
+STUDENT: I'm thinking of writing about my passion for music and how it has shaped my life.
+COACH: That's a great topic! It's important to write about something that you're passionate about and that you can write about in an engaging way. When writing your essay, be sure to focus on the positive aspects of your passion and how it has impacted your life in a meaningful way.
+Also, make sure to include details and examples to support your points. For example, if you're discussing how music has helped you become more creative, you could talk about a specific project or song that you created.
+Finally, don't forget to end your essay with a strong conclusion. This is your chance to leave a lasting impression on the reader.
+STUDENT: That's really helpful. Thanks! I think I have a better idea of how to structure my essay now. Is there anything else I should consider when writing my college admission essay?
+COACH: Absolutely. One thing to keep in mind is that your essay should reflect your personality and show the admissions committee why you are a great fit for their school. Also, make sure to proofread your essay and have someone else read it over to make sure it's clear and error-free.
+Finally, don't forget to look into job opportunities after college. It's important to start thinking about your career path early on and research potential employers and job postings.
+STUDENT: That's great advice. I'll definitely keep that in mind. Thanks for your help!

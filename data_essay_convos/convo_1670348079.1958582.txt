@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about why college matters and how it will help me find a job after I graduate.
+UNC is my top choice, but I'm not sure if I'm interesting enough as a person to be accepted.
+COACH: That's a great question! It sounds like you have a lot of ambition and are looking for the best way to reach your goals. Let's start by talking about why college matters. What do you think are the benefits of attending college?
+STUDENT: Well, I know that college can open up a lot of doors and give me access to more opportunities. It can also provide me with the knowledge and skills I need to be successful in my career. Plus, it's a great way to meet people and network with potential employers.
+COACH: Absolutely! College is a great way to expand your horizons and learn new skills. It's also a great way to make connections and build relationships with people who can help you in your career. Now, let's talk about UNC. What makes it your top choice?
+STUDENT: UNC has a great reputation and I know it's one of the best universities in the country. Plus, I really like the location and the atmosphere on campus. It just feels like the right fit for me.
+COACH: That's a great reason to choose UNC! Now, let's talk about why you think you're not interesting enough as a person to be accepted. What do you think makes you unique or stand out from other applicants?
+STUDENT: Well, I'm really passionate about my studies and I'm always looking for new ways to challenge myself. I'm also involved in several extracurricular activities and volunteer work which I'm proud of. I think that shows I'm a well-rounded individual who is willing to go the extra mile for success.

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experiences in France, Thailand, and the Philippines, and I'm having trouble structuring it.
+COACH: Alright, let's break it down. What kind of essay is this for?
+STUDENT: It's for my application to North Carolina State University.
+COACH: Got it. So, you have three different experiences in three different countries that you want to include in your essay. Have you thought about how you want to structure it?
+STUDENT: Not really. I was thinking of just listing my experiences in each country, but I'm not sure if that's the best approach.
+COACH: That's a great start! You could definitely do that, but it might be more effective to have a more unified structure. For example, you could focus on one theme or idea that ties all three experiences together. Do you have any ideas of what that theme might be?
+STUDENT: Hmm, I'm not sure. Maybe something about how different cultures can bring out different sides of me?
+COACH: That's a great idea! You could use that as your central theme and then focus on how each experience in each country allowed you to explore that theme. You could talk about how each experience taught you something new about yourself, and how it shaped your growth as a person. Does that sound like a good idea? 
+STUDENT: Yes, that sounds great! I think I can work with that.
+COACH: Great! Now that you have the theme, you can start to structure your essay. You could start by introducing the theme and then discuss each experience in each country in its own section. That way, you can focus on how each experience helped you explore the theme. Does that make sense?
+STUDENT: Yes, that makes sense. Thanks for the help!

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay, let's start by talking about what you want to focus on in your essay. What kind of grant are you applying for?
+STUDENT: I am applying for a scholarship to study abroad.
+COACH: Okay, great! What do you want to say in your essay? Why should the scholarship committee choose you over other applicants?
+STUDENT: I want to show them that I am passionate about learning new cultures and understanding how different people live. I also want to demonstrate that I'm an independent thinker who can take initiative and make the most of any opportunity.
+COACH: That's a great start! Now let's think about how you can demonstrate those qualities in your essay. What experiences have you had that demonstrate your passion for learning about different cultures and your independent thinking?
+STUDENT: Well, I've done some volunteer work in different countries, and I've taken classes that required me to research and think critically about different cultures and societies.
+COACH: Perfect! Those are great examples of how you've already demonstrated your passion and independence. Now you just need to make sure you write about these experiences in an effective way. Make sure you provide details and explain how they've shaped you as a person and why they make you a great candidate for the scholarship.

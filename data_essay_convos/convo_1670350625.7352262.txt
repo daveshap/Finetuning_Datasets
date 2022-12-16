@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling with writing my college application essay. I feel like I'm a boring person and I don't know how to make my essay stand out.
+COACH: That's a common concern among many students. Let's start by talking about what makes an essay engaging. What do you think makes an essay interesting?
+STUDENT: I think it's important to have a unique perspective and to be able to tell a story.
+COACH: That's a great start! An essay that is able to capture the reader's attention and draw them into the story is definitely engaging. It's also important to be honest and sincere in your writing. Are there any topics or experiences that you feel passionate about that you could include in your essay?
+STUDENT: Well, I'm very interested in religion, specifically Christianity and Buddhism. 
+COACH: That's great! Religion is a fascinating topic that can be explored in many different ways. What aspects of Christianity and Buddhism are you most interested in?
+STUDENT: I'm interested in the history and teachings of both religions, particularly how they differ and how they are similar.
+COACH: That's a great starting point for your essay. You can explore the different teachings and beliefs of each religion and how they've impacted your life. For example, you could talk about how your faith has shaped your values and how it has influenced your decisions. You could also discuss how you have reconciled the differences between the two religions to create your own spiritual path.

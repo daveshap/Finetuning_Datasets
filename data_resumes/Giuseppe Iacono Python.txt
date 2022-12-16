@@ -1,0 +1,125 @@
+GIUSEPPE  IACONO  
+  New York , NY 
+Python  Developer  
+ alchemist. bounty @protonmail.com  · https://www.linkedin.com/in/giuseppe -iacono -441805224/  
+https://github.com/alchemist -bounty  · https://www.hackerrank.com/alchemist_bounty  
+ 
+ 
+Experienced software engineer with a passion for developing innovative programs that expedite the 
+efficiency and effectiveness of organizational success . Well -versed in technology and writing code to 
+create systems that are reliable and user -friendly. Confident communicator, strategic thinker, and 
+innovative creator to develop software that is customized to meet a company's organizational needs, 
+highlight  their core competencies, and further their success.  
+SKILLS  
+ Fully worked with Django and Flask  
+ Managed AirFlow Projects  
+ Worked on Web Sites Scraping and Automation  
+ Managed Relational Databases Systems, NoSQL, Web development and Web services  
+ Managed and maintained development of PYTHON backend for dynamic database driven websites  
+ Provided technical support in the assurance of quality systems and system changes  
+ Proficient in CSS3/HTML5, JavaScript Libraries including jQuery, React, Vue, Angular , Ember and 
+Backbone, Highcharts and D3  
+ Work with QUnit for Javascript Testing Framework  
+ AWS (Lambda, Elastic Search, S3, EC2, Elastic Beanstalk, SNS, SQS)  
+ Google Cloud Platform (Composer, GCP AirFlow, Compute Engin e, BigTable, BigQuery, Firebase)  
+ CI / CD (CircleCI, T ravis, Jenkins, Docker, Kubernetes , Vercel ) 
+ oAuth, Sentry  
+EXPERIENCE  
+SENIOR FRONTEND ENGI NEER  
+ALGONAUT  
+JUN 2022 - AUG  2022  
+- Work with React.js, Next.js with Cryptocurrency Trading Platform . 
+- Work with Typescript with React  
+- Use Jest testing framework and use  of custom Component / Query / Hook in React  
+- Integration of HighChart, Performance improvement  
+- Deployment to Vercel with github integration  
+- Blockchain Development using PHP.  
+ 
+SENIOR BACKEND ENGINEER  
+LIGHTPONG  
+DEC 2021 - JUN 2022  
+- Backend API development f or Gaming console  
+ 
+GIUSEPPE  IACONO  
+  New York , NY 
+Python  Developer  
+ alchemist. bounty @protonmail.com  · https://www.linkedin.com/in/giuseppe -iacono -441805224/  
+https://github.com/alchemist -bounty  · https://www.hackerrank.com/alchemist_bounty  
+ 
+ 
+Experienced software engineer with a passion for developing innovative programs that expedite the 
+efficiency and effectiveness of organizational success . Well -versed in technology and writing code to 
+create systems that are reliable and user -friendly. Confident communicator, strategic thinker, and 
+innovative creator to develop software that is customized to meet a company's organizational needs, 
+highlight  their core competencies, and further their success.  
+SKILLS  
+ Fully worked with Django and Flask  
+ Managed AirFlow Projects  
+ Worked on Web Sites Scraping and Automation  
+ Managed Relational Databases Systems, NoSQL, Web development and Web services  
+ Managed and maintained development of PYTHON backend for dynamic database driven websites  
+ Provided technical support in the assurance of quality systems and system changes  
+ Proficient in CSS3/HTML5, JavaScript Libraries including jQuery, React, Vue, Angular , Ember and 
+Backbone, Highcharts and D3  
+ Work with QUnit for Javascript Testing Framework  
+ AWS (Lambda, Elastic Search, S3, EC2, Elastic Beanstalk, SNS, SQS)  
+ Google Cloud Platform (Composer, GCP AirFlow, Compute Engin e, BigTable, BigQuery, Firebase)  
+ CI / CD (CircleCI, T ravis, Jenkins, Docker, Kubernetes , Vercel ) 
+ oAuth, Sentry  
+EXPERIENCE  
+SENIOR FRONTEND ENGI NEER  
+ALGONAUT  
+JUN 2022 - AUG  2022  
+- Work with React.js, Next.js with Cryptocurrency Trading Platform . 
+- Work with Typescript with React  
+- Use Jest testing framework and use  of custom Component / Query / Hook in React  
+- Integration of HighChart, Performance improvement  
+- Deployment to Vercel with github integration  
+- Blockchain Development using PHP.  
+ 
+SENIOR BACKEND ENGINEER  
+LIGHTPONG  
+DEC 2021 - JUN 2022  
+- Backend API development f or Gaming console  
+ 
+GIUSEPPE  IACONO  
+  New York , NY 
+Python  Developer  
+ alchemist. bounty @protonmail.com  · https://www.linkedin.com/in/giuseppe -iacono -441805224/  
+https://github.com/alchemist -bounty  · https://www.hackerrank.com/alchemist_bounty  
+ 
+ 
+Experienced software engineer with a passion for developing innovative programs that expedite the 
+efficiency and effectiveness of organizational success . Well -versed in technology and writing code to 
+create systems that are reliable and user -friendly. Confident communicator, strategic thinker, and 
+innovative creator to develop software that is customized to meet a company's organizational needs, 
+highlight  their core competencies, and further their success.  
+SKILLS  
+ Fully worked with Django and Flask  
+ Managed AirFlow Projects  
+ Worked on Web Sites Scraping and Automation  
+ Managed Relational Databases Systems, NoSQL, Web development and Web services  
+ Managed and maintained development of PYTHON backend for dynamic database driven websites  
+ Provided technical support in the assurance of quality systems and system changes  
+ Proficient in CSS3/HTML5, JavaScript Libraries including jQuery, React, Vue, Angular , Ember and 
+Backbone, Highcharts and D3  
+ Work with QUnit for Javascript Testing Framework  
+ AWS (Lambda, Elastic Search, S3, EC2, Elastic Beanstalk, SNS, SQS)  
+ Google Cloud Platform (Composer, GCP AirFlow, Compute Engin e, BigTable, BigQuery, Firebase)  
+ CI / CD (CircleCI, T ravis, Jenkins, Docker, Kubernetes , Vercel ) 
+ oAuth, Sentry  
+EXPERIENCE  
+SENIOR FRONTEND ENGI NEER  
+ALGONAUT  
+JUN 2022 - AUG  2022  
+- Work with React.js, Next.js with Cryptocurrency Trading Platform . 
+- Work with Typescript with React  
+- Use Jest testing framework and use  of custom Component / Query / Hook in React  
+- Integration of HighChart, Performance improvement  
+- Deployment to Vercel with github integration  
+- Blockchain Development using PHP.  
+ 
+SENIOR BACKEND ENGINEER  
+LIGHTPONG  
+DEC 2021 - JUN 2022  
+- Backend API development f or Gaming console

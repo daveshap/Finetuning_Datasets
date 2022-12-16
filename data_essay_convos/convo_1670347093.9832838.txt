@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started on my essay. I'm not sure what to write about.
+COACH: That's a common issue for many students. Do you have any ideas of the topics you'd like to explore?
+STUDENT: Not really. I don't think I have anything interesting to say.
+COACH: That's not true. Everyone has something interesting to say. What do you feel passionate about? That can be a great starting point for your essay.
+STUDENT: Well, I'm a Christian and I'm passionate about my faith.
+COACH: That's a great starting point! Have you ever faced any obstacles in your faith journey? How did you overcome them?
+STUDENT: Yes, I've faced rejection from people who don't understand my beliefs. I overcame it by focusing on the positive aspects of my faith and remembering why I chose to follow it in the first place.
+COACH: That's a great way to stay focused and motivated. How do you think your faith has shaped you as a person?
+STUDENT: It's helped me to be more compassionate and understanding towards other people. It's also taught me to be resilient and to never give up, no matter how hard things get.
+COACH: Those are excellent qualities to have. Have you ever faced any other obstacles in your life?
+STUDENT: Yes, I've faced many obstacles. But I've learned that I can always find a way to overcome them if I focus on what I'm passionate about and stay motivated.
+COACH: That's a great attitude to have. It sounds like you have a lot of wisdom and experience that you can draw from when writing your essay. So, what do you think is the most important thing for you to include in your essay?
+STUDENT: I think the most important thing is to focus on how my faith has shaped me as a person and how it has helped me to overcome obstacles.

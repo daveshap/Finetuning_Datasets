@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's ok. Let's start by talking about the prompt for your essay. What is the prompt asking you to write about?
+STUDENT: The prompt is asking me to write about a time when I faced a challenge and how I overcame it.
+COACH: That sounds like a great topic. Now, let's talk about how to structure your essay. First, you'll want to introduce the challenge you faced and provide some context. Then, you can discuss the steps you took to overcome the challenge and the outcome of those steps. Finally, you should explain what you learned from the experience and how it has impacted you. Does that make sense? 
+STUDENT: Yes, that makes sense.
+COACH: Great! Now let's talk about how to make your essay stand out. You'll want to focus on making your essay personal, so use specific examples and vivid details to illustrate your story. You'll also want to make sure your essay has a strong introduction and conclusion. 
+STUDENT: Okay, I understand.
+COACH: Wonderful! Now, let's go over some tips for writing a compelling essay. Make sure to avoid cliches, as they can make your essay sound generic. Also, be sure to proofread your essay for any grammar or spelling mistakes. Finally, make sure to follow the instructions for the essay and answer the prompt completely. 
+STUDENT: Got it. Thanks for all the help!

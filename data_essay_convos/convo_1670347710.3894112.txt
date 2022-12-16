@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I'm having trouble coming up with ideas for my essay.
+COACH: Great! What kind of grad school are you applying to?
+STUDENT: I'm applying to Duke University for a science degree program.
+COACH: Wow, that's impressive! Do you have any ideas for your essay yet?
+STUDENT: Not really. I have no idea what to write about.
+COACH: Okay, let's start with some basics. Tell me a bit about yourself and why you want to pursue a science degree at Duke University.
+STUDENT: Well, I'm from the Philippines and I've always been fascinated by science. I'm particularly interested in studying the environment and the effects of climate change. I believe that a science degree from Duke University would give me the tools and knowledge I need to make a difference in this area.
+COACH: That's great! So, what kind of essay are you writing? Is it a personal statement or a research essay?
+STUDENT: It's a personal statement.
+COACH: Alright, so what kind of topics would you like to explore in your essay?
+STUDENT: I'd like to focus on the importance of science in the modern world and how it can help us address global issues like climate change. I also want to talk about my own experiences and how they have shaped my interest in science.

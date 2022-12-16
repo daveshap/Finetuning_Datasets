@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Before we get into the essay, let’s talk about what you want to accomplish with it. What is your overall goal with this essay?
+STUDENT: I want to be accepted to a good college.
+COACH: Great, that’s a great goal. Now, what kind of research do you need to do to make sure your essay is effective?
+STUDENT: I don’t know where to start.
+COACH: Well, it all depends on the topic you’re writing about. Do you have a topic in mind?
+STUDENT: Yes, I want to write about the importance of education in my life.
+COACH: Great, that’s a great topic. To make your essay effective, you’ll need to do some research to back up your points. Start by looking up information on the benefits of education and how it has impacted your life. You can also look for stories from other people who have benefited from education. This will help add depth and detail to your essay.

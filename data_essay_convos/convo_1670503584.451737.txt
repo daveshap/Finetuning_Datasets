@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's a great question! First, think about why you're applying to grad school. What do you hope to gain from the experience? What are your goals and aspirations? Try to focus on specific experiences that have shaped your decision to pursue this path. 
+STUDENT: ok, so what kind of experiences should i focus on?
+COACH: It's important to focus on experiences that are meaningful to you and that demonstrate the qualities you possess that make you a strong candidate. Consider experiences related to your academic and professional development, such as internships, research projects, or leadership roles. Also, think about any personal experiences that have shaped your goals and aspirations. 
+STUDENT: what should the structure of my essay look like?
+COACH: Generally, a college admissions essay should be between 500-800 words. Start by introducing yourself and your goals. Then, provide evidence to support why you are a strong candidate for grad school. Make sure to include relevant experiences and explain how they have shaped your goals. Finally, wrap up your essay by summarizing your qualifications and expressing your enthusiasm for the program.

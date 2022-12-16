@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help writing my essay for law school applications.
+COACH: Great! What kind of essay are you writing?
+STUDENT: I'm writing a personal statement for Duke University.
+COACH: Ok. What do you want to focus on in your essay?
+STUDENT: I'm interested in talking about my experience growing up with neurodiversity, and how it has shaped who I am today.
+COACH: That sounds like a great topic! Can you tell me a bit more about your experience?
+STUDENT: Sure. Growing up, I was diagnosed with a learning disability, and it was a challenge for me to keep up with my peers. My parents were very supportive, and they encouraged me to explore my interests and find ways to work around my disability. I also served in the military in Vietnam, which taught me a lot about resilience and perseverance.
+COACH: That sounds like a really incredible experience. How do you think it has made you a better person?
+STUDENT: Well, I think it has made me more understanding and compassionate towards others. I have a better understanding of how to work with people who may have different backgrounds or experiences than me, and I'm better able to empathize with their struggles. It's also made me realize that I'm not as "boring" or "uninteresting" as I thought I was - I have a lot of unique experiences and perspectives to offer.

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm having trouble writing my essay.
+COACH: Alright, let's see what we can do. What kind of essay are you trying to write?
+STUDENT: It's for the engineering program.
+COACH: Got it. So what kind of topics are you considering for your essay?
+STUDENT: Well, I want to talk about growing up in a single parent home and how that has shaped my passion for engineering and my desire to pursue a graduate degree.
+COACH: That sounds like a great topic! Tell me more about your experience with growing up in a single parent home and how it has impacted your interest in engineering.
+STUDENT: Well, my mom was always working hard to provide for us and she instilled in me a strong work ethic. She also emphasized the importance of education and encouraged me to explore my interests. As a result, I was drawn to engineering and have been passionate about it ever since. I want to use my knowledge and skills to make a positive impact on the world, which is why I'm interested in pursuing a graduate degree.
+COACH: That's wonderful! It sounds like your experience has given you a strong sense of purpose and ambition. How do you plan to incorporate this into your essay?
+STUDENT: I plan to focus on how my upbringing has helped me develop the qualities that make me a strong candidate for the engineering program at Duke University. I want to emphasize how my dedication to learning and my passion for engineering have been shaped by my experiences growing up in a single parent home.
+COACH: That sounds like a great approach! Showing how your experiences have shaped your values and goals will really help you stand out in your essay. Have you started writing it yet?
+STUDENT: Not yet, I'm still brainstorming ideas.
+COACH: That's okay, take your time and make sure you're happy with your essay before you submit it. Once you start writing, be sure to go back and revise it to make sure everything flows together nicely. Good luck!

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my personal goals and objectives and I'm having trouble figuring out what to focus on.
+COACH: That's great! Can you tell me a bit more about your background and interests?
+STUDENT: Sure. I'm an engineering student from China and I'm also a Christian. I'm also interested in LGBT rights.
+COACH: Interesting! It sounds like you have a lot of different interests and perspectives that could be explored in your essay. What kind of goals and objectives do you want to focus on in your essay?
+STUDENT: I want to focus on how I can use my engineering skills to further the causes I care about, such as LGBT rights. I also want to explore how my faith can inform my goals and objectives.
+COACH: That sounds like a great topic for your essay. It could be a great way to explore your values and how they shape your goals and objectives. Can you think of any specific examples of how your engineering skills and faith can help you achieve your goals?
+STUDENT: Yes, I think one example is that I can use my engineering skills to create new technologies that can help advance the cause of LGBT rights. For example, I could create an app that can help connect people with resources or support groups. I also think that my faith can help guide me in my goals and objectives by helping me stay focused on what really matters and motivating me to do good in the world.
+COACH: That's a great example. It sounds like you have a clear vision of how your skills and faith can help you achieve your goals. Now, what kind of structure do you think would work best for your essay?
+STUDENT: I think it would be best to start with an introduction explaining my background and interests, then move on to discussing my goals and objectives and how my faith and engineering skills can help me achieve them. I could then conclude with a reflection on how I plan to use my skills and faith to continue to pursue my goals.

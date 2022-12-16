@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for advice on how to write a college essay. I'm applying to Harvard and I'm also interested in learning more about how to get scholarships and grants.
+COACH: Great, let's start by talking about your background. Are you from the Philippines?
+STUDENT: Yes, I am.
+COACH: Alright, so it sounds like you have some unique experiences that could be great to talk about in your essay. What kind of things do you think would be interesting to discuss?
+STUDENT: Well, I'm Muslim and I'm very proud of my faith. I want to talk about how Islam has shaped my life and how I've been able to use it to help others.
+COACH: That's a great topic to explore. Are there any other aspects of your background that you want to touch on in your essay?
+STUDENT: Yes, I also want to talk about how I've been able to overcome financial obstacles. I'm from a low-income family and I'm not sure how college financing works.
+COACH: Sure, I can help you with that. Financing college is a complex process, but it's definitely doable. There are a variety of scholarships and grants available, as well as student loans. You should research all the options available to you and make sure you understand the details of each one. Additionally, you should look into any local or state programs that may offer additional assistance.

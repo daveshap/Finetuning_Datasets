@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: That's a great question. College admissions are a complex process and vary from school to school. Generally, applicants need to submit an application, transcripts, letters of recommendation, and essays. Can you tell me what type of essay you need help with?
+STUDENT: Yes, I'm writing a term paper for my college application.
+COACH: Great! A term paper is a great way to demonstrate your research and writing skills. Let's start by breaking down the assignment. What is the topic of your paper?
+STUDENT: I'm writing about the effects of climate change on ocean life.
+COACH: That's an interesting topic. Have you done any research yet?
+STUDENT: Yes, I've done some preliminary research and I have a few sources.
+COACH: That's great! Before you start writing, it's important to have a clear thesis statement. This will be the main point of your paper and should include the main ideas you want to discuss. Can you think of a thesis statement for your paper?

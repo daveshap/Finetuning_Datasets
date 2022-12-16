@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, first-generation college students are a common topic for college admissions essays. What kind of essay prompt are you working with?
+STUDENT: It's about how my family has influenced my decision to pursue higher education.
+COACH: Okay, that's a great topic. Let's start by brainstorming some ideas. What experiences have you had with your family that have shaped your decision to pursue a college education?
+STUDENT: Well, my family has always been very supportive of my academic goals. They have always encouraged me to strive for excellence and to never give up. I've also seen how hard they have worked to provide for our family, and it has inspired me to work even harder to achieve my own dreams.
+COACH: That's great. Those are all very important experiences to include in your essay. Now, let's think about how you can structure the essay. What is the main point you want to make in your essay?
+STUDENT: I want to show that my family has been an invaluable source of support and motivation throughout my life, and that their encouragement has been the driving force behind my desire to pursue higher education.
+COACH: Perfect. Now, you need to think about how to organize your essay. You can start by introducing your family and explaining how they have been a source of inspiration and motivation. Then, you can discuss specific examples of how they have supported you in your educational pursuits. Finally, you can explain how their support has motivated you to pursue higher education.

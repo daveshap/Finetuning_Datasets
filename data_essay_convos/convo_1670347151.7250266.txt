@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my personal statement.
+COACH: Sure, what kind of help do you need?
+STUDENT: Well, I'm having trouble figuring out how to structure it and make it interesting. I'm afraid that I'm a bit boring and my essay won't stand out.
+COACH: That's a common concern. Let's start by talking about what you want to accomplish with your personal statement. What do you hope to convey to the admissions committee at Princeton or NCSU? 
+STUDENT: I want them to get a sense of who I am and why I'm a strong candidate for their school. I also want to show that I'm passionate about the field I'm applying for and that I'm driven to succeed.
+COACH: Great! That's a great starting point. Now, let's talk about how to structure your essay. Have you thought about creating an outline? This is a helpful way to organize your thoughts and ensure that you cover all the points you want to make.
+STUDENT: Yes, I think that would be helpful.
+COACH: Alright, let's start with that. What are the main points you want to make in your essay?
+STUDENT: I want to talk about my academic background, my extracurricular activities, and my career goals.
+COACH: Perfect! Now that we have an outline, let's talk about how to make your essay stand out. What unique experiences or qualities do you have that you can highlight?
+STUDENT: I think I have a unique perspective on my field because I come from a diverse background. I also think I'm creative and have good problem-solving skills.
+COACH: Great! Those are excellent qualities to highlight. Now, let's talk about how to make your essay engaging. Have you thought about using stories or anecdotes to illustrate your points? This can be a great way to make your essay more interesting and memorable.
+STUDENT: That's a great idea. I think I can find some stories that will help illustrate my points.
+COACH: Wonderful! That's a great start. Now, let's talk about the language you use in your essay. Make sure to use clear, concise language that conveys your ideas effectively. Avoid using overly complex words or phrases that might confuse the reader.
+STUDENT: Got it. I'll make sure to keep it simple and straightforward.
+COACH: Great! That's the key to writing an effective essay. Now, let's review your outline and make sure everything is in order. Once you're happy with it, you can start writing your essay. Good luck!

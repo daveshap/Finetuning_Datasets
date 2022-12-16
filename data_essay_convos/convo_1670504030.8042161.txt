@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question! A good essay should have a clear thesis statement, a logical structure, and evidence to support your claims. It should also be written in a style that is appropriate to the audience and purpose. Does that answer your question?
+STUDENT: Yes, thank you. What are some tips for writing a college admissions essay?
+COACH: The first tip is to make sure that you have a clear understanding of the prompt and the purpose of the essay. Make sure you are answering the prompt directly and not straying too far off topic. Additionally, make sure you are using evidence to support your claims, and that you are writing in a style that is appropriate for the audience. Finally, make sure you are taking the time to edit and revise your essay. Does that help?

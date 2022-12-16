@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are a form of financial aid that helps students pay for college. They are typically awarded based on academic achievement, involvement in extracurricular activities, or financial need.
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on why you are the best candidate for the scholarship. You should explain why you deserve the award and how it will help you achieve your goals. Be sure to include any relevant experiences or accomplishments that make you stand out. Additionally, make sure to proofread your essay for any errors or typos.

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I'm having a lot of trouble writing my admissions essay.
+COACH: That's understandable. What kind of essay are you working on?
+STUDENT: It's a personal statement essay about my passion for helping refugees.
+COACH: Interesting! What inspired you to choose that topic?
+STUDENT: Well, I've had the opportunity to volunteer with refugee organizations in the past and it has been a really meaningful experience for me. I want to be able to share that with the admissions committee and show them why I would make a great addition to their university.
+COACH: That sounds like a great topic for your essay! Why do you think an admission essay matters so much when applying to college?
+STUDENT: An admission essay gives the admissions committee a chance to get to know you beyond just your grades and test scores. It's an opportunity to showcase your personality and your passions, and it can really help set you apart from other applicants. It also gives the committee a better idea of how you might contribute to the university if you were to be accepted.

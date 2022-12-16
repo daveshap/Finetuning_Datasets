@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question! I'm assuming you're writing a research paper on this topic?
+STUDENT: Yes, I am.
+COACH: Okay, great. Let's start by brainstorming some ideas. What kind of job are you looking for?
+STUDENT: I'm not sure yet. I just know that I want to do something that I'm passionate about.
+COACH: That's a great place to start! What kind of topics are you passionate about?
+STUDENT: I'm really interested in environmental sustainability.
+COACH: That's fantastic! Now, let's think about what kind of job you can find with that kind of interest. What kind of skills do you have that could be useful in a job related to environmental sustainability?
+STUDENT: Well, I'm good at research and writing.
+COACH: Perfect! Those are two great skills that will be very helpful when it comes to finding a job in the environmental sustainability field. What other skills do you have that could help you in this kind of position?

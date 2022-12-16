@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college essay. I'm applying to Duke University and Yale and I want to talk about my passion for travel and creativity.
+COACH: Great! It sounds like you have a lot of interesting experiences and ideas that you want to share. Can you tell me a little bit more about your interest in travel and creativity?
+STUDENT: Yeah, sure. I love traveling because it's a great way to experience different cultures, explore new places, and learn more about the world. I also love expressing my creativity through art, photography, and writing.
+COACH: That's wonderful! It sounds like you have a lot of passion and enthusiasm for these topics. What do you think makes your experiences in travel and creativity unique?
+STUDENT: I think what makes my experiences unique is the way I approach them. I try to go beyond just seeing the sights and take the time to really immerse myself in the culture and environment. I also approach my creative projects with an open mind and a willingness to experiment and explore new ideas.
+COACH: That's great! It sounds like you have a very open and creative approach to your experiences. How do you think that can benefit you as a student at Duke or Yale?
+STUDENT: I think it can benefit me in a few ways. First, I think it will help me to be more open to new ideas and perspectives, which is something that is essential in college. Secondly, I think it will give me a better understanding of different cultures, which is important in today's globalized world. Finally, it will give me a better appreciation for the creative process and the importance of experimentation and exploration.

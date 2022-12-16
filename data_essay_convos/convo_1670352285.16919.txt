@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to get into medical school and I'm looking for some advice on how to write my essay.
+COACH: Great! What kind of advice are you looking for? 
+STUDENT: Well, I come from a poor family and I'm not sure how I'm going to finance college. I'm also concerned about sexism in the medical field and how to address it in my essay.
+COACH: That's a lot to consider. Let's start with financing college. How much do you know about the various options available to you?
+STUDENT: Not much, I'm afraid.
+COACH: Okay, no problem. There are a few different ways to finance college. The first is scholarships. These are typically awarded based on academic merit, so if you have good grades, this could be an option for you. There are also grants, which are usually need-based, so if your family has limited resources, you may qualify for one of those. Another option is student loans, which you can take out from a bank or the government. Finally, there are work-study programs, where you can work part-time while in school to help pay for your tuition. 
+STUDENT: Wow, that's really helpful. Thank you.
+COACH: No problem. Now, let's talk about addressing sexism in your essay. What do you think you need to do to address this issue?
+STUDENT: I think I need to demonstrate that I'm aware of the issue and that I'm committed to making a change.
+COACH: Absolutely. You can start by doing research on the issue and citing reliable sources in your essay. This will show that you are informed about the issue. You can also talk about any experiences you've had that have shaped your perspective, or any steps you plan to take to make a difference. This will show that you are committed to making a difference in the medical field.

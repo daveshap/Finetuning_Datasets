@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admission essay for North Carolina State University and I'm having some trouble getting started.
+COACH: Got it. Could you tell me a bit more about yourself? What kind of background do you have?
+STUDENT: Sure. I was born in Thailand and moved to the United States with my single parent when I was 8 years old. 
+COACH: That's quite a journey! What made you decide to apply to NCSU?
+STUDENT: I've always been interested in attending college in the US, and NCSU has a great reputation. I also like the idea of being part of a big school with lots of opportunities.
+COACH: That makes sense. Why do you think an admission essay matters?
+STUDENT: I think an admission essay is important because it gives admissions officers a chance to get to know me better. It also lets them see how I think and write, which can be an important factor in their decision-making process. It's my chance to stand out and show them why I'm different from other applicants.

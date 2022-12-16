@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school at NCSU and I need help with my personal statement.
+COACH: Great, let's get started. Can you tell me a bit more about what you want to write about in your essay?
+STUDENT: Well, I recently took a trip to Europe and I thought that could be a great starting point. I want to talk about how the trip changed my perspective on life and how it will help me in grad school.
+COACH: That sounds like an interesting topic. What did you learn from your trip to Europe?
+STUDENT: I learned a lot about different cultures and ways of life. It really opened my eyes to the world around me and made me realize that there is so much more out there than I had ever imagined.
+COACH: That's fantastic. How can you tie that into your graduate school application?
+STUDENT: I think I can use the experience to demonstrate how I am open-minded and willing to learn new things. I also think it will show that I am capable of taking risks and adapting to new environments, which are important skills for grad school.

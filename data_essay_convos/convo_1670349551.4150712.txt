@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm in the process of writing an essay for college and I'm having trouble figuring out what to write about.
+COACH: Okay, let's start by talking about you. What are some things that make you unique?
+STUDENT: Well, I'm not particularly interesting as a person. I'm an engineering student who is passionate about charity work, and I'm also interested in Buddhism and LGBT rights.
+COACH: That's great! Let's start by focusing on your engineering background. Tell me more about your engineering studies and what kind of projects you've been working on.
+STUDENT: I'm currently studying mechanical engineering and I'm really interested in renewable energy. I'm also working on a project involving solar power and energy efficiency.
+COACH: That's really impressive! Can you tell me more about your charity work?
+STUDENT: Sure! I'm involved with a local charity organization that focuses on helping underprivileged children in my community. I volunteer my time to help them with their educational needs, provide mentorship, and offer career advice.
+COACH: That's amazing! And what about Buddhism and LGBT rights?
+STUDENT: I'm fascinated by Buddhism and its teachings. I'm also passionate about LGBT rights because I believe everyone should be treated equally regardless of their sexual orientation or gender identity. I'm hoping to use my engineering skills to help create more inclusive and accepting environments for the LGBT community.

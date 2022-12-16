@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: That's a great question. Before we get into the specifics of writing a conclusion, can you tell me a bit more about your essay? What type of essay is it?
+STUDENT: It's a persuasive essay
+COACH: Great! Let's talk about how to write a strong persuasive essay conclusion. First off, you want to summarize the main points of your essay. Make sure to include any evidence or arguments that you used to support your position. Then, you want to make a final statement that ties everything together and drives home your point. Make sure to use strong language and be as convincing as possible. Finally, you want to end with a call to action. This could be asking the reader to consider your point of view, or encouraging them to take some kind of action.

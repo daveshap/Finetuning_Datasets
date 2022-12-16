@@ -1,0 +1,29 @@
+Please describe how you have prepared for your intended major, including your readiness to succeed in your upper-division courses once you enroll at the university.
+
+ 
+
+The lines of code I had to write, compile and debug for my grader.
+
+It doesn't seem like much, but it took time to code the grader, the tests to check against the example programs given to me, and get it to compile and run against those programs. Yet, it wasn't grading them correctly.
+
+On a cold and cloudy Wednesday night, I had to code a program to grade other people's code for one of my programming classes. I had worked on it since 4:00 in the afternoon.
+
+It was almost midnight.
+
+How did I know I wanted to pursue computer science? 
+
+My first experience in computer science was when I worked with Scratch, a visual programming language that allows you to code animations and games. I was inspired by how other creators coded their animations and games. I enjoyed learning to use the "blocks" - drag and drop pieces, to build my projects.
+
+The summer after I graduated high school, I finished my associate's degree in computer science. It exposed me to different areas of computer science: application development, data structures and algorithms, and programming languages and their respective libraries.
+
+That night, I was hungry and tired. However, I was determined to get the grader to work.
+
+The breakthrough came when I had to give feedback on someone else's grader.
+
+When I scanned their code, it had a part my code didn't have: redirecting the code and tests to a separate directory. I also noticed that they hard-coded the code that returned the final score, which inspired me to write code where the final score came from pulling the number of tests and failed tests from the output instead of being hardcoded. It helped me fix and improve my program.
+
+I ran the tests against the example programs. As it ran against each program, it returned the expected output as stated in the instructions.
+
+It works.
+
+This moment was one of the many moments that motivated me to pursue computer science. In this case, learning and inspecting others' code helps me become a more creative and attentive programmer.

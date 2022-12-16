@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Generally, admissions officers look for essays that demonstrate a student’s ability to think critically and express their thoughts in a clear and organized way. They also want to get a sense of who you are as a person and why you would be a great fit for their program. What kind of essay are you writing?
+STUDENT: I am writing an admissions essay for college.
+COACH: Great! Let's start by talking about what makes you unique. What experiences have shaped your life and made you who you are today? 
+STUDENT: Well, I grew up in a small town where I was surrounded by a supportive community. Everyone always looked out for each other, and I learned the value of hard work and dedication. My parents were also very supportive of my education and pushed me to excel.
+COACH: That sounds like a great foundation for your essay. Now, let's talk about how you can use these experiences to demonstrate why you would be a great fit for the college. What skills or qualities do you think you could bring to the college?
+STUDENT: I think I could bring a strong work ethic, a commitment to excellence, and the ability to work together with others. I also think I could bring a unique perspective to the college, since I come from a small town.
+COACH: Those are all great qualities that could be highlighted in your essay. Now, let's talk about how you can craft your essay to make sure it stands out. What kind of structure and organization do you think would be most effective? 
+STUDENT: I think I should start by talking about the experiences that have shaped me, then focus on the skills and qualities I can bring to the college. After that, I should discuss why I would be a great fit for the college. 
+COACH: That sounds like a great plan. Now, let's talk about how you can make sure your essay is engaging and captures the attention of the reader. What kind of language and tone do you think would be most effective? 
+STUDENT: I think I should use a conversational tone and use vivid language to bring my experiences and ideas to life. I should also make sure to use strong verbs and descriptive words to make my essay stand out. 
+COACH: Excellent! Now, let's talk about how you can make sure your essay is well-edited and free of errors. What strategies do you think you can use to make sure your essay is polished and ready to submit? 
+STUDENT: I think I should read through my essay several times and have someone else review it to make sure it is error-free. I should also use a grammar and spell checker to make sure everything is correct.

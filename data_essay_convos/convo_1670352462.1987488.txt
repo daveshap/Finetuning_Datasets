@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college essay.
+COACH: Okay, let's start by talking about what you want to write about. What topics interest you?
+STUDENT: Well, I'm interested in Judaism and how it relates to my life.
+COACH: That's a great topic to explore! What aspects of Judaism are you looking to focus on?
+STUDENT: I'm interested in how the religion has shaped my values and how I view the world.
+COACH: Great, that's definitely something you can explore in your essay. Are there any other topics you're interested in writing about?
+STUDENT: Yes, I'm also interested in learning more about how financing college works.
+COACH: That's a great topic to explore as well. What do you want to learn more about when it comes to financing college?
+STUDENT: I want to know more about scholarships, grants, and student loans.
+COACH: Okay, great. Let's talk about scholarships first. Scholarships are typically awarded based on academic merit or special talents. To apply for a scholarship, you'll need to submit an application and possibly an essay. It's important to research the different types of scholarships available and make sure you meet the requirements.
+When it comes to grants, these are typically need-based and may be offered by the federal government, states, colleges, or private organizations. You'll need to fill out an application to apply for a grant and provide information about your financial situation.
+Finally, student loans are another option for financing college. These loans are typically offered by the federal government and private lenders. You'll need to fill out an application and provide documentation of your financial situation.
+Do any of these topics help answer your questions about financing college?
+STUDENT: Yes, this helps a lot. I'm also considering grad school and wanted to know if there were any special considerations when it comes to financing grad school.
+COACH: Absolutely. When it comes to grad school, you'll likely need to take out student loans and/or look for scholarship and grant opportunities. Many universities, such as UNC, offer a variety of scholarships and grants specifically for graduate students. Additionally, there are a number of private organizations that offer grants and scholarships for graduate students. It's important to research all of your options and apply for as many as possible. Finally, you may also want to look into doing volunteer or charity work in order to gain experience and demonstrate your commitment to the field.

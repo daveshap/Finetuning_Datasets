@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student and I'm interested in getting scholarships and grants for college.
+COACH: That's great! Can you tell me a bit more about your background and what you're looking for?
+STUDENT: Sure. I'm from China, and I've been living here for the past five years. I'm hoping to travel and study abroad, and I'm looking for scholarships and grants to help me do that.
+COACH: Alright, so you're looking for scholarships and grants to help you travel and study abroad. What kind of college are you interested in?
+STUDENT: I'm looking at universities in the US, UK, and Australia.
+COACH: That's great! Have you already done any research into the different types of scholarships and grants available to international students?
+STUDENT: Not yet. I'm just starting to look into it.
+COACH: That's understandable. There are a lot of different types of scholarships and grants available, so it can be overwhelming to figure out which ones are right for you. The first thing I would suggest is to do some online research to get an overview of the different types of scholarships and grants available. You can also look into specific universities and see what kinds of scholarships and grants they offer. Once you have a better idea of what's out there, you can start narrowing down your options and applying for the ones that best fit your needs.

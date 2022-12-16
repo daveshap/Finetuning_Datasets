@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That's a great question! Before we dive into writing the essay, let me ask you some questions about your goals and experiences. What type of school are you applying to?
+STUDENT: I'm applying to medical school.
+COACH: Great! What do you hope to gain from attending medical school?
+STUDENT: I want to become a doctor and help people in need.
+COACH: That's admirable! Can you tell me more about why you want to pursue a medical career?
+STUDENT: I've always been passionate about science and medicine, and I want to use my knowledge to make a difference in people's lives.
+COACH: That's wonderful. Now, let's talk about how to write a compelling personal statement for medical school. First, it's important to focus on your unique experiences and qualifications that make you stand out from other applicants. Have you had any volunteer or work experience related to medicine or healthcare?
+STUDENT: Yes, I volunteered at a local hospital last summer.
+COACH: Great! You can use this experience as an example of your passion and commitment to a medical career. Think about how you can use this experience to illustrate your character and skills. For example, what did you learn from the experience? How did it shape your understanding of the medical field? How did it motivate you to pursue a medical career? Thinking through these questions will help you craft a strong and compelling personal statement.

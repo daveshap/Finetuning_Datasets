@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my passions and interests.
+COACH: That's great! What are some of the topics that you are passionate about? 
+STUDENT: Well, I'm really passionate about science and learning about the world around me. I also love to travel and explore new cultures, and I've recently done some volunteer work in France.
+COACH: It sounds like you have a lot of interesting experiences and interests. Could you tell me a bit more about your experience with science and why it is so important to you?
+STUDENT: Absolutely! Science has always been a passion of mine since I was a child. I love learning about the natural world and how it works, and I'm fascinated by the discoveries that scientists make every day. I think science is a great way to explore the world and understand how things work.
+COACH: That's great! What about your experience with travel and volunteering in France?
+STUDENT: Traveling and volunteering in France was an amazing experience for me. I got to explore the culture and learn about the history of the country. I also had the opportunity to do some volunteer work, which was very rewarding. It was a great way to give back to the community and gain a better understanding of the country.

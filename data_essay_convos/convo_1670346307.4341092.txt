@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and UCLA and I'm having trouble writing my admissions essay.
+COACH: Great! Let's start by talking about what you want to focus on in your essay. What topics are you considering?
+STUDENT: Well, I was thinking of writing about sexism in my home country of Vietnam.
+COACH: Interesting! What specifically would you like to address in your essay?
+STUDENT: I want to talk about how sexism has affected my life and the lives of other women in Vietnam.
+COACH: That sounds like a great topic for an admissions essay. What kind of evidence do you have to back up your claims?
+STUDENT: I have some personal stories and experiences, as well as research from books and articles.
+COACH: That's great. How would you like to structure your essay?
+STUDENT: I was thinking of starting with a description of the situation in Vietnam, then talking about my own experiences, and finally wrapping up with a conclusion.
+COACH: That sounds like a great plan. What kind of tone do you want to use in your essay?
+STUDENT: I want to be honest and direct, but also respectful and understanding.
+COACH: That's a good goal. Do you have any questions about the writing process?

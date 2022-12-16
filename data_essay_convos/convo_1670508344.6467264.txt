@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are a great way to fund your education. What type of essay do you need help with?
+STUDENT: I need to write a persuasive essay.
+COACH: Okay, great. What is the topic of your persuasive essay? 
+STUDENT: The importance of financial literacy.
+COACH: That's a great topic. What kind of argument are you trying to make?
+STUDENT: I want to argue that everyone should be educated about money and financial skills in order to make better decisions for their future.
+COACH: That's an excellent argument. What points do you plan to make in your essay to support your argument?
+STUDENT: I plan to discuss the benefits of financial literacy, such as creating a budget, managing debt, and investing. I also want to discuss how financial literacy can help people in their careers and personal lives. 
+COACH: That sounds like a great plan. How do you plan to structure your essay?

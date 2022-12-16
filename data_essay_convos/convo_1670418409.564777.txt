@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about racism and how it affects my life.
+COACH: That sounds like a really important and timely topic. Can you tell me a bit more about what you want to discuss in the essay?
+STUDENT: Well, I'm applying to Princeton and I want to talk about how racism has shaped my life and how I've had to overcome it.
+COACH: That's great! It sounds like you have a lot of material to work with. What kind of structure are you thinking of for the essay?
+STUDENT: I'm not sure. I feel like I'm a boring person and I don't know if I can make it interesting.
+COACH: Don't worry, you don't have to be an exciting person to write an interesting essay! You can start by talking about your experiences with racism and then move on to discussing how you've been able to overcome it. You could also look into the concept of neurodiversity and how it relates to racism. That could give you some interesting perspectives to explore.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question! Before we dive into topics, can you tell me a bit more about your essay? What type of essay are you writing?
+STUDENT: It's a personal statement.
+COACH: Perfect! A personal statement is a great opportunity to showcase your unique qualities and experiences. When it comes to selecting a topic, the best approach is to focus on something that is meaningful to you. Think about what you are passionate about, what experiences have shaped you, and what stories you have to tell. Once you have identified a few potential topics, narrow it down by considering which one will be most interesting to the reader and which one best reflects your goals and values.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That's a great question! Financing college can be a complicated process, but I'm here to help you understand it. First, let's talk about the different types of financial aid available. Do you know what types of aid are available? 
+STUDENT: No, I don't.
+COACH: That's okay! There are several types of financial aid available for college students. These include grants, scholarships, student loans, and work-study programs. Grants and scholarships are usually need-based, meaning they are awarded based on your financial situation. Student loans are borrowed money that must be paid back with interest. Work-study programs are part-time jobs that you can do while attending school. Do you have any questions about these options? 
+STUDENT: Yes, which one is best for me?
+COACH: That depends on your individual circumstances. Grants and scholarships are usually the best option if you qualify for them, since they don't need to be paid back. Student loans are a good option if you need additional funds, but you should make sure you understand the terms and conditions before taking out a loan. Work-study programs are a great way to earn money while in school, but you should make sure you have enough time to dedicate to your studies. Ultimately, the best option for you will depend on your individual financial situation and goals.

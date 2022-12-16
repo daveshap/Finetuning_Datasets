@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admissions essay for Harvard and I'm having trouble getting started.
+COACH: Alright, let's start by getting a better understanding of what you want to write about. What topics do you think you'd like to explore in your essay?
+STUDENT: Well, I'm interested in exploring the relationship between science and Christianity in Europe.
+COACH: Interesting. What specifically would you like to focus on?
+STUDENT: I want to examine how the two intersect and how that has shaped European history and culture.
+COACH: That's a great topic. So, what kind of research have you done so far?
+STUDENT: I've read some books on the subject and looked at some online sources, but I'm still trying to figure out what angle to take.
+COACH: That's understandable. Let's start by looking at the different ways science and Christianity have interacted in Europe. For example, did Christianity influence scientific discoveries or was it the other way around?
+STUDENT: That's a good question. I think it might be a bit of both.
+COACH: Yes, it could be. Let's look at some specific examples. How did the Christian Church view scientific discoveries during the Middle Ages?
+STUDENT: Well, the Church was generally supportive of scientific progress, but there were also times when it was opposed to certain discoveries.

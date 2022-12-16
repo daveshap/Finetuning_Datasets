@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Well, it sounds like you need to do some research. What kind of research paper are you writing?
+STUDENT: I'm writing a research paper on the effects of climate change on the environment.
+COACH: That's great! What have you already done in terms of research?
+STUDENT: I've done some basic research on the internet, but I'm having trouble finding reliable sources and organizing my thoughts.
+COACH: Okay, let's start by looking for reliable sources. Have you tried using academic databases or library resources?
+STUDENT: Yes, I've been using those but I'm still having trouble organizing my thoughts.
+COACH: That's understandable. A research paper is a complex project that requires a lot of organization and planning. Let's start by creating an outline. We can use the outline to organize your thoughts and decide which sources to use. Then, we can go through the sources and put together the evidence to support your argument.

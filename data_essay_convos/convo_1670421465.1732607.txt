@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm looking for help with my personal statement. I'm applying to a college in Thailand and I'm having trouble getting started.
+COACH: Thanks for reaching out. It sounds like you're looking for help getting started on your personal statement. Can you tell me a bit more about the essay? What topics are you hoping to focus on?
+STUDENT: Well, I'm really interested in creativity and art, so I wanted to write about my experiences in that area.
+COACH: That's great! It sounds like you have a good idea of what you'd like to focus on. What kind of experiences have you had with creativity and art?
+STUDENT: I've been drawing and painting for as long as I can remember. I also took a few classes in China during high school and learned a lot about traditional Chinese art.
+COACH: That's really interesting! It sounds like you have a lot of experience to draw from. Do you have any specific ideas for how you'd like to structure your essay?
+STUDENT: Not really, I'm still trying to figure out the best way to organize my thoughts and make my essay stand out.
+COACH: That's understandable. One way to structure your essay is to focus on a few key experiences or stories that illustrate your passion for creativity and art. Think about the most meaningful moments that you've had and how you could use those stories to show what makes you unique. That could be a great way to get started.

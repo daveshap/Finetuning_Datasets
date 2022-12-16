@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay! Writing a good persuasive essay can be a challenging task, but it doesn't have to be. Let's start by brainstorming some ideas. What topics are you passionate about or interested in? 
+STUDENT: I'm really passionate about music and the power it has to bring people together.
+COACH: That's great! Music is an excellent topic to write about for a persuasive essay. Now, what kind of argument could you make about the power of music? 
+STUDENT: I guess I could argue that music can be used to bridge cultural and generational divides.
+COACH: That's a great idea! To make your argument stronger, you should think about how music has been used to bridge divides in the past. Do you have any examples of this? 
+STUDENT: Yes, I know that during the civil rights movement, gospel music was used to bring people of different races together.
+COACH: Perfect! You can use that example to illustrate your argument. Now, what other evidence can you use to support your argument?

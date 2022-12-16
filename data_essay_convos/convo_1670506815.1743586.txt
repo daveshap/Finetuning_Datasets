@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question. Scholarships and grants are typically awarded based on academic achievement, financial need, or other criteria. To find out what you may qualify for, I suggest doing some research online and reaching out to your college's financial aid office.
+Now, let's talk about your essay. What type of essay are you writing?
+STUDENT: I'm writing a personal statement for grad school.
+COACH: Great! A personal statement is an opportunity to tell the admissions committee more about yourself and your goals. It should be reflective and honest, but also showcase your skills and experiences. What do you want to focus on in your essay?

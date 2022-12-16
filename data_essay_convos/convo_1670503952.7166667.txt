@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Well, an argumentative essay should have a clear thesis statement, which is the main point or argument you are trying to make. You should also include evidence to support your argument, such as facts, statistics, and quotes. Finally, you should provide a conclusion that summarizes your argument and provides a call-to-action.

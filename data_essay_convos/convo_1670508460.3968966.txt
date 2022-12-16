@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: That's a great question! Scholarships are typically awarded to students who demonstrate academic excellence, financial need, or community involvement. Most scholarships require you to submit an essay as part of the application process.
+STUDENT: What should I include in my essay?
+COACH: When writing a scholarship essay, you should focus on why you deserve the scholarship. You should start by introducing yourself and explaining your educational and career goals. Then, you should discuss your qualifications, such as your academic achievements, extracurricular activities, and community service. Finally, you should conclude by summarizing your qualifications and expressing your appreciation for being considered for the scholarship.
+STUDENT: What is a thesis statement?
+COACH: A thesis statement is a sentence that summarizes the main point of your essay. It should be clear and concise, and it should present your opinion or argument about the topic. For example, if your essay is about why you deserve a scholarship, your thesis statement might be something like, “I am an exemplary student with strong academic achievements, extracurricular involvement, and a commitment to community service, and I believe I deserve this scholarship because of my dedication to my studies and my passion for helping others.”

@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That's a great question! Let's start by talking about the different types of financing available to college students. Do you know anything about scholarships, grants, savings, or loans? 
+STUDENT: Not much, just that loans are usually the last resort.
+COACH: That's true, but it's important to understand all of your options when financing college. Scholarships and grants are usually a great choice since they don't need to be repaid. Savings can also be a great way to finance college, but it takes a lot of planning and discipline to make sure you're saving enough. Loans can be a good option as well, but it's important to understand the terms of the loan and how it will affect your financial situation in the future. 
+Now, let's talk about the research paper you need to write. What kind of research have you done so far?

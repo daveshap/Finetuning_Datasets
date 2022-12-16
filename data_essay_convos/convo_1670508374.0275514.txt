@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are a great way to help fund your education. What type of essay are you working on? 
+STUDENT: A term paper on the history of the civil rights movement. 
+COACH: Great topic! Let's start by talking about what you already know about the civil rights movement. What do you know so far? 
+STUDENT: I know that it was a struggle for equality for African Americans in the United States during the 1950s and 1960s. 
+COACH: That's a great start. Do you have any specific questions about the civil rights movement or the term paper?

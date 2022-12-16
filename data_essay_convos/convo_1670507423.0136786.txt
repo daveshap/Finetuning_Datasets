@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: That's a great question. Before we dive into the essay, I'd like to get a better understanding of your goals and objectives. What is the prompt you are working with?
+STUDENT: The prompt is to write about a time when I faced a challenge and how I overcame it.
+COACH: Ok, great. So, what kind of challenge are you writing about?
+STUDENT: I'm writing about a time when I had to make a difficult decision between two paths and how I chose the right one.
+COACH: That's a great topic. Now that I know what you're writing about, I can help you craft an effective opening. An effective opening should grab the reader's attention and provide some context for the rest of your essay. You could start by providing a brief overview of the challenge you faced and why it was difficult for you to make a decision. Then, you could explain why you chose the path you did and how it impacted your life.

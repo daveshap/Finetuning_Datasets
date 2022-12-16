@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my college admission application and I'm not sure what to write about.
+COACH: That's a great question! Before we jump into brainstorming ideas, can you tell me a bit more about yourself? What are some of your passions and interests that you want to share with the admissions committee? 
+STUDENT: Well, I'm really passionate about addressing sexism in our society. I also really like art and music, and I'm interested in learning more about computer science.
+COACH: That sounds great! It seems like you have a lot of interesting topics to explore in your essay. How do you think you could use your passions and interests to create an essay that stands out?
+STUDENT: I'm not sure. I feel like I'm not that interesting as a person.
+COACH: Don't worry, everyone has something unique and special to offer. Think about stories from your life that highlight your passions and interests. For example, have you ever faced any challenges related to sexism or have you had any experiences that have impacted your views on the subject? Or maybe you could write about how art and music have shaped your life and how they have helped you grow as a person. You could also discuss how you've used computer science to solve problems or make a difference in your community.
+STUDENT: That's a great idea. I think I can use those experiences to write a compelling essay.
+COACH: Absolutely! Writing about your personal experiences is a great way to make your essay unique and stand out. Is there anything else you want to talk about? Are you applying to any specific schools, such as NCSU?
+STUDENT: Yes, I'm applying to NCSU.
+COACH: Great! It's always helpful to tailor your essay to the school you're applying to. Do some research on NCSU and find out what makes it unique. Are there any programs or activities that you're particularly excited about? Or is there something about the school that resonates with you? These are all things you can use to make your essay stand out and show why you would be a great fit for that school.

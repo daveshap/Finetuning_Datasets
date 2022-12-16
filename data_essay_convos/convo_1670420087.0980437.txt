@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started on my essay. I want to write about why college matters, but I'm not sure where to start.
+COACH: That's a great topic to explore. Let's start by breaking down the essay into its parts. An essay typically has an introduction, body paragraphs, and a conclusion. What do you think each of these parts should include?
+STUDENT: I think the introduction should introduce the topic and provide some background information. The body paragraphs should provide evidence and support for the main argument. And the conclusion should summarize the main points and provide a sense of closure.
+COACH: That's a great overview. Now let's focus on the introduction. What kind of hook can you use to draw in the reader?
+STUDENT: Hmm, I'm not sure. Maybe I could start with a statistic or an interesting anecdote.
+COACH: That's a great idea. You could also start with a quote or a thought-provoking question. Let's move on to the body paragraphs. What kind of evidence will you use to support your argument?
+STUDENT: I was thinking of using examples from my own experience as well as research and statistics.
+COACH: That sounds like a good plan. Make sure you cite any sources you use. Now let's talk about the conclusion. How will you wrap up your essay?
+STUDENT: I was thinking of summarizing the main points and providing a call to action.
+COACH: That's a great way to end the essay. Now let's talk about the structure of the essay. What kind of order will you use to organize your ideas?
+STUDENT: I was thinking of using a chronological order, but I'm not sure if that would work.
+COACH: Chronological order is one option, but you could also use a cause and effect structure or a compare and contrast structure. It really depends on what kind of essay you're writing and what kind of message you want to convey. 
+STUDENT: Okay, that makes sense. I think I'm starting to get a better idea of how to structure my essay.
+COACH: Great! Now that we've discussed the structure, let's talk about the content. What kind of topics will you cover in your essay?
+STUDENT: I want to explore the importance of college, but I also want to touch on topics like sexism, creativity, and art.
+COACH: Those are all great topics to explore. Make sure you provide evidence and examples to support your arguments. That way, your readers will be able to connect with your ideas.
+STUDENT: Okay, I think I have a better understanding of what I need to do. Thanks for your help! 
+COACH: You're welcome! I'm glad I could help. Good luck with your essay!

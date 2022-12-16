@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I need help with my essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's a personal statement about my creativity and art.
+COACH: Tell me a bit more about your creativity and art. What kind of art do you make?
+STUDENT: I'm mostly a painter, but I also do some sculpting and other mixed media work. I'm really passionate about it and I've been doing it for years.
+COACH: That's fantastic! What inspires you to create art?
+STUDENT: Well, I'm inspired by my travels, particularly in Europe. I love the culture and history there, and it often shows up in my work. I'm also inspired by the natural world, so I like to incorporate elements of nature into my art.
+COACH: That sounds amazing. Can you tell me a bit more about your travels and how they have impacted you?
+STUDENT: Sure! I've been to several countries in Europe, and each one has had its own unique influence on me. I've seen some incredible works of art, experienced different cultures, and learned a lot about myself in the process. It's really helped me to develop my skills and understand my passions better.

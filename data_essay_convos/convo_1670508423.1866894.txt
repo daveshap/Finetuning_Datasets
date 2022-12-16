@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Great question! A scholarship is a type of financial aid that is awarded to students based on academic merit, athletic ability, or other criteria. Scholarships can come from a variety of sources, such as government agencies, private organizations, and universities. The criteria for receiving a scholarship varies, so it's important to research the specific scholarship you are applying for. Now, what kind of essay are you working on?

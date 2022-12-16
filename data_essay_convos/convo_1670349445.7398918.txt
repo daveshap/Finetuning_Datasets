@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I have no idea what to write about for my essay.
+COACH: Alright, let's start by talking about what topics you're interested in. What kind of topics do you usually like to write about?
+STUDENT: I'm interested in writing about social issues.
+COACH: That's great! Social issues can be a great topic to write about. What kind of social issues are you passionate about?
+STUDENT: I'm really passionate about issues pertaining to the Philippines, my home country.
+COACH: That's wonderful! Do you have any specific ideas for what kind of essay you'd like to write?
+STUDENT: Not yet, I'm still trying to figure out what I want to focus on.
+COACH: That's totally understandable. Let's start by brainstorming some ideas. What kind of social issues in the Philippines do you think you could write about?
+STUDENT: Well, I'm interested in writing about poverty in the Philippines.
+COACH: That's a great topic to write about. What kind of angle would you like to take with your essay?
+STUDENT: I'd like to focus on how poverty affects the lives of everyday people in the Philippines.
+COACH: That's a great idea! Now that we have a topic, let's talk about how to structure your essay. What kind of essay structure do you think would work best for this topic?
+STUDENT: I think an argumentative essay would work best, so I can make a case for why poverty is an issue that needs to be addressed.
+COACH: That's a great idea. An argumentative essay is a great way to make a strong case for your point. Let's talk about how you can develop your argument and make it as convincing as possible.

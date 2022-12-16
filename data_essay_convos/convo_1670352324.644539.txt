@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I need help with my essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's a personal statement about why I want to go to Duke.
+COACH: Okay, so what do you want to focus on in the essay?
+STUDENT: I want to talk about my experiences with charity work and how it has shaped my views on sexism and gender inequality.
+COACH: That's an interesting topic. Let's break down the essay into its parts. What do you think would make a good introduction or hook?
+STUDENT: I was thinking of starting with a story about a time when I volunteered at a women's shelter and how it made me realize the importance of fighting sexism.
+COACH: That sounds like a great start. What about the middle of the essay?
+STUDENT: I want to talk about how my experiences with charity work have opened my eyes to the reality of gender inequality and how I want to use my education to help create a more equal society.
+COACH: That's a great message to send to the admissions committee. What about the conclusion?
+STUDENT: I want to end with a call to action, encouraging other people to get involved in charity work and fight against sexism.
+COACH: That's a great way to end the essay. Is there anything else you want to include?
+STUDENT: Yes, I also want to talk about my plans after college and how I plan to use my education to find a job that helps fight gender inequality.

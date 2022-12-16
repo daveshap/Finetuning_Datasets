@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. Let's start by talking about what the prompt is asking you to do. What is the essay prompt, and what do you think it's asking you to do?
+STUDENT: The prompt is "Describe a time when you faced a challenge and overcame it."
+COACH: Okay, so this prompt is asking you to tell a story about a challenge that you faced and how you overcame it. Can you think of a time in your life when you faced a challenge and overcame it?
+STUDENT: Yes, I can. I faced a challenge when I was applying for college. I had to make sure my application was perfect, and I was really anxious about it.
+COACH: Great! That sounds like a good story to use for your essay. Now, let's talk about how to structure your essay. You'll want to start by introducing the challenge you faced and explain why it was difficult. Then, you'll want to describe the steps you took to overcome the challenge and the outcome of your efforts. Finally, you'll want to reflect on what you learned from this experience and how it has impacted you. Does that make sense? 
+STUDENT: Yes, that makes sense.
+COACH: Perfect! Now, let's talk about how to make your essay stand out. Think about how you can use specific details and vivid language to bring your story to life. For example, instead of just saying that you were anxious, you could describe the physical sensations you experienced when you were anxious, like a tightness in your chest or a racing heart. Does that help?
+STUDENT: Yes, that helps a lot.
+COACH: Great! I'm glad I could be of assistance. Now go ahead and start writing your essay. If you need any more help, just let me know. Good luck!

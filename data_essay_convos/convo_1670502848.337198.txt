@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That's a great question! You want to write about something that is meaningful to you and that will make you stand out from other applicants. Think about experiences, values, or ideas that have shaped who you are today and how they have influenced your goals. Try to focus on one particular story or experience that you can use to illustrate your points.
+STUDENT: What should my essay structure look like?
+COACH: A good essay structure will help keep your thoughts organized and make your essay easier to read. Generally, you'll want to introduce your topic in the first paragraph, provide evidence to support your argument in the body paragraphs, and then tie it all together with a conclusion. Make sure to use transitions between paragraphs to help guide the reader through your essay. 
+STUDENT: What kind of evidence should I include?
+COACH: You want to provide evidence that supports your argument and reinforces your points. This could be personal anecdotes, quotes from experts, statistics, or other research. Make sure to cite any sources you use to give credit to the original authors. Additionally, make sure that your evidence is relevant to your argument and that it adds something to the discussion.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I'm trying to figure out how to write my essay.
+COACH: OK, great. Can you tell me a bit more about the program you're applying to?
+STUDENT: Yeah, I'm applying to Yale and NCSU for a master's degree in public policy.
+COACH: That sounds like an exciting opportunity. What kind of topics do you think you'll be focusing on?
+STUDENT: Well, I'm interested in exploring issues related to refugees, immigration, and human rights.
+COACH: Wonderful! It sounds like you have a lot of passion for this topic. Could you tell me a bit more about your experience with these issues?
+STUDENT: Sure. I've been volunteering with a local refugee resettlement organization for the past few years. I've also done some research on the subject and written several essays about it.
+COACH: That's great! It sounds like you have a lot of knowledge and experience with the topic. How do you think this experience and knowledge could be used in your essay?
+STUDENT: Well, I think I could use my experience to provide a unique perspective on the issue. I could also use my research and writing to demonstrate my understanding of the topic and my commitment to it.

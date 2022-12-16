@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I'm having trouble writing my admission essay. 
+COACH: Alright, let's start from the beginning. Tell me a little bit about yourself and why you're interested in attending UCLA.
+STUDENT: Well, I'm a first generation college student and I'm really passionate about learning. I'm also interested in Buddhism and I think UCLA would be the perfect place to explore that. Plus, I'm looking forward to the opportunities for charity work that UCLA offers.
+COACH: That's great! It sounds like you have a lot of motivation for attending UCLA. So, why does an admission essay matter to you?
+STUDENT: An admission essay is really important to me because it's my chance to show the admissions committee who I am, what I'm passionate about, and why I would be a great addition to the UCLA community.
+COACH: Absolutely. Your essay should reflect your unique personality, values, and experiences. What are some of the topics you plan to cover in your essay?
+STUDENT: I want to talk about my experience as a first generation college student, my interest in Buddhism, and my commitment to charity work.
+COACH: That's a great start. Have you done any research on the university or the program you're applying to?
+STUDENT: Yes, I've been researching UCLA and its programs for a few weeks now. I'm really interested in the Buddhist Studies program and I'm also looking forward to getting involved with the charity work opportunities available at UCLA. 
+COACH: That's great! It sounds like you have a clear idea of what you want to get out of your time at UCLA. How can I help you craft a strong essay that reflects your goals and interests? 
+STUDENT: I'd love some help on how to organize my thoughts and structure my essay. I'm not sure how to start it off and make sure it flows well. 
+COACH: Sure thing! Let's start by brainstorming some ideas for your essay. What themes do you want to focus on?

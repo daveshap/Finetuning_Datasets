@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student looking to apply to law school. I'm from a poor family and want to write an essay about my experience in France.
+COACH: Hi there, thanks for reaching out. That's quite a unique topic! Can you tell me a bit more about your experience in France? How long were you there, and what did you do during your time there?
+STUDENT: I was in France for about two months. I was part of a student exchange program, and my primary focus was to learn the language and culture. I also had the opportunity to visit different parts of the country, like Paris, and experience the food, music, and art, which was really amazing.
+COACH: That sounds like a great experience! What was the most memorable moment or thing that you learned while in France?
+STUDENT: One of the most memorable moments was when I visited the Louvre in Paris. Seeing all those beautiful works of art, and learning about the history behind them, was really inspiring. It made me think about how much can be accomplished with hard work and dedication.
+COACH: That sounds like a really powerful experience. What do you think you can take away from this experience that you can apply to your law school application essay?
+STUDENT: I think I can take away the importance of hard work and dedication. I also learned the value of embracing different cultures, which is something I think will be important for a successful law career. Lastly, I think the experience in France taught me the importance of being open to new experiences, and learning from them.

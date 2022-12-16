@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I want to write my essay about my skills and achievements.
+COACH: That's a great topic! What kind of skills and achievements do you want to highlight?
+STUDENT: Well, I have a lot of experience in Europe and I think that would be a great way to demonstrate my ability to adapt to different cultures. Also, I'm passionate about neurodiversity and I'd like to talk about how I've used my knowledge of the subject to help others.
+COACH: That sounds like a really interesting topic. Can you tell me more about your experience with neurodiversity and how it has helped you in other areas?
+STUDENT: Sure. I've been researching neurodiversity for a few years now and I've found that understanding the different ways people think and process information can be really helpful when it comes to problem-solving. I've also become more aware of the systemic issues faced by those with neurodivergent conditions, such as sexism, and I've worked to raise awareness of these issues and advocate for change.
+COACH: That's great! It sounds like you have a lot of knowledge and experience to draw on when writing your essay. What else do you think is important to include?
+STUDENT: I think it's also important to talk about how my experiences have shaped my perspective and how I approach challenges. I've learned that having an open mind and being willing to learn from different cultures and viewpoints is essential to success.
+COACH: That's a great point! It sounds like you have a lot of insight into the importance of embracing diversity and using it to your advantage. How do you plan to convey this in your essay?
+STUDENT: I plan to use concrete examples of how my experiences have helped me grow and develop. I'll also discuss how my knowledge of neurodiversity has enabled me to better understand and empathize with people from different backgrounds. Finally, I'll talk about how my experiences have helped me become a more effective leader and how I plan to use these skills in the future.

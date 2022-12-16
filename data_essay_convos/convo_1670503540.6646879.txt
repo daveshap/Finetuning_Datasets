@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: A good essay is engaging because it has a clear and specific thesis statement, compelling evidence to support the thesis, and an effective conclusion that ties everything together. It should also be written in an interesting and engaging style. Additionally, using vivid language and creative word choice can help make an essay more engaging.

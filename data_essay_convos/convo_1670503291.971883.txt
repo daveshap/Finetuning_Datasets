@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be done through a variety of ways. Most students will receive some form of financial aid, such as grants, scholarships, and loans. Grants and scholarships are usually need-based and do not have to be paid back. Loans, on the other hand, have to be paid back with interest. 
+STUDENT: What kind of information should I include in my essay?
+COACH: Your essay should be focused on why you are the best candidate for the scholarship. You should include information about your academic achievements, extracurricular activities, and any special skills or talents that make you unique. Be sure to also discuss any hardships or challenges you have faced that have made it difficult to pursue your education. Finally, explain why receiving this scholarship would be beneficial to you and how you plan to use the funds.

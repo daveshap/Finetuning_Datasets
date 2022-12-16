@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: That's a great question! When it comes to writing a conclusion for an argumentative essay, it's important to remember that your conclusion should be a synthesis of the evidence you have presented throughout your essay. It should be a summary of the main points of your essay and should leave your reader with a clear understanding of your argument. You also want to make sure that your conclusion is concise and to the point. 
+STUDENT: What other tips do you have for writing an argumentative essay?
+COACH: One of the most important tips for writing an argumentative essay is to make sure that you have done your research. This means that you need to read up on the topic you are writing about and make sure that you understand the different sides of the argument. You should also make sure to include facts and evidence to support your argument. Additionally, make sure to consider the counter-arguments to your argument and address them in your essay. Finally, make sure to use a logical structure for your essay and to state your thesis clearly.

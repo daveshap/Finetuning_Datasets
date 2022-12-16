@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to figure out how to write an essay about myself and I'm having trouble coming up with ideas.
+COACH: Okay, that's a great place to start. Tell me a bit more about yourself. What are some of your interests? 
+STUDENT: Well, I'm interested in volunteer work and travel. I've always wanted to go to Europe and explore different cultures.
+COACH: That sounds like a great idea! Have you done any volunteer work in the past?
+STUDENT: Yes, I have. I've done a few projects in my local community and I've also done some international volunteering.
+COACH: That's fantastic! What kind of projects have you been involved in?
+STUDENT: I've been involved in a few environmental initiatives, as well as some literacy and education projects.
+COACH: That's really impressive! So, what kind of essay are you looking to write? Are you trying to focus on your volunteer work or something else?
+STUDENT: I'm not sure. I guess I'm looking for something that will make me stand out and show that I'm an interesting person.
+COACH: That's a great goal! Have you considered writing about how your volunteer work has shaped your life? You could talk about how it has helped you develop a passion for certain causes, or how it has opened up new opportunities for you.
+STUDENT: That's a great idea! I hadn't thought of that.
+COACH: Absolutely! You could also talk about how your volunteer work has helped you develop skills that can be applied to other areas of your life, such as finding a job after college or pursuing your passions.
+STUDENT: That's a great way to approach it. Thank you for your help!

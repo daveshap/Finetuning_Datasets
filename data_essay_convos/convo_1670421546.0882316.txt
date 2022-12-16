@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write a college admission essay and I'm not sure what to write about.
+COACH: That's a great question! What topics interest you the most?
+STUDENT: Well, I'm interested in engineering, and I'm also very involved in my faith - I practice Judaism. I also do a lot of volunteer work.
+COACH: That's wonderful! Those are all great topics for your essay. Let's start with engineering. What have been your experiences with engineering?
+STUDENT: I've taken some classes in engineering and I really enjoyed them. I'm also part of an engineering club at my school, and I've done some research projects related to engineering.
+COACH: That sounds like a great start! What about your faith and volunteer work? How have those experiences shaped your life?
+STUDENT: My faith has been a major part of my life since I was young. It's taught me the importance of helping others and being kind. I've also done a lot of volunteer work over the years, which has helped me learn leadership skills and understand the value of hard work.
+COACH: That's amazing! Those are all great topics to explore in your essay. What do you think ties all these experiences together? What is the common thread that connects them?
+STUDENT: I think the common thread is that all of these experiences have helped me become a more compassionate, responsible person. They've taught me the importance of giving back, and how to use my knowledge and skills to make a positive difference in the world.

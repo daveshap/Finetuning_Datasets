@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: Well, college admissions usually involve submitting an application and other materials such as transcripts, test scores, letters of recommendation, and essays. Are you looking for help with a particular essay? 
+STUDENT: Yes, I am applying for a grant and need to write an essay.
+COACH: Great! What kind of grant are you applying for? 
+STUDENT: It's a scholarship for students studying abroad.
+COACH: Okay, so you need to write an essay explaining why you should be awarded the scholarship. Is there anything else you'd like to tell me about the essay? 
+STUDENT: Not really, I just want to make sure I'm doing it right.
+COACH: Sure, let's start by breaking down the essay into its components. First, what are the main points you want to make in your essay? 
+STUDENT: I want to demonstrate my interest in the program, my commitment to my studies, and my ability to adjust to a new culture. 
+COACH: Great, those are all excellent points to make. Now, let's think about how you can best convey these ideas. How can you show that you're interested in the program? 
+STUDENT: I could talk about the research I've done on the program and the reasons why I'm excited to participate. 
+COACH: Perfect! And how can you demonstrate your commitment to your studies? 
+STUDENT: I could mention my past academic achievements and any awards or honors I've received. 
+COACH: That's a great idea. Finally, how can you show that you're prepared to adjust to a new culture?
+STUDENT: I could talk about my experience living in different countries and the ways I've adapted to new environments.

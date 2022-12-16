@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college can be a complicated process, but there are several different methods that you can use. Scholarships, grants, and loans are the most common ways to finance college. Scholarships and grants are typically awarded based on merit or need, while loans require repayment with interest. It's important to understand the differences between each option when deciding how to finance college. 
+STUDENT: What are the key elements of a successful grant application?
+COACH: A successful grant application should include a clear and concise description of your project, a detailed budget outlining the costs associated with the project, and a timeline for completion. Additionally, you should include any relevant supporting documents such as letters of recommendation or transcripts. Finally, you should explain why you are the best person to carry out this project and how it will benefit the organization or community.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for advice on how to write an essay about my skills and achievements.
+COACH: Great! Let's start by talking about some of your skills and achievements. What are some of the things that you're proud of?
+STUDENT: Well, I'm from the Philippines and I'm proud of my ability to speak both English and Tagalog. I'm also proud of my knowledge of French, which I've been studying for the past few years.
+COACH: That's impressive! What other skills and achievements do you want to include in your essay?
+STUDENT: I'm also proud of my knowledge of Islam and my interest in science. I'm currently studying biology and chemistry, and I'm hoping to pursue a career in medicine.
+COACH: That's fantastic! It sounds like you have a lot of great skills and achievements to write about in your essay. How do you plan to structure the essay? 
+STUDENT: I was thinking of starting with my background and then talking about my language skills, followed by my knowledge of Islam and my interest in science. 
+COACH: That sounds like a great plan! Make sure to focus on the key points and highlight why each skill or achievement is important. You can also talk about how your skills and achievements have helped you succeed in the past and how they can help you in the future. Good luck!

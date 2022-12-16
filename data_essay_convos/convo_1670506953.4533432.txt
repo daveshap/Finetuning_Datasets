@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question! It sounds like you're looking for advice on how to transition into the job market after college. Is that correct?
+STUDENT: Yes, that's exactly what I'm looking for.
+COACH: Alright, let me start by asking you a few questions about your goals and interests. What are some of your career aspirations?
+STUDENT: I'm interested in working in the business field.
+COACH: Great! Do you have any particular areas of focus within the business field that interest you?
+STUDENT: I'm interested in marketing and finance.
+COACH: Okay, that's great. Now, let's talk about the essay. The admissions essay is an opportunity for you to tell a story about yourself that will help the admissions committee get to know you better. You can focus on your experiences, your goals, and anything else that you think will give the admissions committee insight into who you are. 
+When writing your essay, it's important to remember that you should focus on the main points you want to make without getting too bogged down in details. Start by outlining your essay and thinking about what key points you want to make. Once you have an outline, you can start writing your essay. Make sure to include concrete examples to illustrate your points and to make your essay more engaging. 
+Finally, proofread your essay several times. This is important to make sure that your essay is free of errors and reads smoothly.
+STUDENT: That's really helpful. Thank you!

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to Duke University, and I'm looking for help with my essay.
+COACH: Great! Can you tell me a bit more about your essay? What's the topic?
+STUDENT: Well, I want to write about my experiences as a refugee from China and how it has shaped my worldview.
+COACH: That sounds like an interesting topic! Can you tell me what specifically you'd like to focus on in your essay?
+STUDENT: I want to talk about how my experiences have made me more aware of neurodiversity and the importance of understanding different perspectives.
+COACH: That's a great angle to take on your essay. Can you tell me more about how your experiences have shaped your view on neurodiversity?
+STUDENT: Sure! Growing up in China, I was surrounded by people who all had similar backgrounds and beliefs. When I came to the US as a refugee, I was exposed to different cultures and ways of thinking. It opened my eyes to the fact that there is no one-size-fits-all approach to understanding the world. Every person is unique and has different perspectives to bring to the table.
+COACH: That's a really powerful message to share in your essay. What do you think you can do to bring that message across in your writing?
+STUDENT: I think I can use examples from my own life to illustrate how I've been exposed to different cultures and ways of thinking. I can also talk about how I've seen the importance of understanding neurodiversity in my own life and the lives of those around me.
+COACH: That's a great idea! It sounds like you have a good plan for your essay. Is there anything else you need help with?
+STUDENT: Actually, yes. I'm having trouble organizing my thoughts and making sure I'm staying on track.
+COACH: That's totally understandable. One thing that can help is to create an outline for your essay. This will help you stay focused and make sure you're covering all the points you want to make. Do you want me to walk you through how to create an outline?

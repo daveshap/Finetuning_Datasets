@@ -1,0 +1,92 @@
+Phillip Lee  
+ 
+  Houston , TX,  77035  
+832-478-8169  
+phileetech@gmail.com  
+ 
+IT Professional with 6+ years of experience in developing web  and business intelligence 
+solutions for diverse industry clients. Highly instrumental in all phases of the SDLC, with 
+expertise in algorithms and data structures. Successful in developing bespoke solutions, 
+optimizing business procedures, processes, and productivity.  
+ 
+ 
+T E C H N O L O G Y  
+Frontend:   React.js, Angular.js , Javascript, Typescript  
+Programming:  Python , Node.js, PHP, HTML, CSS, JavaScript, jQuery, AJAX  
+Frameworks:   Ruby on Rails, Laravel, Django, Flask , Express, Nest.js  
+DBMS:    MySQL, Postgres, SQL Server , MongoDB  
+CI/CD:   Git, GitHub, Gitlab  
+Cloud:    AWS  (EC2, S3, Lamda), GCP, Heroku  
+Systems:   Linux/Apache, Windows Server/IIS, Docker  
+Processes:  Agile, Scrum, Requirements, Design, Development, Database 
+Administration, Testing, Deployment, Maintenance, Documentation, ETL 
+Process, Content Management Systems  
+ 
+P R O F E S S I O N A L  E X P E R I E N C E  
+CASESTRY  
+Software engineer , January  2022 – September  2022 
+ 
+• Responsible for d evelop ing and maintaining  Imagery Creation System based React.js 
+frontend, Python  backend  
+• Designed and built the API, and reusable modules in Python  
+• Built the components and pages in ATOMIC  design patterns in React.js  
+ 
+CAPITAL ONE 
+Software Engineer , May  2019 – December  2021 
+ 
+• Responsible for developing and maintaining  React .js frontend, Cryptocurrency App  
+• Built the RESTful API  and modules and classes  in Python/Django  
+• Deployed in AWS EC2, Used AWS S3 for the website assets storage  
+• Worked in the agile team, working on tasks in weekly sprints  
+ 
+BAXTER INTERNATIONAL INC. 
+Software Engineer , Feb 2018 – April  2019 
+ 
+• Responsible for building and maintaining the React .js frontend, Ruby on Rails backend  
+the Project Management System for Agile Teams  
+Phillip Lee  
+ 
+  Houston , TX,  77035  
+832-478-8169  
+phileetech@gmail.com  
+ 
+IT Professional with 6+ years of experience in developing web  and business intelligence 
+solutions for diverse industry clients. Highly instrumental in all phases of the SDLC, with 
+expertise in algorithms and data structures. Successful in developing bespoke solutions, 
+optimizing business procedures, processes, and productivity.  
+ 
+ 
+T E C H N O L O G Y  
+Frontend:   React.js, Angular.js , Javascript, Typescript  
+Programming:  Python , Node.js, PHP, HTML, CSS, JavaScript, jQuery, AJAX  
+Frameworks:   Ruby on Rails, Laravel, Django, Flask , Express, Nest.js  
+DBMS:    MySQL, Postgres, SQL Server , MongoDB  
+CI/CD:   Git, GitHub, Gitlab  
+Cloud:    AWS  (EC2, S3, Lamda), GCP, Heroku  
+Systems:   Linux/Apache, Windows Server/IIS, Docker  
+Processes:  Agile, Scrum, Requirements, Design, Development, Database 
+Administration, Testing, Deployment, Maintenance, Documentation, ETL 
+Process, Content Management Systems  
+ 
+P R O F E S S I O N A L  E X P E R I E N C E  
+CASESTRY  
+Software engineer , January  2022 – September  2022 
+ 
+• Responsible for d evelop ing and maintaining  Imagery Creation System based React.js 
+frontend, Python  backend  
+• Designed and built the API, and reusable modules in Python  
+• Built the components and pages in ATOMIC  design patterns in React.js  
+ 
+CAPITAL ONE 
+Software Engineer , May  2019 – December  2021 
+ 
+• Responsible for developing and maintaining  React .js frontend, Cryptocurrency App  
+• Built the RESTful API  and modules and classes  in Python/Django  
+• Deployed in AWS EC2, Used AWS S3 for the website assets storage  
+• Worked in the agile team, working on tasks in weekly sprints  
+ 
+BAXTER INTERNATIONAL INC. 
+Software Engineer , Feb 2018 – April  2019 
+ 
+• Responsible for building and maintaining the React .js frontend, Ruby on Rails backend  
+the Project Management System for Agile Teams

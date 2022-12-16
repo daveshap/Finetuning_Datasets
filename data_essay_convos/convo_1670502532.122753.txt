@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admission essay is important for a few reasons. It is an opportunity to show the admissions committee who you are beyond your grades and test scores. It is also an opportunity to demonstrate your writing skills and ability to communicate your thoughts clearly. Admissions committees look for essays that are well-written, thoughtful, and reflective of your unique perspective. 
+STUDENT: What should I include in my essay?
+COACH: When writing your essay, focus on why you want to pursue the grant and how it will benefit you. Make sure to include specific examples of experiences or achievements that demonstrate your qualifications for the grant. Additionally, be sure to explain how you plan to use the funds to further your goals. Lastly, make sure to explain how receiving the grant will have a positive impact on your future plans. 
+STUDENT: How should I structure my essay?
+COACH: A good structure for your essay is to start with an introduction that gives a brief overview of your background and why you are applying for the grant. Then, move into the body of the essay where you discuss the experiences and achievements that make you a strong candidate for the grant. Finally, end with a conclusion that reiterates why you are a great fit for the grant and how it will help you achieve your goals.

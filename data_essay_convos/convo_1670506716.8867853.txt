@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: That's great! So, what kind of essay are you working on? Is it a grant application?
+STUDENT: Yes, it is.
+COACH: Okay, great. Before we get started, can you tell me a bit about yourself and what you hope to achieve with this essay?
+STUDENT: Sure. I'm a first-generation college student, and I'm applying for a grant to help cover the cost of my tuition. My goal is to be able to attend college without having to worry about financial constraints.
+COACH: That's an admirable goal. Now, let's talk about the essay itself. What kind of structure are you thinking of using? Do you want to tell a story or make an argument?
+STUDENT: I think I'd like to make an argument as to why I should be awarded the grant.
+COACH: That sounds like a good approach. Let's start by brainstorming some ideas for your essay. What are some points you could make in your argument? What experiences have you had that might demonstrate why you should be awarded the grant?

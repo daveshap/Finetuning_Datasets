@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: Well, admissions officers look for a few key things when they review applications. They want to see that you have a strong academic background and that you have taken challenging courses. They also want to see that you have a clear idea of why you want to pursue the particular program you are applying to. Finally, they want to get a sense of who you are as a person, so they often look for a personal statement that reflects your values and goals.
+STUDENT: Ok, so what should I include in my personal statement for medical school?
+COACH: A good personal statement for medical school should focus on why you're passionate about medicine and why you're a good fit for the field. It should also emphasize your unique qualities and experiences that make you stand out from other applicants. Include any research or volunteering experience you have that demonstrates your commitment to medicine and your ability to work in a team. Finally, be sure to explain why this particular medical school is a good fit for you and why you would be an asset to their program.

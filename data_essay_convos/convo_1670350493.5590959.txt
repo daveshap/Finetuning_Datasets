@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there! I'm writing an essay about my goals and personal objectives, and I'm having trouble coming up with a structure that will make it engaging and interesting.
+COACH: That sounds like a great topic! Can you tell me a bit more about what you want to focus on in the essay?
+STUDENT: Sure! I'd like to talk about my skills and achievements, and how Judaism has shaped my outlook on life and helped me reach my goals.
+COACH: That's a great idea! Before we dive into the structure, let's start by discussing what makes an essay engaging. What do you think would make your essay stand out from the crowd?
+STUDENT: I think it's important to include personal anecdotes and stories that illustrate how my faith has influenced my life and helped me reach my goals.
+COACH: That's a great idea! Now let's talk about the structure of your essay. Do you have any ideas on how to organize it?
+STUDENT: I was thinking I could start with a brief introduction about my faith and how it has shaped my values, then move on to talking about my skills and achievements, and finally, wrap up with a conclusion about how my faith has helped me reach my goals.
+COACH: That sounds like a great structure! Let's talk a bit more about each section. For the introduction, what kind of information do you want to include?
+STUDENT: I'd like to explain why Judaism is important to me and how it has shaped my values and beliefs.
+COACH: Okay, that's a great start. Now let's talk about the skills and achievements section. What kind of accomplishments do you want to highlight?
+STUDENT: I want to talk about my academic achievements, my volunteer work, and any leadership roles I've had.
+COACH: That sounds great! And for the conclusion, what kind of message do you want to leave your readers with?
+STUDENT: I want to emphasize how my faith has guided me to success and how it will continue to be a source of strength and inspiration for me in the future.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my experience with volunteer work and how it relates to the politics of the Vietnam War.
+COACH: Great, thank you for sharing that. Can you tell me more about your volunteering experience and how it connects to the Vietnam War?
+STUDENT: Sure. I was born in a refugee camp in Thailand, and my family was among the thousands of Vietnamese refugees who had to flee their homes due to the war. Growing up, I always wanted to give back to my community and help those who were less fortunate. So, I started volunteering at a local soup kitchen that provides meals to the homeless. Through this experience, I was able to see firsthand how war and displacement can affect a person's life.
+COACH: That's really admirable of you. How did this experience shape your views on politics and the Vietnam War?
+STUDENT: It made me realize how important it is to have a voice in politics, especially when it comes to war. I learned that it is important to listen to the stories of those who have been affected by war and to advocate for peace. It also made me think more deeply about the consequences of war and how it affects people's lives.
+COACH: That's a powerful realization. Do you have any other questions about writing this essay?
+STUDENT: Yes, actually. I'm also wondering how financing college works. I'm trying to figure out the best way to pay for my education.
+COACH: That's a great question. There are several ways that students can finance their college education, such as scholarships, grants, loans, and work-study opportunities. It's important to research all of these options and find the one that best fits your needs. Additionally, you should look into financial aid programs offered by your school, as well as other organizations that offer assistance.

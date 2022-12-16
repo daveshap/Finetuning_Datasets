@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my application to UCLA and I need help with the structure.
+COACH: Great! What kind of essay are you writing? 
+STUDENT: It's a personal essay about racism and how it has impacted me.
+COACH: Okay, so what kind of structure would you like to use for this essay?
+STUDENT: I was thinking of using a narrative structure, telling a story about a particular experience I had with racism.
+COACH: That sounds like a great idea. Have you thought about how you want to begin your essay?
+STUDENT: Yes, I was thinking of starting with a vivid description of the event.
+COACH: That's a good start. What else do you think you should include in your essay?
+STUDENT: I want to talk about how this experience changed my views on racism, and how it affected my outlook on life.
+COACH: That's a great idea. You could also include some scientific facts about racism, to support your argument and make the essay more engaging.
+STUDENT: That's a great suggestion. I hadn't thought of that before.
+COACH: Absolutely! Researching and including scientific facts can be a great way to make an essay more convincing and engaging. Do you have any other questions about essay structure or content? 
+STUDENT: Yes, I was wondering what other elements would make my essay stand out?
+COACH: That's a great question. One thing that can really make an essay stand out is the use of strong language and vivid descriptions. Try to use language that really captures the emotion and intensity of the experience you are describing. That can help to make your essay more powerful and memorable.

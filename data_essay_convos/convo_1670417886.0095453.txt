@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having a lot of trouble getting started with my essay. I'm not sure how to structure it or what topics to focus on.
+COACH: That's understandable. What is the essay about?
+STUDENT: It's about creativity and art in politics.
+COACH: Interesting topic! What aspect of creativity and art in politics are you focusing on?
+STUDENT: I'm looking at how creativity can be used as a form of political expression, especially among neurodiverse people.
+COACH: That's a great angle to explore. What kind of research have you done so far?
+STUDENT: I've done some research online, but I'm having trouble finding sources that really dive into the topic in detail.
+COACH: That's understandable. Have you tried looking at scholarly journals or books related to creativity and art in politics? That might give you more in-depth information.
+STUDENT: Yes, I've looked at some journals and books, but I'm still having trouble finding the information I need.
+COACH: That's okay. Have you thought about reaching out to experts in the field? They might be able to provide you with more detailed information or even personal anecdotes that could help you develop your essay.
+STUDENT: That's a great idea! I hadn't thought of that. Thanks for the suggestion.
+COACH: You're welcome! Now that you have some ideas for research, let's talk about structuring your essay. What kind of structure are you thinking of using?
+STUDENT: I was thinking of using a cause and effect structure, where I look at how creativity and art can be used to influence politics, and then examine the effects of this.
+COACH: That's a great structure! You could start by introducing your topic and then move on to discussing the causes, followed by the effects. You could also consider adding in a conclusion to wrap up your essay.
+STUDENT: That sounds like a good plan. Thanks for your help!

@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm not sure where to start. I want to write an essay about the similarities and differences between Buddhism and Islam.
+COACH: Alright, that's a great topic. Can you tell me a bit more about your interest in this subject?
+STUDENT: Well, I've been traveling around Asia recently, and I've noticed how different cultures have different ways of looking at similar topics. I'm particularly interested in the similarities and differences between Buddhism and Islam.
+COACH: That sounds fascinating. What specifically do you want to explore in your essay?
+STUDENT: I want to look at how each religion views the concept of racism. I think it's important to understand how different religions view this issue, and how it can shape people's perspectives.
+COACH: That's a great idea. What kind of research have you done so far?
+STUDENT: I've read some books about Buddhism and Islam, and I've done some online research. But I think I need to do more to get a better understanding of the two religions.
+COACH: That sounds like a great place to start. Have you thought about visiting religious sites or talking to people who practice these religions? That could give you a more in-depth view of how the religions view racism.
+STUDENT: Yes, I think that's a great idea. I'm planning on visiting some temples and mosques to get a better understanding of the religions.
+COACH: That sounds like a great plan! What kind of resources do you need to get started?
+STUDENT: I think I need to find some more books and articles about Buddhism and Islam, and I'd like to talk to people who practice these religions.
+COACH: Absolutely. There are plenty of books and articles available online and in libraries. As for talking to people who practice these religions, you could start by attending religious services and speaking with people there. You could also reach out to local religious organizations or contact people online who might be willing to talk to you.

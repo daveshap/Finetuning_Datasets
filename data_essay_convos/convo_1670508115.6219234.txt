@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: That's a great question. Can you tell me more about the essay? What is the topic? What kind of essay are you writing?
+STUDENT: I'm writing an admissions essay for college. The topic is about why I'm passionate about my chosen field of study.
+COACH: Great! Now that I know the topic and type of essay, I can help you make it more engaging. One way to do this is to use vivid language and imagery to paint a picture of your passion. Describe the sights, sounds, and feelings you experience when you think about your chosen field. You can also use anecdotes or stories to illustrate your points. Finally, try to make the essay personal - talk about how your experiences have shaped your interest in the field.

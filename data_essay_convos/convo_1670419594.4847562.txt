@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about how my faith in Islam has helped me pursue my goals despite coming from a poor family.
+STUDENT: I'm not sure where to start and I'm having trouble structuring the essay.
+COACH: That sounds like a great topic! Can you tell me a bit more about it? What kind of goals have you been pursuing and how has your faith in Islam helped you to achieve them?
+STUDENT: Well, I've always had a passion for education and I wanted to pursue a degree in engineering. My family didn't have the means to support me financially, so I had to look for other ways to make it happen. My faith in Islam gave me the strength and courage to keep going, even when things seemed impossible.
+COACH: That's amazing! It sounds like your faith has been a great source of motivation for you. So, what kind of structure do you think your essay should have?
+STUDENT: I think it would be good to start with a hook to grab the reader's attention, then talk about my goals and how my faith has helped me reach them. After that, I could discuss some of the challenges I faced and how I overcame them, and then wrap up with a conclusion.
+COACH: That's a great outline for your essay! What do you think would make a good hook?
+STUDENT: I was thinking something along the lines of "When I was told that my dreams were too big for my poor family, I never gave up hope, because I knew that my faith in Islam would guide me to success."
+COACH: That's perfect! That hook is sure to draw the reader in and set the tone for the rest of the essay. Anything else you need help with?
+STUDENT: Yes, I'm not sure how to transition between each part of the essay.
+COACH: That's a great question! A good way to transition between parts of an essay is to use words like "however," "therefore," or "in addition," as well as phrases like "on the other hand," or "in contrast." You can also use transitions to emphasize your points by using words like "moreover" or "furthermore."

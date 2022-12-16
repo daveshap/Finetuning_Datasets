@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I need help writing my essay.
+COACH: That's great! Tell me a bit about yourself and why you want to go to UCLA.
+STUDENT: Well, I'm a high school senior who's been interested in attending UCLA for a while now. I'm passionate about art and creativity, and I think UCLA would be the perfect place to nurture that.
+COACH: That's a great start! What kind of skills and achievements have you developed that would make you a great fit for UCLA?
+STUDENT: I'm a hardworking student with a 3.9 GPA. I'm also involved in several extracurricular activities, like student council and debate club. I'm also an active member of my school's art club, so I have a lot of experience with art and creativity.
+COACH: That's impressive! What other challenges have you faced and how have you overcome them?
+STUDENT: One of the biggest challenges I've faced is figuring out how to finance college. My family doesn't have a lot of money, so I had to apply for scholarships and grants to help cover my tuition and other costs. I was able to get several scholarships and grants, and I'm now confident that I can afford to attend college.
+COACH: That's amazing! It sounds like you've worked very hard to make your dreams of attending college a reality. Are there any other obstacles you've encountered and how did you overcome them?
+STUDENT: Yes, I was actually rejected from two universities before I applied to UCLA. It was really discouraging, but I used it as motivation to work even harder on my applications. I also reached out to mentors and asked for advice on how to improve my essays. In the end, it all paid off and I was accepted to UCLA!
+COACH: That's wonderful! It's clear that you have a lot of determination and resilience. What do you think sets you apart from other applicants and makes you a great fit for UCLA?
+STUDENT: I think my passion for art and creativity sets me apart. I've been involved in art clubs since middle school, and I'm always looking for new ways to express myself creatively. I also believe my hard work and dedication to my studies makes me a great fit for UCLA.

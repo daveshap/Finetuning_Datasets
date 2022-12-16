@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm really struggling to come up with something to write about. I don't have any specific topic in mind, but I do have some experiences I could draw from.
+COACH: That's great! Can you tell me a bit more about those experiences?
+STUDENT: Sure. I've done a lot of charity work in Vietnam, helping poor families in rural areas. I also grew up in a poor family myself.
+COACH: Interesting. What was it like for you to be involved in charity work in Vietnam?
+STUDENT: It was really eye-opening. I had never seen poverty like that before. It was hard to see how people were living in such difficult conditions. But it was also inspiring to see how dedicated the people were and how much they were willing to do to help each other.
+COACH: That sounds like a powerful experience. Have you ever thought about using it as the focus of your essay?
+STUDENT: Yeah, I've thought about it, but I have no idea where to start.
+COACH: That's okay! Let's start by brainstorming some ideas. What do you think the main points of your essay should be?
+STUDENT: Well, I think I want to talk about my experience in Vietnam and how it changed my perspective on poverty. I also want to talk about what I learned from the people there and how it has shaped my life.
+COACH: Great! Now that you have some ideas, let's narrow down your focus. What do you think is the most important point you want to make in your essay?
+STUDENT: I think the most important point I want to make is that poverty isn't just a statistic; it's real people with real stories and struggles. We can't ignore it, and we need to do something to help.

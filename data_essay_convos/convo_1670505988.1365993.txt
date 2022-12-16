@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. Before we dive into what topic to pick, can you tell me more about the type of essay you need to write? Is it for a class, a dissertation, or something else?
+STUDENT: It's for a dissertation.
+COACH: Great! Dissertations are a big project, so it's important to pick a topic that you're passionate about and that you can research thoroughly. Have you already thought of any topics you might be interested in exploring?

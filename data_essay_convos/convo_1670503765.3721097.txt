@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: Well, the first step is to do some research. You want to make sure that you have a clear understanding of the topic that you are writing about. You should also look into any relevant background information that may be applicable to the essay. Once you have done your research, you can start to formulate a thesis statement and an outline for the essay.
+STUDENT: What should my thesis statement include?
+COACH: Your thesis statement should be a clear and concise statement that summarizes the main points of your essay. It should also provide the reader with an idea of what the essay will be about. For example, if you are writing a research paper on the history of the internet, your thesis statement might be something like: “The internet has had a profound impact on society since its inception in the late 1960s.” 
+STUDENT: What should I include in my outline?
+COACH: Your outline should include an introduction, body paragraphs, and a conclusion. In the introduction, you should provide an overview of the topic and your thesis statement. In the body paragraphs, you should provide evidence to support your thesis statement. Finally, in the conclusion, you should restate your thesis statement and summarize the main points of your essay.

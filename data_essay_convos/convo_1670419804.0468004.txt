@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my personal statement for Duke University. I'm not sure what admissions officers look for when they read essays.
+COACH: That's a great question. Admissions officers look for essays that demonstrate a student's academic and personal strengths, as well as their commitment to neurodiversity. They want to get to know the applicant, so your essay should tell a story about who you are and why you're interested in attending Duke. It should also showcase your unique perspective and how you think differently than other applicants.
+STUDENT: That makes sense. What topics should I focus on when writing my essay?
+COACH: Your essay should focus on topics that are important to you and that demonstrate your knowledge and experience. You can talk about your experiences with neurodiversity and how it has shaped your life, your passions and interests, or any unique experiences or challenges you have faced. You can also discuss your academic goals and how attending Duke would help you achieve them.
+STUDENT: That's really helpful. What tips do you have for making my essay stand out?
+COACH: To make your essay stand out, use vivid language and descriptions to bring your story to life. Make sure to be honest and genuine, as admissions officers can tell if you're not being authentic. Finally, make sure to proofread your essay multiple times and have others review it for accuracy and clarity. Good luck!

@@ -1,0 +1,100 @@
+Abdel Balla
+Data Analyst | Business Intelligence |  Software Engineer
+Davis, CA | 530-204-3933 | Email:
+abdel.balla@gmail.com
+| LinkedIn:
+aballa
+| GitHub:
+amballa
+TECHNICAL SKILLS
+Programming:
+Python, Data Structures, Algorithms,
+NumPy, Pandas, SciPy, Scikit-Learn, TensorFlow, Keras, Regex, SpaCy
+Development:
+VS Code, Git, Jupyter, Excel, Tableau,
+Plotly, PostgreSQL, MongoDB, SQLite, Docker, Streamlit, Flask, Heroku
+Skills:
+SQL querying, Data mining & pre-processing,
+Exploratory data analysis, Python ETL, A/B testing, Predictive modeling -
+regression analysis & classiﬁcation, database management, REST APIs, data visualization
+PROJECTS
+Song Suggester App,
+Individual Project
+GitHub
+|
+App
+●
+Developed a Python web app that recommends songs based on an audio features analysis of over 1 million songs
+●
+Gathered music data using the Spotify API, performing the relevant data wrangling and cleaning using Pandas &
+Numpy, and storing in a non-relational MongoDB database
+●
+Coded the backend with necessary routing, programmatically rendering model outputs in HTML
+●
+Generated data visualizations with Chart.js to highlight similarities and differences between song recommendations
+Airbnb Price Optimizer App,
+Project Team Lead
+GitHub
+|
+App
+●
+Built and deployed a Flask web app to determine an appropriate nightly rate for prospective Airbnb hosts
+●
+Used NLP techniques within the spaCy library to parse and quantify Airbnb listing text for model training
+●
+Designed and tuned a neural network regressor using Keras and TensorFlow to generate price estimates
+●
+Serialized the Keras model with pickle to save on computational memory and reduce runtime
+Underdog Devs,
+Data Engineering Volunteer
+●
+Consulted with the stakeholder of a non-proﬁt to devise feasible backend implementations of novel feature ideas
+●
+Maintained a non-relational database with an evolving schema, reseeding with mock data to allow for feature testing
+EXPERIENCE
+Aloba SF Inc,
+Davis, CA
+-
+Data Entry Clerk
+2022
+●
+Composed daily sales reports in Excel tracking the sales, expenditures, and cash ﬂow of 15 T-Mobile stores
+●
+Collected employee time clock data in RealTime to resolve timesheets and calculate wages for payroll in Quickbooks
+●
+Assisted the Controller with various clerical duties such as consolidating ﬁnancial statements
+T-Mobile,
+Fairﬁeld, CA
+-
+Sales Representative
+2019
+- 2020
+●
+Handled $3k+ in daily transactions, advising playing customers and providing them with hands-on demonstrations
+●
+Managed $50k+ in  inventory and orders, ensuring all in-demand products were in stock and ready for sale
+●
+Troubleshot and diagnosed device issues for customers, coming up with individual working solutions
+●
+Consistently met monthly sales goals by remaining up to date on the latest technology and company offerings
+Stantec Inc,
+Sacramento, CA -
+Water Resources Intern
+2018 - 2019
+●
+Produced markups in Revu of structural modiﬁcations to several water treatment plants in need of renovation
+●
+Drafted water utility maps and street proﬁles of newly-proposed residential piping for surveyors
+●
+Organized documentation for ongoing water planning projects to lessen the workload of senior engineers
+EDUCATION & ACHIEVEMENTS
+Bloom Institute of Technology Formerly Lambda School,
+Full Time Program, Data Science
+2021 - 2022
+Sacramento City College,
+Completed coursework towards
+Mechanical Engineering degree
+2018 - 2020
+National Achievement Scholarship Recipient,
+National
+high school academic competition

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question. Before we dive into the specifics of your essay, tell me a bit about what you're trying to accomplish with this piece. What kind of essay is it? What's the prompt?
+STUDENT: It's an admissions essay for college with the prompt being "Describe a challenge you have faced and how you overcame it".
+COACH: Great, that's a great prompt. Now, when it comes to knowing when your essay is finished, there are a few things to consider. First, have you answered the prompt fully? Have you provided enough detail to explain the challenge and how you overcame it? Second, have you proofread and edited your essay? Are there any typos or grammar mistakes? Finally, have you given your essay one last read-through to make sure it flows well and is engaging? If you can answer yes to all of those questions, then you can consider your essay finished.

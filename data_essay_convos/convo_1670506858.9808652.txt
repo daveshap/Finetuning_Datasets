@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question. To get scholarships and grants, you'll need to write a compelling essay. Can you tell me more about the essay you need to write? What's the topic?
+STUDENT: The essay is about the effects of technology on our lives.
+COACH: Great. Let's start by breaking down the topic. What are some of the effects of technology that you want to discuss in your essay? 
+STUDENT: I want to talk about how technology has changed the way we communicate, how it has impacted our social lives, and how it has affected our educational systems.
+COACH: That's a great start. Now let's think about how to structure the essay. We can use a monograph structure, which is an essay that focuses on a single topic or idea. We can start by introducing the topic and then provide evidence to support your points. You can also include examples and anecdotes to illustrate your points. Once you have all the evidence, you can provide a conclusion that summarizes your main points. Does that make sense? 
+STUDENT: Yes, that makes sense. 
+COACH: Great! Now let's go over some tips for writing a successful essay. Make sure you have a clear thesis statement and use evidence to back up your claims. Also, make sure you use proper grammar and punctuation and don't forget to proofread your essay before submitting it. Any other questions? 
+STUDENT: No, that sounds good. Thanks for the help! 
+COACH: You're welcome! Good luck with your essay.

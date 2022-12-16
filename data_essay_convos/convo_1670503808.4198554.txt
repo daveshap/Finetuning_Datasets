@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: A conclusion is an important part of any essay, as it provides a final thought or takeaway for the reader. It should be concise and to the point, summarizing the main points of your essay. You can also include a call to action, or a suggestion for further research or discussion. It's important to make sure that your conclusion ties back to the introduction, so that your essay feels complete.

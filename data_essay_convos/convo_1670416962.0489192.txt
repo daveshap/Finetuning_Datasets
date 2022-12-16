@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my college application essay and I'm having trouble figuring out what to write about.
+COACH: That's understandable. Can you tell me a bit more about yourself? What are some of your skills and achievements that you could highlight in your essay?
+STUDENT: Well, I'm applying to Harvard for engineering and I've been a straight A student all through high school. I'm also very involved in my community, volunteering at the local food bank and organizing a toy drive for children in need.
+COACH: That's impressive! It sounds like you have a lot of great experiences to draw from for your essay. Have you faced any particular challenges or obstacles that you could discuss?
+STUDENT: Yes, I come from a single parent home and I've had to work hard to get where I am today.
+COACH: That's a great point to include in your essay. It can be powerful to show how you have overcome adversity and still achieved success. Are there any other points you would like to include in your essay?
+STUDENT: I'm also considering applying to UNC, so I want to make sure I mention that in my essay.
+COACH: Absolutely. You can use this opportunity to demonstrate your interest in both schools and explain why you think they are a good fit for you. Is there anything else you would like to talk about?

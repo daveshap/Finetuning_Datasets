@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question. Before we dive into that, can you tell me a bit more about the essay? What is it for and what is the prompt?
+STUDENT: It's a personal statement for medical school. The prompt is "Describe how your experiences have shaped your decision to pursue a career in medicine."
+COACH: Got it. Well, one way to make your essay shorter is to focus on one or two key experiences that really demonstrate why you want to pursue a career in medicine. This will help you keep your essay concise and to the point. You can also look for ways to cut out unnecessary words or phrases. For example, instead of saying "I believe" or "I think," you can just state your opinion without using those words.

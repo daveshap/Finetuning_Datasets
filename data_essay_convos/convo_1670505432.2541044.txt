@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are awards of financial aid given to students to help with the cost of college or university. They can come from a variety of sources, including the government, private organizations, and individual universities. To qualify for a scholarship, you will typically need to demonstrate academic excellence, financial need, and/or extracurricular involvement. 
+STUDENT: What should I include in my essay?
+COACH: When writing a college admissions essay, it's important to focus on your unique qualities and experiences that make you stand out from other applicants. You should also explain why you are interested in the school and how you believe you can contribute to its community. Additionally, you should include any relevant accomplishments and awards, as well as any obstacles you have overcome. Finally, be sure to proofread your essay and make sure it is free from any grammar or spelling errors.

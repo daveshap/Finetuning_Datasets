@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Absolutely. First, let's start with a few questions. What kind of essay are you writing?
+STUDENT: It's a personal statement for law school.
+COACH: Great. What do you want to focus on in your essay?
+STUDENT: I want to highlight my experience in the legal field and discuss how it has prepared me to be successful in law school.
+COACH: That sounds like a great focus! Now, what specific experiences do you want to include in your essay? 
+STUDENT: I want to talk about my internship at a law firm, my research project on criminal justice reform, and my involvement in a local legal aid organization.
+COACH: Perfect. Now, let's think about how to structure your essay. You could start with a brief introduction that explains why you are interested in law school, and then move onto each of your experiences and how they have shaped your understanding of the law. Finally, you could end with a reflection on how these experiences have prepared you for law school. Does this sound like a good approach? 
+STUDENT: Yes, that sounds great. 
+COACH: Great! Now, let's look at some tips for writing a strong personal statement. Make sure you use vivid language to describe your experiences, and use concrete examples to illustrate your points. Also, make sure to explain how your experiences have shaped your understanding of the law and how they will help you in law school. Finally, keep your essay focused on your main point and avoid rambling. Does this make sense? 
+STUDENT: Yes, that makes perfect sense. 
+COACH: Wonderful! Now, let's go through your essay together and make sure it meets all of these criteria. We can also talk about ways to make it even stronger. Does this sound like a plan? 
+STUDENT: Yes, that sounds great.

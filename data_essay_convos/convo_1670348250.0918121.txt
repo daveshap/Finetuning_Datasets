@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to engineering school and I'm having trouble writing my personal statement.
+COACH: Okay, let's start with the basics. What do you think admissions officers are looking for in a personal statement?
+STUDENT: Well, I think they want to see evidence of my commitment to engineering, my academic achievements, and my leadership skills.
+COACH: That's a great start. Do you have any specific examples of how you've demonstrated those qualities?
+STUDENT: Yes, I've been involved in volunteer work related to engineering for the past two years. I also have a 4.0 GPA and have held leadership positions in several clubs.
+COACH: That's impressive! So, what do you think sets you apart from other applicants?
+STUDENT: I think my experience with sexism in the engineering field has given me a unique perspective. I've seen firsthand how difficult it can be for women to break into the industry and I'm passionate about changing that.
+COACH: That's an important topic and definitely something you should discuss in your essay. What specifically do you want to focus on in your essay?
+STUDENT: I want to talk about my experiences with sexism and how they have shaped my outlook on engineering. I also want to talk about my commitment to making engineering more accessible to all genders.
+COACH: That sounds like a great plan. Are there any particular stories or anecdotes you want to include in your essay?
+STUDENT: Yes, I have a few stories I want to share. For example, I was once told by a professor that engineering wasn't a suitable career choice for women. That experience really motivated me to prove him wrong and pursue a career in engineering.
+COACH: That's a powerful story. What else do you want to include in your essay?
+STUDENT: I want to talk about how my experiences have shaped my view of engineering and how I want to use my knowledge to make a difference. I also want to emphasize the importance of diversity and inclusion in the engineering field.
+COACH: That sounds like a great plan. Do you need any help with the structure or organization of your essay?
+STUDENT: Yes, I could use some help. I'm not sure how to transition between different sections or how to make sure my essay flows well.
+COACH: Sure, I can help with that. Let's start by brainstorming the main points you want to make in your essay. Once we have those down, we can work on the structure and organization.

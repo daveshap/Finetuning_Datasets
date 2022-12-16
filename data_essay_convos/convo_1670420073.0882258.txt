@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there, I'm writing an admissions essay for college and I'm having trouble figuring out what to write about.
+COACH: That's understandable. Can you tell me a bit more about yourself? What are your interests, hobbies, and passions?
+STUDENT: Well, I'm really interested in science and politics. I also practice Buddhism and am passionate about social justice.
+COACH: Interesting. Do you have any particular topics related to science, politics, or Buddhism that you would like to explore in your essay?
+STUDENT: Yes, I was thinking about exploring racism and its effects on different societies.
+COACH: That's a great topic to explore. Have you done any research on this topic already?
+STUDENT: I've done some research, but I'm having trouble organizing my thoughts into a coherent essay.
+COACH: That's understandable. What kind of structure are you looking for? Are you planning to make an argument or just provide an overview of the issue?
+STUDENT: I was thinking of making an argument about how racism is still pervasive in our society and how it needs to be addressed.
+COACH: Great. Let's start by brainstorming some ideas. What are some of the specific points you want to make in your essay?

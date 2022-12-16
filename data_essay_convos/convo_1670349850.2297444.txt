@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to both Duke University and NCSU, and I'm having trouble deciding which one to go to.
+COACH: That's great! Can you tell me a bit more about why you're interested in both universities?
+STUDENT: Well, I'm interested in studying something related to neurodiversity and creativity. NCSU has some great programs in those areas, but I'm also drawn to Duke because of its strong art program.
+COACH: I see. What makes you passionate about neurodiversity and creativity? Do you have any personal connections to these topics?
+STUDENT: Yes, I do. I was born and raised in the Philippines, and growing up there I was constantly surrounded by people with different backgrounds and perspectives. It taught me to be open-minded and to appreciate the beauty of diversity, which is why I'm so passionate about neurodiversity. As for creativity, I've always been interested in art and the creative process, and I think it's a great way to express myself.
+COACH: That's wonderful! It sounds like you have a lot of passion for these topics, and that's something admissions officers will be looking for in your essay. What would you like to focus on in your essay?
+STUDENT: I'd like to focus on how my experiences in the Philippines have shaped my views on neurodiversity and creativity. I want to demonstrate how my unique background has given me a different perspective on these topics, and how it has helped me grow as an individual.
+COACH: That's a great idea! You could start by discussing your experiences in the Philippines and how they have impacted your views on neurodiversity and creativity. Then, you could talk about how these views have influenced your personal growth and development. Finally, you could explain how you plan to use these experiences to contribute to the university you choose. Does that sound like something you'd like to focus on?
+STUDENT: Yes, that sounds great. Thank you for your help!

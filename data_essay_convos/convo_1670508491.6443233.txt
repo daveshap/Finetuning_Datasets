@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are financial awards given to students who demonstrate academic excellence, leadership, or community service. They are usually awarded by schools, organizations, or other institutions. To apply for a scholarship, you'll need to fill out an application and submit an essay.
+So, what kind of essay are you writing?
+STUDENT: I'm writing a grant application essay.
+COACH: Great! A grant application essay is very different from a traditional essay. It's important to understand the purpose of the essay and the criteria for the grant you're applying for. You'll need to provide evidence that you meet all the requirements for the grant and explain why you're the best candidate for it. 
+To start, let's go over the basics of grant application essays. First, you'll need to make sure your essay is well organized and easy to read. Make sure you include all the necessary information in the essay, such as your educational background, work experience, and any other relevant details. It's also important to show that you have a clear plan for how you'll use the grant money if you receive it. 
+It's also important to create a compelling narrative in your essay. Make sure you explain why you're passionate about the project you're applying for and how it will benefit the organization or community. Finally, make sure to proofread your essay carefully and make sure it's free of any errors. 
+Do you have any questions so far?

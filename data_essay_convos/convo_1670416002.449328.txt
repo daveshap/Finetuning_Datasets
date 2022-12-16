@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU, Princeton, and Yale and I want to make sure my essay is up to par.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's a personal statement about why college matters to me.
+COACH: That sounds like an interesting topic! Can you tell me a bit more about why college matters to you?
+STUDENT: Well, I'm hoping to go to med school someday, so I think it's important to get a good education from a top university. I also think college is a great opportunity to learn more about myself and explore different interests.
+COACH: That's a great perspective. What about the universities you're applying to? What do you like about them?
+STUDENT: I like that NCSU is close to home and offers a lot of great programs. Princeton has a great reputation and I think the academic environment there would be a great fit for me. And I'm really interested in the research opportunities at Yale.
+COACH: That's a great mix of universities. So how can I help you with your essay?
+STUDENT: I'm having trouble articulating why college matters to me in a way that will stand out to admissions officers.
+COACH: Sure, I can help you with that. Let's start by talking about what makes college so important to you. What do you think are the most important aspects of college that you want to highlight in your essay?

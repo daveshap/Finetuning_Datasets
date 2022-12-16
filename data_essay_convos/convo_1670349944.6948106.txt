@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I’m having trouble writing an essay for my engineering program application. I'm from China, and I'm trying to explain my goals and personal objectives.
+COACH: That sounds like an interesting essay topic! Can you tell me more about your goals and objectives?
+STUDENT: Sure. My goal is to become an engineer and make a positive contribution to society. I want to use my engineering skills to help people in need. I also want to explore the spiritual side of life and learn more about the teachings of Judaism and Buddhism. 
+COACH: That's a great goal! Can you tell me more about why you want to explore Judaism and Buddhism?
+STUDENT: I'm interested in learning about different cultures and religions, and I think that understanding the teachings of Judaism and Buddhism can help me become a better person. I also want to be able to apply their teachings to my engineering work, so I can create solutions that are beneficial to society. 
+COACH: That's a noble objective. How do you plan on achieving your goals?
+STUDENT: Well, I plan on taking classes at my university to learn more about engineering, and I'm also looking into taking courses in Judaism and Buddhism. I'm also looking into volunteer opportunities, so I can gain practical experience and apply my engineering skills to help people in need. 
+COACH: That's a great plan! What do you think will be the most challenging part of reaching your goals?
+STUDENT: I think the most challenging part will be finding the time to balance my studies, volunteer work, and exploring the spiritual side of life. It's going to take a lot of dedication and hard work to make it all happen.

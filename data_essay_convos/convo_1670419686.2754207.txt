@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I need help with my personal statement.
+COACH: Great! What topics are you considering for your personal statement?
+STUDENT: Well, I'm majoring in science, so I was thinking about writing about something related to that. However, I'm also interested in going to law school after college, so I'm not sure which direction to go.
+COACH: That's a great starting point! What specifically do you want to focus on in your essay? Are there any particular aspects of science or law that you want to emphasize?
+STUDENT: I'm not sure. I have no idea what to write about.
+COACH: That's totally understandable. It can be difficult to narrow down your ideas. Let's start by brainstorming some possible topics. What are some of the topics you are passionate about when it comes to science or law? 
+STUDENT: Well, I'm really interested in the intersection of science and law, especially when it comes to environmental protection. 
+COACH: That's a great topic! You could focus on how scientific research can be used to support legal decisions in this area. You could also discuss how scientific evidence has been used to shape policy or how it can be used to inform public opinions. What do you think? 
+STUDENT: That sounds interesting. I think I'd like to explore those ideas further. 
+COACH: Perfect! Now let's think about how to structure your essay. What kind of story do you want to tell? What experiences have you had that could illustrate your points? 
+STUDENT: I've done a lot of research on the subject and I've also volunteered with organizations that focus on environmental protection. I think I could use those experiences to show how I'm passionate about this issue and why I believe it's important. 
+COACH: That sounds like a great plan. Let's start by brainstorming some ideas and then we can work on organizing them into a cohesive essay.

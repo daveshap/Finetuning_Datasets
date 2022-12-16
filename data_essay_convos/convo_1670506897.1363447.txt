@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That's a great question. Before we start, can you tell me a bit more about what you're trying to do with this essay? Are you writing an argumentative essay?
+STUDENT: Yes, I am.
+COACH: Alright, great. So let's start by talking about what an argumentative essay is. An argumentative essay is a type of essay that presents an argument or claim and then provides evidence to support it. It's important to make sure that your argument is well-supported by facts and evidence. Can you think of any examples of topics that would be suitable for an argumentative essay?

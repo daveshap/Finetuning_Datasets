@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That’s a great question. Before we dive into the specifics, can you tell me a bit more about what you’re trying to accomplish with this essay?
+STUDENT: I'm writing a dissertation and I need to make my personal statement stand out.
+COACH: Okay, that’s a great start. Can you tell me more about what you want to focus on in your essay? What topics do you think are important for you to cover?
+STUDENT: I want to talk about my experience in my field, why I'm passionate about it, and how I plan to use my degree to make a difference.
+COACH: That sounds like a great focus for your essay. Now, let’s talk about how to structure your essay. What kind of structure do you think would be best for your essay? 
+STUDENT: I think I should start off with a brief introduction that outlines my background and why I am pursuing my degree. Then I can move into my experience and why I'm passionate about my field. After that, I can discuss my goals and how I plan to use my degree to make a difference.
+COACH: That’s a great plan. Now let’s talk about the content of your essay. What specific points do you want to make in your essay? 
+STUDENT: I want to emphasize my experience in my field, the skills I’ve acquired, and the research I’ve conducted. I also want to talk about my passion for my field, my commitment to making a difference, and my plans for the future. 
+COACH: That’s a great list of topics. Now, let’s talk about how to best convey these points. What kind of language do you think would be most effective for your essay? 
+STUDENT: I want to use language that is clear and concise, but also conveys my enthusiasm and commitment. I want to make sure that my essay stands out from the rest. 
+COACH: That’s a great approach. Now, let’s talk about how to organize your essay. What kind of structure do you think would be best for your essay? 
+STUDENT: I think I should start off with an introduction that outlines my background and why I am pursuing my degree. Then I can move into my experience and why I'm passionate about my field. After that, I can discuss my goals and how I plan to use my degree to make a difference.  Finally, I can end with a conclusion that summarizes my points and expresses my commitment to my field. 
+COACH: That’s a great plan. Now, let’s talk about how to make your essay stand out. What kind of language do you think would be most effective for your essay? 
+STUDENT: I want to use language that is creative, but still conveys my enthusiasm and commitment. I want to make sure that my essay is unique and memorable.

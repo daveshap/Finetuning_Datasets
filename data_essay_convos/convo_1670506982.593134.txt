@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That's a great question. Can you tell me a bit more about what you're looking for in a job? What kind of work do you want to do?
+STUDENT: I want to find a job that is related to my college major, which is psychology.
+COACH: Okay, great. What kind of psychology-related job are you looking for? Are you looking for something in research, or are you looking for a more clinical position?
+STUDENT: I'm interested in a clinical position.
+COACH: That's great. Have you considered applying for jobs at hospitals or clinics? What kind of experience do you have that would make you a good candidate for these types of positions?

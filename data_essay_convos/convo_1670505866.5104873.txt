@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: That's a great question! Are you writing a dissertation?
+STUDENT: Yes, I am.
+COACH: Okay, great. When it comes to structuring a dissertation, there are a few key elements you should keep in mind. First, you'll need a clear introduction that outlines the purpose of your essay and sets the tone for the rest of the paper. Next, you'll need a body section that contains your main arguments and evidence to support them. Finally, you'll need a conclusion that summarizes the main points of your essay and ties everything together. 
+Do you have any other questions about structuring a dissertation?

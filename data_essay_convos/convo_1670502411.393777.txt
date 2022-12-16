@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That’s a great question! When choosing a topic for an argumentative essay, it’s important to pick something that you feel strongly about and can argue for or against. Try to think of a controversial issue that you’re passionate about and can make your case for.
+STUDENT: Okay, so I have a topic. How do I structure my essay?
+COACH: Great! Now that you’ve chosen a topic, it’s time to structure your essay. A good argumentative essay should have a clear introduction that states your position, a body with evidence to support your claims, and a conclusion that ties everything together. Make sure to use reliable sources and facts to back up your points.

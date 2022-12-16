@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my personal statement for law school.
+COACH: Great! What is your background and what are you hoping to achieve with law school?
+STUDENT: Well, I'm currently studying engineering at MIT and I'm interested in using my degree to work in Thailand.
+COACH: Interesting. What motivated you to pursue a career in law, and why do you think that Thailand is the right place for you to pursue it?
+STUDENT: I'm passionate about using my engineering knowledge to help create a more equitable society, and I feel like law is the best way to do that. Thailand has a unique legal system and I think it would be a great place to learn and apply my skills.
+COACH: That's a great ambition. What experiences have you had that have led you to this decision?
+STUDENT: Well, I've been involved in a number of social justice initiatives throughout my time at MIT, including volunteering with a local non-profit organization. I've also done research on the legal system in Thailand and how it could be used to benefit communities there.
+COACH: That sounds very impressive. It's clear that you have a passion for social justice and a well-thought-out plan for pursuing it. How would you use your law degree to make a difference in Thailand?
+STUDENT: I want to use my degree to help create more equitable policies and laws that will benefit all members of society, particularly those in marginalized communities. I also want to use my engineering background to develop innovative solutions to legal problems and help create a more just and equitable legal system in Thailand.

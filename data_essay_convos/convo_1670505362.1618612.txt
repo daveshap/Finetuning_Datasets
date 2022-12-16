@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are a great way to help finance your college education. You can apply for grants through the federal government, state governments, and even some private organizations. To find out what grants are available, you should start by researching the different types of grants and the organizations that offer them. You can also check with your school's financial aid office for more information.
+STUDENT: What should I include in my essay?
+COACH: When writing your essay, it's important to focus on what makes you unique and why you would be a great fit for the college or university you're applying to. You should also make sure to include any academic achievements, extracurricular activities, and volunteer experiences that you have. Additionally, you should provide examples of how you have used your skills and knowledge to make a positive impact on your community. Finally, you should explain why you are passionate about the school and why you believe you would be a great addition to their student body.

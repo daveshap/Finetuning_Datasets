@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with writing my college application essay. I'm not sure how to go about it.
+COACH: That's understandable! It can be a daunting task. Let's start by understanding what you want to focus on in your essay. What skills and achievements do you want to highlight?
+STUDENT: Well, I'm proud of my academic achievements, especially my grades in math and science. I'm also involved in a lot of extracurricular activities, like volunteering at my local mosque and organizing interfaith events.
+COACH: That sounds great! Can you tell me more about these activities? How have they shaped your identity and values?
+STUDENT: Sure. I'm a Muslim, so my faith is very important to me. I volunteer at my local mosque because I want to help people learn more about Islam and understand its teachings. I also organize interfaith events to promote understanding and acceptance between different religions. Through these activities, I've learned the importance of tolerance and respect for diversity.
+COACH: That's wonderful! It sounds like you have a strong sense of identity and values. How else do you think these experiences have helped you grow as a person?
+STUDENT: Well, I think they've helped me become more open-minded and accepting of people from different backgrounds. I'm also more aware of racism and other forms of discrimination, and I'm committed to fighting against it. These experiences have also helped me become a better leader and problem-solver.
+COACH: That's great! You have a lot of impressive skills and experiences to draw from. Now let's focus on how you can best present this information in your essay. What do you think sets you apart from other applicants?
+STUDENT: I'm not sure. I don't feel like I'm very interesting as a person.
+COACH: Everyone has something unique to offer! Think about what makes you special. Is there something that you're passionate about? A hobby or interest that you excel at? An experience that's shaped the way you think or act?
+STUDENT: Well, I'm an avid reader and I love learning about new cultures and ideas. I'm also a big fan of music, and I play several instruments.
+COACH: That's great! Those are all great topics to explore in your essay. Focus on how these interests have shaped your values and experiences. This will help make your essay stand out from the crowd.
+STUDENT: Okay, I think I understand. How do I go about actually applying to college?
+COACH: The process can be overwhelming, but there are some steps you can take to make it easier. First, research colleges and universities to find the ones that best fit your needs. Then, create a list of schools you'd like to apply to and make sure you meet their requirements. Finally, fill out and submit your applications, and don't forget to include your essay!

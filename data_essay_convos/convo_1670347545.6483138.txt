@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble coming up with a structure for my essay.
+COACH: Sure, what kind of essay are you writing?
+STUDENT: It's about my experience traveling and how it changed my perspective on racism.
+COACH: Interesting topic. What would you like to focus on in your essay?
+STUDENT: I want to explore the differences between how racism is perceived in different countries and how my travels have helped me understand the complexity of racism.
+COACH: That's an important topic. How do you think you can best approach this?
+STUDENT: I think I should start by talking about my experiences in each country, then move on to discussing how my views on racism have changed over time.
+COACH: That sounds like a great structure. What else do you think you should include in your essay?
+STUDENT: I think I should include some examples of how racism manifests in different ways in different countries, as well as some of the creative solutions people have come up with to combat racism.
+COACH: That's an excellent idea. What kind of creative solutions have you seen?
+STUDENT: I've seen art being used to challenge stereotypes and bring attention to issues of racism. I've also seen people using social media to raise awareness of racism and share stories of their own experiences.

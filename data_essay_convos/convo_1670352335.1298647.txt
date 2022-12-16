@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to a university in Germany and I need help writing my essay.
+COACH: Great, tell me a bit about yourself and what you would like to focus on in your essay.
+STUDENT: Well, I'm a student who loves science and technology. I'm also passionate about charity work and have done a lot of volunteer work in Thailand.
+COACH: That's amazing! Could you tell me a bit more about why you chose to volunteer in Thailand and what kind of work you did there?
+STUDENT: Sure. I chose to volunteer in Thailand because I wanted to help people who were less fortunate than me. I worked with local charities to provide food and education to children in rural areas. It was a really rewarding experience and I learned a lot.
+COACH: That sounds like an incredible experience. What do you think makes you stand out from other applicants?
+STUDENT: I think my willingness to take risks and overcome obstacles makes me stand out. I'm not afraid to fail and I'm always looking for new challenges. I'm also passionate about making a difference in the world, which I think is something that universities look for in applicants.
+COACH: Those are great qualities! How would you like to incorporate your experience in Thailand and your commitment to overcoming obstacles into your essay?
+STUDENT: I'd like to talk about how my experience in Thailand taught me resilience and how I'm able to use that resilience to take on challenges and push through rejections. I want to show the admissions committee that I'm someone who is willing to take risks and is dedicated to making a difference in the world.

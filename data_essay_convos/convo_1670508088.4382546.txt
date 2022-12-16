@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question. Can you tell me a bit more about your essay? What type of essay is it, and what are you trying to accomplish?
+STUDENT: It's a grant application essay. I'm trying to get a scholarship for college.
+COACH: Okay, great. What have you written so far?
+STUDENT: I've written about my educational background, my career goals, and why I believe I'm a good fit for the scholarship.
+COACH: Okay, that's great. Now, let's talk about how to make it shorter. One of the best ways to do this is to focus on the main points you want to make and eliminate any unnecessary details or information. What are the most important points you want to make in your essay? 
+STUDENT: Well, I want to emphasize my academic achievements, my commitment to my studies, and my dedication to giving back to my community.
+COACH: Perfect. Those are the three main points you should focus on. Now let's look at each point and see if there are any areas where you can cut out unnecessary information. For example, if you're talking about your academic achievements, you don't need to list every single class you've taken. Instead, focus on the ones that are most relevant to the scholarship you're applying for.

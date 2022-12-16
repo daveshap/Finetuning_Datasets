@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: That's a great question! Grants are a great way to fund your graduate school education. But before we talk about grants, why don't you tell me a little bit more about the essay you are working on? What kind of essay is it and what do you want to accomplish with it?
+STUDENT: It's a personal statement for grad school. I want to explain why I'm the best candidate for the program and how my experience and skills make me a great fit.
+COACH: That sounds like a great plan. Personal statements are a great way to demonstrate your commitment and enthusiasm for the program. Let's start by talking about the structure of your essay. What do you think would be the best way to organize your ideas?
+STUDENT: Well, I was thinking of starting with a brief introduction about myself and my background, then talking about why I'm interested in the program, and finally discussing my qualifications and why I'm the best candidate.
+COACH: That's a great outline for your essay. Now let's talk about the content. What experiences or skills do you have that make you a great fit for this program? Think about any unique qualities or strengths that you can highlight in your essay.

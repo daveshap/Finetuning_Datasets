@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there, I'm applying to UCLA and I'm trying to write my college admission essay. I'm having a hard time figuring out what to write about.
+COACH: That's understandable. It can be difficult to know where to start when it comes to writing an admission essay. Can you tell me more about why you're interested in attending UCLA?
+STUDENT: Sure. I want to attend UCLA because I'm passionate about law and I believe that the school has an excellent program for law students. I also think that the alumni network and resources available at UCLA will help me reach my professional goals.
+COACH: That's great! It sounds like you have a clear idea of why you want to attend UCLA. Now, let's talk about your essay. What do you feel are your strongest skills and achievements that you can highlight in your essay?
+STUDENT: Well, I was the president of my high school's debate team and I've been involved in several community service projects. I also have a strong academic record and I'm confident in my ability to excel in a challenging environment.
+COACH: Those are all great achievements that you can definitely highlight in your essay. You should also consider discussing why you think attending UCLA is important to you. What do you think makes the school stand out from other law schools?
+STUDENT: I think UCLA stands out because of its commitment to social justice and its focus on preparing students for success in the legal field. The faculty are top-notch and the school has a strong reputation for producing successful lawyers.
+COACH: That's a great point. You should definitely discuss those aspects in your essay. It's also important to show the admissions committee why you would be an asset to the school. What do you think sets you apart from other applicants?
+STUDENT: I think my passion for social justice and my commitment to helping others sets me apart from other applicants. I'm also a hard worker and I'm confident in my ability to succeed in a rigorous academic environment.
+COACH: Great! Those are all great points to make in your essay. Do you have any other questions or concerns about your essay?
+STUDENT: No, I think I have a good idea of what to write now. Thank you for your help!

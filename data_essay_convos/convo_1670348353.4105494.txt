@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to UNC, and I'm writing my essay on why I want to study in France.
+COACH: That's an excellent topic! Tell me a bit more about what you have in mind.
+STUDENT: Well, I know that France has a lot of history and culture, and I'm interested in exploring the art and creativity of the country. But I'm worried that my essay will be too boring.
+COACH: Don't worry! There are plenty of ways to make your essay engaging. What kind of experiences have you had with French culture?
+STUDENT: I visited Paris once and I was really inspired by the art and architecture.
+COACH: Wonderful! You can use this experience to bring vivid imagery and detail to your essay. Think about how you felt when you were there, and how it made you feel about your own creativity.
+STUDENT: Okay, I can do that.
+COACH: Great! Another way to make your essay engaging is to talk about how the experience of studying in France would be different from studying in the US. What do you think makes France unique in terms of education?
+STUDENT: I think the French education system puts more emphasis on creativity and critical thinking.
+COACH: That's a great point! You can use this to demonstrate why you're interested in studying in France, and how it will help you grow as a student.
+STUDENT: Okay, that makes sense.
+COACH: Awesome! Finally, don't be afraid to be personal in your essay. Talk about why you personally want to study in France, and how it will help you reach your goals.
+STUDENT: Alright, I'll try that.
+COACH: Perfect! With these tips, you should be able to write an engaging essay about why you want to study in France. Good luck!

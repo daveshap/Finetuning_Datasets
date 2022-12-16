@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: That's a good question. It's important to remember that the admissions process is highly competitive, and there's no guarantee that you will get accepted. However, you can increase your chances of success by writing a compelling argumentative essay that clearly outlines your qualifications and why you would be a great fit for the school.
+STUDENT: What should I include in my essay?
+COACH: A good argumentative essay should include an introduction, body paragraphs, and a conclusion. In the introduction, you should introduce the topic and state your thesis statement. The body paragraphs should provide evidence and examples to support your argument. Finally, the conclusion should summarize your main points and restate your thesis.

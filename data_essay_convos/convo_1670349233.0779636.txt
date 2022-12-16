@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my college essay. I'm planning to go to Europe for college and I'm not sure what admissions officers are looking for.
+COACH: That's great! It sounds like you have a lot of ambition and are looking to broaden your horizons. What kind of program are you looking at?
+STUDENT: I'm interested in law school in Europe.
+COACH: Okay, great. What kind of skills and achievements do you think would be attractive to admissions officers when applying to a European law school?
+STUDENT: I'm not sure. I'm hoping to gain some international experience while I'm there, so I'm hoping that would be helpful.
+COACH: Absolutely. Admissions officers will be looking for evidence that you have the skills and experiences necessary to succeed in an international setting. They may also look for evidence of leadership, initiative, and creativity. Showing that you have the ability to think critically and work collaboratively will be important as well. Additionally, having a strong academic record and extracurricular activities that demonstrate your commitment to learning will also be beneficial. Finally, having a clear understanding of the culture and customs of the country you are applying to will be beneficial in demonstrating your cultural awareness.

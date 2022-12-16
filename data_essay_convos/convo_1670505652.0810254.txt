@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start at the beginning. What is the topic of your essay?
+STUDENT: I want to write about the effects of climate change on the environment.
+COACH: Great, that sounds like a very interesting topic. Have you done any research on the subject?
+STUDENT: Yes, I have been reading up on it and I think I have a good understanding of the basics.
+COACH: That's great! Now, what kind of research do you need to do to make sure your essay is well-informed?
+STUDENT: Well, I was thinking I could look into the scientific evidence behind climate change, and then also look at how different countries are responding to it.
+COACH: That sounds like an excellent plan. You'll need to make sure that you back up your points with reliable sources, so make sure to check the credibility of any information you use. Also, don't forget to include a counterargument in your essay to show that you have considered other points of view.

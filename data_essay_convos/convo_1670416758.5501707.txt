@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply to college and I'm having a lot of trouble writing my essay.
+COACH: That's understandable. It can be hard to write about yourself in an essay. Can you tell me more about your situation?
+STUDENT: Sure. I'm applying to Duke University and Harvard, and I want to write about how racism has impacted my life.
+COACH: That's a great topic! Can you tell me more about your experiences with racism?
+STUDENT: Well, I grew up in France and there were times when I felt like I was being treated differently because of my race. It was difficult to deal with at the time, but it's made me stronger and more resilient.
+COACH: That's really admirable. Have you been able to talk to anyone about your experiences?
+STUDENT: Yes, I've talked to my family and friends about it. It's helped me to process my emotions and understand what I went through.
+COACH: That's great. So, how do you think you could use your experiences in your essay?
+STUDENT: I think I could use my experiences to show that I'm a strong and resilient person who has overcome adversity. I want to show the admissions officers that I'm capable of succeeding in college despite my struggles.
+COACH: That's a great idea. You could focus on how you've grown and what you've learned from your experiences. That would make a powerful statement in your essay.

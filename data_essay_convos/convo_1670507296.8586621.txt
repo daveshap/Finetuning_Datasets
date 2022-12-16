@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question! Before we start writing, let's do a quick reference interview. Can you tell me a bit about the grant application you're writing? What's the topic and what's the purpose of your essay?
+STUDENT: Well, I'm applying for a grant to fund a project that focuses on helping disadvantaged youth in my community. The purpose of my essay is to explain why this project is important and how it will benefit the youth.
+COACH: Great! Now that we have a better understanding of your essay, let's talk about structure. How long should your essay be?
+STUDENT: I'm not sure.
+COACH: Generally, grant applications require essays to be between 500-1000 words. That should give you enough space to explain the project, its importance, and the benefits it provides. Now, let's talk about the content of your essay. What information should you include? 
+STUDENT: I guess I should include an overview of the project, an explanation of why it's important, and some data to back up my points.
+COACH: Exactly! Make sure to include facts, statistics, and other evidence to support your argument. Lastly, let's talk about organization. How should you structure your essay?
+STUDENT: I think I should start with an introduction, then move on to the body of the essay, and finish with a conclusion.
+COACH: That's right. In your introduction, provide a brief overview of the project and explain why it's important. Then, in the body, provide evidence and examples to back up your points. Finally, in the conclusion, summarize the main points of your essay and explain why your project deserves the grant. Does that help? 
+STUDENT: Yes, thank you! That was really helpful.

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble getting started with my essay. I'm passionate about raising awareness of racism in our society and I want to write an essay about it.
+COACH: That sounds like a great topic! What kind of essay structure do you have in mind?
+STUDENT: I'm not sure. I was thinking of writing a persuasive essay, but I'm not sure if that's the right approach.
+COACH: A persuasive essay is a great way to address this issue. It allows you to make your argument in a logical and compelling way. What kind of goals or personal objectives do you have for this essay?
+STUDENT: My goal is to make people think more deeply about racism and how it affects our society. I also want to explore different ways we can combat racism and create a more equitable society.
+COACH: That's a great goal. To achieve it, it may be helpful to think about how you can incorporate creativity and art into your essay. For example, you could use visual aids or images to illustrate your points. You could also use storytelling to engage your readers and draw them into the discussion. What do you think?
+STUDENT: That's a great idea. I think using visuals and storytelling would really help bring my essay to life. Thanks for your help!

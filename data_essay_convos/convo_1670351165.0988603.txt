@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about my passion for engineering and how it's shaped my life.
+COACH: That sounds like a great topic! Can you tell me more about what inspired your passion for engineering?
+STUDENT: Well, I've always been interested in the sciences, but I think my passion for engineering really started when I moved to Vietnam. I was exposed to a lot of new technology and engineering projects that I never would have seen if I had stayed in China. Seeing all of the different ways that technology was being used to improve people's lives really inspired me.
+COACH: That's so interesting! What kind of engineering projects have you been involved in since then?
+STUDENT: I've been able to work on some amazing projects since then. I was part of a team that designed and implemented a water filtration system for a rural village in Vietnam. We also worked on a project to build solar-powered street lamps for a small town. More recently, I've been working on a project to develop a renewable energy source for a local LGBT community center.
+COACH: Wow, that's really impressive! It sounds like you've been able to make a real impact with your engineering projects. What do you think has been the most rewarding part of your engineering journey?
+STUDENT: The most rewarding part has definitely been seeing the positive impacts that my work has had on people's lives. It's been incredibly satisfying to see the tangible results of my efforts and to know that I've contributed to making people's lives better. It's also been amazing to be part of a team of engineers who are all passionate about creating solutions to real-world problems.

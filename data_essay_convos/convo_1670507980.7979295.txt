@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: It depends on the requirements of the scholarship. What is the prompt that you are responding to?
+STUDENT: The prompt is asking me to explain why I am the best candidate for a scholarship.
+COACH: Okay, so the length of your essay will depend on how much detail you want to provide. Generally, you should aim for about 500-800 words. Now, let's talk about the content. What makes you the best candidate for this scholarship?
+STUDENT: I think my dedication to learning and my commitment to helping others make me the best candidate.
+COACH: That's great! Let's start by talking about your dedication to learning. What have you done to demonstrate this?
+STUDENT: I'm currently enrolled in advanced classes and I'm always looking for ways to challenge myself academically.
+COACH: Great! Can you provide examples of how you have challenged yourself academically?
+STUDENT: Sure! Last semester, I took an honors class that was outside of my major. I also participated in a research project that required me to read and analyze a lot of data.
+COACH: Perfect! That's great evidence of your dedication to learning. Now, let's talk about your commitment to helping others. What have you done to demonstrate this?
+STUDENT: I'm involved in a lot of community service projects. I volunteer at a local homeless shelter every week, and I also tutor students in math and science.
+COACH: Wonderful! Those are great examples of your commitment to helping others. Now, let's talk about how you can incorporate these examples into your essay. What do you think is the best way to structure your essay?

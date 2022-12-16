@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college admissions essay. I'm applying to Yale, and I'm not sure what to write about in my personal statement.
+COACH: That's a great question! Let's start by talking about what colleges are looking for when they read your essay. Generally speaking, they want to know about your skills, achievements, and experiences that make you stand out from the other applicants. They also want to understand why you think you'd be a good fit for their school.
+STUDENT: Okay, so what kind of skills and achievements should I focus on?
+COACH: Well, it depends on the type of applicant you are. Are you an undergraduate student or a graduate student?
+STUDENT: I'm an undergraduate.
+COACH: Alright, great. For an undergraduate student, you should focus on your academic achievements, extracurricular activities, and any leadership roles you may have held. You can also talk about any unique experiences you've had that have shaped who you are as a person. It's important to show that you have a clear understanding of the school and why you think it's the right fit for you.
+STUDENT: Okay, that's helpful. Is there anything else I should keep in mind while writing my essay?
+COACH: Yes, definitely. Make sure to proofread your essay multiple times and have someone else review it. It's also important to be honest and genuine in your essay. Colleges want to get to know the real you, so don't be afraid to share your story. Lastly, make sure to follow the instructions and format requirements given by the school.
+STUDENT: Got it. Thanks for the advice!

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are awards given to students based on their academic or extracurricular achievements. They can be used to help cover tuition, fees, and other educational expenses. What kind of essay are you writing?
+STUDENT: A persuasive essay about why students should apply for scholarships.
+COACH: That's a great topic! Let's start by talking about what makes a persuasive essay. A persuasive essay is an argumentative essay that attempts to convince the reader to take your side of an issue. You'll need to provide evidence and logical reasoning to support your argument. What kind of evidence will you be using?

@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I have no idea what to write about in my admission essay.
+COACH: That's a common problem. What are some topics that you're interested in or passionate about?
+STUDENT: Well, I'm really interested in travel and I've been to Germany a few times.
+COACH: That's great! Have you ever written about your travels before?
+STUDENT: No, not really.
+COACH: Okay, so why don't you start by writing about your experiences in Germany? What did you like most about your trips there?
+COACH: You could also write about the lessons you learned from traveling to a different country. How did it change your perspective on life?
+COACH: Another option is to write about a challenge or obstacle you faced while traveling and how you overcame it. Or, you could write about the people you met and how they impacted your life.
+STUDENT: That's a great idea. I think I'll write about the challenges I faced while traveling and how I overcame them.
+COACH: Perfect! Let's talk more about that. What challenges did you face?
+STUDENT: Well, I faced some language barriers and cultural differences. I also had to deal with rejection when I applied for a job in Germany.
+COACH: That sounds difficult. How did you handle those challenges?
+STUDENT: I worked hard to learn the language and tried to understand the culture better. I also tried to stay positive and keep pushing forward despite the rejection.
+COACH: That's great. It sounds like you were able to use these experiences to become more resilient and confident. Why don't you focus your essay on this idea of overcoming obstacles and the lessons you learned from it?
+STUDENT: That's a great idea! I think I'll focus on that.
+COACH: Excellent! Now, let's talk about the structure of your essay. What do you think would be the best way to organize your ideas?

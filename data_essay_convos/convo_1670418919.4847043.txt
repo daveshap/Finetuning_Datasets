@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student applying to Princeton and I have no idea what to write about.
+COACH: That's okay! Let's start by talking a bit about your background and interests. What are some of the things you're passionate about? 
+STUDENT: Well, I'm interested in engineering and LGBT rights.
+COACH: Great! It sounds like you have two very distinct passions that you could potentially explore in your essay. Do you have any ideas for how you might connect the two topics together? 
+STUDENT: Not really, I'm not sure how they would fit together.
+COACH: Don't worry - it's normal to feel overwhelmed when trying to come up with an essay topic. One approach you could take is to think about how your two passions have intersected in your life. For example, have you ever been involved in a project or initiative related to both engineering and LGBT rights?
+STUDENT: Yes, actually! Last summer I interned with a company in Europe that was focused on developing engineering solutions to improve the lives of LGBT people in the region. 
+COACH: That sounds like a great experience! Why don't you start by writing an essay that explores your experience working with this company? You can use it to discuss how your passion for engineering and LGBT rights intersected, and how this experience shaped your understanding of both topics.

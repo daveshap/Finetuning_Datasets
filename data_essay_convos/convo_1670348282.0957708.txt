@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm having trouble figuring out what to write about in my college admission essay.
+COACH: That's a great question! Before we dive into brainstorming topics, let me explain how essays are structured so you have a better understanding of what you need to do. Generally, essays have three main parts: an introduction (or hook) that grabs the reader's attention, a body with several paragraphs that present your argument, and a conclusion that summarizes your points. What do you think of that structure?
+STUDENT: That makes sense. I'm still not sure what I should write about, though.
+COACH: That's understandable. Let's start by talking about what interests you. Do you have any hobbies or passions that you could write about?
+STUDENT: Well, I'm very passionate about Christianity and fighting racism.
+COACH: That's great! You can use your passion for Christianity and fighting racism as the basis of your essay. Think about how you can use those topics to answer the question: why do you want to attend Duke University? What experiences have you had that have made you passionate about these topics? How have they shaped your worldview? What do you hope to learn at Duke? These questions can help you develop your argument and provide the reader with insight into who you are.

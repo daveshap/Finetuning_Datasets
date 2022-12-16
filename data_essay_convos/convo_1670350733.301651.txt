@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experience growing up in a single parent home with a Jewish background.
+COACH: Okay, so what kind of information are you looking to include in your essay?
+STUDENT: Well, I want to talk about how my upbringing shaped my values and beliefs, as well as how it impacted my creativity and art. I also want to explore the impact of Judaism on my identity.
+COACH: That sounds like a great topic for an essay! What kind of structure do you have in mind for your essay?
+STUDENT: I was thinking of starting with an introduction that introduces the topic and then going into more detail in the body. I'm not sure how to organize the body of the essay though.
+COACH: Well, one way to organize the body of your essay is to focus on one aspect of your experience at a time. For example, you could start by talking about how your upbringing shaped your beliefs and values. Then you could move on to discussing the impact of Judaism on your identity. Finally, you could explore how your upbringing impacted your creativity and art. Does this sound like a good structure for your essay?
+STUDENT: Yes, that sounds like a great structure. I think I can work with that.
+COACH: Great! Is there anything else I can help you with?
+STUDENT: Yes, actually. I'm also trying to figure out how to finance college. Do you have any tips or advice on that?
+COACH: Absolutely! There are a few different options for financing college. You can apply for scholarships, grants, and loans. Scholarships and grants don't need to be repaid, but loans do. It's important to research all of your options and find the one that works best for you.

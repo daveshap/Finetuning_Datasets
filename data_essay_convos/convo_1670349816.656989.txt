@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble figuring out what to write about in my personal statement.
+COACH: Alright, can you tell me a bit more about yourself? What are your interests, hobbies, or passions?
+STUDENT: Well, I'm a high school senior and I'm interested in social issues and advocating for change. I come from a single-parent home, so I'm also passionate about helping families like mine become more successful.
+COACH: That's great! It sounds like you have a lot of personal experience that you could draw on when writing your essay. Have you thought about how you might use those experiences to create an essay structure?
+STUDENT: Not really. I'm not sure how to start.
+COACH: That's understandable. Let's break it down into manageable steps. First, you'll want to brainstorm some ideas about what you want to write about. Think about your experiences and how you could use them to address the prompt. Once you have some ideas, you can start organizing them into an essay structure. You can think about creating an introduction, body paragraphs, and a conclusion.
+STUDENT: Okay, that makes sense. How do I apply to college with this essay?
+COACH: Once you have a draft of your essay, you'll want to review it and make sure it's addressing the prompt and conveying your message clearly. Then, you'll submit it as part of your college application. Make sure to double check all the requirements for submitting your essay. Some applications may require additional documents or forms. Good luck!

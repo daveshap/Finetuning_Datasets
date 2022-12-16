@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: That's a great question! College admissions can be a complicated process. Generally, the admissions committee looks at a variety of factors to determine if an applicant is a good fit for their school. This includes reviewing transcripts and test scores, but also things like extracurricular activities, letters of recommendation, and essays. How can I help you specifically?
+STUDENT: I'm having trouble writing my argumentative essay.
+COACH: Alright, let's start by talking about what an argumentative essay is. An argumentative essay is a type of writing that presents an argument or point of view on a particular issue. It's important to make sure your argument is well-supported with evidence and facts. What kind of argument are you trying to make in your essay?

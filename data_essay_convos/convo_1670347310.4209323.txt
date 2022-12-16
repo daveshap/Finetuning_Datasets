@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to college in the Philippines and I'm having trouble figuring out how to write my essay.
+COACH: That's great! What kind of topics are you considering for your essay? 
+STUDENT: Well, I'm interested in exploring creativity and art in my essay.
+COACH: That's an excellent topic to explore! What kind of creative and artistic elements do you want to focus on?
+STUDENT: I'd like to explore the idea of how creativity can be used to express different aspects of identity, especially for those who identify as LGBT.
+COACH: That's a wonderful topic to explore! What kind of research have you done so far?
+STUDENT: I've been looking into some of the literature about LGBT identity and creativity, but I'm not sure how to incorporate that into my essay.
+COACH: That's understandable. Have you thought about using a narrative approach to tell a story about your own experiences with creativity and LGBT identity? This might help you to better connect with the reader and make your essay more personal.
+STUDENT: That's a great idea! I think that would really help me to get my point across.
+COACH: Absolutely! Do you have any other questions about your essay or the application process?
+STUDENT: Yes, I'm also wondering how financing college works in the Philippines.
+COACH: Financing college in the Philippines can be tricky, but there are several options available. Scholarships, grants, and student loans are all potential sources of funding. You may also want to look into work-study programs or part-time jobs to help supplement your costs.

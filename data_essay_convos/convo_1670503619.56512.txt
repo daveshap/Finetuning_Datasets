@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's totally normal! It can be really hard to figure out what to write about for a college admissions essay. What kind of essay are you writing?
+STUDENT: an argumentative essay
+COACH: Great! An argumentative essay is a great way to show your critical thinking skills and express your opinion on a certain topic. Do you have any ideas of what kind of topic you'd like to write about?
+STUDENT: Not sure, I was thinking of something about technology
+COACH: That's a great idea! Technology is an ever-evolving field and there are a lot of different angles you could take with it. What kind of argument do you want to make about technology? Is there a particular issue that you feel strongly about?

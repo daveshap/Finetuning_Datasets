@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: When writing your admissions essay, you should focus on telling a story about yourself. Start by introducing yourself, then explain what motivates you and why you are interested in the college or university you are applying to. Make sure to include details that showcase your unique personality and experiences. You can also discuss any challenges you have faced and how you overcame them. Finally, make sure to include a conclusion that ties everything together and expresses why you are the best candidate for the program.

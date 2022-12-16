@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: That's a great question! A grant is a type of financial aid that doesn't need to be paid back. To apply for grants, you'll need to research what grants are available and then complete an application. The application will ask for information about your academic and financial background, so it's important to be prepared. Do you have any other questions about the essay?
+STUDENT: Yes, I'm writing a personal statement for law school and I'm not sure how to start.
+COACH: That's a great question. A personal statement for law school should focus on why you're interested in pursuing a legal education and what you hope to gain from it. It should also highlight your unique qualities and experiences that make you stand out from other applicants. You can start by writing a few sentences that explain why you're interested in studying law and what you hope to get out of it. From there, you can elaborate on your experiences and qualifications that make you a strong candidate.

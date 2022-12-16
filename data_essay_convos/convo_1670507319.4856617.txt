@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: That's a great question. Before we get into how to write a good conclusion, can you tell me a bit more about the essay you're writing? What type of essay is it, and what is the purpose of it?
+STUDENT: It is a personal statement for medical school. The purpose is to explain why I am an ideal candidate for the program. 
+COACH: Got it. When writing a conclusion for a personal statement, it's important to think about what you want the reader to take away from your essay. Your conclusion should sum up your main points and provide a sense of closure. It should be clear, concise, and memorable. 
+To start, you'll want to restate the main points of your essay. This will remind the reader of the main points you made throughout the essay and reiterate why you are a good fit for the program. You could also include a brief summary of any relevant experiences or skills that you have that make you a great candidate. 
+Next, you'll want to add a few sentences that tie everything together and leave the reader with a lasting impression. This could be a quote, an anecdote, or a call to action. Whatever it is, make sure it reflects the overall message of your essay. 
+Finally, end your essay with a powerful statement that leaves the reader with a positive feeling about you and your application. 
+I hope this helps! Do you have any other questions about writing a conclusion for your personal statement?

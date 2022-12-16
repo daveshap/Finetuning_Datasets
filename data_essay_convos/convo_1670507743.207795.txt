@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know when my essay is finished?
+COACH: That's a great question. Let's start by talking about what you want your essay to accomplish. What do you hope to communicate to the reader?
+STUDENT: I want to explain why I am passionate about a certain area of study and why I am an ideal candidate for a program.
+COACH: That's a great start. Now, what specific details do you want to include to make your point?
+STUDENT: I want to talk about my experience in the field, how I've taken initiative to learn more, and how I plan to use the knowledge I gain from the program.
+COACH: Perfect. Now, let's go through each of these points and make sure you have enough detail to make your essay stand out. First, tell me more about your experience in the field. What have you done so far?
+STUDENT: Well, I've been studying the subject for two years, and I've taken courses in the field, volunteered in relevant organizations, and conducted research projects.
+COACH: Great! Now, when it comes to taking initiative, what have you done to go beyond what was expected of you?
+STUDENT: I've read books and articles on the subject, attended seminars and conferences, and started a blog to share my knowledge with others.
+COACH: Wonderful! Lastly, what do you plan to do with the knowledge you gain from the program?
+STUDENT: I plan to use it to create innovative solutions to real-world problems and to help others understand the importance of the field.
+COACH: Perfect. Now that we have a clear picture of what you want to include in your essay, let's look at the structure. What kind of introduction do you want to use? How will you transition between your points? What kind of conclusion will you write?

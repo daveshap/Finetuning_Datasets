@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an admissions essay for UCLA and I'm struggling to come up with a good topic.
+COACH: Sure, what kind of topics are you interested in?
+STUDENT: Well, I'm really passionate about charity work and Judaism, so I thought I could combine those two topics in some way.
+COACH: That's a great idea! What specifically do you want to focus on when it comes to charity work and Judaism?
+STUDENT: I want to talk about how my faith has inspired me to get involved in charity work and the impact it's had on my life.
+COACH: That sounds like a great topic for your essay! Can you tell me more about why this is important to you?
+STUDENT: Well, charity work has always been a big part of my life, ever since I was a kid. My parents instilled in me the importance of helping others, and I think that my faith has only strengthened that belief. I've been able to use my faith to help others in need and it's been incredibly rewarding.
+COACH: That's wonderful! It sounds like you have a real passion for charity work and Judaism. How do you think this will help you stand out as an applicant to UCLA?
+STUDENT: I think it will show the admissions board that I'm committed to helping others and that I'm passionate about using my faith to make a difference. I also think it will demonstrate my commitment to my community and my willingness to serve.

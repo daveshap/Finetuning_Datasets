@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my personal statement. I'm applying to law school and I'm not sure what to write about.
+COACH: That's a great question. Before we get into the specifics of what to write about, can you tell me a bit more about yourself? What are your interests, passions, and aspirations?
+STUDENT: Sure. I'm passionate about advocating for neurodiversity and I'm also interested in exploring issues of sexism in the legal profession. I'm hoping to use my law degree to make a positive impact on society.
+COACH: That's wonderful! It sounds like you have a clear purpose and direction for your law degree. Now, let's talk about what to write in your personal statement. You mentioned that you want to explore issues of sexism in the legal profession. That could be a great topic to focus on in your essay. You could discuss your experience with sexism and how it has shaped your perspective on the legal profession. You could also talk about how you plan to use your law degree to address these issues.
+STUDENT: That sounds like a great idea. I think I could really dive into this topic and make it a strong part of my essay.
+COACH: Absolutely. Now, let's talk about the structure of your essay. How long should it be? What format should you use?
+STUDENT: I'm not sure. How does college admission work when it comes to essays?
+COACH: Generally speaking, most colleges have a word limit for personal statements. They usually ask for essays between 500 and 650 words. As for the format, it's best to keep your essay organized and structured. Start with an introduction, followed by the body of your essay, and end with a conclusion. Make sure to include transitions between paragraphs to keep your essay coherent.

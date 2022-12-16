@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: That's a great question. It sounds like you need some help with the college application process. Let me tell you about the different steps you'll need to take. First, you'll need to research colleges and decide which ones you'd like to apply to. Then, you'll need to fill out the application forms and write an essay.
+STUDENT: What kind of essay should I write?
+COACH: You're writing a persuasive essay, so you'll need to present an argument and support it with evidence. Start by picking a topic that you're passionate about and that you can argue for or against. Once you have your topic, make sure to do your research and come up with a clear thesis statement. This will be the main point of your essay. From there, you'll want to create an outline and write your essay. Make sure to include facts and figures to back up your argument. Finally, proofread and edit your work before submitting it.

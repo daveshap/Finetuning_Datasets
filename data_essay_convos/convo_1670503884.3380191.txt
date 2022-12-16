@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening for a college admissions essay should be engaging and capture the reader’s attention. It should also introduce the main idea of your essay in an interesting way. You could start with an anecdote, a quote, or a thought-provoking question to draw the reader in.
+STUDENT: What should the thesis statement include?
+COACH: The thesis statement should be the main focus of your essay and should clearly state your position or opinion on the topic. It should also provide some insight into the main points of your essay, so the reader knows what to expect. Make sure your thesis statement is concise and specific.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am applying to UNC and I'm trying to figure out how to structure my admission essay.
+COACH: Great! Let's start by talking about why your admission essay matters. An admission essay is your opportunity to showcase your unique voice and demonstrate to the admissions committee why you are a great fit for their school. It gives them a chance to get to know you beyond just your grades and test scores. 
+STUDENT: That's helpful. What kind of topics should I focus on? 
+COACH: You can focus on anything that you think will make you stand out as an applicant. It could be something related to your life experiences, a social issue that you are passionate about, or even a creative project that you've been working on. The important thing is that you make it personal and show your enthusiasm for the topic. 
+STUDENT: That makes sense. I'm really interested in art and creativity, so I was thinking of writing about that. 
+COACH: That's a great idea! You could start by talking about how art has influenced your life and how it has shaped your perspective on the world. From there, you can explore how art has helped you develop your creativity and how you plan to use it to make a positive impact on the UNC community. 
+STUDENT: I like that idea. What kind of structure should I use for my essay? 
+COACH: A good essay structure typically includes an introduction, body paragraphs, and a conclusion. In the introduction, you can introduce the topic and explain why it is important to you. In the body paragraphs, you can provide specific examples of how art has impacted your life and how you plan to use it at UNC. Finally, in the conclusion, you can tie everything together and provide a summary of what you have discussed. 
+STUDENT: That sounds great! Thanks so much for your help. 
+COACH: You're welcome! I'm glad I could help. Good luck with your essay!

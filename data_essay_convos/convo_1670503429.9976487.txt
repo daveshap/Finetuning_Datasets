@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: College matters because it is a place for you to learn and grow. It provides you with the opportunity to pursue your academic and career goals, as well as gain valuable knowledge and skills that will help you succeed in life. Furthermore, college can open up many doors for you in terms of networking, internships, and job opportunities. It is also a great place to make lifelong friendships and memories. 
+STUDENT: What should I include in my essay?
+COACH: When writing your essay, you should focus on why you are applying for the grant. Explain how the grant will help you achieve your goals and how you plan to use the money. Additionally, highlight any unique experiences or accomplishments that make you stand out from other applicants. Finally, make sure to provide evidence to back up your claims and show why you are deserving of the grant.

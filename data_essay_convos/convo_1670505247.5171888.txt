@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are typically awarded based on financial need, academic merit or a combination of both. The application process for grants can vary depending on the type of grant. Generally, you will need to fill out an application and provide some documentation, such as your financial records or transcripts. You may also need to write an essay or provide letters of recommendation. Once you have submitted your application, the grant committee will review it and make a decision.

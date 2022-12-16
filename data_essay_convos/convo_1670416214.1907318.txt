@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with an essay I'm writing for Duke University. I want to write about my experience as a refugee coming to Europe from Germany.
+COACH: That sounds like an interesting topic! Could you tell me more about your experience? What was it like coming to Europe as a refugee?
+STUDENT: It was a difficult experience. I had to leave my home in Germany and travel to a new country with very little money and resources. I had to adjust to a new language and culture and find a way to make a living.
+COACH: I can imagine that was quite a challenge! What are some of the challenges you faced?
+STUDENT: One of the biggest challenges was finding a job. I didn't have any work experience and I couldn't speak the language. I also had to learn how to navigate the bureaucracy of the refugee system. It was hard to find housing and access healthcare.
+COACH: Those are definitely difficult challenges. What do you think you learned from this experience?
+STUDENT: I learned the importance of resilience and determination. Despite all the difficulties, I was able to find a job and start a new life. I also learned about the importance of helping others in need.
+COACH: That's a great lesson to take away from your experience. Is there anything else you'd like to talk about regarding your essay?
+STUDENT: Yes, I'm wondering how I can get scholarships and grants to pay for college.
+COACH: That's a great question! There are a few different ways to get scholarships and grants. You can start by researching scholarships and grants offered by Duke University. You can also look into scholarships and grants offered by other organizations, such as government agencies or private foundations. Additionally, you can look into student loan options.

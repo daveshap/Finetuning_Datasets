@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for Duke University's application process and I'm having a hard time getting started.
+COACH: Okay, so let's start by understanding what your goals and personal objectives are. What do you hope to achieve with this essay?
+STUDENT: Well, I want to show the admissions committee that I'm a well-rounded individual who can bring a unique perspective to the university. I grew up in Thailand and I'm a Christian, so I want to share my experiences about how my faith has shaped my life and how it can contribute to the diversity of Duke's student body.
+COACH: That's a great goal! Let's start by talking about your background in Thailand. What was it like growing up there?
+STUDENT: It was amazing! I had the opportunity to experience different cultures, religions, and customs. I was surrounded by beautiful landscapes, friendly people, and delicious food. I learned a lot about different beliefs and perspectives and it really helped me develop my own opinions and values.
+COACH: That sounds like a great experience. Now, let's talk about Christianity and how it has shaped your life. What role does faith play in your life?
+STUDENT: Faith is very important to me. I believe that it helps guide me in making decisions and provides me with a moral compass. My faith has also been a source of strength and comfort during difficult times. It has taught me to be kind and compassionate towards others and to always strive for justice and fairness.

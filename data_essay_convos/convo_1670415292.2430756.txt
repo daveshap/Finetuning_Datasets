@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble writing my essay. I'm trying to decide between MIT, NCSU, and UNC.
+COACH: That's a tough decision! Tell me more about what you're looking for in your essay. What topics are you considering?
+STUDENT: Well, I'm interested in writing about my experience with Judaism and how it has shaped my values and goals.
+COACH: That sounds like a great topic. Do you have any specific ideas on how to make your essay stand out from the others?
+STUDENT: I'm not sure. I want to make sure my essay is engaging and interesting.
+COACH: Engaging essays usually include vivid details, personal anecdotes, and a strong narrative. Think about how you can incorporate those elements into your essay to make it stand out. Also, try to connect your experiences to larger themes or ideas. For example, if you're discussing your experience with Judaism, consider how it has impacted your views on social justice, education, or other topics.

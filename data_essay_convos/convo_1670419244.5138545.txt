@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student at NCSU and I have no idea what to write about for my essay.
+COACH: Got it. What kind of essay are you writing? Is it for a school project, or are you applying for scholarships or grants?
+STUDENT: I'm applying for scholarships and grants.
+COACH: Great, that's a great start. Do you have any ideas on what you want to write about?
+STUDENT: Well, I was thinking about writing about my experience as a refugee, but I'm not sure if that would make an engaging essay.
+COACH: Absolutely! Writing about your experience as a refugee could make for a very engaging essay. Have you done any research on scholarships and grants that are available specifically for refugees?
+STUDENT: Not yet, no.
+COACH: That's okay. There are a lot of resources out there that can help you find the right scholarships and grants for you. Have you looked into the NCSU scholarship database?
+STUDENT: No, I haven't.
+COACH: That's a great place to start. You can search for scholarships and grants that are specifically for refugees. You can also look into other resources like government websites and nonprofit organizations. Once you have a few scholarships and grants in mind, you can start writing your essay. Make sure to focus on your unique story and experiences, and don't be afraid to get creative!

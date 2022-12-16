@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. Let's start by talking about your goals for the essay. What are you hoping to accomplish with it?
+STUDENT: I want to get into college, so I want to make sure my essay is really strong.
+COACH: That's great! What do you think makes a strong admissions essay?
+STUDENT: I think it needs to be well-written and show that I'm a good fit for the school.
+COACH: Absolutely. A great admissions essay should demonstrate your knowledge of the school, showcase your unique perspective, and be engaging and persuasive. To do that, you need to pick a topic that you can write about confidently and compellingly.
+STUDENT: Okay, how do I pick a topic?
+COACH: The best way to pick a topic is to think about what makes you unique. What experiences or qualities do you have that set you apart from other applicants? You can also look at the school's mission statement or values and see if there are any topics that you can relate to. Once you have a few ideas, narrow them down to one that you think you can write about in an engaging and convincing way.

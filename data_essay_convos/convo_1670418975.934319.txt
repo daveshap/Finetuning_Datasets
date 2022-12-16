@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a high school student from the Philippines, and I'm applying to college in the United States. I'm interested in attending Princeton, but I'm not sure how to apply.
+COACH: That's great! Applying to college in the US can be a daunting process, but with the right guidance you can make it a success. Let's start by talking about your background. What is your current academic standing?
+STUDENT: I'm currently a senior in high school, and I have a 3.9 GPA.
+COACH: That's impressive! So, what kind of extracurricular activities do you participate in?
+STUDENT: I'm involved in several clubs and organizations at my school, and I'm also a member of my local synagogue.
+COACH: Great! It sounds like you have a lot of experience outside of the classroom. What kind of essay topics have you been considering for your college application?
+STUDENT: I've been thinking about writing about my experience with Judaism, and how it has shaped my worldview. 
+COACH: That's a great topic! We can definitely use that to your advantage. How would you like to approach this topic in your essay?
+STUDENT: I'm not sure. I want to make sure I write something that really stands out.
+COACH: Sure, let's brainstorm some ideas. Have you heard of the "show, don't tell" approach? It's a great way to make your essay more engaging and memorable. Instead of just telling the reader about your experience with Judaism, you can show them through vivid descriptions and stories. This will help your essay stand out and make it more memorable.

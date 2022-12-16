@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first generation college student applying to MIT and I have no idea what to write about.
+COACH: That's a great question. What kind of essay are you writing?
+STUDENT: It's a personal essay.
+COACH: Okay, so what do you want to focus on in your essay? What kind of story do you want to tell?
+STUDENT: Well, I think I want to focus on my experience as a first-generation student. I want to talk about the challenges I faced and how I overcame them.
+COACH: That sounds like a great idea. Have you done any research on what makes an essay engaging?
+STUDENT: Not really.
+COACH: Well, there are a few things you can do to make your essay more engaging. First, you can focus on a specific moment or event in your life that illustrates your journey as a first-generation student. Second, you can use vivid language and details to bring your story to life. Third, you can draw connections between your experiences and the larger world around you. For example, if you've traveled to Europe, you can talk about how that experience changed your perspective on the world.
+STUDENT: That's really helpful. I think I have an idea of what I want to write now.
+COACH: Great! Is there anything else I can help you with?
+STUDENT: I'm not sure how to structure my essay.
+COACH: That's a great question. The best way to structure your essay is to start by introducing the topic and then move on to the body of the essay. In the body, you should include several paragraphs that discuss different aspects of your experience as a first-generation student. You can also use anecdotes and stories to illustrate your points. Finally, you should end with a conclusion that ties everything together and leaves the reader with a lasting impression. 
+STUDENT: Wow, that's really helpful. Thanks so much for your advice. 
+COACH: You're welcome! I'm glad I could help. Is there anything else I can do for you? 
+STUDENT: No, I think I'm all set. Thanks again for your help. 
+COACH: No problem. Good luck with your essay!

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I need help with my personal statement.
+COACH: Alright, what kind of topics are you considering writing about?
+STUDENT: Well, I was thinking about writing about my experience in France and how it shaped my view of Christianity.
+COACH: That sounds like a great topic to explore. What specifically do you want to write about? 
+STUDENT: I want to focus on how living in France for a year changed my perspective on Christianity, and how it has impacted my faith journey.
+COACH: That's a great idea. What kind of details can you provide to make your essay stand out?
+STUDENT: I think I could talk about how my time in France broadened my understanding of the Christian faith, how I was able to learn more about different denominations, and how I was able to gain a deeper appreciation for the diversity of the Church. I could also discuss how my experiences there have helped me to set goals and personal objectives for my future.
+COACH: That's a great start! It sounds like you have some interesting ideas for your essay. What else would you like to include? 
+STUDENT: I think I'd like to focus on how my faith has been strengthened by my experiences in France, and how I've been able to grow spiritually.
+COACH: That's a great idea! It sounds like you have a lot of material to work with. Do you have any other questions before we begin?

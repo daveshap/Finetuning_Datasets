@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question! Let's start by talking about what kind of persuasive essay you are writing. What is the main purpose of the essay and what do you want to accomplish with it?
+STUDENT: I want to write an essay that will convince the scholarship committee to award me a scholarship.
+COACH: Alright, that's a great goal! To make sure your essay is as persuasive as possible, you'll need to make sure you understand the audience and their needs. What do you know about the scholarship committee and their criteria for awarding scholarships?
+STUDENT: I know they look at academic performance, extracurricular activities, and financial need.
+COACH: Perfect. That's a great starting point. Now, let's talk about how to structure your essay. It's important to have an introduction that grabs the reader's attention, a body that explains why you are qualified for the scholarship, and a conclusion that ties everything together. You should also make sure to use evidence to support your argument, such as statistics or personal anecdotes. Finally, be sure to proofread your essay for any errors. Do you have any questions so far?

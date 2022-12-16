@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some help with my college essay. I want to write about my experience growing up in Germany as a Jewish person, and how that has shaped my outlook on life.
+COACH: That sounds like an interesting and meaningful topic. Can you tell me more about why you chose this topic?
+STUDENT: Sure. Growing up in Germany, I was exposed to a lot of different cultures, religions, and people. It gave me a unique perspective on the world and I wanted to explore that in my essay.
+COACH: That's great. It sounds like you have a lot of material to work with. What do you think admissions officers are looking for when they read essays?
+STUDENT: I think they're looking for essays that show a clear understanding of the topic, demonstrate critical thinking skills, and provide insight into the student's personality and background.
+COACH: That's a great answer. Can you tell me more about why college matters to you?
+STUDENT: College matters to me because it's a chance to further my education and open up new opportunities. I'm excited to explore new ideas, meet new people, and challenge myself in ways I never thought possible.
+COACH: That's a great attitude to have. Now, do you have any idea on how to get started on your essay?
+STUDENT: Yes, I think I need to start by doing some research on the history and culture of Germany, specifically as it relates to Judaism. I also want to reflect on my own experiences and think about how they have shaped who I am today.
+COACH: That's a great plan. Researching the history and culture of Germany will give you a better understanding of the topic and help you craft a more compelling essay. Good luck with your essay and let me know if you need more help.

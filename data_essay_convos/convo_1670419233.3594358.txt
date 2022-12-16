@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and I need help writing my personal statement.
+COACH: Alright, let's start by talking about what makes you unique and why you would be a great fit for Harvard. What experiences have shaped your life and influenced your decision to apply?
+STUDENT: Well, I'm a refugee from Thailand, which has had a big impact on my life. Growing up in a new country was difficult, but it also taught me resilience and the importance of hard work.
+COACH: That's an incredible story and a great starting point for your essay. What other aspects of your life do you think are important to highlight in your personal statement?
+STUDENT: I think my academic achievements are important, but I'm also passionate about social justice and volunteer work. I'm involved in several organizations that help refugees and immigrants.
+COACH: That's fantastic! You have a lot of impressive experiences and accomplishments to write about. Now let's talk about how you can structure your essay. What kind of narrative do you want to tell?
+STUDENT: I want to show how my experiences as a refugee have shaped my perspective and my goals. I want to focus on how I'm using my knowledge and skills to make a difference in the world.
+COACH: That's a great idea for the essay. You can start by talking about your journey as a refugee and how it has shaped your values and goals. Then you can discuss the various ways you're using your skills and knowledge to make a difference. Finally, you can talk about why Harvard is the perfect place for you to continue your journey.
+STUDENT: That sounds like a good plan. I'm feeling more confident about this now. Is there anything else I should consider when writing my essay?
+COACH: Absolutely! Make sure to include specific examples and stories to illustrate your points. These will help bring your essay to life and make it more memorable. Also, don't forget to talk about your career aspirations. How do you plan to use your degree after college? 
+STUDENT: I want to use my degree to help refugees and immigrants find jobs and gain access to resources. I'm passionate about helping others in need and I think that's the best way to use my skills.
+COACH: That's a great goal and a great way to end your essay. Showing your commitment to helping others and your career plans will make you stand out from the crowd. Good luck with your essay and let me know if you have any other questions.

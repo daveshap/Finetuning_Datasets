@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: Alright, let's start with a reference interview. What is the essay assignment or topic?
+STUDENT: I need to write a thesis statement.
+COACH: Great! Now, what is your thesis statement about?
+STUDENT: It's about how technology has changed the way we communicate.
+COACH: That's an interesting topic! Now that you have your topic, it's time to create your thesis statement. A thesis statement should be a single sentence that summarizes your argument. It should also include your main points and the evidence you plan to use to support them. Can you give me an example of what you have in mind?
+STUDENT: Technology has revolutionized communication by allowing people to connect with each other more quickly and easily than ever before.
+COACH: That's a great start! Now, let's make sure it's a complete thesis statement. What evidence do you plan to use to support your argument?
+STUDENT: I plan to use examples of how technology has changed the way people communicate, such as through social media and video chat.
+COACH: Perfect! Now, let's add that to your thesis statement. How about this: "Technology has revolutionized communication by allowing people to connect with each other more quickly and easily than ever before, as evidenced by the emergence of social media and video chat." Does that sound good?
+STUDENT: Yes, that sounds great! Thank you so much for your help!

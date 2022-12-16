@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school and I'm having trouble writing my essay.
+COACH: Alright, let's start with the basics. What school are you applying to?
+STUDENT: I'm applying to MIT.
+COACH: Great! What do you think is the most important thing you want to convey in your essay?
+STUDENT: I want to show them that I am an interesting person, even though I don't have any groundbreaking achievements or experiences.
+COACH: Absolutely. Have you thought about what makes you unique? Do you have any hobbies, interests, or passions that you can incorporate into your essay?
+STUDENT: Well, I'm very passionate about LGBT rights.
+COACH: That's great! You can use that as a starting point for your essay and discuss how you've been involved in the fight for equality, or how you've seen the effects of sexism in your life. It will show your commitment to social justice and demonstrate that you are an interesting person.

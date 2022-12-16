@@ -1,0 +1,172 @@
+Richa  Phulwani  
+ 
+Phone  
+(615) 525-0495  Email  
+rphulwani 48@gmail.com  LinkedIn  
+www.linkedin.com/in/richa -phulwani  
+   
+ 
+Education  
+ 
+2014 
+- 
+2020 Bachelors : Computer 
+Science  
+Bachelors: Biology  
+ 
+ 
+2022  Bachelor s: Mechatronics  
+MTSU, TN  
+Apache Spark  
+EDX Certification   
+Work History  
+ 
+07/21 – 
+present  Automation Engineer  
+Assurant , La Vergne , TN 
+ 
+07/20  – 
+07/21  Systems Engineer  
+Assurant , La Vergne , TN  
+Skills  
+• Languages: Python, Javascript,  
+Powershell , Batch  
+• Deployments: Github, Docker, 
+Kubernetes, Azure , GCP  
+• Databases: MySQL, MongoDB, 
+BigQuery, PostgresSQL  
+ 
+Software  Experience  
+APIs 
+• Made FastAPI apis for 
+inserting and retrieving data 
+using Python  
+ 
+• Retrieved data from apis 
+using C# for use in 
+automated printing machiner  
+ 
+• Used third party apis for 
+data such as weather 
+Android app and creating 
+barcodes  
+ 
+• Utilized CRUD operations 
+with apis on Postman, 
+deployed app services, and 
+local scripts  
+ 
+• Worked with JSON 
+formatted data from APIs with 
+Python, C#, and Javascript  
+ 
+ 
+ Deployments  
+• Created Node JS web app 
+and deployed it on Azure 
+using Github  
+ 
+• Worked with Azure for 
+databases, apis, and storage 
+accounts  
+ 
+• Created docker images, 
+pulled docker images, 
+updated docker images, ran 
+docker images on liquid web 
+and Azure, and created and 
+used docker compose files  
+ 
+• Used kubernetes cli and 
+YML files to manage and 
+create services on Azure  
+ 
+• Created executable for 
+containing Python file and 
+virtual environment in single 
+file Databases  
+• Worked with Mongo 
+databases for querying and 
+manipulating data  in Python  
+ 
+• Built ETL process  from 
+Azure’s Cosmos DB into Power 
+BI dashboards  using Python  
+ 
+• Retrieved data from NoSQL 
+database using Python sql 
+libraries and manipulated 
+data using Pandas.  
+ 
+• Incorporated data from 
+Azure’s Cosmos DB database 
+to Node JS webapp for data 
+visualization  
+ 
+• Worked with Google Cloud 
+Platform’s Bigquery  and 
+PostgresSQL for ETL process 
+between api and final 
+BigQuery tables with Cloud 
+function and Scheduler  using 
+Python  
+ Languages  
+• Used HTML, CSS, and Node 
+JS for multiple web 
+applications and worked with 
+libraries and frameworks such 
+as Express, WebGL, and 
+websockets  
+ 
+• Developed python rpa 
+application using ocr from 
+opencv and tesseract  
+ 
+• Used Python along with 
+Pandas and Tensorflow to 
+manipulate data for data 
+visualization and create 
+machine learning 
+applications  
+ 
+• Utilized Powershell with 
+Python subprocesses to get 
+device information from 
+plugged in USB devices for 
+label application  
+ 
+Coding  Experience  
+• Utilized asynchronous functions for Node JS Javascript Promises  
+• Used C# queues for proper FIFO operations  
+• Increased speed of operations in production environment by using lists, queues, and threading instead of if else and FIFO 
+operations  
+• Worked on increasing speed  of SQL queries by using best efficient SQL practices  
+• Developed different types of sorting  and searching algorithms  
+• Worked with arrays, hashsets, hashmaps, linked lists, queues, trees , hashes, classes  in Python  
+• Used regular expressions in various applications  
+• Used Python’s threading class to develop a non -blocking class that works with other classes  
+• Developed python code with  OOP techinques  including inheritance, polymorpism, encapsulation , and abstraction  
+ 
+Libraries/Frameworks  
+Pandas  (Py) 
+Express JS  (JS) 
+Websockets  (Py) 
+Tensorflow  (Py) 
+Keras  (Py) 
+OpenCV  (Py) 
+Threading (Py)  
+PyMongo (Py)  Requests  (Py) 
+BeautifulSoup  (Py) 
+Webbrowser  (Py) 
+Selenium  (Py) 
+Pyautogui  (Py) 
+Barcode  (Py) 
+Pytesseract  (Py) 
+mysql -connector  (Py) Matplotlib  (Py) 
+FastAPI  (Py) 
+NodeJS  (JS) 
+Numpy  (Py) 
+React  (JS) 
+Pyinstaller  (Py) 
+Pywinauto  (Py) 
+PyUSB  (Py)

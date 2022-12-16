@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essay.
+COACH: Great! Let's start by talking about what kind of essay you're writing. What is the prompt?
+STUDENT: The prompt is to write about my goals and personal objectives.
+COACH: Okay, great. So, tell me a bit about your goals and objectives. What do you hope to achieve in college?
+STUDENT: I want to explore my creativity and passion for art. I also want to learn more about the world and how I can make a difference in it.
+COACH: That sounds like a great goal! How do you plan on achieving it in college?
+STUDENT: I want to take classes that will challenge me and push me out of my comfort zone. I also want to get involved in extracurricular activities that will help me develop my skills and knowledge.
+COACH: That's an excellent plan! Now, let's talk about how college admission works. What do you think are the most important factors in getting accepted into college?
+STUDENT: I think that having good grades and test scores is important, but I also think that having a strong personal statement is key. It's important to show the admissions committee who you are as a person and why you are a good fit for the college.
+COACH: Absolutely! Your personal statement is an opportunity to showcase your personality, creativity, and unique experiences. What do you think makes a great personal statement?
+STUDENT: I think a great personal statement should be honest and reflective. It should also demonstrate how you think and how you will contribute to the college community.
+COACH: Very true. Now, let's talk about why college matters. Why do you think it's important to go to college?
+STUDENT: I think college is important because it provides an opportunity to gain knowledge and skills that can't be found anywhere else. It also gives you the chance to meet people from different backgrounds and learn from them. Going to college also opens up new career opportunities and allows you to explore different paths.

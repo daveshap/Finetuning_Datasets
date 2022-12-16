@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, my name is John and I'm looking for help with my admission essay for North Carolina State University.
+COACH: Hi John, it's great to meet you. So, why do you think an admission essay is important?
+STUDENT: Well, I think it's important because it gives the admissions committee an insight into who I am as a person, beyond just my academic achievements. It's a way for me to show them why I'm a good fit for NCSU.
+COACH: That makes sense. What kind of things would you like to include in your essay?
+STUDENT: I'd like to talk about my goals and personal objectives, my experience growing up in a poor family, and how my Buddhist beliefs have shaped my outlook on life.
+COACH: That sounds like a great start. Can you tell me a bit more about each of those topics?
+STUDENT: Sure. My goals and personal objectives are to use my education to better my community and make a positive impact in the world. Growing up in a poor family has taught me the value of hard work and resilience. And my Buddhist beliefs have given me an appreciation for the interconnectedness of all life, and the importance of living with compassion and kindness.
+COACH: That's really powerful. What do you think makes you stand out as an applicant to NCSU?
+STUDENT: I think my unique background and perspective make me stand out. I'm not like other applicants, and I believe that my story will bring something valuable to the university.

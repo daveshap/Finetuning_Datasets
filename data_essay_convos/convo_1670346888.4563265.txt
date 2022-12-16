@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I need help writing my essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's an essay for a law school application.
+COACH: Okay, what do you want to focus on in your essay?
+STUDENT: I want to focus on how my volunteer work has shaped my career goals and how I plan to finance my law school education.
+COACH: That sounds like a great topic! Can you tell me more about your volunteer work and how it has shaped your goals?
+STUDENT: Sure. I've been volunteering for the past few years at a local non-profit organization that provides free legal services to low-income families. It's been really eye-opening to see the struggles that people face in our community and it's inspired me to pursue a career in law so I can help make a difference.
+COACH: That's amazing! What kind of impact have you seen from your volunteer work?
+STUDENT: I've seen firsthand how difficult it can be for low-income families to access legal services, so I've become really passionate about advocating for their rights. I've also learned a lot about the law and how it can be used to help people, which has further motivated me to pursue a career in law.
+COACH: That's incredible. So, how do you plan to finance your law school education?
+STUDENT: I'm planning to apply for scholarships and grants, as well as take out loans if necessary. I'm also looking into potential work-study programs and other financial aid options.

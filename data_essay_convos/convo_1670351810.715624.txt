@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and I need help writing my essay.
+COACH: Great! What is the prompt for your essay?
+STUDENT: The prompt is to write about a passion or interest that has shaped who I am.
+COACH: Okay, so what passion or interest have you chosen to write about?
+STUDENT: I want to write about my experience as an LGBT person and how it has impacted my life.
+COACH: That sounds like a great topic. Can you tell me more about how being LGBT has shaped your life?
+STUDENT: Sure. Growing up, I was always very aware of the discrimination and stigma associated with being LGBT. It made me feel like I had to be extra careful and hide my true self from the world. It also made me more empathetic towards others who were facing similar struggles.
+COACH: That's a powerful and meaningful experience. How has this impacted your life now?
+STUDENT: Well, I'm much more confident in who I am now and I'm not afraid to stand up for what I believe in. I'm also more open to meeting new people and learning from different perspectives. I think being LGBT has made me a more open-minded and compassionate person.
+COACH: That's wonderful. Have you ever had any experiences related to being LGBT while abroad?
+STUDENT: Yes, I recently went on a study abroad trip to France. While I was there, I had the opportunity to meet other LGBT people from around the world. It was really eye-opening to see how different countries and cultures view LGBT issues. It made me even more passionate about advocating for LGBT rights.

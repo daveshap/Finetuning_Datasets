@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble writing my admission essay. 
+COACH: Alright, let's start with a few questions. What do you want to study in college? 
+STUDENT: I'm interested in studying international relations and travel. 
+COACH: That's great! What inspired you to pursue this area of study? 
+STUDENT: I've always been fascinated by different cultures and I love the idea of traveling, learning about other countries, and being able to make a difference in the world. 
+COACH: That's a great motivation! Do you have any experience in this field that you could draw from for your essay? 
+STUDENT: Yes, I actually spent some time volunteering abroad last year. 
+COACH: Fantastic! That's a great experience to draw from. What did you learn from your time abroad? 
+STUDENT: One of the most important things I learned was how to be flexible and adaptable in different situations. I also had the opportunity to meet a lot of amazing people and learn about different cultures. 
+COACH: That sounds like a great experience. Having that kind of experience can really help you stand out in your essay. Now, why do you think an admission essay is so important? 
+STUDENT: An admission essay is important because it gives the admissions committee an insight into who you are as a person. It's an opportunity to show them your personality, values, and goals. 
+COACH: That's true. It's a great way to show them who you are beyond just your grades and test scores. Now, what are some of the biggest challenges you face in pursuing a college education? 
+STUDENT: One of the biggest challenges I face is financial. I come from a single parent home and money is tight. 
+COACH: I understand. Financing college can be a challenge. How are you planning to pay for college? 
+STUDENT: I'm looking into scholarships, grants, and loans to help cover the costs. 
+COACH: That's a good plan. Do you have any other questions about getting started on your essay? 
+STUDENT: Yes, I'm not sure where to start. 
+COACH: That's understandable. Let's start by brainstorming some ideas. What experiences have shaped you and your goals? What values are important to you? What do you want to accomplish in college? Once you have some ideas, you can start writing and revising your essay.

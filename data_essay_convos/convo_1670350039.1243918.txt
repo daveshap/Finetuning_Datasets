@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my personal statement for college and I'm not sure what to write about.
+COACH: That's a great question! Can you tell me a bit more about why college matters to you?
+STUDENT: Well, I'm interested in exploring different cultures and learning more about the world, so I thought college would be a great way to do that. I'm also interested in pursuing a career in international relations and I think college would give me the tools to do that.
+COACH: That's great! It sounds like you have a lot of motivation for attending college. What kind of topics are you considering writing about in your essay?
+STUDENT: I was thinking about writing about my experience with neurodiversity and how it has shaped my perspective on life. I'm also considering writing about my experiences traveling through Europe and how those experiences have influenced my view of the world.
+COACH: Those both sound like great topics for your essay. Can you tell me a bit more about your experience with neurodiversity and how it has shaped your perspective on life?
+STUDENT: Sure. I've always been a bit different from my peers, and I've found that my differences have helped me to think outside the box and look at things from a different perspective. I think that this has been incredibly helpful in my academic pursuits and has made me more open-minded when it comes to understanding different cultures and people.
+COACH: That's really interesting! It sounds like you have a lot of insight into how neurodiversity has impacted your life. Now, let's talk a bit about structure. Do you know the parts of an essay and how they fit together?
+STUDENT: Yes, I'm familiar with the basic structure of an essay. It typically starts with a hook, followed by the main body of the essay, and then the conclusion.
+COACH: That's right! Now, let's talk about how you can use that structure to craft a compelling essay. What kind of hook could you use to draw the reader in?
+STUDENT: I was thinking of using a quote or a story to start off my essay. I think that would be a great way to grab the reader's attention.
+COACH: That's a great idea! You could also consider using a statistic or an interesting fact to start off your essay. Now, let's talk about the body of your essay. What kind of details can you include to make it more engaging?
+STUDENT: I think I could include some specific examples of how my experience with neurodiversity has impacted my life, as well as some stories from my travels through Europe. I also think it would be interesting to talk about how my experiences have shaped my view of the world and how that has influenced my decision to pursue a career in international relations.
+COACH: That sounds great! Finally, let's talk about the conclusion. What kind of message do you want to leave the reader with?
+STUDENT: I want to leave the reader with a sense of hope and optimism. I want them to understand that although I have faced challenges due to my neurodiversity, I have been able to use it to my advantage and that it has helped me to grow and learn in ways that I never thought possible.

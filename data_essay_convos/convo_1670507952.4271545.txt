@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the type of essay you are writing and the professor's instructions. What kind of essay are you writing?
+STUDENT: I'm writing a term paper.
+COACH: Okay, a term paper can be anywhere from 5-20 pages long, depending on the subject matter and your professor's instructions. Do you have any specific instructions from your professor?
+STUDENT: Yes, my professor said it should be 10 pages long.
+COACH: Alright, great. Now that we know the length, let's talk about the structure of your essay. What type of essay are you writing? Is it an argumentative essay, a research paper, or something else?

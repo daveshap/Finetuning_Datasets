@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, so you're writing an admissions essay? What is the prompt you're working on?
+STUDENT: The prompt is to write about a challenge I faced and how I overcame it.
+COACH: Great, let's start by talking about what challenge you faced. Can you tell me a bit more about it?
+STUDENT: Sure, I had to deal with financial difficulties while trying to pay for college.
+COACH: That can be a difficult situation to be in. Can you tell me a bit more about how you overcame this challenge?
+STUDENT: Well, I had to find ways to save money, like cutting back on certain expenses and finding scholarships. I also worked part-time jobs to help pay for tuition.
+COACH: Those are great strategies. Now, let's talk about how you can convey this in your essay. How can you make sure that your essay is engaging and conveys your story effectively?
+STUDENT: I think I should focus on the struggles I faced and how I overcame them. I want to make sure that my essay shows that I was resilient and able to find solutions despite the challenges I faced.
+COACH: That's a great idea. You can also use vivid details to illustrate your story and make it more engaging. Think about specific moments that highlight your resilience and how you were able to overcome the obstacles in your way. That will help your essay stand out.

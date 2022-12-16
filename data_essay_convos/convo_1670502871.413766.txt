@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: Your personal statement should focus on your unique experiences and qualities. Think about what makes you stand out from other applicants. What experiences have shaped you, and how have you grown as a person? Try to think of stories or moments that highlight your character and personality. 
+STUDENT: What should I avoid writing about?
+COACH: You should avoid writing about topics that are too controversial or that could be interpreted as being biased. Avoid topics that could be considered offensive or inappropriate. Additionally, try to avoid topics that are overly dramatic or that could be seen as too personal. Lastly, don’t write about topics that are too generic or that could be written by anyone. 
+STUDENT: How long should my essay be?
+COACH: The length of your essay depends on the college or university you are applying to. Generally, essays for college admissions should be between 250 and 500 words. Make sure to follow the instructions provided by the college or university carefully. 
+STUDENT: What tips do you have for making my essay stand out?
+COACH: One way to make your essay stand out is to use vivid language and descriptive details. Make sure to include stories or anecdotes that illustrate your points. Additionally, make sure to proofread your essay and have someone else review it before you submit it. Finally, make sure to be honest and authentic in your writing.

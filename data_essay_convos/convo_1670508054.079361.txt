@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: That's a great question. Before we start talking about how to shorten your essay, can you tell me a little bit more about it? What type of essay is it and what is the topic?
+STUDENT: It's a research essay and the topic is alternative energy sources.
+COACH: Okay, great. Now that I know a bit more about your essay, let's talk about ways to make it shorter. One way would be to focus on one or two alternative energy sources and narrow down your research. This will help you avoid going into too much detail about each source and keep your essay concise. Another way would be to look for any unnecessary words or phrases and remove them. Finally, you could also look for any areas where you could combine multiple sentences into one to make your essay shorter. Does that make sense?

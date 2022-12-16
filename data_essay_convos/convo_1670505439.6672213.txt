@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are awards of financial aid for a student to further their education. They are usually awarded based on academic achievement or other criteria set by the scholarship provider. Most scholarships are merit-based, meaning they are awarded based on a student's academic performance, extracurricular activities, community service, and other criteria. Other scholarships may be need-based, meaning they are awarded based on a student's financial need. 
+STUDENT: What should I include in my essay?
+COACH: When writing an essay for a scholarship or college admissions, you should focus on what makes you unique. Think about your strengths, interests, and experiences and how they have shaped you and made you who you are today. You should also explain why you are interested in the program or scholarship and why you think you would be a great fit. Additionally, be sure to include any relevant information that may help your application stand out from the crowd.

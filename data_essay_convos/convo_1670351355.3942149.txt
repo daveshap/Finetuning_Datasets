@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I need help writing an essay about my skills and achievements.
+COACH: Okay, great. Can you tell me a bit more about what you'd like to include in the essay?
+STUDENT: Sure, I'd like to talk about my academic achievements, my travel experiences, and my goals and objectives.
+COACH: Alright, that sounds like a great start. What kind of academic achievements do you want to highlight?
+STUDENT: Well, I'm currently studying engineering and have achieved top marks in all my classes so far.
+COACH: That's impressive! What kind of travel experiences have you had?
+STUDENT: I've been to several countries around the world and experienced different cultures. I also volunteered in a few places, which was really rewarding.
+COACH: That's great. What kind of goals and objectives have you set for yourself?
+STUDENT: I want to find a job after college that will allow me to use my engineering skills and experience. I also want to continue traveling and exploring the world.
+COACH: Sounds like you have some ambitious goals. What steps have you taken to achieve them?
+STUDENT: I'm actively researching potential employers and job opportunities. I'm also working on developing my skills and network.
+COACH: That's great, it sounds like you have a clear plan of action. Do you have any questions about how to best structure your essay or any other concerns?

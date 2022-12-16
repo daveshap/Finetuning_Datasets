@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad applying to Duke University, and I'm having trouble writing my admission essay.
+COACH: Great! What is the topic of your essay?
+STUDENT: Well, I wanted to write about my experience studying Buddhism in Thailand.
+COACH: That sounds like a great topic! Why did you choose this particular topic?
+STUDENT: I was really inspired by the Buddhist teachings I encountered while I was in Thailand and I wanted to share that with the admissions committee.
+COACH: That's wonderful! What do you think makes your experience with Buddhism unique or special?
+STUDENT: I think what makes my experience unique is that I had the opportunity to really immerse myself in the culture and learn about Buddhism from the locals. I was able to gain a deeper understanding of the religion and its impact on the people of Thailand.
+COACH: That sounds like a great experience! So why do you think an admission essay is important?
+STUDENT: I think an admission essay is important because it gives the admissions committee a chance to get to know the real me. It's a way for me to share my story and show them who I am beyond just my grades and test scores. It's an opportunity to make a personal connection with the admissions committee and demonstrate my passion for learning.

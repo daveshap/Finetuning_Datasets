@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Rejection is a possibility with any essay, but it doesn't have to be the end of the story. Before we get into how to write a strong personal statement, can you tell me a bit more about why you're writing it? What are your goals and motivations? 
+STUDENT: I want to get accepted into a top university and I think my personal statement will make or break my application.
+COACH: That's a great goal. A personal statement can be an important part of your application and can help set you apart from other applicants. First, let's talk about what makes a personal statement successful. Generally, you should focus on communicating your strengths, experiences, and goals in a clear and concise manner. You want to make sure that your essay reflects your individual voice and conveys your passion and enthusiasm. 
+Next, let's talk about how to structure your essay. It's important to start off with an introduction that captures the reader's attention and sets the tone for the rest of your essay. Then, you'll want to provide some background information about yourself and explain why you're applying to the university. After that, you'll want to focus on the main body of your essay, where you can discuss your experiences, skills, and goals in detail. Finally, you'll want to wrap up your essay with a conclusion that ties everything together and leaves the reader with a lasting impression.
+Do you have any questions so far?

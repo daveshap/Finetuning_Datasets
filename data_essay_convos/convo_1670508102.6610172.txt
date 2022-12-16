@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: That's a great question. Let's start by talking about what you want to accomplish with your essay. What do you hope to communicate to the admissions committee?
+STUDENT: I want to show that I'm passionate about law and that I have the qualities to be a successful law student.
+COACH: That's great. Now, let's focus on how to make your essay more engaging. First, consider the structure of your essay. You should have an introduction, body paragraphs, and a conclusion. Make sure each paragraph has a clear topic sentence and that your points are supported by evidence. 
+Next, think about how to make your essay interesting to read. Use vivid language and active verbs to bring your ideas to life. Avoid using cliches or overused phrases. Instead, try to be creative and unique in your writing. Finally, be sure to proofread your essay several times to catch any typos or grammar mistakes. 
+STUDENT: Ok, those are all really helpful tips. How can I make sure my essay stands out from the crowd?
+COACH: To make your essay stand out, you need to make sure it is personal and reflective of who you are. Think about how your experiences have shaped your interest in law and how your unique perspective can add value to the classroom. Showcase your knowledge, but also demonstrate your passion and enthusiasm for the field. Make sure to include stories and examples to illustrate your points and make your essay memorable.

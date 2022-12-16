@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying for college and I need help with my essay.
+COACH: Great! What kind of help do you need?
+STUDENT: I'm not sure what to write about in my college admission essay.
+COACH: Okay, let's start by talking about your goals and objectives. What are your aspirations for the future?
+STUDENT: Well, I want to get a good job after I graduate, and I also want to use my education to help fight racism and inequality.
+COACH: That's a great goal! Now, what kind of things have you done to pursue those goals? Are there any experiences or projects you've taken part in that have been meaningful to you?
+STUDENT: Yes, I've volunteered at a local homeless shelter and I've been involved in some anti-racism initiatives in my community.
+COACH: That's fantastic! It sounds like you're already taking steps to make a difference. Now, how can you use your college admission essay to show the admissions committee that you're committed to these goals?
+STUDENT: I guess I could talk about my experiences and how they've shaped my understanding of racism and inequality, and how I plan to use my education to help fight those issues.
+COACH: That's a great idea! You can also talk about your plans for the future and how you plan to use your degree to make a difference. Also, don't forget to mention any scholarships or grants you may be eligible for.
+STUDENT: Right, I hadn't thought of that. How do I find out more about scholarships and grants?
+COACH: You can start by researching online, or talking to your school counselor. You can also look into local organizations that offer financial aid or grants. Make sure to apply early and follow all the instructions. Good luck!

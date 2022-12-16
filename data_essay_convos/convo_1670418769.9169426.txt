@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm having trouble writing my college admission essay. I have no idea what to write about.
+COACH: That's understandable. Can you tell me a bit more about yourself? What are some of your interests, experiences, or passions that you'd like to share?
+STUDENT: Well, I come from a poor family and I'm a refugee. I'm also part of the LGBT community, which is something I'm very passionate about.
+COACH: Great, thank you for sharing that with me. It sounds like you have a lot of unique experiences that you could draw upon for your essay. Perhaps you could focus on your experiences as a refugee and how it has shaped your perspective on the world. You could also talk about your commitment to the LGBT community and how it has inspired you to take action in your own life.
+Alternatively, you could focus on a specific event or experience that has had a significant impact on your life. You could discuss how this event has shaped your values and beliefs, and how it has motivated you to pursue your goals.
+No matter what you choose to write about, it's important to be honest and authentic. Your essay should reflect your true voice and values.

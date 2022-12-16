@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to grad school for a science degree and I'm having trouble getting started on my essay.
+COACH: That's understandable. What kind of obstacles have you been facing when it comes to writing your essay?
+STUDENT: Well, I'm worried about getting rejected and I'm not sure how to highlight my skills and achievements in a way that will make me stand out.
+COACH: That's a great concern. One way to start is by thinking about what makes you unique and why you would be a good fit for the program. What are some of your biggest accomplishments, skills, and experiences that you could talk about in your essay?
+STUDENT: I've done a lot of research in my field, I'm very organized, and I'm passionate about science.
+COACH: Those are all great qualities that you can use to your advantage. Think about how you can demonstrate these qualities in your essay and what experiences you can draw on to illustrate them. For example, if you want to talk about your research experience, you could discuss a project you worked on and what you learned from it.
+STUDENT: That's a great idea. I think I'm starting to get a better idea of how to approach this essay.
+COACH: That's great! Once you have an outline of what you want to talk about, you can start filling in the details. Think about how you can use specific examples to illustrate your points and make your essay more compelling.
+STUDENT: Okay, I think I'm ready to start writing now. Thanks for all your help!
+COACH: You're welcome! I'm glad I could help. Good luck with your essay!

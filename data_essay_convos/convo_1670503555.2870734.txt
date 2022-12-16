@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: Engaging essays are those that have a strong narrative, vivid details, and a clear purpose. They should also be organized in a logical way that helps the reader understand the story. Additionally, using a variety of sentence structures and keeping the language fresh can also help to make an essay more engaging.

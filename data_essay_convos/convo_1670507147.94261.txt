@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's ok. Let's start with a reference interview. What kind of essay are you writing? 
+STUDENT: A term paper
+COACH: Great, what is the topic of your term paper?
+STUDENT: I'm not sure yet.
+COACH: Okay, let's start by brainstorming some ideas. What topics interest you?
+STUDENT: Well, I'm interested in the history of technology and how it has changed over time.
+COACH: That's a great topic. What specifically do you want to focus on? Do you want to look at the development of the internet, or perhaps the evolution of the computer?
+STUDENT: I think I would like to look at the development of the internet.
+COACH: Perfect. Now let's start thinking about what specific aspects of the development of the internet you want to focus on. Do you want to look at how it has impacted society, or perhaps how it has changed communication?

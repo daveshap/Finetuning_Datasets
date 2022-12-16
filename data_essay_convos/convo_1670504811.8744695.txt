@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the requirements of the college you are applying to. Generally, most essays should be between 500 and 800 words.
+STUDENT: What should I focus on in my essay?
+COACH: You should focus on how your personal experiences, interests, and goals are relevant to the college you are applying to. Your essay should demonstrate why you are a good fit for the college, and how you can contribute to the school's academic and social environment.
+STUDENT: How do I structure my essay?
+COACH: You should start by introducing yourself and your background in the first paragraph. Then, you should discuss your personal experiences, interests, and goals in the next few paragraphs. Finally, you should end your essay with a conclusion that ties everything together and reiterates why you are a good fit for the college.

@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: That's okay, I'm here to help. First, let's talk about what you want to write about. What kind of argumentative essay are you looking to write?
+STUDENT: I want to write an essay about the importance of education.
+COACH: That's a great topic! Now, let's think about the main argument you want to make. What do you think is the most important point you want to make about education?
+STUDENT: I think the most important point I want to make is that education is a key factor in achieving success.
+COACH: That's a great point! Now, let's think about how you can support that argument. What kind of evidence can you use to back up your point?
+STUDENT: I could use statistics to show the correlation between education and success, as well as personal stories from people who have achieved success due to their education.
+COACH: That's great! Now, let's think about how you can structure your essay. What kind of introduction do you want to write?
+STUDENT: I want to write an introduction that will grab the reader's attention and make them interested in my argument.
+COACH: That's a good idea. You can start with an interesting statistic or quote, or you can start with a personal story. Now, let's think about the body of your essay. How do you want to organize your argument?
+STUDENT: I want to start by introducing my main point, then I want to provide evidence to support it. After that, I want to discuss any counterarguments and refute them. Finally, I want to end with a conclusion that summarizes my argument and draws a conclusion.
+COACH: That sounds like a great plan! Now, let's talk about the conclusion. What kind of conclusion do you want to write?
+STUDENT: I want to write a strong conclusion that will leave the reader with a sense of the importance of education and how it can lead to success.
+COACH: That's a great plan! Now, let's talk about the language you want to use in your essay. What kind of tone do you want to use?
+STUDENT: I want to use a persuasive tone that will convince the reader of my argument.
+COACH: That's a great plan! Remember to use strong words and phrases to make your argument convincing. Now, let's talk about the editing process. What kind of changes do you want to make to your essay?
+STUDENT: I want to make sure that my essay is clear and concise, and that all of my points are supported by evidence. I also want to make sure there are no grammar or spelling mistakes.
+COACH: That's a great plan! Remember to take your time and read through your essay multiple times to make sure everything is perfect. Good luck with your essay!

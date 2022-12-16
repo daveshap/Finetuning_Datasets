@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about my experiences with charity work, Islam, racism, and travel.
+STUDENT: I'm having trouble putting it all together into a cohesive structure.
+COACH: Alright, let's start by talking about your experiences with charity work. What kind of charity work have you done?
+STUDENT: Well, I've volunteered for a few different organizations in my local community. One of them was a soup kitchen that served meals to the homeless. I also worked with a charity that raised money for children in developing countries.
+COACH: That sounds great. How did you get involved in those organizations?
+STUDENT: I heard about them through word of mouth and then decided to get involved. I think it's really important to give back to the community, so I wanted to do something to help out.
+COACH: That's admirable. Now, let's talk about your experiences with Islam. What have you learned about the religion?
+STUDENT: I've learned a lot about the teachings of Islam and the history of the religion. I've also taken part in some religious ceremonies and visited mosques. I think it's important to understand different religions and cultures in order to be more tolerant and understanding of others.
+COACH: That's great. What about racism? Have you had any experiences with racism?
+STUDENT: Unfortunately, I have had some experiences with racism. I've been on the receiving end of racist comments and jokes, and I've seen how it can affect people's lives. It's really disheartening to see how people can be so intolerant and hateful towards others just because of their race or religion.
+COACH: Yes, it's sad to see. And what about your experiences with travel?
+STUDENT: I've traveled to a few different countries and I've seen how different cultures live and interact with each other. It's been eye-opening to see how different people view the world and how they approach life. It's made me more tolerant and understanding of different cultures.

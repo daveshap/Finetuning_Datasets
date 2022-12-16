@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That's a great question. Let me ask you a few questions to get a better idea of what you need. What kind of essay is this?
+STUDENT: It's a research paper.
+COACH: Okay, great. What is the topic of your research paper?
+STUDENT: The topic is the impact of technology on society.
+COACH: Perfect. Now that I know the topic, let me give you some tips on how to write a successful research paper. First, you'll need to make sure you have a clear thesis statement. This will be the main point of your paper and should be stated in the introduction. Then, you'll need to do some research to support your thesis. Make sure you look for reliable sources and cite them properly. Finally, you'll need to organize your information and present it in a logical way. You can use headings or subheadings to make sure your paper flows nicely. Do you have any other questions?

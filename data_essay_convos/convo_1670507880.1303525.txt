@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: That depends on the specific requirements of the law school you're applying to. Generally, it should be between 500 and 1000 words. What type of essay are you writing?
+STUDENT: It's a personal statement for law school.
+COACH: Great! A personal statement is an opportunity for you to introduce yourself to the admissions committee. You should use this essay to tell your story – why you want to pursue a legal career, what makes you unique, and how you will contribute to the law school community. Before you start writing, it's important to have a clear idea of what you want to say. Think about your experiences, values, and goals, and how they connect to why you want to study law. Once you have a basic outline in mind, you can start writing.

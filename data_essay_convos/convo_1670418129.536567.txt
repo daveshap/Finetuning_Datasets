@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to the University of North Carolina and I need help writing my essay.
+COACH: Great! What kind of essay are you writing? 
+STUDENT: It's an essay about my passions and how they have shaped my life.
+COACH: That sounds interesting. Could you tell me a bit more about what you would like to focus on in your essay?
+STUDENT: Sure. I'm passionate about LGBT rights and fighting racism. I recently spent some time in France, and the experience really opened my eyes to the struggles that people still face today. I want to write about how my passion for these issues has driven me to take action.
+COACH: That's a powerful topic and one that could make for a great essay. What kind of action have you taken to fight for LGBT rights and against racism?
+STUDENT: Well, I've been involved in several protests and rallies in support of LGBT rights and against racism. I've also volunteered with organizations that work to educate people about these issues and empower those affected by them. I've also written articles and blog posts about LGBT rights and racism.
+COACH: That's impressive! You have definitely taken a lot of action. How do you think this experience has impacted your life?
+STUDENT: It's made me more aware and conscious of the issues that are still present in our society. It's also made me realize how important it is to take action and make a difference. I'm more passionate than ever about making sure everyone is treated equally and that everyone has the same opportunities.

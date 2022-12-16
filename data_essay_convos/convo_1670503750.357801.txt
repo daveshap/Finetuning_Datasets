@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: The best way to begin is to brainstorm and come up with a topic that you are passionate about. Once you have that, you can start to outline your essay and think about the main points you want to make. 
+STUDENT: What should I include in my essay?
+COACH: A good college admissions essay should include an introduction that grabs the reader's attention, a body that develops your ideas, and a conclusion that ties everything together. You should also include personal stories and anecdotes that illustrate your points and make the essay more interesting. 
+STUDENT: How do I make sure my essay stands out?
+COACH: One way to make your essay stand out is to focus on details. Make sure you provide specific examples and use vivid language to bring your essay to life. Additionally, try to be creative and use a unique perspective to discuss your topic. Finally, make sure you proofread your essay and have someone else read it to ensure that it is free from errors.

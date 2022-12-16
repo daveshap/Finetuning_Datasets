@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Great question! Applying to college is a multi-step process. You'll want to research schools, create an admissions profile, fill out applications, and submit any required documents. Ultimately, you'll need to submit your application and wait to hear back from the schools.
+STUDENT: What should I include in my admissions essay?
+COACH: Your admissions essay should be personal, unique, and memorable. It should tell the admissions committee why you are the perfect fit for their school. You'll want to talk about your experiences, interests, and goals. Make sure to include how the school's programs and resources can help you reach your goals. And don't forget to proofread and edit your essay!

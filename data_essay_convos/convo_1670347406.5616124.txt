@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an undergrad student and I want to write an essay about my experience as a refugee from Vietnam.
+COACH: That sounds like an interesting topic. Can you tell me a bit more about your experience and what you would like to focus on in your essay?
+STUDENT: Well, I was born in Vietnam and my family had to flee the country when I was very young. We ended up in China, where I spent most of my childhood. I want to talk about the difficulties and struggles of being a refugee and how that has shaped my life.
+COACH: That's a very powerful story. What kind of structure and format do you think would be best for your essay?
+STUDENT: I'm not sure. I was thinking maybe a narrative structure, with a beginning, middle, and end.
+COACH: That could work. It would give you the opportunity to tell your story in a natural and engaging way. Is there anything else you'd like to focus on in your essay?
+STUDENT: Well, I'm also interested in talking about how I was able to finance college and the challenges I faced along the way.
+COACH: That's an important topic. Do you have any questions about how financing college works?
+STUDENT: Yes, I'm not sure how it all works. How do I apply for financial aid and scholarships?
+COACH: Financial aid is available through the federal government, as well as through state and private sources. You can apply for financial aid by filling out the Free Application for Federal Student Aid, or FAFSA. There are also many scholarships available, and you can search online for ones that fit your needs.

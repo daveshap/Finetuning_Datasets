@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admissions essay for college but I have no idea what to write about.
+COACH: That's understandable! It can be difficult to narrow down your thoughts and decide on a topic. Can you tell me a bit more about yourself? What topics do you find interesting or what have you been studying recently? 
+STUDENT: Well, I'm really interested in politics and science. I've been studying a lot of current events lately and learning about the way different countries approach different issues.
+COACH: That's great! With those two topics, you have a wide range of potential essay topics that you could explore. For example, you could write about the challenges of making progress in a world filled with political divisions, or you could discuss the implications of scientific discoveries on our lives. You could even explore the ways in which politics and science intersect. What do you think?
+STUDENT: Yeah, those are all really interesting ideas. I think I'd like to focus on the intersection between politics and science.
+COACH: That's a great idea! To make your essay stand out, you could focus on a specific issue or event. For example, you could write about the challenges of overcoming political obstacles to make progress in a particular field of science, or you could discuss the impact of a recent scientific breakthrough on a political issue. Do any of these topics stand out to you? 
+STUDENT: Yeah, I think I'd like to write about the challenges of overcoming political obstacles to make progress in a particular field of science.
+COACH: Perfect! To make your essay even more interesting, you could focus on a specific example or case study. What field of science are you interested in? 
+STUDENT: I'm particularly interested in climate change and its effects on the environment.
+COACH: Wonderful! You could focus on the political obstacles that have been preventing progress in the fight against climate change. You could discuss the challenges of creating effective policies and strategies to combat climate change, or you could explore the ways in which political divides have hindered progress in this area. Does this sound like something you'd be interested in writing about? 
+STUDENT: Yes, it does! That sounds like a great topic.
+COACH: Great! Now that you have a topic, it's time to start brainstorming and researching. You can start by exploring the history of climate change and the political debates surrounding it. This will help you understand the context of the issue and provide you with material to draw from for your essay. Good luck with your essay!

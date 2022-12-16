@@ -1,0 +1,674 @@
+Sneha
+
+zanzanesneha13@gmail.com
+
+603 858 8118
+
+Sr. Python Developer
+
+Professional Summary:
+
+-   Senior Python developer having around 7 years of Dynamic experience
+    in the areas of Data Distribution, Client/Server communication,
+    Multi-threaded applications, Server-side programming, analytical
+    programming using Python and Django.
+
+-   Developed various Python scripts to generate reports, send FIX
+    messages (FIX Simulator), SOAP requests, TCP/IP programming and
+    multiprocessing jobs.
+
+-   Experience in developing MVC web-based applications using Python web
+    frameworks like Django, Pyramid, Flask and Web2Py.
+
+-   Built rich Prototypes and Applications using XML, CSS, HTML, XHTML,
+    JavaScript and JQuery.
+
+-   Proficient using Python packages such as NumPy, SciPy, Requests,
+    matPlotLib, Pickle, Pandas, PySide, wxPython, QT, PyGTK, PyTables
+    and Scikit-learn.
+
+-   Expertise on Data bases such as MYSQL, Oracle, PL/SQL, PostgreSQL
+    and NOSQL databases like MongoDB, Cassandra.
+
+-   Experience in writing Sub Queries, Stored Procedures, Triggers,
+    Cursors, and Functions on MySQL and PostgreSQL database
+
+-   Develop ETL packages using SSIS to insert datasets to SQL server and
+    generate project reports using SSRS and SQL
+
+-   Experience in developing applications using Amazon Web Services like
+    EC2, Glue, Cloud Search, Elastic Load balancer ELB, S3, SNS,
+    CloudFront.
+
+-   Hands on experience on WAMP (Windows, Apache, MYSQL, and Python) and
+    LAMP (Linux, Apache, MySQL, and Python) architecture.
+
+-   Worked with various Python packages like Sphinx, reportlab, xlwt,
+    xlrd, virtualenv, lxml.
+
+-   Designed and developed web crawler in python using Scrapy framework
+    and using RabbitMQ as a messaging server between the microservices.
+
+-   Expert on OOPS, Multi-threading, Exception-Handling & Collections in
+    python.
+
+-   Written Python Scripts, mappers to run on Hadoop distributed file
+    system (HDFS).
+
+-   Experience in Snowflake for providing interface for python
+    application.
+
+-   Experience in C and C++ languages. Written C and C++ applications
+    and also migrated many legacy applications to Python.
+
+-   Hands on experience in designing and maintaining the SOA.
+
+-   Expert in UNIX and Linux commands using command line utilities.
+    Developed various Perl, Shell (bash, ksh) scripts to handle
+    miscellaneous tasks.
+
+-   Have worked with AGILE and WATERFALL methodologies with high quality
+    deliverables delivered on-time.
+
+-   Well experience in Data Extraction, Transforming and Loading (ETL)
+    using various tools such as SQL Server Integration Services (SSIS),
+    Data Transformation Services (DTS).
+
+-   Experience with WCF, Web API, Web Services, .NET Framework, IIS and
+    SQL Server.
+
+Education: Master’s in Information Technology’s, USA, Dec 2019
+
+Bachelor of computer science, Pune university, India, May 2015
+
+Technical Skills:
+
++----------------------------+-----------------------------------------+
+|   Operating Systems        | Linux, Windows 10/8/7/Vista/XP, Mac     |
++============================+=========================================+
+| Programming Languages      | Python 2.X, Python 3.X, C, C++, Java,   |
+|                            | SQL                                     |
++----------------------------+-----------------------------------------+
+| Web technologies           | HTML, CSS, XHTML, Java Script, Jquery   |
++----------------------------+-----------------------------------------+
+| Webserver                  | Web logic, Apache Tomcat 5.5,6.0,8.0,   |
+|                            | NGINX                                   |
++----------------------------+-----------------------------------------+
+| Databases                  | MySQL, PLSQL, Oracle, Microsoft SQL,    |
+|                            |                                         |
+|                            | PostgreSQL, MongoDB                     |
++----------------------------+-----------------------------------------+
+| Python Web frameworks      | Django, Pyramid, Flask, web2Py          |
++----------------------------+-----------------------------------------+
+| Development IDE            | PyCharm, Pydev Ecllipse, Vim, Net       |
+|                            | beans, MS Visio, Sublime Text,          |
+|                            | Notepad++                               |
++----------------------------+-----------------------------------------+
+| Web Services               | SOAP, RESTful                           |
++----------------------------+-----------------------------------------+
+| Version Control            |   Git-Hub, Sub Version                  |
++----------------------------+-----------------------------------------+
+| 3^(rd) Party configuration |   Web-min, Cygwin                       |
+| Tools                      |                                         |
++----------------------------+-----------------------------------------+
+| Build Tools                |   GNU, Apache Ant, Apache Maven, Buck,  |
+|                            |   Bit-Bake, Boot, Grunt                 |
++----------------------------+-----------------------------------------+
+| Cloud Frameworks           |   Openstack, Helion.                    |
++----------------------------+-----------------------------------------+
+| Virtualization Platforms   |   KVM, HPVM, Dockers.                   |
++----------------------------+-----------------------------------------+
+| Profiling Tools            |   Cprofile, profile, tprof, gprof,      |
++----------------------------+-----------------------------------------+
+| Methodologies              |   Agile, Scrum, Waterfall               |
++----------------------------+-----------------------------------------+
+
+PROFESSIONAL EXPERIENCE:
+
+Disney
+
+Sr Python Developer May2021-until
+
+Responsibilities:
+
+-   Work with WDAT site reliability engineering team to keep Disney
+    services online and efficient.
+
+-   Involved in analysis, specification, design, and implementation and
+    testing phases of Software Development Life Cycle (SDLC) and used
+    agile methodology for developing application.
+
+-   Designed and developed the UI of the website using Nodejs, XHTML,
+    React, Angular AJAX, CSS also used Bootstrap as a mechanism to
+    manage and organize the html page layout
+
+-   Performed Version control using GIT.
+
+-   Developed tools using Python, Shell scripting, XML to automate some
+    of the menial tasks.
+
+-   Interfacing with supervisors, artists, systems administrators, and
+    production to ensure production deadlines are met.
+
+-   Used JIRA to assign, track, report and audit the issues.
+
+-   Created functions and assigned roles in AWS Lambda to run python
+    scripts, and AWS Lambda using java to perform event driven
+    processing. 
+
+-   Developed Server-side automation using Node JS scripting and
+    connecting different types of SQL and NoSQL stores from Node JS.
+
+-   Implemented a 'server less' architecture using API Gateway, Lambda,
+    and Dynamo DB and deployed AWS Lambda code from Amazon S3 buckets.
+    Created a Lambda Deployment function, and configured it to receive
+    events from your S3 bucket
+
+-   Using Amazon EC2 command line interface along with Bash/Python to
+    automate repetitive work.
+
+-   Championed in cloud provisioning tools such
+    as Terraform and CloudFormation.
+
+-   Integrate the dynamic pages with Angular.JS and jQuery to make the
+    pages dynamic.
+
+-   Developed web applications in Django Framework's model view control
+    (MVC) architecture and manipulated databases by using Django
+    database API along with MySQL
+
+-   Integrate the dynamic pages with Angular.JS and jQuery to make the
+    pages dynamic.
+
+-   Responsible for debugging and troubleshooting the web application
+
+-   Used Run deck internal application of Disney for testing purpose to
+    check the log outputs for different projects.
+
+Environment: Site Reliability Engineering, Grafana, Splunk, Run deck,
+GitHub, Nodejs, Angular,React,AWS,
+
+Automation services, Docker, CSS, HTML, Python, JIRA.
+
+Liberty Mutual
+
+Sr Python Developer May2020-April2021
+
+Responsibilities:
+
+-   Work closely with Data Scientists and Legal Billing Auditors on data
+    projects of varying degrees of scale for given financial firm.
+
+-   Develop system/application architecture.
+
+-   Develop maintainable/scalable, effective, defect-free source code
+    that meets business needs and team standards.
+
+-   Prepared scripts to ensure proper data access, and reporting
+    functions with R programming languages.
+
+-   Lead quality assurance architecture and design guide review;
+    identify defects or discrepancies in stories and work with
+    appropriate partners and developers to resolve them.
+
+-   Collaborate and tackle production and data integration issues,
+    perform root cause analysis, implement solutions, and revise
+    procedures and documentation as needed.
+
+-   Identify, review, and implement improvement opportunities
+    (performance tuning, improvement, balancing, usability, automation).
+
+-   Formulated procedures for integration of R programming plans with
+    data sources and delivery systems.
+
+-   Explore and develop techniques to utilize big data for Legal Data
+    Scientists and Auditor teams.
+
+-   Provide appropriate communication to partners related to the team s
+    work product.
+
+-   Follow Agile standard methodologies and standards.
+
+-   Implemented REST APIs using Python and Django framework.
+
+-   Developed web-based applications using Python, Django, XML, CSS,
+    HTML, JavaScript, AngularJS, jQuery and Bootstrap.
+
+-   Designed Data Quality Framework to perform schema validation and
+    data profiling on Spark (Pyspark) 
+
+-   Responsible for implementing monitoring solutions in Ansible,
+    Terraform, Docker, and Jenkins.
+
+-   Perform ETL process with help of SSIS tool to meet the business
+    requirements.
+
+-   Unit Test Python library was used for testing many programs
+    on python and other codes.
+
+-   Used AngularJS as the development framework to build a single-page
+    application
+
+-   Implemented SQL Alchemy which is a python library for complete
+    access over SQL. 
+
+-   Experience in Container management using Docker by writing Docker
+    files and set up the automated build on Docker HUB and installing
+    and configuring Kubernetes.
+
+-   Used several python libraries like wxPython, NumPy and matplotlib.
+
+-   Integrated server by using Flask framework, writing routes and
+    queries to build Restful API.
+
+-   Involved in Automation Development using Selenium (Python).
+
+-   Implemented Nginx as ingress controller on Kubernetes.
+
+-   Creation of Python scripts for data access and analysis (Scripts,
+    Data Feeds, XLS, FIXML) to aid in process and system monitoring, and
+    reporting.
+
+-   Having work experience with CI/CD for integration and deployment
+    purpose.
+
+-   Build the dashboard and report for existing business application
+    with help of Tableau software.
+
+-   Used Python modules like NumPy, Matplotlib, Pandas, SciPy, wxPython,
+    PyTables, PyQt, etc., for generating complex graphical data,
+    creation of histograms, etc.
+
+-   Used NumPy, Matplotlib, and Pandas to generate products for major
+    enterprises.
+
+-   Executed and written various MYSQL database queries from Python
+    using Python-MySQL connector & MySQL dB package.
+
+-   Hands on experience in cloud formation and lambda.
+
+-   Assisted in pricing of securities including bonds and mortgages in
+    programming domain such as C++, MTLAB and R programming.
+
+-   Worked on creation of custom Docker container images, tagging and
+    pushing the images
+
+-   Deployed and monitored Microservices using pivotal cloud foundry,
+    also managed domains and routes with the cloud foundry.
+
+-   Creating security groups, auto-scaling, lambda, load balances in
+    defined virtual private connection.
+
+-   Perform validation on machine learning output from R.
+
+-   Performance Analysis and Tuning, Capacity Planning of AIX, Linux and
+    Windows servers.
+
+-   Execution of Selenium Test cases and Reporting defects with Python.
+
+-   Web-services backend development using Python (CherryPy, Django,
+    SQLAlchemy).
+
+-   Successfully migrated the Django database from SQLite to MySQL to
+    PostgreSQL with complete data integrity.
+
+-   Created a Lambda Deployment function and configured it to receive
+    events from your S3 bucket.
+
+-   Developed and implemented R and Shiny application which showcases
+    machine learning for business forecasting.
+
+-   Implemented monitoring and established best practices around
+    using elastic search. 
+
+-   Followed AGILE development methodology to develop the application.
+
+-   Serverless computing experience; AWS lambda preferred.
+
+-   Used Test driven approach (TDD) for developing services required for
+    the application.
+
+Environment: Python 2.x/3.x, Django 1.9, HTML5, CSS3, JavaScript, ETL,
+JQuery, MySQL, AWS, MongoDB, Angular JS, JIRA, RabbitMQ, Selenium,
+Tableau, Web Services, CI/CD, Jenkins, Git, Linux.
+
+​Duke Energy, Charlotte, NC Feb 2019 – Feb 2020
+
+Sr. Python Developer
+
+Responsibilities:
+
+-   Involved in software development life cycle (SDLC) of tracking the
+    requirements, gathering, analysis, detailed design, development,
+    system testing and user acceptance testing.
+
+-   Actively involved in developing the methods for Create, Read, Update
+    and Delete (CRUD) in Active Record. 
+
+-   Developed entire frontend and backend modules using Python on Django
+    Web Framework by implementing MVC architecture.
+
+-   Rewrite existing Python/Flask module to deliver certain format of
+    data. Created script in python for calling REST APIs.
+
+-   Deployed Django web application in Apache webserver and Carpathia
+    cloud web deployment.
+
+-   Perform ETL operation to covert the Python scripts into SQL script
+    for business purpose.
+
+-   Involved in designing user interactive web pages as the front-end
+    part of the web application using various web technologies
+    HTML/HTML5, CSS/CSS3, JavaScript, jQuery, Node Js, React JS, DOM,
+    AJAX, XML, XHTML, JSON, SVG, Bootstrap, and Angular JS etc.
+
+-   Developed Python code to gather the data from HBase and designs the
+    solution to implement using PySpark.
+
+-   Experience with event-driven and scheduled AWS Lambda functions to
+    trigger various AWS resources.
+
+-   Developed PySpark code to mimic the transformations performed in the
+    on-premise environment.
+
+-   Used Celery as task queue and RabbitMQ, Redis as messaging broker to
+    execute asynchronous tasks.
+
+-   Having hands on experience with tableau software to build the
+    report, dashboard of existing application
+
+-   Worked on MongoDB database concepts such as locking, transactions,
+    indexes, Sharding, replication, schema design. 
+
+-   Use PowerBI tool to create enterprise gateway to automatically
+    refresh the existing application report.
+
+-   Managed datasets using Panda data frames and MySQL, queried MYSQL
+    database queries from python using Python-MySQL connector and MySQL
+    db package to retrieve information.
+
+-   Generated Python Django Forms to record data of online users.
+
+-   Developed Wrapper in Python for instantiating multi-threaded
+    application.
+
+-   Deployed and monitored scalable infrastructure on Amazon web
+    services (AWS).
+
+-   Implemented monitoring and established best practices around using
+    elastic search. 
+
+-   Generated graphical reports using python package Numpy and
+    MatplotLib.
+
+-   Implemented task object to interface with data feed framework and
+    invoke database message service setup and update functionality. 
+
+-   Deployed and administered many MySQL RDS instances, PostgreSQL RDS
+    instance and MSSQL database on EC2 server.
+
+-   Used PostgreSQL for storing and retrieving JSON format data that
+    need to be displayed on Google maps API. Good knowledge in AngularJS
+    and Responsive Design.
+
+-   Designed and implemented a tool called Netcong (Network
+    configuration) which automatically configures network switches by
+    parsing XML files.
+
+-   Managed code versioning with GitHub, Bit Bucket and deployment to
+    staging and production servers.
+
+-   Performed efficient delivery of code based on principles of Test
+    Driven Development (TDD) and continuous integration to keep in line
+    with Agile Software Methodology principles.
+
+Environment: Python 2.7, Django 1.7, HTML5, AWS, CSS, XML, MySQL,
+JavaScript, jQuery, Docker, CSS Bootstrap, PySpark, RESTful, MS SQL
+Server, Tableau, MongoDB, Elastic Search, PowerBI, Snowflake, NodeJS,
+ETL, Ubuntu server, Windows 12 Server, Amazon S3, Jenkins, Map Box,
+GitHub, Bit Bucket, Linux, and Windows.
+
+Spectrum Health, Grand Rapids, MI Feb 2018 – Jan 2019
+
+Python Developer
+
+Responsibilities:
+
+-   Requirement gathering and analysis phase of the project in
+    documenting the business requirements by conducting
+    workshops/meetings with various business users.
+
+-   Used Django/Python web-framework to develop application.
+
+-   Developed Scripting based frameworks on python using Linux Platform
+    used by embedded engineers for automating mundane tasks.
+
+-   Write terraform scripts for CloudWatch Alerts.
+
+-   Built some frameworks which allow writing scripts in python, which
+    will send and receive data over serial port to communicate with
+    device firmware.
+
+-   Developed some test scripts in Python that are used to test embedded
+    systems via their debug UART port.
+
+-   Used Perl for creating tools to help integrate and generate C code
+    from Excel Input or XML files.
+
+-   Extensively used Python requests urllib and urllib2 module to call
+    web services.
+
+-   Worked on Python OpenStack APIs and used NumPy for Numerical
+    analysis.
+
+-   Worked on real time in memory distributed systems.
+
+-   Used MVC framework to build modular and amp maintainable
+    applications.
+
+-   Designed and developed transactions and persistence layers to
+    save/retrieve/modify data for application functionalities using
+    Django and PostgreSQL.
+
+-   Involved in building database Model and Views utilizing Python, in
+    order to build an interactive web-based solution.
+
+-   Developed UI screens using HTML, CSS, AJAX, JavaScript and JQuery
+
+-   Done Integration of user-facing elements developed by a front-end
+    developer with server-side logic.
+
+-   Work with CI/CD to automate the software delivery process.
+
+-   Having hands on experience with PowerBI tool for visualization
+    purpose and building reports.
+
+-   Developed and tested many features for dashboard, created using
+    Bootstrap, CSS, and JavaScript.
+
+-   Experience in using Pylint to check for errors in Python code, tries
+    to enforce coding standards and get details about code complexity.
+
+-   Involved in problem solving with algorithm and data structures using
+    Python.
+
+-   Used AWS for application deployment and configuration.
+
+-   Designed and implemented test procedures for failover/ recovery
+    scenarios.
+
+-   Created numerous reports using report lab and xlrt/xlwt python
+    packages.
+
+-   Developed Network modules, Socket programming and Web server hosting
+    capabilities of Python for some applications (ex. IoT devices).
+
+-   Resolved ongoing problems and accurately documented progress of
+    Python project.
+
+-   Used agile development techniques like pair programming, test driven
+    development (both unit tests and functional tests), continuous
+    integration and iterative development.
+
+-   Complete software development was designed and implemented using
+    Agile Methodology and SCRUM Process.
+
+Environment: Python, Django, PySpark, Docker, Nodejs, NumPy, CI/CD,
+Amazon (AWS, SVS, EC2, S3), PostgreSQL, Pylint, JIRA, Linux, Perl
+Scripting, Socket programming, PowerBI, SVN.
+
+HSBC, INDIA Oct 2015 – July 2017
+
+Python Developer
+
+Responsibilities:
+
+-   Performed efficient delivery of code based on principles of
+    Test-Driven Development (TDD) and continuous integration to keep in
+    line with Agile Software Methodology principles.
+
+-   Developed a fully automated continuous integration system using Git,
+    Gerrit, Jenkins, MySQL and custom tools developed in Python and
+    Bash.
+
+-   Involved in managing MongoDB environment from availability,
+    performance and scalability perspectives.
+
+-   Developed Spark code using Scala and Spark-SQL for faster testing
+    and processing of data.
+
+-   Performed Data Modelling, Data Integration, Data Warehousing and
+    Data Analytics using Microsoft BI suite -SISS, SSAS and SQL.
+
+-   Managed, developed, and designed a dashboard control panel for
+    customers and Administrators using Django, Oracle DB, PostgreSQL,
+    and VMWare API calls.
+
+-   Involved in the Complete Software development life cycle (SDLC) to
+    develop the application and Worked closely with software developers
+    and DevOps to debug software and system problems.
+
+-   Worked on resulting reports of the application and Tableau reports.
+
+-   Worked on HTML5, CSS3, JavaScript, AngularJS, Node.JS, Git, REST
+    API, Mongo DB, intelliJ IDEA.
+
+-   Responsible for building scalable distributed data solutions using
+    Hadoop.
+
+-   Design and Setting up of environment of Mongo dB with shards and
+    replica sets. (Dev/Test and Production).
+
+-   Developed tools using Python, Shell scripting, XML to automate some
+    of the menial tasks.
+
+-   Interfacing with supervisors, artists, systems administrators and
+    production to ensure production deadlines are met.
+
+-   Worked very closely with designer, tightly integrating Flash into
+    the CMS with the use of Flashvars stored in the Django models. Also
+    created XML with Django to be used by the Flash.
+
+-   Used HTML, CSS, JQuery, JSON and JavaScript for front end
+    applications.
+
+-   Designed and developed the UI of the website using HTML, XHTML,
+    AJAX, CSS and JavaScript.
+
+-   Used HTML5, CSS3, JQUERY,EXTJS, AngularJS, and REST/SOAP API's to
+    develop complex responsive themes and plugins.
+
+-   Also used Bootstrap as a mechanism to manage and organize the html
+    page layout.
+
+-   Used Django configuration to manage URLs and application parameters.
+
+-   Wrote and executed various MYSQL database queries from Python using
+    Python-MySQL connector and MySQL dB package.
+
+-   Involved in development of Web Services using SOAP for sending and
+    getting data from the external interface in the XML format.
+
+-   Worked extensively with Bootstrap, Javascript, and jQuery to
+    optimize the user experience.
+
+-   Used Selenium Library to write fully functioning test automation
+    process that allowed the simulation of submitting different we
+    requests from multiple browser to web application.
+
+-   Used Python and Django to interface with the jQuery UI and manage
+    the storage and deletion of content.
+
+Environment: Python, HTML5, CSS3, JQuery, Angular, Restful API, MySQL,
+Panda, PL/SQL, UNIX, Linux
+
+Webfosys Inc. India July 2014 – Sep 2015
+
+Python Developer
+
+Responsibilities:
+
+-   Designed and developed components using Python. Implemented code in
+    python to retrieve and manipulate data.
+
+-   Profiled python code for optimization and memory management.
+
+-   Re-engineered various modules for implementing changes and creating
+    efficient system.
+
+-   Managed large datasets using Panda data frames and MySQL and
+    implemented configuration changes for data models.
+
+-   Designed and developed UI using HTML, XHTML, AJAX, Java Script and
+    jQuery.
+
+-   Used Javas Script libraries like jQueryUI, datagrid, jscolor,
+    highcharts.
+
+-   Developed the presentation layer using HTML, JSP, CSS and DHTML.
+
+-   Developed widgets for GUI using PyGtk modules of Python.
+
+-   Used Django to develop web-based application and deploy it using
+    Jenkins.
+
+-   Used MySQL as backend database and Mysqldb of python as database
+    connector to interact with MySQL server.
+
+-   Developed Page layouts, Navigation and presented designs and
+    concepts to the clients and the management to review.
+
+-   Used Restful APIs to access data from different suppliers.
+
+-   Used Python and Django for creating graphics, XML processing of
+    documents, data exchange and business logic implementation between
+    servers.
+
+-   Used Python Data structures like sqlite3, lists, dictionaries, and
+    tuples.
+
+-   Used several Python libraries like NumPy, Pandas and MatplotLib.
+
+-   Helped with the migration from the old server to Jira database with
+    Python scripts for transferring and verifying the information
+
+-   Supported Apache Tomcat web server on Linux Platform.
+
+-   Used RAD 7.0 for implementing Static and Dynamic web services for
+    consuming and providing services related to the business.
+
+-   Developed and executed User Acceptance Testing portion of test plan.
+
+-   Deployed the project into Jenkins using SVN version control system.
+
+-   Involved in writing application level code to interact with APIs,
+    Web Services using AJAX, JSON and XML.
+
+-   Debugging Software for Bugs.
+
+-   Support the scripts configuration, testing, execution, deployment
+    and run monitoring.
+
+-   Environment: Python, RAD 7.0, C++, Ajax, HTML Restful API, MySQL,
+    Django, Panda, Shell Scripting, PL/SQL, SVN, Jenkins, Jira, UNIX,
+    Linux

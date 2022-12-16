@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Harvard and Princeton, and I need help with my essay. 
+COACH: That's great! What kind of essay are you writing?
+STUDENT: I'm writing about my volunteer work and how it has shaped me as a person.
+COACH: That sounds like a great topic! Could you tell me a bit more about your volunteer work? What have you done and what have you learned from it?
+STUDENT: Sure. I've been volunteering at a soup kitchen for the past year, and it's really opened my eyes to the struggles of poverty. I've learned so much about empathy and compassion, and it's made me a better person.
+COACH: That's wonderful! It sounds like you've gained a lot of valuable insight from your volunteer work. Have you thought about how you can incorporate this into your essay?
+STUDENT: Yes, I've been thinking about how to tie it into my essay. I want to show how my volunteer work has impacted my worldview and how it has prepared me for college.
+COACH: That's a great idea! What other points do you want to make in your essay?
+STUDENT: I also want to discuss how my experience has helped me understand issues like sexism and inequality.
+COACH: That's an important issue to address in your essay. Can you tell me more about how your experience has informed your views on sexism and inequality?
+STUDENT: Sure. I've seen firsthand how women are often undervalued and treated unfairly. I think this has really shaped my views on gender equality and inspired me to fight for justice.
+COACH: That's great! It sounds like you have a lot of valuable insight to share in your essay. Is there anything else you would like to discuss in your essay?
+STUDENT: I'd also like to talk about how my experience has prepared me for life after college.
+COACH: That's a great point to make. What do you hope to achieve after college and how do you think your volunteer work will help you get there?
+STUDENT: After college, I hope to find a job that will allow me to use my skills to make a positive impact on the world. I believe my volunteer experience has taught me a lot of valuable skills, like problem-solving, communication, and teamwork, which will be essential for any job I pursue.

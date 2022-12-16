@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question! Applying for scholarships is an important part of the college admissions process. To start, you'll need to research and find out what scholarships are available and what their requirements are. You'll also need to make sure you meet the criteria for the scholarships you're applying for. Once you've done that, you'll need to fill out the application forms and submit any required documents.
+STUDENT: What kind of essay should I write for my college admissions essay?
+COACH: An argumentative essay is a great choice for a college admissions essay. This type of essay allows you to present your opinion on a topic and provide evidence to support it. When writing an argumentative essay, it's important to make sure you have a clear thesis statement that states your position and provides a roadmap for the rest of your essay. You'll then need to provide evidence to back up your argument, such as facts, statistics, and quotes from experts. Finally, you'll need to conclude your essay by summarizing your main points and reiterating your thesis statement.

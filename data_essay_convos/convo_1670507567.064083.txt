@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: That depends on what type of essay you're writing. What kind of essay is it?
+STUDENT: I'm writing a dissertation.
+COACH: Okay, great. A dissertation is a long-form piece of writing, typically used as part of a university degree course. It requires extensive research and in-depth analysis of the topic. What is your dissertation about?
+STUDENT: My dissertation is about the impact of technology on society.
+COACH: That's an interesting topic. Have you started your research yet? 
+STUDENT: Yes, I've done some preliminary research but I'm having trouble organizing my thoughts.
+COACH: That's understandable. A dissertation can be a daunting task. The best way to start is to create an outline. This will help you organize your ideas and make sure that you cover all the important aspects of the topic. Once you have your outline, you can start writing your introduction and then move on to the body of the essay. 
+STUDENT: That sounds like a good plan. Can you give me any tips on how to write a strong introduction?
+COACH: Absolutely. An introduction should provide an overview of the topic and establish your thesis statement. Make sure to include relevant background information and cite any sources you use. You can also use anecdotes or quotes to draw the reader in. Finally, make sure to end your introduction with a clear and concise thesis statement.

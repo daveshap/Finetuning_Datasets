@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That’s a great question. Can you tell me a bit more about what you’re hoping to accomplish with your personal statement?
+STUDENT: I want to show the admissions committee why I'm a good fit for their program and why they should accept me. 
+COACH: That’s a great goal. What do you think is the best way to go about doing that?
+STUDENT: I'm not sure.
+COACH: One way to approach this is to start by writing a thesis statement. A thesis statement is a brief statement that summarizes your main argument or point of view in your essay. It helps to focus your writing and make it easier for the reader to understand what you’re trying to say. Do you think this would be helpful?
+STUDENT: Yes, that sounds like a good idea.
+COACH: Great! Let’s start by brainstorming some ideas for your thesis statement. What do you think is the most important thing you want to communicate to the admissions committee?

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay! First, let's start by looking at the prompt. What is the prompt you are given?
+STUDENT: The prompt is to discuss a time when I overcame a challenge.
+COACH: Great! Now let's think of a story that will fit this prompt. What was a challenge you have faced in your life that you were able to overcome?
+STUDENT: Well, I had to move to a different country when I was in high school.
+COACH: That's a great example! Tell me more about that experience. What was it like for you to move to a new country? How did you overcome the challenge?
+STUDENT: It was really difficult. I had to learn a new language, make new friends, and adjust to a new culture. It took a lot of hard work and dedication to be successful. I had to study hard to learn the language and I had to be open to new experiences to make friends. I also had to be willing to try new things and be open to learning about the culture. In the end, I was able to overcome the challenge and become successful in my new surroundings.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: Well, the best way to pick a topic is to think about what makes you unique and what experiences have shaped your life. What are some of your interests or passions that you could write about?
+STUDENT: I'm passionate about helping others and giving back to my community.
+COACH: That's great! You can use this passion as the focus of your essay. Think about how you have already given back to your community and how you plan to continue doing so in the future. What have been some of the most rewarding experiences you've had?
+STUDENT: I volunteer at a local food pantry every week and I've seen firsthand how it helps people in need.
+COACH: That's a great starting point for your essay. You can talk about how your volunteer work has impacted your life and how it has taught you the importance of giving back. You can also mention how you plan to use the scholarship money to further your volunteering efforts.

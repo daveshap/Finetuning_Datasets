@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admissions essay is your chance to show the admissions officers who you are, beyond your academic record and test scores. It provides an opportunity to demonstrate your writing, creativity, and personality. It can also give the admissions committee insight into how you think, how you solve problems, and how you approach challenges. Writing a strong admissions essay can be the difference between being accepted or rejected at a college or university. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should tell a story that reveals something unique about you. Make sure it reflects your values, goals, and dreams. Include details about your life experiences, family background, and interests. You can also discuss any challenges you have faced, as well as how you overcame them. Most importantly, make sure your essay is authentic and conveys your true personality. 
+STUDENT: How do I start my essay?
+COACH: You want to start with a strong hook that will capture the reader's attention. This could be a funny anecdote, a thought-provoking quote, or a vivid description. After the hook, provide some background information about yourself. Provide enough detail to help the reader get to know you, but don’t go overboard. You can then transition into the main body of your essay, where you can discuss your values, goals, and dreams. 
+STUDENT: How do I end my essay?
+COACH: When ending your essay, you want to leave the reader with a lasting impression. You can do this by summarizing the main points of your essay and reflecting on how they relate to your overall goals and aspirations. Make sure to tie everything together in a way that makes sense and shows how you have grown and changed. This will help the reader understand why you are a great candidate for their school.

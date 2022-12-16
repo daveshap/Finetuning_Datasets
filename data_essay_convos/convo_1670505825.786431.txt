@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: Well, the structure of an essay depends on the type of essay you’re writing. What type of essay are you writing?
+STUDENT: I'm writing a personal statement for grad school.
+COACH: Okay, great. A personal statement for grad school should have an introduction, body paragraphs, and a conclusion. The introduction should introduce yourself and your goals, the body paragraphs should provide evidence or examples of why you're a good fit for the program, and the conclusion should summarize everything and reiterate your goals. Do you have any other questions about structuring your essay?

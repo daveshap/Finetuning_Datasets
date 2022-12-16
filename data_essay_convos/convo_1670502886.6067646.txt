@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That's a great question! Your personal statement should focus on why you are the best candidate for the scholarship. Talk about your experiences, goals, and values that make you stand out from other applicants.
+STUDENT: What should I avoid when writing my essay?
+COACH: You should avoid writing about topics that are too generic or cliche. Try to make your essay unique and personal to you. Also, avoid using overly emotional language or making broad generalizations. Instead, focus on specific details and examples to illustrate your points.

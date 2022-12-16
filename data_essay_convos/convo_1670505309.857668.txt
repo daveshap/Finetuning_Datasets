@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are typically awarded based on financial need or academic merit. It's important to research the grants available and determine which ones you are eligible for. Once you have identified the grants you are eligible for, you can apply for them by submitting an application, which usually involves a written essay.
+STUDENT: What should my essay be about?
+COACH: Your essay should focus on why you are the best candidate for the medical school that you are applying to. You should highlight your academic achievements, extracurricular activities, and any other experiences that make you stand out. Make sure to also include any personal qualities or values that you possess that would make you a great addition to the medical school.

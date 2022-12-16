@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and Yale and I need help with my essay.
+COACH: Okay, great! Let's start by discussing your goals for the essay. What do you want to accomplish with it?
+STUDENT: I want to show the admissions committee that I'm a unique individual who can bring something special to the school.
+COACH: That's a great goal! Can you tell me more about what makes you unique?
+STUDENT: Well, I'm originally from China and I'm part of the LGBT community. I also feel like I'm a bit of a boring person, so I want to make sure I stand out in some way.
+COACH: Interesting! It sounds like you have a lot of experiences and perspectives to share. Have you thought about how you can highlight these in your essay?
+STUDENT: Not really. I'm not sure how to go about it.
+COACH: That's okay! One way to approach this is to focus on a few key stories or moments that really showcase who you are. Think about a time when you felt particularly proud of yourself or when you overcame a challenge. This could be a great starting point for your essay.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for a few key elements in an essay. They want to see your personality and your voice come through in the essay. They want to understand why you are a good fit for the school and how you can contribute to the university's community. Additionally, they want to see that you have done your research and that you understand the mission of the school and its values.
+STUDENT: What are the most important components of a college admissions essay?
+COACH: The most important components of a college admissions essay are the introduction, body, and conclusion. The introduction should grab the reader’s attention and give them a sense of what the essay will be about. The body should include relevant examples and anecdotes that help to support your main points. Lastly, the conclusion should summarize the main points of your essay and provide a strong closing statement. 
+STUDENT: What topics should I avoid when writing my college admissions essay?
+COACH: When writing your college admissions essay, it's important to avoid topics that could be seen as controversial or offensive. Additionally, you should avoid topics that are too generic or cliché. It's also important to avoid topics that are too personal or intimate. Instead, focus on topics that show your unique perspective and highlight your best qualities.

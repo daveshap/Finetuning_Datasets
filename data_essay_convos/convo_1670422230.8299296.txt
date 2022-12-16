@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about why college matters and I'm having a hard time getting started.
+COACH: That's a great topic! Can you tell me a bit more about what you're thinking?
+STUDENT: Well, I'm looking at it from the perspective of someone who is from a Muslim background and grew up in France. I want to talk about the importance of education and how it can open up opportunities for people from disadvantaged backgrounds.
+COACH: That's a really interesting angle! It sounds like you have a lot of ideas about how college can be a pathway to success for people with different backgrounds. What kind of research have you done so far?
+STUDENT: I've done some research on the history of education in France and how it has evolved over time. I've also read some articles about how Islam views education and the importance of learning.
+COACH: That sounds like you have a good foundation for your essay. What do you think would be the best way to structure it?
+STUDENT: I was thinking of starting with a brief overview of the history of education in France, then talking about how Islam views education, and finally discussing why college is important and how it can help people from disadvantaged backgrounds.
+COACH: That's a great plan! To make it even more effective, you could include some personal anecdotes or stories to illustrate your points. Have you thought about reaching out to people who have gone to college from a similar background as yours? They could provide valuable insight into why college matters and how it has changed their lives.
+UNC also has a lot of resources and support for students from diverse backgrounds. Have you looked into any of their programs?
+STUDENT: Yes, I have! I've been researching UNC's Diversity and Inclusion initiatives and I think they could be really helpful for my essay.
+COACH: Great! I'm sure those resources will be incredibly useful for you. Is there anything else I can help you with?
+STUDENT: I think I'm good for now. Thanks for your help!

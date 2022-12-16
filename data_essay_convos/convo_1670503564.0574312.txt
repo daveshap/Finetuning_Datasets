@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's okay! Writing a college admissions essay is a big task, but it can be broken down into smaller parts. What do you think is the most important thing for you to include in your essay? 
+STUDENT: I'm not sure. What should I include?
+COACH: The best way to approach this is to think about what makes you unique. What have you experienced in life that has shaped who you are today? What have you learned from those experiences? What values do you have that you want to share with the admissions committee? 
+STUDENT: Ok, so I should talk about my experiences and values?
+COACH: Yes, that's a great place to start. You could also talk about any hobbies or interests that you have that make you stand out. It's important to be honest and genuine in your essay. The admissions committee wants to get to know you and understand why you would be a good fit for their school. 
+STUDENT: What else should I include?
+COACH: You should also make sure to explain why you are interested in the school you are applying to and what you hope to gain from attending. You should also think about how you can connect the experiences you discuss in your essay to the values of the school. Lastly, make sure you proofread your essay and get feedback from others before submitting it.

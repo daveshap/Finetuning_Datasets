@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need some help with my admissions essay.
+COACH: Sure, what kind of help do you need?
+STUDENT: Well, I'm not sure what to write about in my personal statement. I have a lot of interests and experiences that I could talk about, but I don't know which one to focus on.
+COACH: That's a great question! Let's start by talking about your background. What is your family background like? Have you lived in the same place for a long time or have you moved around a lot?
+STUDENT: I was born in Vietnam, but my family moved to the United States when I was young. We've been living in the same area ever since.
+COACH: That's really interesting! It sounds like you have a unique perspective on life that could be valuable in your essay. What have been some of the biggest challenges you've faced as a result of this move?
+STUDENT: I think one of the biggest challenges has been learning English. It took me a while to get comfortable with it, but I eventually got the hang of it.
+COACH: That's great! It sounds like you have a lot of determination and resilience that could be highlighted in your essay. What else have you been involved in during your time in the US?
+STUDENT: I've been doing a lot of charity work. I volunteer at a local food bank and help out with various fundraising events.
+COACH: That's amazing! It sounds like you're passionate about helping others, which would be a great topic to focus on in your essay. What do you think makes you stand out from other applicants?
+STUDENT: I think my experience of moving to a new country and having to learn a new language has given me a lot of empathy and understanding for different people and cultures. I also think my involvement in charity work has shown that I'm passionate about making a difference in the world.
+COACH: Those are both great points! Admissions officers love to see applicants who are passionate about making a positive impact in the world. Is there anything else you'd like to include in your essay?
+STUDENT: I think I'd like to talk about how I used my experiences to become a more independent person. I think that's something that a lot of admissions officers look for.
+COACH: Absolutely! That's a great point to make in your essay. It sounds like you have a lot of great ideas for your essay - now it's just a matter of putting them together in a cohesive and compelling way. Do you have any questions about the essay-writing process?

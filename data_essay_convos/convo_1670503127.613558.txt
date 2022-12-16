@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, you can certainly write about being a first-generation college student. What kind of essay are you writing?
+STUDENT: A personal statement for medical school. 
+COACH: Great. A personal statement for medical school is a great place to talk about your experiences as a first-generation college student. What do you want to focus on in your essay?
+STUDENT: I want to focus on how my background has shaped my desire to pursue a medical career.
+COACH: That’s a great topic. What specifically do you want to talk about? Do you want to discuss the challenges you faced as a first-generation college student, or the opportunities you had because of it? 
+STUDENT: I think I want to focus more on the opportunities that I have been able to take advantage of.
+COACH: That’s a great idea. You can discuss how being the first in your family to go to college has opened up doors for you and allowed you to pursue a medical career. It could be a great way to show admissions committees that you have the drive and commitment to succeed in medical school.

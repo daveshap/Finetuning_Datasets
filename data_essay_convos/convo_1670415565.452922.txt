@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I need help with my admissions essay.
+COACH: Sure, I'd be happy to help. What do you think the admissions officers are looking for in your essay?
+STUDENT: I think they want to know about my skills and achievements, as well as why college matters to me.
+COACH: That's a great starting point. Let's start by talking about your skills and achievements. What do you think makes you stand out from other applicants?
+STUDENT: Well, I have a strong academic record and I'm involved in several extracurricular activities. I also volunteer at a local animal shelter.
+COACH: That's great! How do you think those skills and achievements make you a good fit for the college you're applying to?
+STUDENT: I think my academic record shows that I'm able to handle the rigor of college-level courses, and my extracurricular activities demonstrate that I'm a well-rounded individual. My volunteer experience shows a commitment to helping others, which is something I value.
+COACH: Those are all great points. Now let's move on to why college matters to you. What do you think are the biggest benefits of attending college?
+STUDENT: I think college is important because it gives me the opportunity to learn more about different subjects and prepare myself for a career. It also provides me with the chance to meet new people and explore different cultures. Finally, it allows me to develop important skills that I can use in the future.
+COACH: Those are all great reasons. Now let's talk about what makes an essay engaging. What do you think is the key to writing an effective admissions essay?
+STUDENT: I think the key is to be honest and authentic. The admissions officers want to get to know who you are, so it's important to write about your experiences in an honest and genuine way. It's also important to make sure your essay is well-structured and has a clear focus.

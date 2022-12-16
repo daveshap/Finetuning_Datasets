@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question. Let's start with the basics. What kind of essay are you writing?
+STUDENT: A persuasive essay.
+COACH: Okay, great. A persuasive essay is all about convincing your reader of your opinion. So, when you're writing it, you need to make sure that your argument is clear and supported by evidence. You also want to make sure your essay is well-organized and flows smoothly from one point to the next. Finally, you'll want to check for any grammar or spelling errors. Do you have any questions about any of that?

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: That's a great question! Applying for scholarships can be a bit tricky, but it's definitely doable. Can you tell me a bit more about the essay you're working on? What type of paper is it, and what kind of help do you need?
+STUDENT: It's a term paper and I'm having trouble getting started. I'm not sure how to structure it or what topics to include.
+COACH: Alright, that's a great place to start. Let's start by talking about the purpose of the paper. What are you trying to accomplish with this paper? Are you looking to make an argument, or provide information? 
+STUDENT: I want to make an argument about why more scholarships should be available for students from low-income backgrounds.
+COACH: Perfect! That gives us a great starting point. Now let's talk about structure. A good structure for this type of paper would be to start by introducing your topic and providing some background information. Then, you can move into your argument, using evidence to support your points. Finally, you can conclude by summarizing your argument and giving recommendations for further action. Does that make sense? 
+STUDENT: Yes, that makes sense.
+COACH: Great! Now let's talk about the evidence you'll use to support your argument. What kind of sources will you use? Will you be citing scholarly articles, personal experiences, or both?

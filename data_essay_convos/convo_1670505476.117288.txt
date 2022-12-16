@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply for scholarships?
+COACH: Scholarships are a great way to help pay for school. Generally, you will need to fill out an application and provide additional information such as a personal statement, transcripts, and letters of recommendation. It is important to research the scholarships you are applying for and make sure you meet all of their requirements.
+STUDENT: What should I include in my personal statement?
+COACH: Your personal statement should tell a story about who you are, what your goals are, and why you are a good fit for the program you are applying to. This is your chance to showcase your personality, experiences, and accomplishments. Make sure to highlight any awards or achievements, as well as any volunteer or work experience that is relevant to your application. Additionally, be sure to explain how the program you are applying to will help you reach your goals.

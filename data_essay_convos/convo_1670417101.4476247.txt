@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay for my med school application and I'm having trouble figuring out what to focus on.
+COACH: That sounds like a challenging task! Can you tell me a bit more about the kind of topics you're considering?
+STUDENT: Well, I'm interested in exploring my volunteer work in Vietnam, as well as issues of racism and Islamophobia in the US.
+COACH: Interesting topics! It sounds like you're looking for a way to tie these two experiences together in your essay. Can you tell me more about what you learned from your volunteer work in Vietnam?
+STUDENT: Sure. I worked with a local NGO that provided medical care to underserved communities in rural areas. It was an eye-opening experience for me. I got to see firsthand how people in these communities struggle with limited access to healthcare and other basic services. It made me realize how privileged I am and how much more I can do to help those in need.
+COACH: That's very inspiring. What about racism and Islamophobia in the US? How did your experience in Vietnam shape your understanding of these issues?
+STUDENT: My experience in Vietnam showed me the importance of respecting different cultures and beliefs. Seeing how people in rural communities were treated with kindness and respect despite their differences made me realize how important it is to fight against racism and Islamophobia in the US. It also made me realize that we all have a responsibility to stand up for what is right and to speak out against injustice.

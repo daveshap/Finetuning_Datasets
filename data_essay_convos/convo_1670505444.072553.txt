@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are typically awarded based on a combination of factors such as academic achievement, community service, leadership, and extracurricular activities. Most scholarships require an application process and may also require an essay or other written materials. Each scholarship has its own criteria and requirements, so it's important to read the details carefully. 
+STUDENT: What should I include in my essay?
+COACH: A college admissions essay should be personal and engaging. It should tell a story about who you are and why you are applying to the school. Be sure to include information about your goals, interests, and experiences that make you unique. You should also focus on how you can contribute to the school and what you can learn from the experience. Finally, proofread your essay and make sure it is free of errors.

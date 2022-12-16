@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: That's a great question. It can be helpful to begin by doing a reference interview with yourself. What is the purpose of the dissertation? What do you want to accomplish? What is the main argument you want to make?
+STUDENT: I want to explore the impact of technology on education and how it can be used to improve learning outcomes.
+COACH: That's a great topic. Now, let's talk about the structure of your dissertation. You'll need to start with an introduction that outlines your main argument and introduces the reader to the topic. Then, you'll need to provide evidence to support your argument, and finally, you'll need to discuss your conclusions and implications. Do you have any questions about structure so far?

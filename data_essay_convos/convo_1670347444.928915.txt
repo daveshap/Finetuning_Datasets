@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to apply to college, but I'm not sure what to write in my personal statement.
+COACH: That's a great question. It's important to make your personal statement stand out and show the admissions board who you are and what makes you unique. Can you tell me a bit more about yourself? What are some of your interests, hobbies, and passions?
+STUDENT: Sure! I'm really passionate about Judaism and neurodiversity. I'm also very interested in music and writing.
+COACH: That's wonderful! Based on those interests, you could consider writing about how your Jewish identity has shaped your worldview or how neurodiversity has impacted your approach to learning and problem-solving. You could also write about how your love for music and writing has helped you develop creativity and self-expression.
+Do any of these topics stand out to you as something you'd like to explore in your essay?
+STUDENT: Yes, I think exploring my Jewish identity and how it has shaped my worldview would be really interesting to write about.
+COACH: Great! Let's start there. What do you think are some of the key points you want to make in your essay?
+STUDENT: I think I want to highlight how my Jewish upbringing has taught me the importance of community and how it has shaped my values and beliefs. I also want to talk about how this has helped me develop empathy and understanding for different perspectives.
+COACH: That sounds like a great starting point. Now, let's think about how to structure your essay. How can you use stories, examples, and anecdotes to illustrate your points? What kind of language and tone will you use to make your essay engaging and compelling?
+STUDENT: I think I can use stories from my own life to illustrate how my Jewish identity has impacted me. I want to use a conversational and honest tone to make my writing relatable and engaging.
+COACH: Perfect! That's a great plan. Now, let's think about how to organize your essay. What do you want to include in the introduction, body paragraphs, and conclusion?
+STUDENT: I think I want to start off with a brief introduction that explains why I'm writing about this topic. Then, I want to have three body paragraphs that each focus on a different aspect of my Jewish identity and how it has impacted me. Finally, I want to end the essay with a conclusion that summarizes the points I made and ties everything together.
+COACH: That sounds like a great plan. Do you have any questions or concerns before we start writing?
+STUDENT: No, I think I'm ready to start writing now. Thanks so much for your help!
+COACH: You're welcome! I'm here to help you every step of the way. Good luck with your essay!

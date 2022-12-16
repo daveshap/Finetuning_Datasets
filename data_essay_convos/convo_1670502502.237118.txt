@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admission essay is important because it gives the admissions committee a chance to get to know you better. It allows them to understand who you are as a person, what your values and goals are, and why you would be a great fit for their school. By writing a compelling essay, you can stand out from other applicants and show the admissions committee that you are the right person for the job.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction, body paragraphs, and a conclusion. In the introduction, you should introduce yourself and give a brief overview of what you will discuss in the essay. The body paragraphs should provide evidence to support your argument. These can include personal experiences, research, and facts. Finally, the conclusion should wrap up your essay by summarizing your main points and reiterating why you believe you would be a good fit for the school.

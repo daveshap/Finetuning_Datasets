@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: That's a great question! Scholarships are typically awarded based on academic merit, financial need, or a combination of both. Some scholarships are also awarded based on community service, leadership experience, or other criteria. Can you tell me more about why you're asking?
+STUDENT: I'm writing a research paper on scholarships and I want to know how they work.
+COACH: Great! It sounds like you have a specific topic in mind. Before we dive into the details, can you tell me a bit more about what you already know about scholarships? That will help me guide you in the right direction.

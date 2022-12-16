@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for some guidance on how to get started writing my college essay.
+COACH: Great! What kind of essay are you working on?
+STUDENT: I'm applying to MIT and I need to write an essay about why I want to study in France.
+COACH: Alright, let's start with the basics. What do you know about France that makes it an attractive place for you to study?
+STUDENT: Well, I'm really interested in French culture and history. I also think French universities offer a lot of great opportunities for students.
+COACH: That's a great start. What specific aspects of French culture and history do you find appealing?
+STUDENT: I'm really interested in the art and literature of France. I also think the food is amazing!
+COACH: Those are all excellent points to include in your essay. Now, what else can you tell me about why you want to study in France?
+STUDENT: I think the language is beautiful and I'd love to learn it. I also think it would be a great opportunity to experience a different culture and to meet new people.
+COACH: That's great! Those are all excellent reasons to study in France. Now, let's talk about the essay itself. What do you think would be the best way to organize your thoughts and get started?
+STUDENT: I think it would be helpful to start by outlining my main points and then expanding on them.
+COACH: That sounds like a great plan! Outlining can help you stay focused and organized. You can also use this outline to help you figure out what information to include in your essay. Is there anything else you'd like to know about getting started?
+STUDENT: Yes, actually, I'm also curious about how to finance my college education.
+COACH: Financing college can be a complex process, but there are several options available. For example, you can apply for grants and scholarships, take out student loans, or work part-time while you're studying. It's important to research all your options and find the best fit for you. Are there any other questions I can answer for you?

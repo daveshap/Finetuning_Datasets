@@ -1,0 +1,20 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to write an essay about why I want to study abroad in Europe. 
+COACH: Great. Can you tell me a bit more about why you want to study abroad in Europe?
+STUDENT: Well, I've always been fascinated by the culture and history of Europe and I think it would be a great opportunity to learn more about the region. I'm also excited by the prospect of experiencing a different way of life and meeting new people. 
+COACH: That's a great reason to study abroad. What specific countries are you interested in?
+STUDENT: I'm most interested in France and Italy, but I'm also considering Germany and Spain. 
+COACH: Those are all great choices. What makes them particularly appealing to you?
+STUDENT: I love the art and architecture of France and Italy, and I'm really interested in the history of Germany and Spain. I'm also really drawn to the food culture in each of these countries. 
+COACH: That's wonderful. What about other countries? Are you considering any other places outside of Europe?
+STUDENT: Yes, I'm also looking into Thailand. I'm interested in exploring the culture and the natural beauty of the country. 
+COACH: That sounds like an amazing experience. What is it about Thailand that draws you to it?
+STUDENT: I'm really fascinated by the Buddhist culture and the traditional Thai cuisine. I'm also looking forward to exploring the beautiful beaches and mountains. 
+COACH: That's amazing. What do you hope to gain from this experience?
+STUDENT: I hope to gain a better understanding of the world and to become more culturally aware. I also want to gain a better appreciation for different cultures and to develop my language skills. 
+COACH: That's a great goal. Do you have any specific schools or universities in mind?
+STUDENT: Yes, I'm looking at Princeton University. I'm really excited about the academic opportunities and the chance to study with some of the best professors in the world. 
+COACH: That's a great choice. What makes Princeton stand out to you?
+STUDENT: I'm impressed by the university's commitment to excellence and its diverse student body. I'm also drawn to the fact that Princeton has a great reputation for producing successful graduates. 
+COACH: That's impressive. What do you think will make your essay stand out and make it engaging?
+STUDENT: I think my essay should focus on my passion for learning and exploring new cultures. I also want to emphasize my enthusiasm for taking on new challenges and my commitment to making the most of the experience.

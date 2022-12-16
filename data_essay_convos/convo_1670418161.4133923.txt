@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm having trouble with my personal statement for college admissions. I'm not sure what to write about and I'm having trouble with the structure.
+COACH: Alright, let's start by talking about your topic. What kind of topics are you interested in writing about?
+STUDENT: Well, I'm really passionate about LGBT rights and I think that could be a great topic to write about.
+COACH: That's a great choice! Writing about something you're passionate about is always a good way to go. Now, how would you like to structure your essay? 
+STUDENT: I'm not sure. I've heard of the five-paragraph essay structure, but I don't know if that's the right one for me.
+COACH: The five-paragraph essay structure is a great place to start, but it's not the only option. You could also consider writing an essay with three main points and then expanding on each one of those points. Or you could even write a narrative essay, where you tell a story about a time when you experienced or witnessed something related to your topic. What do you think?
+STUDENT: That sounds interesting. I think I'd like to try the narrative structure and tell a story about my experience with LGBT rights.
+COACH: Great! Now that we've got your topic and structure figured out, let's talk about the content of your essay. What do you want to focus on in your essay?
+STUDENT: I want to focus on the importance of LGBT rights and how they have impacted my life. I want to talk about the struggles I've faced, the progress we've made, and why this issue is still relevant today.
+COACH: That sounds like a great plan. When you're writing your essay, make sure to use specific examples and anecdotes to illustrate your points. Also, think about how you can tie in your own experiences to the larger themes and ideas you're discussing. 
+STUDENT: Okay, that makes sense. I think I'm ready to start writing now.
+COACH: Wonderful! Before you get started, make sure to take some time to brainstorm and come up with an outline. This will help you organize your thoughts and make the writing process easier. Good luck with your essay, and don't hesitate to reach out if you need any more help!

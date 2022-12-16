@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: That's a great question. Financing college is a complex process, and there are many options. What kind of information were you looking for? 
+STUDENT: I'm interested in learning more about grants, scholarships, and loans.
+COACH: Alright, let's start with grants and scholarships. Generally speaking, grants and scholarships are funds that don't need to be paid back. They are usually awarded based on academic achievement, community involvement, or other criteria. 
+Loans, on the other hand, are funds that need to be paid back with interest. There are federal student loans, which are funded by the government, and private student loans, which are offered by banks and other lenders. 
+When it comes to financing college, it's important to consider all your options and make sure you understand the terms and conditions of any loans you take out.
+STUDENT: That makes sense. Can you tell me more about the personal statement essay?
+COACH: Absolutely. A personal statement essay is an opportunity for you to tell your story and highlight your unique qualities. It should be well-written, honest, and reflective of who you are as an individual. When writing your personal statement, think about what makes you stand out from other applicants and how you can use that to your advantage. 
+Also, it's important to keep in mind that admissions officers read hundreds of essays, so make sure yours stands out. Use vivid language, provide concrete examples, and make sure your essay is organized and flows well. Finally, proofread your essay multiple times to ensure it's free of errors.

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to college and I'm having trouble writing my essay. I want to make it really engaging, but I'm not sure how to go about it.
+COACH: That's great! Let's start by talking about your goals and personal objectives. What do you hope to accomplish with your essay?
+STUDENT: I want to get accepted into Harvard, and I want to show that I'm passionate about Buddhism and its principles.
+COACH: That's an ambitious goal! To make your essay engaging, you'll need to show the admissions committee why you're a good fit for their program. How can you demonstrate your commitment to Buddhism and its principles?
+STUDENT: I think I could talk about how I've incorporated Buddhist principles into my daily life, like mindfulness and compassion. I could also discuss how I plan to use my education to further my understanding of Buddhism and its teachings.
+COACH: That sounds like a great approach! Now let's talk about the structure of your essay. What kind of format will you use?
+STUDENT: I think I'll use a combination of narrative and argumentative styles. I want to tell a story about how I've been influenced by Buddhism, and then I'll make an argument for why I'm a good fit for Harvard.
+COACH: Perfect. Now, let's talk about the content of your essay. What kind of information will you include?
+STUDENT: I want to focus on how Buddhism has shaped my values and beliefs, and how it has impacted my decision-making process. I also want to talk about how my experiences have prepared me for the challenges of college and why I'm ready to take on the rigors of the Harvard curriculum.
+COACH: Great! Those are all important points to make. One last thing: how does college admission work?
+STUDENT: Well, the admissions committee looks at a variety of factors, including academic performance, extracurricular activities, recommendations, and the essay. They want to get a sense of who you are as a person and why you're a good fit for their program.

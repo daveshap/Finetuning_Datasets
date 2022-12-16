@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That's a great question. What do you want the admissions committee to know about you?
+STUDENT: I want them to know that I'm passionate about learning and that I'm driven to succeed.
+COACH: That's great! Now let's start by brainstorming some ideas for your essay. What experiences have shaped your passion for learning and your drive to succeed?
+STUDENT: Well, I'm the first person in my family to go to college, so that has been a big motivator for me. I also had a great mentor in high school who really encouraged me to challenge myself academically.
+COACH: Great! Those are both great points to include in your essay. Now let's talk about how to structure your essay. What do you think would be the best way to organize your thoughts?
+STUDENT: I think it would be best to start with my background and then move on to how my mentor and my family motivated me to pursue higher education.
+COACH: Perfect! Now let's talk about how to make your essay stand out. What unique aspects of your story can you highlight to make your essay more memorable?
+STUDENT: I think I could focus on how my family's support and my mentor's encouragement inspired me to take risks and push myself to reach my goals.
+COACH: That's a great idea! Now let's talk about how to make your essay cohesive. What themes or ideas can you weave throughout your essay to make it flow better?
+STUDENT: I think I could focus on how hard work, determination, and support from others can help you achieve your goals.
+COACH: That's a great idea! Now let's talk about the conclusion. How can you tie together all the points you made in your essay and leave the reader with a lasting impression?
+STUDENT: I could talk about how my experiences have shaped my outlook on life and how I'm eager to continue learning and growing in college.

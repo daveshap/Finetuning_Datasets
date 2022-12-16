@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what should i put in my essay?
+COACH: Before we get into the specifics of what should go in your essay, can you tell me a bit more about what you're writing about? What's the purpose of the essay?
+STUDENT: I'm writing a personal statement for college admissions.
+COACH: Great! So, what do you want to communicate with this essay? What are some of the things you'd like to highlight about yourself and your experiences?

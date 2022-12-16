@@ -1,0 +1,160 @@
+A n g e l o  M o n t a g n e r
+amontagneredu@gmail.com
+(321)-310-5903
+Orlando, Florida
+S k i l l s
+●
+Programming/scripting Languages:
+PowerShell, Python, Java, C++, C#, .NET
+Core, YAML, Bicep/ARM templates●
+Cloud Providers:
+Azure, AWS
+●
+Operating Systems:
+Linux (CentOs),
+Windows●
+Source Code Management:
+Git,
+Bitbucket
+●
+Container/Orchestration:
+Docker, Azure
+Container Apps●
+Issue Tracking:
+Jira
+●
+CI/CD:
+Gitlab, Azure DevOps
+E x p e r i e n c e
+Citiz ens Bank
+J u n e  2 0 2 2  –  P r e s e n t
+Job titles held: Senior Cloud Security Engineer
+●
+Primarily responsible for integrating
+Prisma Cloud
+CSPM
+●
+Monitor posture, detect threats, and maintain security compliance across multiple cloud platforms
+(AWS, OCI, and Azure)
+●
+Created custom security policies and remediated policy violations using Prima Cloud RQL
+queries
+●
+Responsible for onboarding any new Azure tenants into Prisma Cloud
+Lockheed Mar tin
+J a n .  2 0 1 7  –  J u n e  2 0 2 2
+Job titles held: Software Engineer / Guidance, Navigation and Controls Engineer
+●
+Azure Cloud Engineer
+●
+C# (.NET Core with Blazor WebAssembly) development of fleet management service
+●
+Successfully broke down monolithic legacy web application into microservices. Initially
+these services were deployed as Azure Web Apps and later converted into Azure
+Container Apps
+●
+Introduced modern tools/APIs such as Dapr for microservice connectivity, Redis for
+pub/sub messaging, implemented API Gateways using Ocelot, and deployed Seq for
+centralized logging
+●
+Created custom Docker images for publishing into Azure Container Registry
+●
+Ported legacy deployment workflow over to Azure DevOps. Leverage the use of Azure
+Repo and Azure Pipeline to manage automatic deployments
+●
+Cruise Missile Simulation Engineer
+●
+Agile development of Hardware-in-the-loop simulation for a long-range precision-guided
+anti-ship missile. Program:
+LRASM
+●
+Missile Six Degrees of Freedom (6DOF) simulation design and analysis
+●
+Support preflight system performance assessment and post flight verification analyses
+●
+Automated multiple manual tests using Python helper scripts
+●
+Embedded Software Engineer
+●
+C++ software development for aircraft targeting systems. Program:
+SNIPER
+A n g e l o  M o n t a g n e r
+amontagneredu@gmail.com
+(321)-310-5903
+Orlando, Florida
+S k i l l s
+●
+Programming/scripting Languages:
+PowerShell, Python, Java, C++, C#, .NET
+Core, YAML, Bicep/ARM templates●
+Cloud Providers:
+Azure, AWS
+●
+Operating Systems:
+Linux (CentOs),
+Windows●
+Source Code Management:
+Git,
+Bitbucket
+●
+Container/Orchestration:
+Docker, Azure
+Container Apps●
+Issue Tracking:
+Jira
+●
+CI/CD:
+Gitlab, Azure DevOps
+E x p e r i e n c e
+Citiz ens Bank
+J u n e  2 0 2 2  –  P r e s e n t
+Job titles held: Senior Cloud Security Engineer
+●
+Primarily responsible for integrating
+Prisma Cloud
+CSPM
+●
+Monitor posture, detect threats, and maintain security compliance across multiple cloud platforms
+(AWS, OCI, and Azure)
+●
+Created custom security policies and remediated policy violations using Prima Cloud RQL
+queries
+●
+Responsible for onboarding any new Azure tenants into Prisma Cloud
+Lockheed Mar tin
+J a n .  2 0 1 7  –  J u n e  2 0 2 2
+Job titles held: Software Engineer / Guidance, Navigation and Controls Engineer
+●
+Azure Cloud Engineer
+●
+C# (.NET Core with Blazor WebAssembly) development of fleet management service
+●
+Successfully broke down monolithic legacy web application into microservices. Initially
+these services were deployed as Azure Web Apps and later converted into Azure
+Container Apps
+●
+Introduced modern tools/APIs such as Dapr for microservice connectivity, Redis for
+pub/sub messaging, implemented API Gateways using Ocelot, and deployed Seq for
+centralized logging
+●
+Created custom Docker images for publishing into Azure Container Registry
+●
+Ported legacy deployment workflow over to Azure DevOps. Leverage the use of Azure
+Repo and Azure Pipeline to manage automatic deployments
+●
+Cruise Missile Simulation Engineer
+●
+Agile development of Hardware-in-the-loop simulation for a long-range precision-guided
+anti-ship missile. Program:
+LRASM
+●
+Missile Six Degrees of Freedom (6DOF) simulation design and analysis
+●
+Support preflight system performance assessment and post flight verification analyses
+●
+Automated multiple manual tests using Python helper scripts
+●
+Embedded Software Engineer
+●
+C++ software development for aircraft targeting systems. Program:
+SNIPER

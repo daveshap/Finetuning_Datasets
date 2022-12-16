@@ -1,0 +1,146 @@
+JEAN FRANCOIS
+CLOUD ARCHITECTFORT PIERCE, FL, 34950, UNITED STATES +17722531196
+DETAILS
+Fort Pierce, FL, 34950
+United States
++17722531196
+weslyjean89@yahoo.com
+LINKS
+Linkedin
+Github
+Stackoverflow
+SKILLS
+DevOps
+Amazon AWS
+ASP .NET Core
+Microsoft Azure
+Angular
+Typescript
+ASP .NET MVC
+SQL
+NgRx/RxJs 
+Jasmine/karma
+GraphQL
+Python
+Amazon Web Services
+Microsoft Azure
+Git
+Scrum
+Kubernetes
+React js
+PowerBi
+WebGLPROFILE
+Proficient in an assortment of technologies, including Windows/Linux System 
+Administration, Domain Name System (DNS), Angular, ASP .NET, and Microsoft SQL 
+Server.
+• Cloud related Technologies: Google Cloud Platform (GCP) · HashiCorp · Terraform · SAP 
+BW On HANA · SAP S/4HANA · SAP HANA · Microsoft Azure
+• Strong and current development experience in React Js, Angular, C#, ASP .NET 
+MVC/Core, .NET Framework, Entity Framework 
+• Web-Related Technologies: HTML, CSS3, JavaScript, jQuery, Knockout, JSON, 
+Bootstrap, REST API, Web Services 
+• Database, Server & Applications: SQL Server, T-SQL, Stored Procedures, Functions, 
+SSRS, SSIS, Git, JIRA
+• Experience with Databases (Relational and NoSQL), RESTful web services, GraphQL 
+webs services, AWS (or other cloud stack), Micro services, SOAP web services, XML, JSON, 
+HTML, CSS, JavaScript
+Environment: Windows Server/Linux, MVC, C#, ASP .NET Core, ADO.NET, XML, SQL 
+SERVER, CSS, HTML, JavaScript, React, Js, Angular, Bootstrap, GraphQL Python, JIRA, 
+AWS, Azure, PowerBi Web API.
+Cloud architect & Angular / .NET Developer
+EMPLOYMENT HISTORY
+Cloud Architect at ITCManagementGroup (www.itcmanagementgroup.com), Fort 
+Pierce
+April 2016 — August 2022
+•Responsible for overall system planning and design of Enterprise Resource 
+Planning application.
+•Deploy and Maintain Azure VMs, configuring resources according to approved 
+security policies
+•Responsible for the development of the company's primary product by the name 
+of CemSites, a Cloud- Based Cemetery Software which results in 75% improvement 
+in application performance.
+•Maintained existing angular/C# project and effectively migrated them to latest 
+version (angular -13, asp.net core -6.0).
+•Provide design recommendations towards the development of new code
+•Kept close communication with all project stakeholders to ensure we come up with 
+good project architecture and reasonable deadlines
+ IT Systems Manager at Qishub LLC (www.qishub.net), Ocilla 
+November 2014 — March 2016
+•Support the installation and configuration of software, hardware and network 
+monitoring system. In addition to performance and troubleshooting issues, 
+ensuring security and efficiency of IT infrastructure.
+•Interface between Data Grids and database and stored procedures using ADO.NET 
+Datasets, Data Adapters, and Data Readers.
+JEAN FRANCOIS
+CLOUD ARCHITECTFORT PIERCE, FL, 34950, UNITED STATES +17722531196
+DETAILS
+Fort Pierce, FL, 34950
+United States
++17722531196
+weslyjean89@yahoo.com
+LINKS
+Linkedin
+Github
+Stackoverflow
+SKILLS
+DevOps
+Amazon AWS
+ASP .NET Core
+Microsoft Azure
+Angular
+Typescript
+ASP .NET MVC
+SQL
+NgRx/RxJs 
+Jasmine/karma
+GraphQL
+Python
+Amazon Web Services
+Microsoft Azure
+Git
+Scrum
+Kubernetes
+React js
+PowerBi
+WebGLPROFILE
+Proficient in an assortment of technologies, including Windows/Linux System 
+Administration, Domain Name System (DNS), Angular, ASP .NET, and Microsoft SQL 
+Server.
+• Cloud related Technologies: Google Cloud Platform (GCP) · HashiCorp · Terraform · SAP 
+BW On HANA · SAP S/4HANA · SAP HANA · Microsoft Azure
+• Strong and current development experience in React Js, Angular, C#, ASP .NET 
+MVC/Core, .NET Framework, Entity Framework 
+• Web-Related Technologies: HTML, CSS3, JavaScript, jQuery, Knockout, JSON, 
+Bootstrap, REST API, Web Services 
+• Database, Server & Applications: SQL Server, T-SQL, Stored Procedures, Functions, 
+SSRS, SSIS, Git, JIRA
+• Experience with Databases (Relational and NoSQL), RESTful web services, GraphQL 
+webs services, AWS (or other cloud stack), Micro services, SOAP web services, XML, JSON, 
+HTML, CSS, JavaScript
+Environment: Windows Server/Linux, MVC, C#, ASP .NET Core, ADO.NET, XML, SQL 
+SERVER, CSS, HTML, JavaScript, React, Js, Angular, Bootstrap, GraphQL Python, JIRA, 
+AWS, Azure, PowerBi Web API.
+Cloud architect & Angular / .NET Developer
+EMPLOYMENT HISTORY
+Cloud Architect at ITCManagementGroup (www.itcmanagementgroup.com), Fort 
+Pierce
+April 2016 — August 2022
+•Responsible for overall system planning and design of Enterprise Resource 
+Planning application.
+•Deploy and Maintain Azure VMs, configuring resources according to approved 
+security policies
+•Responsible for the development of the company's primary product by the name 
+of CemSites, a Cloud- Based Cemetery Software which results in 75% improvement 
+in application performance.
+•Maintained existing angular/C# project and effectively migrated them to latest 
+version (angular -13, asp.net core -6.0).
+•Provide design recommendations towards the development of new code
+•Kept close communication with all project stakeholders to ensure we come up with 
+good project architecture and reasonable deadlines
+ IT Systems Manager at Qishub LLC (www.qishub.net), Ocilla 
+November 2014 — March 2016
+•Support the installation and configuration of software, hardware and network 
+monitoring system. In addition to performance and troubleshooting issues, 
+ensuring security and efficiency of IT infrastructure.
+•Interface between Data Grids and database and stored procedures using ADO.NET 
+Datasets, Data Adapters, and Data Readers.

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That's a great question. Can you tell me a bit more about what you're looking for? What kind of research do you want to do? 
+STUDENT: I want to research why college is important and how it can benefit someone's life and career.
+COACH: Alright, that sounds like a great topic to explore. Let's start by breaking it down into smaller questions. What kind of research have you done so far? 
+STUDENT: Not much. I know that college is important for getting a job, but I don't know much beyond that.
+COACH: Great! That's a good starting point. There are many different aspects to consider when researching the importance of college. We can look at the economic benefits, the social benefits, and the personal benefits. We can also look at the different types of college degrees and how they can help you in the job market. Do any of these topics interest you more than others?

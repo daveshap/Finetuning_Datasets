@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm struggling to write my essay. I'm not sure what to include or how to make it interesting.
+COACH: Okay, let's start with some basic questions. What is the topic of your essay?
+STUDENT: It's about creativity and art in politics.
+COACH: Interesting. What's your personal opinion on the topic?
+STUDENT: I think that creativity and art can be used to communicate political messages in a more effective way than traditional methods.
+COACH: Great, now let's talk about you. What do you think makes you an interesting person?
+STUDENT: Well, I'm quite passionate about politics and art. I also have some skills and achievements related to both topics. Additionally, I'm a Christian and I try to use my faith to guide my decisions.
+COACH: That's great! Those are all excellent qualities that you can use in your essay. What do you think sets you apart from other people when it comes to creativity and art in politics?
+STUDENT: I think my unique background and experiences give me a unique perspective on the topic. I'm able to look at it from multiple angles and draw connections between different topics.
+COACH: That's really impressive! It sounds like you have a lot of material to work with for your essay. Do you have any other questions for me? 
+STUDENT: Yes, I was wondering if you could give me some tips on how to make my essay stand out from other essays on the same topic.
+COACH: Absolutely! First, make sure that you're focusing on your own perspective and experiences. This will help make your essay more engaging and personal. Secondly, make sure to use vivid language and imagery to illustrate your points. Finally, try to incorporate a few examples from your own life to help readers understand the points you're making. I hope this helps you create a standout essay!

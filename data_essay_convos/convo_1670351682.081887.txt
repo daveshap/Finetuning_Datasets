@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to medical school and I'm stuck on my admissions essay. I'm not sure what to write about.
+COACH: Okay, tell me a bit more about yourself and your background. What makes you unique?
+STUDENT: Well, I'm a Muslim and I was born in China. I'm a first-generation college student and I'm really passionate about science and medicine.
+COACH: That's great! So, what topic do you think would be interesting for your admissions essay?
+STUDENT: I'm not sure. I want to write something that will showcase my unique background and my passion for medicine.
+COACH: Great! How about writing about the challenges you faced as a first-generation college student from a Muslim background in China? You could discuss how you overcame those challenges and how it has shaped your interest in medicine.
+STUDENT: That's a great idea! I think I can work with that.
+COACH: Perfect! Let's start by brainstorming some ideas. What experiences have you had that you could use to illustrate your story?
+STUDENT: Well, I faced a lot of discrimination growing up because of my religion and cultural background. I was also discouraged by some family members from pursuing a career in medicine.
+COACH: That sounds like a great starting point. You could use that experience to show how you overcame adversity and persevered in the face of opposition. You could also talk about how your passion for medicine has grown and how it has driven you to pursue a career in the field.
+STUDENT: That sounds really good. Thanks for the help!

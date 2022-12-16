@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: That's a great question! Before we get into the specifics of how to get scholarships and grants, let me ask you a few questions about your essay. What type of essay are you writing? Is it an argumentative essay, a research paper, or something else?
+STUDENT: It's a research paper.
+COACH: Excellent! What is the topic of your research paper?
+STUDENT: I'm writing about the impact of technology on education.
+COACH: That's a great topic! Now that I know what type of essay you're writing and the topic you're researching, let me give you some tips for how to get scholarships and grants. First, make sure you understand the requirements of the scholarship or grant you're applying for. Make sure you meet all the qualifications, and if there are any special requirements, make sure you fulfill them. 
+Second, take the time to write a compelling essay that stands out from the rest. Make sure to include relevant facts and figures, and be sure to use proper grammar and spelling.
+Third, make sure to include any additional information that may be required, such as letters of recommendation or financial statements.
+Finally, make sure to submit your application in a timely manner. Be sure to double-check everything before submitting it so that you don't miss any important details.
+I hope this has been helpful. Is there anything else I can help you with?

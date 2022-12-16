@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: i have no idea what to write about
+COACH: That's ok, let's start with a few questions. What kind of essay are you writing?
+STUDENT: I'm writing a dissertation.
+COACH: Great! What is your dissertation about?
+STUDENT: I'm exploring the impact of social media on young people's mental health.
+COACH: Excellent. What have you done so far in terms of researching and writing?
+STUDENT: I've done some reading on the topic and have a few ideas for my argument, but I'm not sure how to structure the essay or where to start.
+COACH: That's understandable. Let's start by breaking down your essay into sections. What do you think should be the main points of your argument? 
+STUDENT: I think it should include an introduction that outlines the scope of the paper, then a discussion of the positive and negative effects of social media on mental health, and finally a conclusion that summarizes my findings.
+COACH: That sounds like a great plan. Now let's talk about how to structure each section. For the introduction, what kind of information would you like to include? 
+STUDENT: I want to provide an overview of the research on the topic, explain why this issue is important, and introduce my argument. 
+COACH: Perfect! Now let's talk about the body of the essay. What kind of evidence and examples do you need to support your argument? 
+STUDENT: I need to include research from scientific studies, statistics, and personal stories from people who have experienced the effects of social media on their mental health. 
+COACH: That sounds like a great plan. Finally, let's talk about your conclusion. What do you want to include in it? 
+STUDENT: I want to summarize my argument, discuss the implications of my findings, and suggest possible solutions or further research. 
+COACH: That sounds great. Now that we have a plan, let's talk about how to actually write your essay. What kind of tips do you need to get started?

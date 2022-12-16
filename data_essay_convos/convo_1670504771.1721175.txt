@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: Generally, college admissions essays should be around 500-700 words. However, some schools may have a different word limit, so make sure to check the requirements of the school you’re applying to.
+STUDENT: What should I write about?
+COACH: When writing a persuasive essay, it’s important to pick a topic that you’re passionate about. Think about something that you feel strongly about and can write about with conviction. It could be an issue related to your personal life or something that affects your community. Once you’ve chosen your topic, you can start brainstorming ideas for your essay.
+STUDENT: How should I structure my essay?
+COACH: A persuasive essay typically follows the classic five paragraph structure. Start off with an introduction that introduces your topic and states your opinion. The body of the essay should contain three paragraphs, each making a point that supports your opinion. Finally, the conclusion should summarize your points and reiterate your opinion. Make sure to use evidence and examples to back up your points.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: Well, that depends on what kind of essay it is. Is it a research paper?
+STUDENT: Yes, it is.
+COACH: Okay, great. For a research paper, the most important thing is to make sure you have enough evidence to support your argument. You should also make sure you cite your sources correctly, and that you are using reliable sources. Additionally, you want to make sure your essay is organized in a logical way and that you present your ideas in a clear, concise manner. Are there any specific questions you have about the writing process?

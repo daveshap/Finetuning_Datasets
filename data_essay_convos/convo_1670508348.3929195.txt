@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are a great way to fund your education, but that's not why you're here today. What kind of essay do you need help with?
+STUDENT: I need to write an argumentative essay.
+COACH: Alright, let's start by talking about what an argumentative essay is. An argumentative essay is a type of writing in which you take a position on a topic and then use evidence to support your argument. You'll need to provide evidence from reliable sources to back up your claims. Do you have any ideas for a topic?

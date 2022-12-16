@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and I'm having trouble figuring out what to write about in my personal statement.
+COACH: That's a great question! Before we dive into that, could you tell me a bit more about yourself? What are your interests, and why does college matter to you?
+STUDENT: Well, I'm interested in history, particularly the Vietnam War era. College matters to me because I want to be able to make a difference in the world and make my mark on history.
+COACH: That's really admirable! It sounds like you have a lot of passion for the subject matter. So, when you think about writing your personal statement, what kind of topics do you think could help you express your passion and interest in the Vietnam War era?
+STUDENT: I think I could talk about how my experiences growing up in a racially diverse community shaped my views on the war and its effects on different communities. I could also talk about how my education has helped me gain a better understanding of the complexities of the war, and how I plan to use that knowledge to make a positive impact.
+COACH: That's a great topic! It sounds like you have a lot to say about it. To make your essay stand out, you could also talk about how studying at Princeton will help you further your research and interests in the Vietnam War era. You could explain how the university's resources and faculty can help you gain a deeper understanding of the war and its effects.

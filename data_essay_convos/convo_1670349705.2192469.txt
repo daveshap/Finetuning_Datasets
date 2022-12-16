@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and UNC and I'm having trouble writing my essay.
+COACH: Okay, what kind of essay are you writing? 
+STUDENT: It's a personal statement about why I'm a good fit for the school.
+COACH: Great, what topics have you been thinking about covering in your essay?
+STUDENT: Well, I want to talk about my experiences with social issues and how they have shaped me as a person.
+COACH: That sounds like a great topic! Before we get into the specifics of your essay, let's talk about the structure. What parts of an essay do you need to include?
+STUDENT: I know I need to have an introduction, body, and conclusion, but I'm not sure what to include in each part.
+COACH: Sure, let's break it down. The introduction is the hook that grabs the reader's attention. You can use a quote, an anecdote, or a statistic to start your essay off. The body of the essay is where you introduce and explain your main points. This is the longest part of the essay and should include evidence to support your argument. Finally, the conclusion is where you wrap up your essay and leave the reader with something to think about.
+STUDENT: That makes sense. I think I have a better idea of what I need to do now.
+COACH: Great! Now, let's talk about the content of your essay. What experiences with social issues have you had that you could write about?
+STUDENT: I'm not sure, I feel like I'm a pretty boring person and don't have much to write about.
+COACH: Everyone has unique experiences that make them special. Think about any volunteer work you've done, any conversations you've had, or any events you attended that have helped shape your views on social issues. Even the smallest moments can be meaningful and impactful.

@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and I need help with my essay.
+COACH: Great! What kind of help do you need?
+STUDENT: Well, I'm not sure what to write about. I'm not particularly interesting as a person, so I'm having trouble coming up with something to write about.
+COACH: That's totally understandable. Can you tell me a bit more about yourself and your interests?
+STUDENT: Sure. I'm interested in European history and culture, and I'm currently studying German. I'm also interested in Judaism and its history in Europe.
+COACH: Interesting! It sounds like you have a lot of potential topics to explore. Have you thought about writing about your experience learning German and how it has impacted your understanding of European history and culture, or exploring the history of Judaism in Europe and how it has shaped the region?
+STUDENT: Those are great ideas! I think I'd like to explore the history of Judaism in Europe.
+COACH: Perfect! Let's start by brainstorming some ideas. What aspects of the history of Judaism in Europe do you find most interesting?

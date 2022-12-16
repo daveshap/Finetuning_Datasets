@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i get started writing?
+COACH: The first step is to brainstorm ideas for your essay. Think about what makes you unique and what experiences you want to share with the admissions committee. Once you have some ideas, start writing down your thoughts in a journal or notebook. This will help you organize your thoughts and create an outline for your essay.
+STUDENT: What should I include in my essay? 
+COACH: Your essay should include an introduction, body paragraphs, and a conclusion. In the introduction, you should introduce yourself and explain why you are writing the essay. The body paragraphs should include details about your experiences, interests, and goals. Use vivid language and stories to illustrate your points. Finally, the conclusion should summarize the main points of your essay and explain why you are a good fit for the college or university. 
+STUDENT: What should I avoid when writing my essay?
+COACH: Avoid using cliches, overused phrases, and overly formal language. Also, avoid using too much technical jargon or slang. You want to keep your essay as clear and concise as possible. Additionally, make sure to proofread your essay for any spelling or grammar errors.

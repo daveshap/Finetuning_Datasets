@@ -1,0 +1,19 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first generation college student applying to medical school and I need help writing my essay.
+COACH: Congratulations on taking this big step! It's great that you're pursuing your dreams. Can you tell me a bit more about yourself and what you'd like to write about in your essay?
+STUDENT: Sure, I guess I'm a pretty boring person. I grew up in a single parent home, and I've been interested in social issues since I was young. I want to write an essay that speaks to my commitment to helping others and how I plan to use my medical degree to make a difference.
+COACH: That sounds like a great topic for your essay. It's important to show the admissions committee how you are uniquely suited to the medical field and how you plan to use your degree to make a difference. Have you thought about how you want to structure your essay?
+STUDENT: Not really, I'm not sure where to start.
+COACH: That's ok, we can figure it out together. Let's start by breaking down your essay into sections. We can start with an introduction that tells the admissions committee a bit about yourself and why you want to pursue medicine. Then, you can move into the body of the essay, which is where you'll detail your experiences and how they have shaped your commitment to helping others. Finally, you can end with a conclusion that ties everything together and reiterates your commitment to making a difference. Does that sound like a good plan?
+STUDENT: Yes, that sounds great.
+COACH: Perfect. Now, let's talk about the details. What specific experiences do you want to highlight in your essay?
+STUDENT: Well, I think I want to talk about my volunteer work with a local non-profit, my experience shadowing a doctor, and my research project studying the effects of poverty on health outcomes. 
+COACH: Those are all great experiences to include in your essay. Let's start with the volunteer work. What did you learn from that experience?
+STUDENT: Volunteering with the non-profit really opened my eyes to the struggles that people face in our community. It helped me understand how medical care can make a difference in people's lives and how important it is to provide access to quality healthcare.
+COACH: That's a great insight. Be sure to include that in your essay. You also mentioned shadowing a doctor. What did you learn from that experience?
+STUDENT: Shadowing a doctor showed me the importance of listening to patients and understanding their needs. I learned how to be compassionate and to really take the time to get to know each patient.
+COACH: That's a great point to include in your essay. Finally, you mentioned a research project. What did you learn from that experience?
+STUDENT: My research project showed me the real-life effects of poverty on health outcomes. It made me realize how important it is for medical professionals to be aware of the social determinants of health and to be able to provide access to quality healthcare to those who need it most.
+COACH: That's an important lesson that you can include in your essay. So, now that you have a better idea of the experiences you want to include, let's talk about how to structure the essay. How do you want to organize the body of the essay? 
+STUDENT: I think I want to start with my volunteer experience, then move on to shadowing a doctor, and finally talk about my research project. 
+COACH: That sounds like a great plan. Remember to focus on how each experience has shaped your commitment to helping others and your plans for using your medical degree to make a difference. Do you have any questions before we get started?

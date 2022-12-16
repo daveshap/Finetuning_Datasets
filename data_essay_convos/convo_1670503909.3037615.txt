@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good opening?
+COACH: A good opening should introduce the topic of your essay and capture the reader's attention. You want to make sure it is interesting and engaging, so try to think of a creative way to introduce your topic. You could start with a quote, a personal anecdote, or a vivid description. 
+STUDENT: What should I include in the body of my essay?
+COACH: The body of your essay should include evidence to support your main points. You should also provide examples to illustrate your points and explain why they are important. Additionally, you should discuss any challenges you have faced and how you overcame them. This will help show the reader that you are resilient and can handle difficult situations. 
+STUDENT: How do I end my essay?
+COACH: Your ending should wrap up your essay and leave the reader with something to think about. You can conclude by summarizing the key points of your essay and explaining why they are important. You can also end with a call to action, asking the reader to take a specific action or reflect on the topic.

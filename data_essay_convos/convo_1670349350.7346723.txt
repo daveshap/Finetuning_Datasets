@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm working on an essay for college admissions and I'm having trouble getting started.
+COACH: That's understandable. Can you tell me a bit more about your essay? What topics are you focusing on and what do you want to convey to the admissions officers?
+STUDENT: I want to talk about how my creativity and art have been impacted by my religious background. I'm Muslim and I want to discuss the influence of Islam on my creative expression.
+COACH: That sounds like an interesting topic. What specifically do you want to focus on? Do you want to discuss the impact of religious teachings on your art or do you want to look at the differences between Islamic and Christian art?
+STUDENT: I think it would be interesting to compare and contrast Islamic and Christian art. I want to explore how the different religious teachings have shaped my creative expression.
+COACH: That could definitely make for an interesting essay. What kind of research have you done so far?
+STUDENT: I've done some research into the history of Islamic and Christian art, but I'm not sure how to go about writing the essay. What do you think admissions officers are looking for when they read essays like this?
+COACH: Admissions officers want to see that you have done your research and that you can thoughtfully discuss the topic. They want to get a sense of who you are and what you value. It's important to be honest and authentic in your essay and make sure that it reflects your own beliefs and experiences. 
+STUDENT: Okay, that makes sense. How can I make sure that my essay stands out from the rest?
+COACH: Being creative and unique can help your essay stand out. Try to think of a unique angle or approach to the topic that you can use to make your essay memorable. Also, make sure that your essay is well-written and structured. Even if you have an interesting topic, if your essay is poorly written, it won't make a good impression.

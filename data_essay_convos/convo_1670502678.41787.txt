@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: That’s a great question! Your college admissions essay should be focused on your personal experiences and how they have shaped you into the person you are today. Think about any unique experiences that have had an impact on your life, and how they have helped to shape you into the person you are today.
+STUDENT: What kind of experiences should I focus on?
+COACH: It can be anything from a challenge you overcame, to a special accomplishment, or even a moment where you learned an important lesson. You want to make sure that whatever experience you choose to write about is something that is meaningful to you, and that you can use to demonstrate why you would be a great fit for the medical school you are applying to.
+STUDENT: How should I structure my essay?
+COACH: Generally speaking, you want to start off by introducing the experience or story you are going to write about. Give some background information, and explain why it is important to you. From there, you can go into the details of the experience, and explain how it has shaped you and your goals for the future. Finally, you can wrap up your essay by summarizing the key points and expressing why you feel you would be a great fit for the medical school.

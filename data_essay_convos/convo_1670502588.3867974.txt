@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions is a process of evaluating applicants and selecting those who meet the criteria for admission to a college or university. Generally, the criteria include academic performance, letters of recommendation, extracurricular activities, and essays.
+STUDENT: What should I include in my essay?
+COACH: Your essay should tell a story about yourself that showcases your unique qualities and experiences. It should also demonstrate your writing skills and your ability to organize your thoughts. You should focus on topics that are meaningful to you and that will help the admissions committee get to know you better. Be sure to proofread and edit your essay for grammar and spelling mistakes.

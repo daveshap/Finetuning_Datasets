@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for Duke University about how Buddhism and Judaism intersect on social issues.
+COACH: That sounds like a fascinating topic! What kind of angle are you taking with the essay?
+STUDENT: I want to look at how both religions have similar views on social justice, and how they can be used to inform our understanding of current social issues.
+COACH: That's a great idea! Have you done any research into the subject yet?
+STUDENT: Yes, I've done some research, but I'm having trouble connecting the dots between the two religions.
+COACH: That's understandable. It can be difficult to make connections between two seemingly disparate subjects. What specific social issues are you focusing on in your essay?
+STUDENT: I'm looking at poverty, inequality, and access to health care.
+COACH: Okay, that's a good starting point. Have you started writing yet?
+STUDENT: Yes, I've written a few paragraphs, but I'm not sure if I'm making the right points or if my essay is engaging enough.
+COACH: That's a common concern. To make your essay more engaging, you should focus on specific examples that illustrate your points. For example, if you're discussing poverty, you could talk about a specific case study or a real-world example that demonstrates how both religions address the issue. This will help make your essay more vivid and engaging.

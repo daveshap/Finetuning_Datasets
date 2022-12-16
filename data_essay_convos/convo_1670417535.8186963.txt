@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm trying to write my college admission essay and I'm feeling kind of stuck.
+COACH: Sure, what kind of issues are you having?
+STUDENT: Well, I'm not sure what to write about. I want to make it engaging and memorable, but I'm not sure how to go about it.
+COACH: That's a great question. What topics are you interested in?
+STUDENT: I'm interested in exploring sexism in the college admissions process and why it matters for college applicants.
+COACH: That's an excellent topic! How do you plan on approaching the essay?
+STUDENT: I want to focus on how sexism affects the college admissions process, especially at a school like Princeton.
+COACH: That's a great angle to take. Have you done any research on the topic?
+STUDENT: Yes, I've been doing some research on the subject, but I'm still having trouble putting it all together into an essay.
+COACH: That's understandable. What do you think makes an essay engaging and memorable?
+STUDENT: I think an essay should be honest and personal, and it should also have a clear structure and purpose.
+COACH: Absolutely. It's important to make sure your essay is well-crafted and organized. How do you plan on tying your research into your essay?
+STUDENT: I want to make sure I'm providing evidence and examples to support my points. I also want to make sure I'm making a strong argument for why sexism in the college admissions process matters.
+COACH: That's a great approach. Do you have any other questions or concerns?
+STUDENT: I'm feeling a bit overwhelmed by the whole process. Any advice on how to stay organized and focused?
+COACH: Sure, it's important to break down the essay writing process into smaller, manageable tasks. Make sure you set aside enough time to research, plan, and write your essay. Also, don't be afraid to ask for help if you need it!

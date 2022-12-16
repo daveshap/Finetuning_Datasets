@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: That's a great question. Grants are funds that are given to organizations or individuals for a specific purpose, usually for research or a project. Can you tell me more about why you're asking?
+STUDENT: I'm writing a research paper on grants and I want to make sure I understand how they work.
+COACH: Sure, I can help you with that. First, let's talk about the types of grants. Generally, grants are divided into two categories: public and private. Public grants are funded by government agencies, while private grants are funded by companies, foundations, or other organizations. Let's talk about the criteria for applying for each type of grant.

@@ -1,0 +1,490 @@
+Mounika
+
+maddagada03@gmail.com (854) 888-8953
+
+PROFESSIONAL SUMMARY:
+
+-   As a full stack Developer, I have professional of 7 years experience
+    all the technical phases of Software Development Life Cycle (SDLC)
+    including Requirement Analysis, Design, Implementation and Testing
+    in both Web based and Enterprise applications with emphasis on
+    Object Oriented, Java/J2EE and Client Server technologies. Hands on
+    experience in AWS provisioning and good knowledge of AWS services
+    like EC2, S3, Route 53, Elastic Beanstalk, Lambdas, API Gateways,
+    EBS etc., Knowledge of application deployment and data migration on
+    AWS.
+
+-   Developed Webservices and Microservices with Spring Boot framework.
+
+-   Proficiency on CI/CD tools/processes Git, Gradle, Maven,
+    Jenkins,Artifactory,SonarQube, Jacoco and Junit.
+
+-   Utilized Java 1.8 features like Lambda expressions and Stream API
+    for Bulk data operations on Collections which would increase the
+    performance of the Application.
+
+-   Worked in BDD and TDD types of developments in Agile Methodology.
+
+-   Solid experience with front-end tools including HTML, CSS,
+    JavaScript, Angular and ReactJS.
+
+-   Expertise in J2EE Technology- Servlets, Struts, Spring, JDBC, JTA,
+    JPA, Hibernate and JMS.
+
+-   Experience developing web applications using Spring framework
+    modules including Spring IOC, Spring AOP, Spring MVC, Spring
+    Security, Spring Boot, Spring Cloud, Spring Batch and Spring Data.
+
+-   Experience with distinctive design patterns like Singleton, Business
+    Delegate, Session Facade, Service locator, Transfer Object and MVC.
+
+-   Worked with design and development of robust and highly scalable Web
+    Service platforms and APIs based on REST and SOAP for enterprise
+    applications using AXIS, WSDL, UDDI, XML, JAX-WS, JAX-RS, JAXB,
+    JAX-RPC technologies and Jersey frameworks.
+
+-   Experience on different IDEs such as Eclipse, RAD, Spring Tool
+    Suite, IntelliJ and deployment using Application Servers like Apache
+    Tomcat, BEA WebLogic, Web Sphere and JBOSS.
+
+-   Experience on databases like DynamoDB, MongoDB, MySQL, Oracle,
+    PL/SQL, Agile SDLC.
+
+-   Maintenance and Vulnerability Management of Hybrid infrastructure
+    and CI/CD using Chef – Cookbooks.
+
+-   Integration of Lambda with ticketing tools to take automated actions
+
+-   Expertise in Kubernetes, Docker, Jenkins for deployment scenarios
+    Splunk, Dynatrace management tools for monitoring and alerting.
+
+-   Strong experience creating/writing test automation scripts for web
+    services using technologies including Rest-Assured, Apache JMeter,
+    Soap UI and Postman.
+
+-   Perform Development, Testing, Deployment, code migration and quality
+    assurance using tools including JIRA, SoapUI, Postman, Bitbucket and
+    Jenkins with Agile.
+
+-   Hands on experience with automation framework to perform smoke and
+    regression testing using TestNG and Jenkins and performed manual,
+    functional and automation testing for SOAP services and REST APIs.
+
+-   Hands on experience with unit testing using JUnit and Mockito and
+    performed load testing using JMeter for microservices hosted on PCF
+    and Kubernetes cluster.
+
+-   Involved in daily stand-up and weekly Agile/Scrum meetings, grooming
+    meetings with our team.
+
+-   Proficient in developing J2EE enterprise applications in
+    Microservice architecture.
+
+-   Experienced in working with different operating systems Windows,
+    UNIX & LINUX. 
+
+-   Experience with designing and configuring secure Virtual Private
+    Cloud (VPC) through private and public networks in AWS and create
+    various subnets, routing table, internet gateways for servers.
+
+-   Good knowledge of designing, deploying and operating highly
+    available, scalable and fault tolerant systems using Amazon Web
+    Services (AWS).
+
+-   Experience in AWS Core Services (VPC, CloudFront, Route53, API
+    Gateway), Compute Service (EC2, ECS, ECR, Lambda), Storage Service
+    (S3, EFS, S3 Glacier), Deployment Services (Elastic Beanstalk and
+    Cloud Formation), Database Services (RDS, Redis, Elastic Cache).
+
+-   Good knowledge of other services in AWS like Cloud front, Glacier,
+    Cloud Trail and Simple Notification Service (SNS). 
+
+-   Expertise in Client-Side design and validations using HTML5, CSS3,
+    J-Query, JSON, Ajax, Angular, Bootstrap, Tag libraries, JSTL.
+
+-   Experience in JMS over messaging to exchange the information in more
+    reliable and asynchronously for enterprise applications using Active
+    MQ and KAFKA. 
+
+-   Experience with DevOps tools such as Jenkins, Maven, Artifactory.
+
+Technical Skills
+
+  ---------------------------------------------------------------------------
+  Programming       C, C++, Java 1.8, J2EE, and       
+  Languages         PL/SQL.                           
+  ----------------- --------------------------------- -----------------------
+  Tools and         Struts, Spring, Hibernate, Spring 
+  Framework         MVC, Spring Web Flow, Spring IOC, 
+                    Spring AOP, Spring Security,      
+                    Struts, JSF, JUnit, SOAP UI,      
+                    JReport                           
+
+  J2SE/J2EE         Java, J2EE, RMI, Sockets, JDBC,   
+  Technologies      Servlets, JSP, JMS, Java Beans,   
+                    JSTL, JSF, Jakarta Struts, EJB,   
+                    Spring, Spring Boot, Spring Data, 
+                    Spring Batch Hibernate, JTA,      
+                    JNDI, JPA JMS, Web Services       
+                    (JAX-RPC, JAX-WS, SOAP, REST,     
+                    WSDL, UDDI and RESTFUL),          
+                    Groovy/Grails                     
+
+  Web Technologies  HTML5, CSS3, JavaScript, jQuery,  
+                    Bootstrap, Angular, JSF, AJAX,    
+                    NodeJS, React, JSON Restful       
+
+  XML Technologies  XML, XSL, DOM, SAX, DTD, XQuery,  
+                    XSD and XSLT                      
+
+  Cloud             AWS EC2, ELB, Lambda, S3, VPC,    
+  Technologies      Cloud Formation, Cloud Watch, RDS 
+
+  Databases         Oracle, SQL-Server, MySQL server, 
+                    MS SQL, IBM DB2, MongoDB          
+
+  Web/Application   Apache Tomcat, IBM WebSphere, Web 
+  Servers           logic Application server, JBOSS   
+
+  Build Tools       ANT, Maven, Gradle, Docker and    
+                    Jenkins                           
+
+  IDE / Tools       Eclipse, IntelliJ, VSCode, Spring 
+                    Tool Suite (STS), RAD             
+
+  Testing Tools/    JUnit, Mockito, Soap UI, Log4j,   
+  Others            JIRA, JMX                         
+
+  Version Control   GIT and Tortoise SVN              
+
+  Platforms         Windows, Mac, Unix, Linux         
+
+  Methodologies     Agile, Waterfall, Test Driven     
+                    Development                       
+  ---------------------------------------------------------------------------
+
+PROFESSIONAL EXPERIENCE
+
+BCBSA
+
+Chicago, IL Aug 2020 – present
+
+Responsibilities:
+
+-   Create REST services with Spring Boot.
+
+-   Used Gitlab for Software Configuration management and maintaining
+    the versions and created tags and branches, fixed merge issues, and
+    administered software repositories within Gitlab. 
+
+-   Used CI/CD tools/processes Git, Gradle, Maven, Jenkins, SonarQube,
+    Jacoco and Junit.
+
+-   Used Multithreading concepts. Developed & deployed the application
+    in on Application Server and Supported the Production Releases.
+
+-   Used Spring Core for dependency injection/Inversion of control
+    (IOC). Used Spring Batch for scheduling and maintenance of batch
+    jobs. Created build files using Maven.
+
+-   Worked on backend spring boot application that serves as a login
+    authentication process and supported the team with deployments
+    services in AWS.
+
+-   Used Spring cloud, Netflix Eureka, Zuul, Ribbon, Hystrix for the
+    Microservices and for service registry.
+
+-   Used JUnit, Mockito in developing test cases and determining
+    application functionality.
+
+-   Using AWS Functions to integrate applications and run backend
+    processes according to schedules without provisioning/managing
+    servers.
+
+-   Created Microservices and Webservices using Spring Boot.
+
+-   Used AWS Cloud platform and its features which include EC2, AMI, S3,
+    SNS, RDS, CloudWatch, CloudFormation, ASG’s, CloudFront, S3, and
+    Route53.
+
+-   Configured plugins for the integration tools to the version control
+    tools. 
+
+-   Jenkins administration to user access credentials, deployment email
+    notification, configuration for new users and using matrix plug-ins
+    to manage Jenkins. 
+
+-   Creating and building Jenkins Pipelines for CI/CD Process.
+
+-   Maintenance and Vulnerability Management of Hybrid infrastructure
+    and CI/CD using Chef - Cookbooks.
+
+-   Manage source code, software builds, software versioning, & defect
+    tracking on software maintenance tasks/projects.
+
+-   Setup the required setup in the Local, Dev, Test and Prod
+    environments.
+
+-   Used Client-side design and validations using HTML5, CSS3, J-query,
+    JSON, Ajax, Angular, Bootstrap, Tag libraries, JSTL.
+
+-   Developed code for Responsive web design in JavaScript using
+    frameworks like Angular.
+
+-   Took part in setting up the routing configuration using Angular UI
+    router for various views and subviews.
+
+-   Worked on rendering additional components with custom HTML tags
+    using Angular.
+
+-   Implemented Angular components router for
+    navigation, Angular services to connect the web application to
+    back-end APIs made use of ES6 features. 
+
+-   Applied object-oriented methodologies and core J2EE Design Patterns
+    like Factory, Singleton, MVC, Service Locator and Façade.  
+
+-   Delivered specific versions of various components of an application
+    into target environments. 
+
+-   Used Test driven deployment (TDD) with Agile.
+
+-   Integration of Lambda with ticketing tools to take automated action
+
+-   Administered and Engineered Jenkins for managing weekly Build, Test
+    and Deploy chain GIT with Dev/Test/Prod Branching Model for weekly
+    releases. 
+
+-   Troubleshoot the automation of Installing and configuring
+    applications in the test environments. 
+
+-   Used JPA and Hibernate for mapping objects to the relational
+    database. 
+
+-   Involved in coding for integration of Jasper Reports with Java.
+
+-   Worked on SQL like MySQL, and no-SQL data bases like MongoDB.
+
+Environment: Java/J2EE, Spring, Spring Boot, Hibernate, HTML5, CSS3,
+JavaScript, JSON, jQuery, AJAX, Node.js, Bootstrap, Angular 10/12, ES6,
+React, Eclipse, JSP, SAX, XSLT, JMS, JBOSS, AWS, REST, GIT, JUnit, Maven
+and Windows
+
+Trancfone Wireless
+
+Tampa, FL
+
+Java Developer Sept 2019- Aug 2020
+
+Responsibilities:
+
+-   Involved in various Test-Driven Development (TDD) methods in Design
+    and analysis.
+
+-   Extensive knowledge and working experience in web development
+    technologies like AJAX, JSP, XML, HTML5, CSS3, JSON, Java Script,
+    jQuery.
+
+-   Worked on creating the EC2 Cluster to install and execute spark
+    application for big data processing based on event notification
+    using Lambda, SNS, Cloud Formation.
+
+-   Implemented Microservices using Spring Boot and deployed the
+    application on AWS.
+
+-   Developed API for using AWS Lambda to manage the servers and run the
+    code in AWS.
+
+-   Developed Java API to interact with the Amazon SQS used for sending
+    bulk emails. 
+
+-   Experience on creating images through Docker and deploying them in
+    Kubernetes environment.  
+
+-   Experience on messaging and streaming technologies such as
+    AmazonSNS, Active MQ and Apache KAFKA.
+
+-   Experienced in developed a web application by using Angular4 as
+    frond end and using web API to receive and pass data to back end.
+
+-   Utilized core Angular4 features such as HTTP, Data Binding, Services
+    and Dependency Injection.
+
+-   Proficiency on CI/CD tools/processes (Git, Gradle, Maven, Jenkins,
+    and Junit) 
+
+-   Experience in Integration of Amazon Web Services with other
+    applications infrastructure.
+
+-   Extensive experience in developing RESTful Web Services using Apache
+    CXF and Jersey.
+
+-   Experience in designing User Interactive UI Web Pages and visually
+    appealing User Interfaces with the help of HTML 5 and CSS3.
+
+-   Experience in front end user interface using HTML5, XML, CSS3,
+    Bootstrap, JavaScript, jQuery, AJAX, AngularJS, jQuery and JSP2.0.
+
+-   Experience in using J2EE Application Servers such as WebLogic,
+    WebSphere 7/8and JBoss 7.
+
+-   Experience in Oracle, IBM DB2 and MySQL. Experience in writing SQL
+    Queries, PL/SQL Packages, Stored Procedures, and Functions.
+
+-   Experience in Unit testing using JUnit and TestNG.
+
+-   Used Eclipse IDE for developing application using pivotal components
+    like Spring Boot, Spring Cloud, Spring Rest, Spring JDBC.
+
+-   Experience in software development methodologies such as Agile,
+    Scrum, Test Driven Development.
+
+-   Experience with configuration management tools like Subversion and
+    GIT.
+
+-   Experience in use of build tools like Maven and Jenkins for build &
+    deployment
+
+Environment: Java, J2EE, HTML5, DHTML, CSS3, Bootstrap, jQuery,
+Angular4, Spring IOC, Spring AOP, Spring MVC, Spring Security,
+Hibernate, AJAX, Spring boot, JSON, JDBC, REST, SOAP, AWS, Oracle, SQL,
+PL/SQL, Unit Testing, JUnit, Log4j, Maven
+
+One TRUST Inc
+
+Software developer
+
+Atlanta, GA May 2017- sept 2019
+
+Responsibilities:
+
+-   Designed, developed, enhanced and supported Java/J2EE architecture,
+    used algorithms and data structures, Microservices in Spring Boot,
+    secured Restful based Web Services using HTTPS and Oauth2
+    Authentication. Created, developed and deployed to AWS.
+
+-   Development, enhancement and support of Quartz Schedule
+
+-   Continuously managed and improved the build infrastructure for
+    global software development engineering teams including
+    implementation of build scripts, continuous integration
+    infrastructure and deployment tools.
+
+-   Angular 2+ and Ionic 3 Native builds for single model view
+    solutions.
+
+-   Developed J2EE enterprise applications in Microservices
+    architecture.
+
+-   Developed web applications by using Spring framework modules like
+    Spring IOC, Spring AOP, Spring MVC, Spring Security, Spring Boot,
+    Spring Cloud, Spring Batch and Spring Data.
+
+-   Used AWS Beanstalk for deploying and scaling web applications and
+    services developed with Java 8, PHP, Node.js.
+
+-   Ability to analyze, design and implement cloud migration strategies.
+
+-   Used Docker, Spring Boot, JBOSS.
+
+-   Used JSF as user interface web application.
+
+-   Experienced in automating, configuring and deploying instances
+    on AWS environment and Data centers, also familiar with EC2, Lambda,
+    Cloud watch, Cloud Formation and managing security groups on AWS.
+
+-   Designed and implemented scalable, secure cloud architecture based
+    on Amazon Web Services. 
+
+-   Defined branching, labeling, and merge strategies for all
+    applications in Git. 
+
+-   Built Continuous Integration environment Jenkins, TFS, SVN and
+    Continuous delivery environment. 
+
+-   Responsible for maintaining and expanding AWS (Cloud Services)
+    infrastructure using Stack especially worked with database setup and
+    maintenance on AWS EC2.
+
+-   Developed Bean's implementation Class.
+
+-   Code Build and migration to different UNIX environments.
+
+-   Migration of existing Java/J2EE application to new WebLogic
+    environments.
+
+-   Understanding of Business Requirements, business use case and data
+    dictionary provided by external IT Teams
+
+-   Writing MapReduce Programs, Hive and PIG Script and developed
+    applications using Spring boot.
+
+-   Worked and lead the offshore team to finish the patch up and cleanup
+    work.
+
+-   Used Paging on call to work with offshore during the time of PROD
+    errors.
+
+Environment:  Git, ESB, Jazz, VPC, AWS EC2, Lambda, S3, Route53, EBS,
+DynamoDB, IAM, ELB, Java 8, Cloud watch, WAS, JSF 2.2, Hibernate,
+Jira, AWS Auto Scaling, JSF, Redis, TDD, Multi-Threading, JAX-RS,
+Jenkins, MongoDB, Unix/Linux, Spring, Sonar, Spring boot, Shell
+scripting
+
+DST Systems Inc:
+
+Software Engineer
+
+Hyderabad, India June 2015- dec 2016
+
+Responsibilities:
+
+-   Identified the Business requirements of the project. Involved in
+    preparing System Requirements for the project.
+
+-   Strong understanding of the software development cycle, specifically
+    Agile/SCRUM.
+
+-   Involved in preparing the High Level and Detail level design of the
+      system using J2EE.
+
+-   Developed the applications using Java, J2EE, Struts, Servlet, JDBC.
+
+-   Created struts form beans, action classes, JSPs following Struts
+      framework standards.
+
+-   Involved in writing the presentation layer and GUI framework in JSP.
+
+-   Developed an API to write XML documents from a database. Utilized
+      XML and XSL Transformation for dynamic web-content and database
+      connectivity.
+
+-   Worked on various use cases in development using Struts and testing
+      the functionalities.
+
+-   Implemented the database connectivity using JDBC with Oracle
+      database as backend.
+
+-   Involved in the development of underwriting process, which involves
+      communications without side systems using IBM MQ and JMS.
+
+-   Taken care of complete Java multi-threading part in backend
+      components.
+
+-   Developed and maintained UNIX shell scripts for data-driven
+      automatic processing. 
+
+-   Apache Ant was used for the entire build process.
+
+-   Used Rational Clear Case for version control and JUnit for unit
+      testing.
+
+-   Used quartz scheduler to process or trigger the applications daily.
+
+-   Configured WebSphere Application server (WAS) and deployed the web
+      components.
+
+Environment: Flex, EJB, Struts, spring, JSP, Servlets, Jasper reports,
+JMS, IBM MQ, XML, SOAP, UDDI, WSDL, JDBC, JavaScript, XSLT, XML, UML,
+HTML, JNDI, Rational Rose, Oracle, IBM WebSphere (WAS), Clear Case, ANT,
+JUnit, IBM RAD, and Apache Tomcat, RAD.

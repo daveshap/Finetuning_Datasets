@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a high school student applying to college and I need help writing my personal statement.
+COACH: Great! What kind of information do you want to include in your personal statement?
+STUDENT: Well, I'm a refugee from Germany and I'm trying to figure out how to finance college. I'm hoping to include that in my essay.
+COACH: That's a great topic to explore in your personal statement. Financing college can be a daunting task, but there are many resources available to help you. Have you looked into scholarships or grants specifically for refugees or international students?
+STUDENT: Yes, I have. I found a few, but I'm not sure how to apply for them.
+COACH: That's understandable. Applying for scholarships and grants can be a complicated process. Let's start with the basics. What kind of information do you need to provide when you apply for these types of financial aid?
+STUDENT: I think I need to provide proof of my refugee status, my grades, and some other personal information.
+COACH: That's right. You'll also need to provide a copy of your transcript and any other documents that prove your eligibility for the scholarship or grant. Additionally, you'll need to provide a detailed explanation of why you are applying for the financial aid and how it will help you achieve your educational goals. Once you have all of this information, you can begin to fill out the application.

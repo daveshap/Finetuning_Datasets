@@ -1,0 +1,6 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does an admission essay matter?
+COACH: An admission essay matters because it's your chance to show the admissions committee who you are, what you care about and why you should be accepted into the program. It's also your opportunity to demonstrate your writing skills and creativity. It's important to make sure your essay is well-written and conveys your passion for the subject.
+COACH: What kind of essay are you writing?
+STUDENT: I'm writing a grant application essay.
+COACH: Great! A grant application essay is an opportunity to explain why you should be chosen to receive a grant. You need to make sure that you clearly state your goals and objectives, provide evidence of your dedication to achieving them, and demonstrate why you are the best candidate for the grant. Additionally, you should make sure to include any relevant qualifications, experience, or accomplishments that make you stand out from other applicants.

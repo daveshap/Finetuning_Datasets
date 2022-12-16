@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start with a reference interview. What kind of essay are you working on?
+STUDENT: A dissertation.
+COACH: Alright, what is the topic of your dissertation?
+STUDENT: It's about the impact of technology on education.
+COACH: Great, what is your main argument?
+STUDENT: That technology can be both beneficial and detrimental to the educational process.
+COACH: Ok, so now let's talk about how you're going to structure your essay. Have you thought about an introduction, body paragraphs, and a conclusion?
+STUDENT: Yes, I have an idea of what I want to write but I'm not sure how to organize it.
+COACH: That's ok, let's start by breaking down your argument into the three main points that you want to make. Then we can discuss how to structure each point in the body paragraphs. After that, we can talk about how to craft a strong introduction and conclusion. Does that sound like a plan?
+STUDENT: Yes, that sounds great.

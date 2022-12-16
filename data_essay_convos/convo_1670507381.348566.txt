@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i write a good conclusion?
+COACH: A good conclusion is an important part of any essay, especially a grant application. It's your chance to sum up the main points of your argument and leave a lasting impression on the reader. To write a good conclusion, you should restate your main point, summarize your evidence, and explain why it matters. You can also provide a call to action or a suggestion for further research.

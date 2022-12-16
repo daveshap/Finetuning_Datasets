@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i apply for grants?
+COACH: Grants are typically awarded based on financial need, academic merit, or a combination of both. When applying for grants, it is important to provide information that demonstrates your eligibility for the grant. This could include financial documents such as tax returns, bank statements, and other financial records. Additionally, you may need to provide proof of academic achievement, such as transcripts, test scores, and letters of recommendation. 
+STUDENT: What should I include in my essay?
+COACH: When writing a persuasive essay, it is important to include an introduction, body paragraphs, and a conclusion. In the introduction, you should provide some background information about the topic and state your main argument. In the body paragraphs, you should provide evidence to support your argument. This could include facts, statistics, quotes, and examples. Finally, in the conclusion, you should restate your main argument and summarize the evidence you have provided.

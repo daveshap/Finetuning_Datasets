@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, let's start by talking about what kind of essay you are writing. Is this a dissertation for college admissions?
+STUDENT: Yes, it is.
+COACH: Okay, great. A dissertation for college admissions is a very important piece of writing, so it's important to make sure you understand the purpose and structure of the essay. What do you know about the essay so far?

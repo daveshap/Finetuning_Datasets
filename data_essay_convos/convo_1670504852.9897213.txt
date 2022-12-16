@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay shorter?
+COACH: Well, there are a few different ways to make your essay shorter. First, you can eliminate any unnecessary details or descriptions that don’t contribute to the main argument of your essay. You can also look for opportunities to combine ideas or sentences together to make them more concise. Finally, you can use words that convey the same idea but are shorter in length.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction, body paragraphs, and a conclusion. The introduction should include a hook or attention-grabbing statement, followed by a thesis statement that states the main point of your essay. The body paragraphs should all be related to the thesis statement and provide evidence to support it. The conclusion should summarize the main points of your essay and leave the reader with a lasting impression.

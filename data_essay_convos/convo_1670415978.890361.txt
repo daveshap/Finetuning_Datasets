@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to NCSU and I need help writing my personal statement.
+COACH: Great! Before we get started, why don't you tell me a bit about yourself? What are some of your goals and personal objectives?
+STUDENT: Sure. Well, I'm currently a senior in high school and my goal is to attend MIT. I'm passionate about social issues and I'm interested in studying how technology can be used to improve the lives of people in need.
+COACH: That's great! It sounds like you have a clear vision for your future. Now, what do you want to write about in your personal statement?
+STUDENT: I want to talk about my passion for social issues and how I plan to use technology to make a positive impact. I also want to highlight my academic achievements and how they have prepared me for college.
+COACH: Perfect! You have a great topic to focus on. Let's start by brainstorming some ideas. What do you think would be the best way to present your story? 
+STUDENT: I think I should focus on my experiences and how they have shaped my passion for social issues. I could talk about the challenges I faced and how I overcame them. I could also discuss the research I've done, the classes I've taken, and the projects I've worked on that have contributed to my understanding of technology and its potential to help people in need. 
+COACH: That sounds like a great approach! Now let's talk about structure. How do you think you can best organize your essay so that it flows logically and captures the reader's attention?
+STUDENT: I think I should start with a brief introduction that outlines my goals and objectives. Then, I could move into the body of the essay where I discuss my experiences and the research I've done. I could end with a conclusion that ties everything together and emphasizes why I'm the best candidate for NCSU. 
+COACH: That sounds like a great plan. Now, let's talk about the specifics. What kind of details do you think will make your essay stand out?
+STUDENT: I think I should include specific examples from my experiences that demonstrate my passion for social issues and how I plan to use technology to make a positive impact. I could also talk about the classes I've taken and the projects I've worked on that have helped me develop my understanding of technology and its potential to help people in need.

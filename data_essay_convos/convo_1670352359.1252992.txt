@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke and Yale and I'm having trouble coming up with a topic.
+COACH: Alright, let's start by talking about what interests you most. What topics do you usually enjoy discussing?
+STUDENT: Well, I'm really interested in racism and its effects on society.
+COACH: That's a great topic to write about. Let's break it down into smaller parts. What would you like to focus on specifically?
+STUDENT: I was thinking about exploring how racism has been institutionalized, and how it affects people's chances of getting a job after college.
+COACH: That's a great angle to take. You can look at how racism has been embedded in certain industries, and how it affects people's ability to get a job after college. You can also look at how employers might be biased against certain groups, and how that impacts the hiring process. You can also explore potential solutions to these issues, such as affirmative action policies or other initiatives. Does this sound like something you would be interested in writing about?

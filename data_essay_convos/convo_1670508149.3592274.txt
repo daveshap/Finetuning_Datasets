@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: Well, that depends on what type of essay you're writing. Is it a dissertation?
+STUDENT: Yes, it is.
+COACH: Okay, great. First, let's talk about the structure of your dissertation. What kind of structure are you using? 
+STUDENT: I'm using a traditional five-paragraph structure.
+COACH: Alright, that's a good start. Now, let's think about how to make your essay more engaging. One way to do this is to use vivid language and imagery. This will help to draw your reader in and keep them engaged. Additionally, you can use rhetorical devices like metaphors and similes to make your points more interesting. Finally, you can use transitions between paragraphs to help the reader follow your argument.

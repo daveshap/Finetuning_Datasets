@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I want to write an essay about my passion for charity work and how it relates to neurodiversity.
+COACH: That sounds like an interesting topic! Can you tell me more about what you want to focus on in your essay?
+STUDENT: Sure! I want to talk about how my experience with charity work has made me more aware of the struggles faced by people with neurodiversity, and how I hope to use my knowledge and experience to help others in similar situations.
+COACH: That's a great idea! What do you think makes an essay about this topic engaging?
+STUDENT: I think it's important to focus on personal stories and experiences, as well as facts and statistics. It's also important to include examples of how my passion for charity work has motivated me to take action and make a difference in the lives of those with neurodiversity.
+COACH: Those are all great points! Now, what kind of structure would you use for your essay?
+STUDENT: I was thinking of starting with an introduction that explains why I'm passionate about charity work and how it relates to neurodiversity. Then I'd move on to the body of the essay, which would discuss my experiences with charity work and how they've impacted my understanding of neurodiversity. Finally, I would conclude with a reflection on how I plan to use my knowledge and experience to help others in similar situations.

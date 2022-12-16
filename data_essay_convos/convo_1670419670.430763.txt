@@ -1,0 +1,21 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college admission essay.
+COACH: Great! Can you tell me a little bit about what you're writing about?
+STUDENT: Well, I'm considering writing about sexism in the Vietnam War.
+COACH: Interesting topic! What kind of research have you done so far on the subject?
+STUDENT: I've done some research online and read a few books, but I'm still not sure what angle to take with my essay.
+COACH: That's understandable. Have you thought about what personal experiences or stories you could include in your essay?
+STUDENT: Not really. I'm not sure what would be relevant to the topic.
+COACH: That's a great question. Think about how your own life experiences can connect to the issue of sexism in the Vietnam War. For example, have you ever experienced sexism in your own life? Or do you know anyone who has?
+STUDENT: Yes, I have experienced sexism in my life, but I'm not sure if it's relevant to the topic.
+COACH: Absolutely! You can use your experiences to illustrate the broader issue at hand. Think about how you can use your experiences to show the reader the effects of sexism in the Vietnam War.
+STUDENT: Okay, that makes sense.
+COACH: Great! Now, let's talk about the structure of your essay. Have you thought about what kind of format you want to use?
+STUDENT: Not really, no.
+COACH: No problem! I suggest using a narrative format, where you tell a story about your experiences with sexism and then draw conclusions about the larger issue. That way, you can make a strong argument and really engage the reader.
+STUDENT: That sounds like a good approach.
+COACH: Wonderful! Now, let's talk about the specifics of your essay. What kind of word count are you aiming for?
+STUDENT: I'm thinking around 500 words.
+COACH: Perfect! That's a good length for a college admission essay. Now, let's talk about the application process for Duke University. What do you need to know about applying to Duke?
+STUDENT: I'm not sure. I know I need to submit an essay, but I'm not sure what else I need to do.
+COACH: Okay, great. Applying to Duke is a multi-step process. You'll need to fill out an application form, submit your essay, and provide transcripts and letters of recommendation. You'll also need to submit your SAT or ACT scores and complete an interview. Once you've completed all of these steps, you'll be ready to submit your application.

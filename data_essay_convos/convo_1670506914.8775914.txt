@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That’s a great question. Can you tell me a bit more about what you’re hoping to learn from this research paper? What kind of information are you looking for? 
+STUDENT: I want to know the benefits of attending college, and the potential disadvantages of not attending college.
+COACH: That’s a great starting point! There are a lot of different angles you could take with this topic, so let’s start by talking about what kind of research you’ll need to do. What kind of sources will you be using?

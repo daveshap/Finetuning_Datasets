@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: That's a great question. When choosing a topic for your admissions essay, you want to pick something that reflects your unique background, experiences and perspective. Think about what makes you unique and how you can use that to stand out from the crowd. You could also think about a challenge you have faced and how you overcame it. 
+STUDENT: How do I start my essay?
+COACH: Starting an essay can be intimidating, but there are some strategies to make it easier. First, brainstorm and make a list of potential topics and ideas. Then, narrow down your list to the ones that best reflect your unique story and experiences. Once you've chosen your topic, create an outline of your essay so that you know what points you want to make and how they will fit together. Finally, start writing your essay, focusing on the main points of your outline and using vivid language to capture the reader's attention.
+STUDENT: What should I include in my essay?
+COACH: Your admissions essay should highlight the qualities that make you unique, such as your background, education, skills, talents, and interests. It should also demonstrate your ability to communicate effectively and express yourself clearly. Additionally, you should use vivid language and concrete examples to illustrate your points and make them memorable. 
+STUDENT: How do I make my essay stand out?
+COACH: To make your essay stand out, you need to focus on making it unique and personal. Think about what makes you different from other applicants and make sure to showcase those qualities in your essay. Additionally, you should strive to write in a creative and engaging way. Use vivid language and interesting examples to make your essay more compelling. Finally, be sure to proofread and edit your essay to ensure that it is free of any errors.

@@ -1,0 +1,28 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help with my college application essays.
+COACH: Great! What kind of help do you need?
+STUDENT: I'm not sure what to write about in my personal statement.
+COACH: Okay, let's start by understanding your background and interests. What have been some of your most meaningful experiences that have shaped who you are today?
+STUDENT: Well, I was born and raised in Germany and my family is Muslim. Growing up, I was taught to be proud of my culture and faith, and to be open-minded to different perspectives.
+COACH: That's wonderful. It sounds like your cultural background has had a big impact on your identity. What have you done to explore and express your faith and culture?
+STUDENT: I've been to several interfaith dialogues, where I've discussed my religion with people of other faiths. I've also volunteered at a local mosque, teaching children about Islam.
+COACH: That's great! It sounds like you've taken the initiative to learn more about your faith and culture, and to share it with others. Now, let's talk about how you can use this experience to inform your personal statement. What would you like to emphasize in your essay?
+STUDENT: I want to show that my faith and culture have inspired me to be open-minded and tolerant of different perspectives. I also want to demonstrate that I'm committed to using my education to make a positive difference in the world.
+COACH: That's a great goal! You could start by talking about your experience growing up in Germany and how it has shaped your view of the world. You could also discuss how your faith has motivated you to seek out meaningful opportunities to learn and serve your community. Finally, you could talk about how your experiences have prepared you to pursue a college education and how you plan to use your degree to make a positive impact. Does that sound like something you'd be interested in writing about?
+STUDENT: Yes, that sounds perfect.
+COACH: Great! Now, what college are you applying to?
+STUDENT: I'm applying to Duke University.
+COACH: Excellent! Now that we have a clear idea of what you'd like to write about, let's focus on how to make your essay stand out. What do you think makes your story unique?
+STUDENT: I think my story is unique because I'm able to combine my faith, culture, and academic interests in a way that is meaningful and inspiring.
+COACH: That's a great point! You could focus on how your faith and culture have helped you develop a unique perspective on the world and how that perspective has motivated you to pursue a college education. You could also talk about how your experiences have prepared you to make an impact on the world. Does that sound like something you'd be interested in writing about?
+STUDENT: Yes, that sounds great.
+COACH: Perfect! Now that we have a clear idea of what you'd like to write about, let's talk about how to make your essay stand out. What do you think makes your story unique?
+STUDENT: I think my story is unique because I'm able to combine my faith, culture, and academic interests in a way that is meaningful and inspiring.
+COACH: That's a great point! You could focus on how your faith and culture have helped you develop a unique perspective on the world and how that perspective has motivated you to pursue a college education. You could also talk about how your experiences have prepared you to make an impact on the world. Does that sound like something you'd be interested in writing about?
+STUDENT: Yes, that sounds great.
+COACH: Fantastic! Now, let's talk about how to structure your essay. What topics would you like to cover in each paragraph?
+STUDENT: I think I should start by talking about my background and how it has shaped my worldview. Then I could discuss how my faith and culture have motivated me to pursue a college education. Finally, I could talk about how I plan to use my education to make a positive impact.
+COACH: That sounds like a great plan! I suggest focusing on one or two key experiences that have shaped your worldview and how they have motivated you to pursue a college education. You could also discuss how your experiences have prepared you to make an impact on the world. Does that sound like something you'd be interested in writing about?
+STUDENT: Yes, that sounds great.
+COACH: Perfect! Now that we have a plan, let's talk about the specifics of your essay. What kind of evidence can you provide to support your points?
+STUDENT: I can provide examples of my volunteer work, as well as my academic achievements. I can also discuss how

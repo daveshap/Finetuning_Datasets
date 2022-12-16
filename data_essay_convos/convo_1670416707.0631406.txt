@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi there! I'm applying to college and I'm having trouble coming up with a topic for my essay.
+COACH: That's understandable. What kind of topics interest you?
+STUDENT: I'm really passionate about LGBT rights and refugee rights, and I've been to Thailand for a volunteer trip.
+COACH: Great, that's a great starting point! Have you considered writing about your experience in Thailand and how it has impacted your views on LGBT and refugee rights?
+STUDENT: Yes, that's a good idea. But what do I write about specifically?
+COACH: Well, what did you learn from your time in Thailand? What was your experience like? How did it shape your views on LGBT and refugee rights? You could also talk about the people you met there, the organizations you worked with, and how it all made you feel.
+STUDENT: That's a great idea! I think I can write something really engaging about my experience in Thailand.
+COACH: Absolutely! When writing an essay, it's important to make sure it's engaging and captures the reader's attention. Try to focus on the details and how it made you feel. Describe the sights, sounds, and smells of the places you visited. Paint a vivid picture of your experience and how it shaped your views. 
+STUDENT: Got it! I think I have enough material to work with now. Thanks for your help!
+COACH: You're welcome! I'm always here to help. Good luck with your essay!

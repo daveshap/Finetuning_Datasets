@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply to UCLA and NCSU for grad school, and I need help writing my essay.
+COACH: Sure, let's get started. Can you tell me a bit about yourself and why you're applying to these schools?
+STUDENT: Sure. I'm a recent graduate from NCSU, and I'm looking to pursue a Masters in Business Administration. I have a strong background in economics, and I've been involved in some charity work during my time at NCSU.
+COACH: That's great! So what do you think sets you apart from other applicants? What are your unique skills and achievements?
+STUDENT: Well, I think my experience in economics gives me an edge, as well as my involvement in charity work. I also have a strong work ethic, and I'm very passionate about what I do.
+COACH: That's fantastic! What about your education? What have you done to make sure you're prepared for grad school?
+STUDENT: I've taken extra classes in economics and business, and I've done some research on the topics I'm interested in. I've also been networking with alumni from both schools to learn more about their programs and the expectations for students.
+COACH: Great! It sounds like you've put in a lot of effort to prepare for grad school. What do you think sets you apart from other applicants?
+STUDENT: I think my experience in economics, my involvement in charity work, and my dedication to learning and networking set me apart from other applicants. I'm also very organized and have a strong work ethic, which I think will help me succeed in grad school.

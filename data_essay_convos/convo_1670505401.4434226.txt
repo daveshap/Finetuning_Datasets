@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: Scholarships are awards of financial aid for a student to further their education. Generally, scholarships are awarded based on academic achievement or some other criteria set by the awarding organization. To be eligible for a scholarship, you may need to meet certain criteria such as having a certain grade point average or being involved in certain extracurricular activities. Some scholarships may also require an essay or other written material from the applicant.

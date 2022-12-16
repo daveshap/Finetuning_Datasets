@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to medical school and I need to write an essay about my goals and personal objectives.
+STUDENT: I want to focus on social issues I'm passionate about, such as LGBT rights and access to healthcare.
+COACH: That sounds like an excellent topic for your essay! Can you tell me a bit more about why these topics are important to you?
+STUDENT: Absolutely. I'm a student at North Carolina State University and I've seen firsthand how the lack of access to healthcare can disproportionately affect members of the LGBT community. It's something that I feel very strongly about and I want to use my essay to make a difference.
+COACH: That's great! It sounds like you have a strong purpose for writing this essay. Can you tell me more about your goals? What do you hope to achieve by writing about this topic?
+STUDENT: I want to raise awareness about the issues that the LGBT community faces when it comes to healthcare. I also want to challenge the status quo by demonstrating how access to healthcare can be improved for everyone, regardless of their sexual orientation or gender identity. Ultimately, I want to use my essay to make a difference in the lives of people who are marginalized or discriminated against because of their identity.
+COACH: That's a really inspiring goal! What kind of research have you done to back up your points?
+STUDENT: I've done a lot of research on the subject. I've read articles, studied statistics, and interviewed people in the LGBT community to gain a better understanding of the issues they face. I've also looked into potential solutions to the problem and have come up with a few ideas that I plan to include in my essay.

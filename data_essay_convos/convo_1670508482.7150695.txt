@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do scholarships work?
+COACH: That’s a great question. Scholarships are awards that are given out to students based on their academic achievements, financial need, or other criteria. They can be used to help pay for college tuition, books, and other educational expenses. Can you tell me a little bit more about what you’re looking for?
+STUDENT: I want to write a research paper about scholarships and how they can help students.
+COACH: That sounds like an interesting topic. Let’s start by talking about the purpose of your paper. What do you want to accomplish with this research paper? 
+STUDENT: I want to show how scholarships can benefit students and why they should apply for them.
+COACH: That’s a great goal. Now, let’s talk about the structure of your paper. What kind of information do you plan to include in your paper? 
+STUDENT: I want to include information about the different types of scholarships, the criteria for getting them, and the advantages of applying for them.
+COACH: That sounds like a comprehensive list of topics. Now, let’s talk about sources. What kind of sources do you plan to use for your research paper? 
+STUDENT: I want to use scholarly articles, books, and websites.
+COACH: That’s a great plan. Now, let’s talk about the structure of your paper. What kind of sections do you want to include? 
+STUDENT: I want to include an introduction, body, and conclusion.
+COACH: Perfect. Now, let’s talk about how you plan to organize the information in each section. How do you plan to organize the information in the body of your paper? 
+STUDENT: I plan to break it down into categories such as types of scholarships, criteria for getting them, and advantages of applying for them.
+COACH: That sounds like a great plan. Now, let’s talk about the conclusion of your paper. How do you plan to wrap up your paper? 
+STUDENT: I want to summarize the main points of my paper and leave the reader with a call to action.

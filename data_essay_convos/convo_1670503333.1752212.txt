@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: Great question! Scholarships and grants are typically awarded based on a combination of academic performance, financial need, and extracurricular activities. To maximize your chances of getting scholarships and grants, you should make sure to highlight these elements in your essay. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction that outlines the main points you want to cover. Make sure to include specific examples and facts to back up your argument. In the body of the essay, you should explain why you are a good fit for the school or program you are applying to. You can also discuss any extracurricular activities, awards, or other achievements that you have earned. Finally, your essay should have a conclusion that summarizes the main points of your argument and provides a strong call to action.

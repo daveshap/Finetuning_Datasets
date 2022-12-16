@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to several universities and I need help writing my essay.
+COACH: Great! What universities are you applying to?
+STUDENT: Well, I'm applying to MIT, Yale, Duke University, and a few other schools.
+COACH: That's excellent! What kind of essay are you looking to write?
+STUDENT: I'm trying to write a personal statement that highlights my experiences growing up in a single parent home and how I've been able to embrace my neurodiversity.
+COACH: That sounds like an interesting and unique essay topic. Can you tell me more about your experiences growing up in a single parent home and how you've been able to embrace your neurodiversity?
+STUDENT: Sure. Growing up in a single parent home was challenging, but it also taught me the importance of resilience and self-reliance. I had to learn to be independent and to take responsibility for my own actions. As for my neurodiversity, I have always been aware of my differences from others and have embraced them. I think that this has helped me to become a better problem solver and to think outside the box.
+COACH: That's really inspiring. It sounds like you have a lot of valuable experiences and insights to share in your essay. How would you like to approach the writing process?
+STUDENT: I think I'd like to start by brainstorming ideas and then outlining my essay before I start writing.

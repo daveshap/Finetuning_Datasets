@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm hoping to apply to Princeton and I'm a bit confused about how college admissions work and what kind of essay I should write.
+COACH: Great, I'm happy to help. First off, let me explain the basics of college admissions. Every college has its own admissions process, but generally speaking, they look at your academic record, extracurriculars, test scores, and essays. Your essay is an important part of your application, as it gives you the chance to show the admissions committee who you are and why you would be a good fit for their school. 
+STUDENT: That's really helpful. What makes an essay engaging?
+COACH: An engaging essay is one that tells a story. It should have a clear beginning, middle, and end, and it should be focused on a specific experience or moment in your life. It should also be written in a way that shows your personality and interests. For example, if you're applying to a science program, you could write about a time when you solved a difficult problem or conducted an experiment that had an unexpected outcome. 
+STUDENT: That sounds great. Do you have any other tips for writing a successful admissions essay?
+COACH: Absolutely! Make sure to proofread your essay and get feedback from someone who can give you an honest opinion. Also, don't be afraid to be creative and use vivid language to bring your story to life. Finally, try to make your essay stand out by expressing your own unique perspective. Good luck!

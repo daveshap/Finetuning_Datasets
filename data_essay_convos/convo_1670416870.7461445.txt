@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for law school, but I'm having trouble getting started.
+COACH: Okay, what kind of essay do you need to write? 
+STUDENT: It's for my admission essay.
+COACH: Alright, why does an admission essay matter? What do you want to convey to the admissions committee about your candidacy?
+STUDENT: I want to demonstrate that I'm an interesting person with a unique perspective on life and the law.
+COACH: That's great! Can you tell me more about what makes you unique? What experiences have shaped your views on law and life?
+STUDENT: Well, I've traveled a lot and have seen different cultures, which has made me more open-minded. I've also experienced sexism in many different countries, so I'm passionate about challenging gender stereotypes and creating an equal society.
+COACH: Wow, that's really impressive. So it sounds like you have a lot of experience and knowledge that you can draw from when writing your essay. Do you have any other topics or ideas that you'd like to explore in your essay?
+STUDENT: I'm not sure. I feel like I'm not interesting enough as a person to write a compelling essay.
+COACH: Don't worry, everyone feels like that at some point! Everyone has unique experiences and perspectives that are worth sharing. What are some of the things you're passionate about? How have those passions shaped your views on law and life? You can use those experiences to write a compelling essay.

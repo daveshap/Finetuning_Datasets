@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply to college and I'm having trouble with my personal statement.
+COACH: Alright, let's start by talking about what you want to say in your personal statement. What are your passions and interests that you want to highlight?
+STUDENT: Well, I'm really passionate about creativity and art. I've been exploring different forms of visual art and I'm also interested in exploring European art and culture.
+COACH: That sounds amazing! It's great to hear that you have such a strong interest in art and culture. Now, the next step is to think about how you can use these passions and interests to craft an effective personal statement. What do you think admissions officers would be looking for in your essay?
+STUDENT: I think they'd be looking for evidence of my creativity, as well as a demonstration of my commitment to learning and exploring new cultures.
+COACH: That's a great insight! To make your essay stand out, you can focus on how your passion for art has shaped your life and how it has helped you grow and develop. You can also talk about the different ways you've explored European art and culture, and how it has impacted your understanding and appreciation of the world around you. Finally, you can discuss what you hope to gain from your college experience and how your passions and interests will help you reach those goals.

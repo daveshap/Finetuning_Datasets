@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I structure an essay?
+COACH: The structure of an essay is important because it helps to organize your thoughts and ideas. Generally, a college admissions essay should have an introduction, body paragraphs, and conclusion. The introduction should introduce the topic and provide some background information. The body paragraphs should each focus on a different point and provide evidence to support that point. The conclusion should summarize the main points of the essay and provide a final thought or opinion.
+STUDENT: What kind of topics are good for a college admissions essay?
+COACH: A college admissions essay should focus on a personal experience or story that will help the admissions committee get to know you better. It could be about a challenge you faced, a success you achieved, a person who has influenced you, or a lesson you learned. It is important to choose a topic that is meaningful to you and that you can write about in an engaging way. 
+STUDENT: What tips do you have for writing a persuasive essay?
+COACH: When writing a persuasive essay, it is important to use facts, evidence, and logical arguments to support your points. Make sure to back up your claims with credible sources and provide examples to illustrate your points. Also, consider the other side of the argument and address any counter-arguments. Finally, end your essay with a strong call to action that will leave a lasting impression.

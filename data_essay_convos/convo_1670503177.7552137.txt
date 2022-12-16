@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: first generation college student?
+COACH: Yes, you can definitely write about being a first-generation college student. A great way to start is by introducing yourself and your background. Talk about the challenges you faced growing up and how they shaped you into the person you are today.
+STUDENT: What should I focus on in my essay?
+COACH: You should focus on the unique experiences that you have had that have helped shape you into the person you are today. Think about your family, your culture, your community, and any special circumstances or obstacles that you have faced. What have you learned from these experiences? How have they impacted your life?
+STUDENT: What research should I do for my essay?
+COACH: You should research the college or universities you are applying to. Look at their mission statements, values, and goals. Research the programs they offer and the opportunities they provide. Additionally, research the people who have attended the college or university, their backgrounds, and their achievements. This will give you a better understanding of what the college or university is looking for in a potential student.

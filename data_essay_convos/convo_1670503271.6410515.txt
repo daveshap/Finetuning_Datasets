@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does financing college work?
+COACH: Financing college is a complex process, but the basics are fairly simple. To start, you will need to fill out the Free Application for Federal Student Aid (FAFSA) form. This form will provide the school with information about your family’s financial situation and allow them to determine how much aid you are eligible for. Additionally, you may be able to receive scholarships and grants from the school or from private organizations. Finally, you may need to take out student loans to cover the remaining costs. 
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on your personal story and why you are a good candidate for the college. You should include information about your academic and extracurricular achievements as well as any obstacles you have faced and how you overcame them. Additionally, you should discuss any special skills or experiences that make you unique. Finally, you should explain why the college you are applying to is the best fit for you and why you are the best fit for the college.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an admissions essay for my undergrad application to a science program and I'm not sure what to write about.
+COACH: That's a great question! What kind of essay prompt did you receive?
+STUDENT: It's asking me to explain why I'm interested in the field of science and how it relates to my future goals.
+COACH: Okay, great. Before we start brainstorming ideas, can you tell me a bit more about your interest in science? What sparked your interest and how have you pursued it so far?
+STUDENT: Well, I've always been fascinated by the natural world and how things work. I've taken several science courses in high school and I'm really excited to continue exploring the subject in college.
+COACH: That's great! It sounds like you have a strong passion for science. Now, let's think about how to make your essay engaging. What kind of stories can you tell that will illustrate your passion for science? 
+STUDENT: Hmm, well I remember when I was a kid I used to take apart old electronic gadgets and try to figure out how they worked. I guess that's where my interest in science started.
+COACH: That's a great story! You could use that to introduce your essay and then go on to explain how your curiosity has grown and developed over the years. You could also talk about any experiences or research projects you've done that have further fueled your interest in the field. Keep in mind that admissions committees want to see that you're passionate and motivated to pursue a career in science. 
+STUDENT: Okay, that makes sense. I think I have some good ideas now. Thanks for the help! 
+COACH: You're welcome! Feel free to reach out if you need any more help with your essay. Good luck!

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my college admission essay?
+COACH: Well, it depends on the prompt you were given. But a persuasive essay typically focuses on a specific topic or issue and then attempts to persuade the reader to accept your point of view. So think about something that you feel strongly about and can argue for in your essay.
+STUDENT: What kind of structure should I use for my essay?
+COACH: A persuasive essay should have an introduction, body paragraphs, and a conclusion. The introduction should introduce the topic and your argument, while the body paragraphs should provide evidence and examples to support your argument. Finally, the conclusion should summarize your argument and emphasize its importance.
+STUDENT: How can I make sure my essay is persuasive?
+COACH: To make sure your essay is persuasive, you need to make sure your argument is well-supported with evidence and examples. You also need to make sure that your writing is clear and concise, and that you use strong, persuasive language to make your point. Finally, you should also make sure that you address any potential counterarguments in your essay and explain why they are wrong.

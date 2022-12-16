@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I find a job after college?
+COACH: That’s a great question. I think the best way to start is by doing some research and getting a better understanding of the job market. What type of essay are you working on?
+STUDENT: I'm writing a personal statement for grad school.
+COACH: Okay, great. A personal statement for grad school is an opportunity for you to explain why you're a good fit for the program and how your experiences have shaped who you are and what you can offer. It's important to be honest and authentic in your writing, but also to make sure that you're highlighting your strengths and accomplishments. Can you tell me more about your experiences and what makes you a good fit for this program?

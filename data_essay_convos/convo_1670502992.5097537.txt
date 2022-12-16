@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers look for essays that are well-written, thoughtful, and demonstrate a student's knowledge and understanding of the topic. They also want to see how a student can express themselves in writing. They want to get a sense of who the student is and what makes them unique.
+STUDENT: What topics should I avoid when writing my essay?
+COACH: It's important to avoid topics that are too controversial, overly personal, or too generic. You should also avoid writing about topics that you don't have a strong understanding of. It's best to focus on topics that you are passionate about and that you can discuss in detail.
+STUDENT: How can I make my essay stand out?
+COACH: You can make your essay stand out by being creative and using interesting language. Make sure to use vivid descriptions and examples to illustrate your points. You can also use stories or anecdotes to help bring your essay to life. Finally, make sure to proofread your essay carefully to ensure that there are no mistakes.

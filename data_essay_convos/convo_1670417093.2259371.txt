@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UCLA and I'm having trouble writing my college admission essay.
+COACH: Alright, let's start with the basics. What topics are you considering writing about?
+STUDENT: I'm not sure. I don't know what they're looking for.
+COACH: That's a great question. It can be helpful to think of your essay as a story. What experiences have you had that you feel could be meaningful to share in your essay?
+STUDENT: Well, I've experienced a lot of rejection in my life, and I've had to overcome a lot of obstacles.
+COACH: That sounds like a great topic to explore in your essay. How have you been able to overcome those obstacles?
+STUDENT: I've been able to stay positive and focus on my goals. I've also had a lot of support from family and friends.
+COACH: That's wonderful. It sounds like you've been able to develop resilience and strength throughout your journey. It would be great to explore these themes in your essay. What else do you feel is important to include in your essay?
+STUDENT: I'm also passionate about politics, and I think it's an important issue to discuss in my essay.
+COACH: Absolutely. You can use your passion for politics to illustrate how you think and how you approach problem-solving. It could be a great way to show the admissions committee how you think and how you approach challenging situations. Is there anything else that you feel is important to include in your essay?
+STUDENT: I'm also interested in exploring how I can find a job after college.
+COACH: That's a great topic to discuss in your essay. You can use your essay to discuss the skills and experiences that you have that make you a great candidate for the job market. You can also discuss your plans for the future and how you plan to use your degree to pursue a career.

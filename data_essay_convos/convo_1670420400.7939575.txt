@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an admissions essay for college and I'm having trouble getting started.
+COACH: What kind of essay are you writing?
+STUDENT: It's an essay about my goals and personal objectives.
+COACH: Okay, let's start by talking about what makes an essay engaging. What do you think makes an essay stand out?
+STUDENT: Well, I think it's important to have a strong point of view and express it clearly. I also think it helps to have some personal anecdotes or experiences to back up your points. 
+COACH: That's a great start! What are some of the topics that you plan to cover in your essay?
+STUDENT: I want to talk about how my interest in Buddhism has shaped my values and how those values will help me succeed in college. 
+COACH: That sounds like a great topic. Can you tell me more about how you plan to approach this topic in your essay?
+STUDENT: Sure. I want to talk about how Buddhism has taught me the importance of self-reflection and how that has influenced my decision-making process. I also want to discuss how my Buddhist beliefs have impacted my outlook on life and how that will help me achieve my goals in college. 
+COACH: That's a very interesting topic. How do you think you can make your essay stand out from all the other applicants?
+STUDENT: I think I can make my essay stand out by focusing on my unique perspective and experiences. I want to focus on how my Buddhist beliefs have shaped my values and how that will help me succeed in college. I also want to discuss how my Buddhist beliefs have impacted my outlook on life and how that will help me achieve my goals in college. 
+COACH: That's a great idea. Do you have any questions about the college admissions process?
+STUDENT: Yes, I was wondering how the admissions process works and what factors they consider when evaluating applications. 
+COACH: The admissions process typically involves a review of your academic record, test scores, extracurricular activities, and essays. They also consider things like letters of recommendation, interviews, and other special talents or accomplishments. Ultimately, they are looking for applicants who have demonstrated a commitment to learning, leadership, and service.

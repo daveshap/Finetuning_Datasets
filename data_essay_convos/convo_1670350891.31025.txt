@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a high school senior and I'm applying to college. I'm having trouble figuring out what to write about in my essay.
+COACH: That's great that you're taking the initiative to reach out for help! Can you tell me a bit more about your background? What are some of your passions or interests?
+STUDENT: Sure! I'm really passionate about politics and human rights, especially LGBT rights. I also love traveling - I recently went to Thailand.
+COACH: Wow, that sounds like an amazing experience! It sounds like you have a lot of interests and experiences that could be great topics for your essay. Have you thought about writing about your travels to Thailand and how that impacted your view of the world? Or maybe you could write about your passion for politics and how it has shaped your values and goals?
+STUDENT: Yeah, that's a great idea. But why does college matter to me?
+COACH: College is a great opportunity to expand your knowledge and explore new ideas. You can learn from experts in your field, engage in meaningful conversations with peers, and develop skills that will help you in the future. College also provides you with access to resources and networks that can help you reach your goals. So, it's important to think about how college will help you achieve your goals and how you can make the most of this opportunity.

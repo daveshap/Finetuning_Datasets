@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do admissions officers look for?
+COACH: Admissions officers are looking for a personal statement that reflects your individual story, experience, and goals. They want to get to know you better and understand why you are a good fit for their medical school. They also want to see evidence of your passion for medicine, your commitment to service, and your academic excellence. 
+STUDENT: What kind of structure should I use?
+COACH: A great structure for a medical school personal statement is to use an introduction, three body paragraphs, and a conclusion. The introduction should be short and concise, introducing the reader to your story. The body paragraphs should focus on specific experiences and how they have shaped your interest in medicine. Finally, the conclusion should tie everything together, reflecting on your journey and summarizing why you are a great fit for the program. 
+STUDENT: How can I make my essay stand out?
+COACH: To make your essay stand out, focus on telling your story in a unique and compelling way. Make sure your essay is honest and reflective of who you are. Avoid cliches and generic statements. Showcase your creativity and highlight your unique experiences and passions. Lastly, remember to proofread and edit your essay to make sure it is free of errors.

@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: College admissions are a process that involves submitting an application to the college or university of your choice. This application typically includes a personal statement, letters of recommendation, transcripts, and other documents to demonstrate your qualifications. The admissions committee will review all of these materials and decide whether or not to accept you into their program.
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on why you are a good fit for the college or university you are applying to. You should include information about your academic achievements, extracurricular activities, leadership experiences, and any other qualities that make you stand out from other applicants. Additionally, you should explain why you are passionate about the school and what you hope to gain from attending. Make sure to provide evidence to support your claims. 
+STUDENT: How do I start my essay?
+COACH: It is important to begin your essay with an engaging introduction. You can start by introducing yourself and providing some background information about who you are and why you are applying to the school. You can also use a hook, such as a quote or a thought-provoking question, to draw the reader in. Be sure to include your thesis statement, which is a sentence that summarizes the main point of your essay. 
+STUDENT: What should the body of my essay include?
+COACH: The body of your essay should provide evidence to support your thesis statement. You can use examples from your own life, such as stories about your academic achievements, extracurricular activities, and leadership experiences. You should also explain how attending the college or university you are applying to would benefit you and help you reach your goals. Make sure to provide evidence to back up your claims. 
+STUDENT: How should I conclude my essay?
+COACH: Your conclusion should be a summary of your essay. Restate your thesis statement and provide a clear explanation of why you are a good fit for the school. You can also discuss what you hope to gain from attending and how you plan to contribute to the university. Finally, end your essay with a strong closing statement that leaves a lasting impression on the reader.

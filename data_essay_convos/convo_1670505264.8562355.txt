@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do grants work?
+COACH: Grants are typically funds that are given to individuals or organizations to help them achieve a specific goal. Depending on the type of grant, you may need to apply for the funds, meet certain qualifications, and provide evidence of your need for the funds. Grants can be used for a variety of purposes, such as educational expenses, research projects, or even business startups. 
+STUDENT: What should I consider when writing an argumentative essay?
+COACH: When writing an argumentative essay, you should focus on making a strong case for your position. You should think about the facts and evidence that you can use to support your argument. Additionally, you should consider the counter-arguments that could be made against your position, and think of ways that you can refute them. Finally, make sure that you present your argument in a clear and organized way, so that your reader can follow your logic.

@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a first-generation college student and I'm looking for help with my essay.
+COACH: Great! Can you tell me a bit more about what you're writing about?
+STUDENT: Well, I'm writing about my experience as a first-generation college student and why college matters so much to me.
+COACH: That's an interesting topic. Can you tell me a bit more about your experience as a first-generation college student?
+STUDENT: Sure. I was born in the Philippines and moved to Germany when I was very young. Moving to a new country was a huge challenge for me, and it was difficult to adjust to a new culture and language. I felt like an outsider and I was often bored because I had no friends.
+COACH: It sounds like you had a difficult experience adjusting to a new culture. What made you decide to pursue college despite these challenges?
+STUDENT: Well, I wanted to prove to myself that I could do something meaningful with my life. I knew that college would give me the opportunity to learn and grow in ways that I wouldn't be able to do if I stayed in Germany. I also wanted to show my parents that they had made the right decision in moving us to Germany.
+COACH: That's a great motivation to pursue college. What has been the most rewarding part of your journey so far?
+STUDENT: The most rewarding part has been seeing how much I have grown since I started college. I used to think of myself as a boring person who had nothing to offer the world, but now I feel like I have a lot to offer. College has helped me to gain confidence in myself and to believe in my potential. It has also given me the opportunity to meet new people and make new connections.

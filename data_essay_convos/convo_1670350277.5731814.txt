@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm writing a college admission essay and I'm not sure what to write about.
+COACH: That's a great question. Before we get into the specifics of what you should write about, can you tell me a little bit more about yourself? What are your interests, hobbies, and aspirations?
+STUDENT: Sure! I'm interested in engineering and I'm passionate about tackling sexism in the workplace. I also enjoy playing video games and writing.
+COACH: Great! It sounds like you have a lot of potential topics for your essay. Have you considered writing about sexism in the workplace? It could be a great way to showcase your passion and commitment to engineering.
+STUDENT: That's a great idea! I think I could write an interesting essay about that.
+COACH: Perfect. Now let's talk about the structure of the essay. Do you know the parts of an essay?
+STUDENT: Yes, I know the basics - introduction, body, and conclusion.
+COACH: Right, those are the main parts of an essay. But if you want to make your essay engaging, you should also consider adding a hook at the beginning. This is a sentence or two that will grab the reader's attention and make them want to read more.
+STUDENT: That's a great idea. I'll definitely keep that in mind.
+COACH: Excellent. Is there anything else I can help you with?
+STUDENT: No, I think I'm good for now. Thanks for your help!

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I pick a topic?
+COACH: Good question! When picking a topic for your essay, it's important to consider what you want to communicate to the admissions committee. Think about what experiences, values, and interests you'd like to highlight in your essay. Also, make sure that the topic is relevant to your overall application and that it fits within the word count.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include an introduction, body paragraphs, and a conclusion. In the introduction, you should provide some background information on your topic and explain why it's important. The body paragraphs should provide evidence and examples to support your argument. Finally, the conclusion should summarize your main points and provide a sense of closure.
+STUDENT: How can I make my essay stand out?
+COACH: To make your essay stand out, try to find a unique angle or perspective that you can bring to the topic. You can also use vivid language and vivid imagery to engage the reader and make your essay memorable. Additionally, make sure that your essay is well-structured and flows logically from one point to the next. Finally, proofread your essay to ensure that there are no errors or typos.

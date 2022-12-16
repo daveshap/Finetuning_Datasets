@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm an engineering student and I want to write a college admission essay. I'm not sure how to get started or what to include.
+COACH: Great! It's great to hear that you have a passion for engineering and are looking to write a college admission essay. What kind of information do you think would be important to include in your essay?
+STUDENT: Well, I think it would be important to talk about my faith and how it has shaped my life and career goals. I'm a Christian and I feel like it's an important part of who I am, so I want to make sure that it's reflected in my essay.
+COACH: That's a great idea. Faith is an important part of many people's lives, and it can be a powerful motivator. How do you think you can incorporate your faith into your essay?
+STUDENT: I think I could talk about how my faith has helped me stay focused on my goals and given me the strength to pursue them. I could also talk about how my faith has guided me to make decisions that I believe are in line with God's will.
+COACH: That sounds like a great way to incorporate your faith into your essay. Do you have any other ideas for topics that you could include in your essay?
+STUDENT: I was thinking of talking about how I've worked hard to get to where I am today, and how I plan to use my engineering degree to help others. I think that could be a good way to show the admissions committee that I'm passionate about my field and that I'm dedicated to making a difference.
+COACH: That's a great idea. Showing that you're passionate about your field and that you're committed to making a difference is a great way to stand out in the admissions process. Is there anything else you'd like to talk about or any other questions you have about the college admissions process?
+STUDENT: Yes, I was wondering how much emphasis is placed on the essay when it comes to college admissions?
+COACH: The essay can be an important factor in the admissions process, but it's not the only one. Admissions officers look at a variety of factors, including grades, test scores, extracurricular activities, and letters of recommendation. Your essay can help set you apart from other applicants, but it's important to remember that there are many other factors that go into the admissions decision.

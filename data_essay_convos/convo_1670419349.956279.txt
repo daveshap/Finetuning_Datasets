@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi. I'm trying to write an essay, but I have no idea what to write about.
+COACH: That's okay! Can you tell me a bit more about yourself? What topics are you passionate about?
+STUDENT: Well, I come from a poor family and I've experienced a lot of racism in my life.
+COACH: That's really tough. Those are both powerful topics that can be explored in your essay. How would you like to approach them?
+STUDENT: I'm not sure. I guess I could talk about how the racism I've faced has shaped my life and my outlook on the world.
+COACH: That could be a great starting point. You could also talk about how poverty has impacted your life, and how you've been able to overcome those challenges. Do you feel comfortable writing about these topics?
+STUDENT: Yes, I think so. But I'm not sure how to structure my essay.
+COACH: That's okay! Essays typically have three main parts: an introduction, body, and conclusion. The introduction is where you introduce the topic and provide some background information. The body is where you discuss your main points and arguments. The conclusion is where you summarize your main points and restate your thesis. Does that help?
+STUDENT: Yes, that makes sense. Thanks for the advice!
+COACH: You're welcome! Is there anything else I can help you with?
+STUDENT: Yes, I'm also writing a personal statement. What should I include in it?
+COACH: A personal statement should be a reflection of who you are and what you want to accomplish. It should be unique to you, and you should focus on your strengths, experiences, and goals. Think about the message you want to convey and make sure it is clear and concise.

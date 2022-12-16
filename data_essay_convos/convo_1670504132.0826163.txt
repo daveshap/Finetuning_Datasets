@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how long should my essay be?
+COACH: Generally, the length of a college admissions essay is between 500 and 700 words. But it's important to note that many law school applications require essays of up to two pages.
+STUDENT: What should I include in my essay?
+COACH: Your essay should provide a personal statement about why you are interested in studying law and how your experiences have shaped your goals. It should also demonstrate your ability to think critically and express yourself clearly. You may want to discuss any challenges you faced while pursuing your education, any activities or organizations you participated in, and any other experiences that have helped shape your interest in law. 
+STUDENT: What kind of tone should I use?
+COACH: The tone of your essay should be professional yet engaging. You want to demonstrate that you are serious about your interest in law and show that you have the skills and knowledge to succeed in the field. At the same time, you don't want to come across as overly formal or stiff. Try to write in a way that reflects your personality and allows your enthusiasm for the subject to shine through.

@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to apply to college and I'm having trouble coming up with ideas for my personal statement.
+COACH: Great! What college are you looking to apply to?
+STUDENT: I'm looking at UNC and Harvard.
+COACH: That's great. What have you been thinking about writing about for your personal statement?
+STUDENT: I'm not sure. I've been thinking about writing about my interest in Buddhism and how it has impacted my life.
+COACH: That sounds like a great topic! Can you tell me more about your interest in Buddhism?
+STUDENT: Sure. I've been studying Buddhism for a few years now and it has really helped me to find inner peace and balance in my life.
+COACH: That's wonderful. How would you go about incorporating this interest into your personal statement?
+STUDENT: I was thinking of talking about how my study of Buddhism has helped me to become more mindful and self-aware. I want to emphasize how these qualities will help me succeed in college.
+COACH: That sounds like an excellent idea. You could start by talking about how you were introduced to Buddhism and why you decided to pursue it further. Then, you can discuss how it has shaped your outlook on life and how it has helped you grow as a person. Finally, you can talk about how these qualities will help you succeed in college. Does that sound like a plan?
+STUDENT: Yes, that sounds great. Thank you for the help!

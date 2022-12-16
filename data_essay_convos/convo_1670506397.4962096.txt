@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what do I write about in my personal statement?
+COACH: That's a great question. What kind of essay are you writing? Is it for college admissions? 
+STUDENT: Yes, it’s for college admissions.
+COACH: Okay, great. Do you have any specific topics in mind that you'd like to write about?
+STUDENT: I'm not sure. I was thinking about writing about my experience with music.
+COACH: That's an interesting topic. Can you tell me more about why you chose this topic and what experiences you'd like to highlight?
+STUDENT: Well, I've been playing music since I was very young and it has been a huge part of my life. I want to talk about how it has shaped my identity and how it has helped me develop resilience and creativity.
+COACH: That sounds like a great topic! Let's start by talking about what makes music special to you. What is it about music that you find so meaningful?

@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I'm having trouble writing my personal statement.
+COACH: Okay, great. What kind of topics would you like to write about in your personal statement?
+STUDENT: Well, I want to highlight my achievements and skills, but I'm also interested in exploring the role of Islam in my life.
+COACH: That sounds like a really interesting topic. What makes it so important to you?
+STUDENT: Well, I'm a Muslim, and I think it's important to discuss my faith and how it has shaped my life.
+COACH: That sounds like a great idea. What do you think would make your essay engaging?
+STUDENT: I think it would be interesting to discuss how my faith has impacted my decisions and how it has helped me grow as a person. I also want to talk about how I've used my faith to help others, like volunteering at a local Islamic charity.

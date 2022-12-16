@@ -1,0 +1,16 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to get into grad school for engineering and I'm having a hard time figuring out what to write about in my personal statement and college admission essay.
+COACH: Alright, let's start with the basics. What kind of engineering are you interested in?
+STUDENT: I'm interested in mechanical engineering.
+COACH: Great! Now, what do you think sets you apart from other applicants?
+STUDENT: Well, I'm from France and I have a lot of experience in the field that I think could be beneficial to my application.
+COACH: That sounds great! Can you tell me more about your experience?
+STUDENT: Sure. I've been working in the engineering field for the past five years and I have a lot of hands-on experience with different types of machines and technologies.
+COACH: That's impressive! Now, let's focus on your personal statement. What do you think is the most important thing to include in your personal statement?
+STUDENT: I think it's important to showcase my passion for engineering and how I plan to use my skills and knowledge to make a positive impact in the world.
+COACH: Absolutely! You want to make sure to emphasize your unique strengths and how they can benefit the field of engineering. Now, let's talk about your college admission essay. What do you think is the most important thing to include in your college admission essay?
+STUDENT: I think it's important to explain why I'm applying to this particular school, and why I think I'm a good fit for their program.
+COACH: That's a great point! Make sure to highlight any connections you have to the school, and explain why you think you'll be successful in the program. Anything else you think you should include?
+STUDENT: Yes, I think it's important to talk about my career goals and how I plan to use my degree to reach them.
+COACH: Excellent! Make sure to explain why you're passionate about engineering, and how you plan to use your degree to make a difference. That should give you a great starting point for your essays. Do you have any other questions or concerns?
+STUDENT: No, I think I'm good. Thanks for your help!

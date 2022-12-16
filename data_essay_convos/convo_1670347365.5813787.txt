@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm having trouble coming up with an interesting topic for my essay. I want to write about a social issue but I'm not sure what to focus on.
+COACH: That's a great idea! Social issues can be very compelling topics. What kind of social issue are you interested in exploring?
+STUDENT: Well, I'm interested in exploring sexism and how it affects people in different ways.
+COACH: That's a great topic! It's important to be aware of how sexism can affect people's lives and how it can be addressed. Do you have any specific questions or ideas that you want to explore in your essay?
+STUDENT: Yes, I want to explore how sexism affects people in different ways, such as in the workplace, in education, and in relationships.
+COACH: That's a great starting point! You could look at specific examples of how sexism has affected people in each of these areas. You could also look at how sexism has been addressed in each area, and what solutions have been proposed to address it. Are there any other questions or ideas you have related to this topic?
+STUDENT: Yes, I'm also interested in exploring how sexism plays out in different cultures and countries.
+COACH: That's an interesting question! You could look at how different cultures and countries have different attitudes towards sexism, and how those attitudes have changed over time. You could also look at how different governments and organizations have responded to sexism in their respective countries. Are there any other questions or ideas you have related to this topic?

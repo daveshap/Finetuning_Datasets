@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i know if my essay is good?
+COACH: That's a great question. The best way to determine if your essay is good is to review it yourself and see if it meets the criteria for a good research paper. That includes having a clear thesis, strong evidence to support your argument, and an organized structure. Do you have any specific questions about the components of a good research paper?

@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what if i get rejected?
+COACH: Rejection is a possibility, but it doesn’t have to be your focus. Instead, focus on crafting an essay that will make you stand out and make an impression. The admissions committee wants to get to know you, so make sure your essay reflects who you are and what you can bring to the college.
+STUDENT: What should I include in my essay?
+COACH: Your essay should include a few key elements. First, you should introduce yourself. Talk about your interests, your goals, and why you want to attend this college. Second, discuss any obstacles you’ve faced or challenges you’ve overcome. Third, explain why you’d be a great fit for the college. Finally, conclude your essay with a powerful statement that ties everything together. 
+STUDENT: How can I make my essay stand out?
+COACH: To make your essay stand out, focus on the details. Tell a story that paints a vivid picture of who you are and what you’re capable of. Use specific examples and personal anecdotes to illustrate your points. Also, don’t be afraid to use humor and creativity to make your essay memorable. Most importantly, make sure your essay is honest and authentic.

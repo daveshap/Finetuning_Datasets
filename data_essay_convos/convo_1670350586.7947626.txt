@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC and MIT and I need help with my essay.
+COACH: Great! What kind of help do you need?
+STUDENT: Well, I'm having trouble figuring out what to write about and how to structure it.
+COACH: Okay, let's start with the topic. What kind of essay are you writing?
+STUDENT: It's a personal essay about my experience living in Thailand.
+COACH: Wonderful! What sort of experience do you want to focus on?
+STUDENT: I want to talk about the social issues I encountered while living there, and how it's shaped my perspective on life.
+COACH: That sounds like an interesting and meaningful topic. Let's talk about how to structure the essay. What do you think would be the best way to organize your thoughts?
+STUDENT: I'm thinking I should start with a hook to grab the reader's attention, then move on to the main body of the essay where I can discuss the social issues I encountered, and finally wrap up with a conclusion that ties everything together.
+COACH: That's a great plan! Now let's talk about the hook. What do you think would be the best way to start your essay?
+STUDENT: I'm thinking I could start with a vivid description of a particular moment or scene from my time in Thailand, to give the reader a sense of what it was like.

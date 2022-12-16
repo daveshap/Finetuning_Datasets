@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Princeton and Duke University and I'm having a lot of trouble with my essay. I'm really passionate about law school and I want to make sure I get accepted.
+COACH: That's great to hear! What specific challenges have you been facing with your essay?
+STUDENT: Well, I'm not sure how to write about overcoming obstacles and rejection. I'm not sure how to make it sound like I'm confident and still show that I'm resilient.
+COACH: That's a great challenge to tackle. It's important to demonstrate resilience in your essay, especially when applying to a top school like Princeton or Duke. To do this, you'll need to focus on the positive and how you've grown from any challenges you may have faced. You can talk about how you've learned from setbacks and how you've used those experiences to become a better person.
+STUDENT: That makes sense. But how do I make sure I'm conveying the right message?
+COACH: You want to make sure that you're showing your passion for law school and how you plan to use it to make a positive difference in the world. You also want to make sure that you're emphasizing your resilience and how you've grown from past challenges. It's important to focus on the positive and how you've used those experiences to become a stronger person.

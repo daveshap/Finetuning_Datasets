@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Yale and I want to write an essay about my experience growing up in a single parent home.
+COACH: That sounds like a great topic for an essay. Can you tell me more about your experience growing up in a single parent home?
+STUDENT: Well, it was challenging at times. My mom was a single parent and she worked two jobs just to make ends meet. We didn't have a lot of money, but we had each other. I had to learn how to be independent and take care of myself.
+COACH: That's really impressive. What else would you like to include in your essay?
+STUDENT: I'd like to talk about how travel has changed my perspective on life and how it has shaped who I am today. I've been lucky enough to travel the world, and I have seen a lot of different cultures and perspectives. It has made me more open-minded and creative.
+COACH: That sounds like a great addition to your essay. What else do you think might be important to include?
+STUDENT: I think it's important to talk about my involvement in the LGBT community. Growing up in a single parent home, I had to learn how to support myself and advocate for myself. Being part of the LGBT community has given me a sense of belonging and purpose. It has also allowed me to express my creativity through art and activism. 
+COACH: That's wonderful. It sounds like you have a lot of experiences that could be included in your essay. Is there anything else you'd like to discuss?
+STUDENT: Yes, I think I'd like to talk about how my experience growing up in a single parent home has shaped my view of the world and how I approach life. I think it has made me more resilient and open to new experiences. 
+COACH: That's great. It sounds like you have a lot of material to work with. Do you have any questions for me?
+STUDENT: Yes, do you have any advice on how to structure my essay and make it stand out?
+COACH: Absolutely! The most important thing is to make sure you are telling a story and making a clear point. Think about the main themes that you want to discuss and how they relate to each other. You should also make sure to use vivid language and descriptions to bring your essay to life. Finally, be sure to proofread and edit your essay so that it is free of errors.

@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I get scholarships and grants?
+COACH: Scholarships and grants are awarded to students based on a variety of criteria, such as academic performance, leadership and community service, and special talents or interests. You can search for scholarships and grants online or through your school's financial aid office. You can also look into local foundations or organizations that offer scholarships. It's important to research the requirements for each scholarship or grant and make sure you're eligible before applying.
+STUDENT: What should I include in my essay?
+COACH: Your essay should focus on why you are an excellent candidate for the scholarship. You should discuss your accomplishments, experiences, and goals, and how they relate to the scholarship. Make sure to explain why you need the scholarship and how it will help you achieve your goals. Make sure to include any relevant personal or professional experiences that demonstrate your qualifications. Finally, be sure to proofread your essay for grammar and spelling mistakes before submitting it.

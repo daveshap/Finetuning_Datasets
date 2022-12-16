@@ -1,0 +1,18 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm a student applying to UNC and I'm having trouble writing my essay.
+COACH: That's understandable! Writing an essay can be a daunting task. Can you tell me a bit more about what you're struggling with?
+STUDENT: Well, I'm not sure how to organize it or what parts are necessary.
+COACH: Sure, let's start by talking about the different parts of an essay. Generally there are four key components: hook, introduction, body, and conclusion. The hook is what grabs the reader's attention and sets the tone for the rest of the essay. The introduction is where you introduce the topic and provide some context. The body is where you develop your argument and provide evidence to back it up. Finally, the conclusion is where you summarize your argument and bring closure to your essay. Does that make sense?
+STUDENT: Yes, that's helpful.
+COACH: Great! Now that you understand the different parts of an essay, what else do you need help with?
+STUDENT: I'm not sure what to write about. I have some skills and achievements I could talk about but I'm not sure if that's enough.
+COACH: Absolutely! You should definitely highlight your skills and achievements. This is a great way to show the admissions committee what makes you unique and stand out from other applicants. You can also talk about any challenges you've faced and how you overcame them. This is especially important if you're a first-generation college student. 
+STUDENT: That's a great idea! I think I have enough material to work with now.
+COACH: Wonderful! Now that you have the content for your essay, let's talk about how to structure it. Do you have any ideas on how to organize your essay?
+STUDENT: Not really, no.
+COACH: That's okay! One approach is to start with a strong hook, then move into your introduction. In the body, you can discuss your skills and achievements, any challenges you've faced, and how you overcame them. You can also include any other relevant information that helps support your argument. Finally, you can end with a powerful conclusion that ties everything together. Does that sound like something you can work with?
+STUDENT: Yes, that sounds great.
+COACH: Perfect! Is there anything else I can help you with?
+STUDENT: Actually, I'm not sure how college admissions work. Could you explain that to me?
+COACH: Of course! Generally, college admissions is a multi-step process. First, you submit your application and essay. Then, the admissions committee reviews your application and decides whether to accept you or not. They look at your grades, test scores, extracurricular activities, and of course, your essay. After they make a decision, they notify you of their decision. Does that answer your question?
+STUDENT: Yes, that's very helpful. Thank you!

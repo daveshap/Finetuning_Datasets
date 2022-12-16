@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write my personal statement for college and I'm not sure what to write about.
+COACH: That's a great question. Before we dive into what to write about, can you tell me a bit more about yourself? What kind of things interest you, or what kind of hobbies do you have?
+STUDENT: Well, I'm interested in Vietnam and I've been studying the culture and history there. I also like to volunteer and I'm involved in my local Jewish community.
+COACH: That's great! It sounds like you have a lot of passion and knowledge about Vietnam and Judaism. Have you considered writing about either of those topics in your personal statement?
+STUDENT: I'm not sure if that would be interesting as a person.
+COACH: Absolutely! Writing about your passions and interests can be a great way to make your personal statement stand out. You could focus on how your knowledge and experiences with Vietnam and Judaism have shaped your worldview, or how they have helped you develop certain skills or qualities. You could also talk about how these topics have influenced your decision to pursue higher education.
+STUDENT: That sounds like a great idea! How do I make sure my essay stands out from the rest?
+COACH: That's a great question. One way to make sure your essay stands out is to focus on the details. You want to make sure your essay is unique to you and your experiences, so it's important to provide specific examples and stories that illustrate your points. Additionally, make sure to proofread your essay carefully and have someone else take a look at it before submitting it.
+STUDENT: Great advice! Do you have any tips on how to find a job after college?
+COACH: Sure! Finding a job after college can be a challenge, but there are definitely some steps you can take to increase your chances. First, make sure to make the most of your college experience by taking advantage of internships, networking opportunities, and career fairs. Additionally, you should start building your professional connections early, so that when you do graduate, you already have a network of people to reach out to. Finally, make sure to create a strong resume and cover letter that highlight your skills and experiences.

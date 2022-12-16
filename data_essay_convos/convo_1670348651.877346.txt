@@ -1,0 +1,13 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay for college applications and I'm not sure how to start.
+COACH: That's a great question. Before we get into the specifics of writing the essay, let me ask you a few questions. What are you interested in studying in college?
+STUDENT: I'm interested in studying Buddhism and Christianity.
+COACH: That's a fascinating topic! So, when you think about your essay, what do you want it to express? What kind of message do you want to convey?
+STUDENT: I want to show that I have a deep understanding of both religions, and how they can be applied to my life.
+COACH: Great! Now, let's talk about the structure of the essay. What kind of hook would you like to use to draw your reader in?
+STUDENT: I was thinking of using a quote from either religion to start off.
+COACH: That's a great idea. Quotes are always powerful and can make for an engaging introduction. Next, let's talk about the middle of your essay. What kind of evidence will you use to support your point?
+STUDENT: I want to use personal anecdotes about how I've experienced both religions in my life, as well as some research on the history and teachings of both.
+COACH: Perfect! Those are great sources of evidence. Lastly, what kind of conclusion do you want to have?
+STUDENT: I want to end with a call to action, encouraging others to explore both religions and their potential to enrich our lives.
+COACH: That's an excellent way to end your essay. It will leave your readers with something to think about. Now that we have a plan for your essay, let's talk about the actual writing process. What kind of writing style do you want to use?

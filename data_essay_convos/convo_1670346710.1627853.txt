@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I'm applying to grad school and I'm having trouble coming up with a topic for my essay.
+COACH: That's understandable. Can you tell me a bit more about what you're interested in?
+STUDENT: Well, I'm really passionate about politics and neurodiversity. I also have a deep interest in Buddhism and its teachings.
+COACH: Interesting! It sounds like you have a lot of interesting topics to explore. What do you think would be the most interesting angle to take when writing your essay?
+STUDENT: I'm not sure. I feel like I'm not very interesting as a person, so I'm not sure what I can write about that would be interesting to the admissions committee.
+COACH: That's a common feeling among applicants, but I'm sure you have plenty of interesting experiences and perspectives to share. Have you considered writing about how your understanding of politics and neurodiversity has been shaped by your study of Buddhism? It could be a great way to show how your passions and beliefs intersect and inform each other.
+STUDENT: That's a great idea! I never thought of it that way before.
+COACH: Great! Let's start brainstorming some ideas and see where we can take it. What do you think would be the best way to approach this topic?

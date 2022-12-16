@@ -1,0 +1,10 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm looking for help on my college application essay. I'm applying to Princeton and I want to highlight my interests in engineering, Judaism and volunteer work.
+COACH: Great! It sounds like you have a lot of interesting topics that you want to discuss in your essay. Let's start by talking about engineering. What specifically are you interested in when it comes to engineering?
+STUDENT: Well, I'm interested in mechanical engineering, specifically the design and development of machines. I've been working on a project at school to design a new type of robotic arm and I'm really passionate about it.
+COACH: That sounds really exciting! What do you think makes you uniquely qualified to pursue this type of engineering?
+STUDENT: I think my background in mathematics and physics gives me an advantage when it comes to understanding the principles behind engineering. I also have a lot of experience with coding and programming, which I think will be useful when it comes to designing and building robots.
+COACH: That's great! So it sounds like engineering is a major passion of yours. What other interests do you have that you'd like to include in your essay?
+STUDENT: Well, I'm also very passionate about my faith. I'm Jewish and I'm actively involved in my synagogue. I'm also very interested in volunteer work, particularly environmental causes.
+COACH: That's wonderful! It sounds like you have a lot of unique experiences and interests that you could highlight in your essay. How do you think these interests tie into your goals and personal objectives?
+STUDENT: I think my interests in engineering, Judaism and volunteer work all tie into my goal of making a positive impact on the world. I want to use my knowledge and skills to help people and the environment, and I think these interests are a great way to do that.

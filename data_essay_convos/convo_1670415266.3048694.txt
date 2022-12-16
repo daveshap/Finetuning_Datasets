@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to college and need help getting started on my essay.
+COACH: Great! What kind of essay are you writing?
+STUDENT: It's a personal statement that I'm submitting with my college application.
+COACH: Okay, let's start by talking about your academic background. What have you studied in the past?
+STUDENT: I've been focusing on science for most of my undergrad career.
+COACH: That's great! What kind of skills and achievements have you gained from your studies?
+STUDENT: I've learned a lot of lab techniques, as well as how to analyze data and interpret results. I also did some independent research projects, which I was able to present at conferences.
+COACH: That sounds impressive! What other topics would you like to cover in your essay?
+STUDENT: I'd like to talk about how I plan to finance my college education.
+COACH: Sure, let's discuss that. How does financing college work?
+STUDENT: Generally speaking, I can use a combination of scholarships, grants, loans, and work-study programs to pay for my education. I'm also looking into some private student loan options. 
+COACH: That's great! Have you done any research on scholarships and grants that you may be eligible for?
+STUDENT: Yes, I've been researching various options online and talking to my guidance counselor about them. 
+COACH: That's great! I think that's a good place to start. Let's talk about how you can incorporate this information into your essay.

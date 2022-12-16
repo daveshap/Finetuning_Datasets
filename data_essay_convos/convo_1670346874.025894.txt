@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi! I want to write an essay about how Christianity has shaped my engineering career, but I'm not sure where to start.
+COACH: That sounds like a really interesting topic. Can you tell me more about why this is a subject that you're passionate about?
+STUDENT: Sure! Growing up in China, I was exposed to a lot of sexist attitudes about women in engineering and science. But my Christian faith gave me the strength to pursue my dream of becoming an engineer despite those attitudes.
+COACH: That's amazing! So, what kind of specific points do you want to make in your essay?
+STUDENT: Well, I want to talk about how my faith has given me the courage to stand up for what I believe in and to pursue a career in engineering despite the obstacles. I also want to discuss how my faith has given me a sense of purpose and direction in my life.
+COACH: Those are great points! Have you done any research into the subject already?
+STUDENT: Yes, I've been reading up on the history of Christian influence on engineering and science. I've also been looking at some of the current debates around sexism in engineering and science.
+COACH: That's great! What kind of structure are you thinking of using for your essay?
+STUDENT: I think I want to start with a brief overview of the history of Christianity and engineering, then move on to my personal experience. After that, I'd like to touch on some of the current debates about sexism in engineering and science. Finally, I'd like to end with some reflections on how my faith has helped me become a successful engineer. Does that sound like a good plan?
+COACH: Absolutely! Do you have any questions or concerns about the essay so far?
+STUDENT: Not yet, I think I'm on the right track. Thanks for your help!

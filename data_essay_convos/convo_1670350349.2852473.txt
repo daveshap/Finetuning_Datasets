@@ -1,0 +1,15 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm writing an essay about overcoming obstacles and I need some help.
+COACH: That sounds like an interesting topic. What kind of obstacles are you talking about?
+STUDENT: Well, I come from a poor family and I've faced a lot of rejection in my life.
+COACH: That's a difficult situation to be in. How have you managed to overcome those obstacles?
+STUDENT: I've worked hard to do well in school and I'm now applying to universities in Europe and the US. I'm hoping to get into MIT and I'm really passionate about Buddhism.
+COACH: That's impressive! So, how do these experiences tie into your essay?
+STUDENT: Well, I want to talk about how I've been able to use my experiences to my advantage, and how my Buddhist beliefs have helped me stay positive and motivated.
+COACH: That's a great idea. Have you started writing yet?
+STUDENT: Yes, I have a rough outline but I'm stuck on how to structure the essay.
+COACH: Okay, let's start by breaking down your main points. What are the key ideas that you want to discuss?
+STUDENT: I want to talk about how I've been able to use my experiences to my advantage, how my Buddhist beliefs have helped me stay positive and motivated, and how I plan to use my education to help others in similar situations.
+COACH: Great. Now, let's think about how to structure your essay. What kind of order do you want to present your points in?
+STUDENT: I think I want to start with my background and how I overcame my obstacles, then discuss my Buddhist beliefs, and finish with my plans for the future.
+COACH: That sounds like a great plan. Let's break it down further and think about how you can make each point more specific and detailed.

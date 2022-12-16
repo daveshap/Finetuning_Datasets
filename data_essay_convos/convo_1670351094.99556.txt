@@ -1,0 +1,8 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to UNC's law school and I'm trying to come up with a topic for my essay.
+COACH: Alright, could you tell me a bit more about what you would like to focus on?
+STUDENT: Well, I'm really interested in social issues and I want to write about sexism in China.
+COACH: Interesting. What specifically about sexism in China do you want to focus on?
+STUDENT: I want to examine the cultural norms that contribute to sexism in China, as well as how it affects the lives of women in the country.
+COACH: That’s a great topic. Can you think of any specific examples of how sexism has affected women in China?
+STUDENT: Yes, there are a lot of examples. For example, women are often expected to take on traditional roles such as homemakers and mothers, while men are seen as the breadwinners. Additionally, women often face discrimination in the workplace and are paid less than men for the same job.

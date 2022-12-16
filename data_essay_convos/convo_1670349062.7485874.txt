@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University and I'm not sure how the college admission process works.
+COACH: That's a great question! College admissions can be a bit overwhelming, so let's break it down. First, you'll need to fill out an application. This will include basic information about yourself, such as your name, address, and contact information. You'll also need to submit your high school transcripts, standardized test scores, and any other documents that the school requires. After that, you'll need to write an essay. This is your chance to show the admissions committee who you are and why you'd be a good fit for their school.
+STUDENT: That makes sense. But where do I even start with the essay?
+COACH: The best place to start is by brainstorming ideas. Think about your experiences and accomplishments that you want to highlight. What makes you unique? What have you done that you're proud of? Once you have some ideas, you can start writing your essay. Make sure to include a clear introduction, body, and conclusion. Also, make sure to proofread your essay for any errors.
+STUDENT: Got it. What about other schools like UCLA or Harvard? Do I need to write separate essays for each school?
+COACH: Yes, you'll need to write a unique essay for each school. However, you can use the same ideas and themes in each essay. Just make sure to tailor each essay to the specific school and highlight why you think you'd be a great fit. Good luck!

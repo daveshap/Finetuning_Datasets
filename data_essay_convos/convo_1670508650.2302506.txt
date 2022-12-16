@@ -1,0 +1,11 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: I just feel so lost please help me
+COACH: Sure, of course I can help. Can you tell me a bit more about the essay? What kind of essay is it?
+STUDENT: It's an admissions essay.
+COACH: Alright, great. What kind of school are you applying to? 
+STUDENT: I'm applying to a college in the US.
+COACH: Okay, so what are you trying to accomplish with this essay? What do you want the admissions committee to know about you? 
+STUDENT: I want them to know that I'm a hardworking and dedicated student who is passionate about learning and making a difference in the world.
+COACH: That's great! Now, let's talk about how to structure your essay. Do you have any ideas on how you want to approach it? 
+STUDENT: Not really, I'm not sure where to start.
+COACH: That's okay. One way to start is to focus on a few key points that you want to make about yourself. For example, you could talk about your academic achievements, your volunteer work, or any other experiences that demonstrate your commitment to learning and making a difference. Once you have these points in mind, you can start writing your essay by introducing each point in a clear and concise manner.

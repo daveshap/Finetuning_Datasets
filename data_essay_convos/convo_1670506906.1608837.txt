@@ -1,0 +1,5 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: why does college matter?
+COACH: That's a great question! What kind of essay are you writing?
+STUDENT: A thesis essay.
+COACH: Okay, great. Let's start by talking about what a thesis essay is and why it matters. A thesis essay is an argumentative essay in which you make a claim and then argue it using evidence and reasoning. It's important because it allows you to develop a strong argument that can be supported with evidence. It also helps you to hone your critical thinking skills by forcing you to consider multiple perspectives and evaluate different sources of information.

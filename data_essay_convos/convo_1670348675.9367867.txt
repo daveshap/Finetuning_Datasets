@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to Duke University for undergrad and I'm trying to figure out what to write about in my college admission essay.
+COACH: That's a great question. What do you think would be the most important thing for the admissions committee to know about you?
+STUDENT: I think they should know that I'm passionate about learning and exploring new cultures. I've been to France twice and it's one of my favorite places to visit.
+COACH: That's fantastic! It sounds like you have a lot of experience with different cultures. Have you ever thought about writing about your experiences in France in your essay?
+STUDENT: I hadn't thought of that, but it could be a good idea.
+COACH: Yes, it definitely could be. It might be a great way to show the admissions committee how you think and how you view the world. It could really set you apart from other applicants.
+STUDENT: That sounds great. I'll definitely consider it. I was also wondering if you had any advice on how to get scholarships and grants for college?
+COACH: Absolutely! One of the best ways to find scholarships and grants is to do research online. There are lots of resources available that can help you find the right opportunities for you. You can also reach out to organizations and companies in your community to see if they offer any scholarships or grants. Finally, don't forget to look at the financial aid packages offered by the schools you're applying to. Many of them have special programs for students who demonstrate financial need.

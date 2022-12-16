@@ -1,0 +1,14 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I have no idea what to write about.
+COACH: That's ok! Let's start with the basics. What kind of essay are you writing?
+STUDENT: It's an essay for my college application.
+COACH: Great! What do you want to focus on in your essay?
+STUDENT: I want to talk about how I overcame some obstacles and rejections to get to where I am today.
+COACH: Sounds like a great topic! Can you tell me more about the obstacles and rejections you faced?
+STUDENT: Sure. I was rejected from several colleges I applied to and I had to find ways to finance my college education.
+COACH: That sounds like a difficult experience. How did you manage to overcome those obstacles and finance your college education?
+STUDENT: I worked hard to save money and applied for scholarships. I also researched different financing options like student loans and grants.
+COACH: That's great that you were able to find a way to finance your college education. Now, let's talk about the structure of your essay. What parts of an essay do you need to include?
+STUDENT: I know I need an introduction, body paragraphs, and a conclusion.
+COACH: That's right. An introduction should have a hook to grab the reader's attention and a thesis statement. The body paragraphs should expand on the thesis statement and provide evidence to support it. The conclusion should summarize the main points and restate the thesis. Does that help?
+STUDENT: Yes, that helps a lot! Thank you.

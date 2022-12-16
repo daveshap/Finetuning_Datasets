@@ -1,0 +1,9 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm struggling with writing my personal statement for college applications.
+COACH: That's understandable. Could you tell me a bit more about what you're looking for help with?
+STUDENT: Well, I want to apply to Duke University, but I'm having trouble figuring out how to write a compelling essay that conveys my story and experience.
+COACH: Got it. What kind of story do you want to tell?
+STUDENT: I want to talk about how I have overcome obstacles due to my neurodiversity and how I have used those experiences to shape who I am today.
+COACH: That sounds like a great topic. How do you plan on conveying that in your essay?
+STUDENT: I'm not sure. I was thinking of talking about how I have faced rejection and how I have persevered despite the setbacks.
+COACH: That's a great approach. I think it would be helpful to focus on specific stories that illustrate your resilience and determination. It would also be beneficial to discuss how you have used your experiences to inform your future goals and ambitions. These elements will help make your essay stand out from the rest.

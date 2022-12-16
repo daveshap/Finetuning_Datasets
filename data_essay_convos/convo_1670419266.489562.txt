@@ -1,0 +1,17 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm applying to North Carolina State University for engineering and I need help with my admissions essay.
+COACH: Great! What kind of help do you need?
+STUDENT: Well, I'm having trouble coming up with a topic that will really stand out to the admissions committee.
+COACH: Alright, let's start by talking about your background and experiences. What have been some of the most important influences in your life?
+STUDENT: Well, I'm Jewish, so my faith has been a major influence on my life. I also come from a family of engineers, which is why I want to pursue an engineering degree.
+COACH: That's great! Have you ever had any experiences related to either of those influences that you could draw upon for your essay?
+STUDENT: Yes, actually. I've been involved with a local synagogue for several years and I've helped with various engineering projects in my community.
+COACH: Wonderful! Those experiences could be great sources of material for your essay. Can you tell me a bit more about what you've done with the synagogue and the engineering projects?
+STUDENT: Sure. With the synagogue, I've helped organize events and services and I've volunteered for various charitable causes. As for the engineering projects, I've worked with a team to design and build a bridge over a local stream.
+COACH: That sounds like a great experience to write about. What did you learn from these activities?
+STUDENT: From the synagogue, I learned the importance of community and working together to help others. With the engineering project, I gained a better understanding of the engineering process and how to work as part of a team.
+COACH: Those are both valuable lessons that could be reflected in your essay. What else do you think you could write about?
+STUDENT: I'm also considering writing about my ambition to pursue a law degree after I finish my engineering degree at NCSU. I feel like this could show the admissions committee my long-term goals and dedication to my education.
+COACH: That's a great idea! Writing about your ambition to pursue a law degree could demonstrate your commitment to your education and your passion for learning. Do you have any other ideas for your essay?
+STUDENT: Not yet, but I'm sure I'll come up with something.
+COACH: That's great! If you'd like, we can brainstorm together and come up with some ideas.

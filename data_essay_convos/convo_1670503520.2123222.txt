@@ -1,0 +1,3 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: what makes an essay engaging?
+COACH: An engaging essay is one that captures the reader's attention and makes them want to keep reading. To do this, you need to have a strong introduction and use vivid language throughout. You should also make sure to use interesting anecdotes or stories to illustrate your points and draw the reader in. Finally, make sure to end your essay with a powerful conclusion that ties everything together.

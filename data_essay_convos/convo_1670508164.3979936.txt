@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do i make my essay more engaging?
+COACH: Well, let's start by talking about what kind of essay you're writing. What kind of essay is it?
+STUDENT: It's a thesis essay.
+COACH: Okay, great. A thesis essay should have a clear argument that you are trying to make. What is the main point of your essay?
+STUDENT: My essay is about the importance of education for students and how it can help them achieve their goals.
+COACH: That's a great topic! Now, let's talk about how to make your essay more engaging. One way to do this is to use specific examples to illustrate your points. For example, you could talk about a student who was able to achieve their goals because of their education. You could also provide statistics or research to back up your points. Additionally, you could use vivid language and storytelling to draw in your reader. Finally, make sure to end your essay with a powerful conclusion that summarizes your main point.

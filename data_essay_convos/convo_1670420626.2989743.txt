@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I am struggling to write an essay about my skills and achievements.
+COACH: That sounds like a great topic! Can you tell me a bit more about what you would like to include in your essay?
+STUDENT: Sure. I'd like to talk about my experience living in China for the past year, my work experience, and my involvement with LGBT advocacy.
+COACH: That's a great start! What kind of structure do you have in mind for your essay?
+STUDENT: I'm not sure. I feel like I'm a pretty boring person and I'm not sure how to make my essay interesting.
+COACH: That's totally understandable! There are lots of ways to make your essay more engaging. One way is to focus on the details. Instead of just saying that you lived in China, you could talk about what you did there, the people you met, the things you learned, etc. You could also include stories or anecdotes to bring your essay to life. What do you think?

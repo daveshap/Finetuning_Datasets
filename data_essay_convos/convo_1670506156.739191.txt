@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how does college admission work?
+COACH: That's a great question. The college admissions process is different for each school, but typically it involves submitting an application with your academic records, test scores, and essays. The admissions committee then reviews the applications and makes a decision based on a variety of factors.
+STUDENT: What kind of essay do I need to write?
+COACH: For college admissions, you'll typically need to write a persuasive essay. This type of essay requires you to make an argument and provide evidence to support your claims. You'll want to focus on a specific topic and present a clear thesis statement that outlines your argument. 
+STUDENT: How do I start writing my essay?
+COACH: The best place to start is by brainstorming ideas. Think about what you want to argue and why it matters. Then, come up with a few points that you can use to support your thesis. Once you have a general idea of what you want to write about, you can begin drafting your essay. Start by writing an introduction that introduces your topic and presents your thesis statement. Next, move onto the body of your essay, where you'll present your arguments and evidence to support them. Finally, wrap up your essay with a conclusion that summarizes your main points and reiterates your thesis.

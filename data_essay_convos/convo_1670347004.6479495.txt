@@ -1,0 +1,12 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: Hi, I'm trying to write an essay about why college matters, but I'm not sure how to approach it.
+COACH: That's a great topic! Before we get into the specifics of your essay, can you tell me a bit more about yourself? What are your interests, hobbies, and academic goals?
+STUDENT: Sure. I'm a senior in high school and I'm interested in science and medicine. I'm planning to go to med school after college and I want to make sure I'm doing everything I can to make that happen.
+COACH: That's great! So when you say why college matters, do you mean why it's important for you to go to college or why it's important in general?
+STUDENT: Both, I guess. I want to make sure I'm making the right decision by going to college and I also want to explain to others why college is important.
+COACH: Got it. To start, let's focus on why college is important for you. What do you hope to gain from going to college?
+STUDENT: Well, I'm hoping to gain knowledge and experience in my field. I want to learn more about science and medicine and develop the skills I need to be a successful doctor. I'm also hoping to gain a better understanding of different cultures, especially Islam, since I come from a Muslim family.
+COACH: That's great! Now, one of the challenges of college is financing it. Can you tell me a bit more about how you plan to finance your college education?
+STUDENT: I'm planning to apply for scholarships and grants, as well as take out student loans. I'm also looking into working part-time to help cover some of the costs.
+COACH: That's a great plan! It sounds like you have a solid idea of how to finance college. Now, let's talk about why college is important in general. What are some of the benefits that college provides?
+STUDENT: College provides students with the opportunity to learn new skills, explore different fields of study, and gain valuable experience. It also helps to prepare students for the real world by teaching them how to think critically and problem solve. College is also a great way to meet new people and make connections that can help you in the future.

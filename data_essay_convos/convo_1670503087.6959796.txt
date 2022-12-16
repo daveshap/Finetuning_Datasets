@@ -1,0 +1,7 @@
+COACH: Hello, how can I help you with your essay?
+STUDENT: how do I apply to college?
+COACH: Applying to college can be a complex process, but the first step is to research the colleges you’re interested in and make sure they meet your academic and personal needs. You should also make sure to understand the application requirements for each school, such as deadlines, essays, and transcripts. Once you have completed your research and chosen the schools you want to apply to, you can begin the actual application process.
+STUDENT: What should I consider when choosing which colleges to apply to?
+COACH: When choosing colleges to apply to, you should consider the size of the school, the location, the cost, and the available majors and minors. Additionally, you should look at the student population, campus life, and any extracurricular activities that interest you. Finally, you should make sure the college has the resources and support services that you need to succeed. 
+STUDENT: What should I include in my college admissions essay?
+COACH: Your college admissions essay should be an honest reflection of who you are as a person. It should include details about your background, interests, and experiences that make you unique. You should also be sure to include why you are interested in the college you are applying to and what makes you a good fit for their program. Additionally, you should explain why you think you would be a valuable addition to their student body.
